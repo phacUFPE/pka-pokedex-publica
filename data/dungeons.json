@@ -1,0 +1,174 @@
+{
+  "dungeons": [
+    {
+      "name": "The Bone Graveyard",
+      "url": "https://imgur.com/a/bxWbOIL",
+      "hunts": [
+        "Cubone",
+        "Rhydon",
+        "Marowak"
+      ]
+    },
+    {
+      "name": "The Steel Forest",
+      "url": "https://imgur.com/a/DNwqsCH",
+      "hunts": [
+        "Pineco",
+        "Forretress",
+        "Scizor"
+      ]
+    },
+    {
+      "name": "The Toxic Swamp",
+      "url": "https://imgur.com/a/aKs3fNp",
+      "hunts": [
+        "Grimer",
+        "Muk",
+        "Toxicroak"
+      ]
+    },
+    {
+      "name": "The Fairy Garden",
+      "url": "https://imgur.com/a/dw5JWuO",
+      "hunts": [
+        "Flabébé",
+        "Floette",
+        "Florges"
+      ]
+    },
+    {
+      "name": "The Rocky Mountain",
+      "url": "https://imgur.com/a/FYqUGWs",
+      "hunts": [
+        "Larvitar",
+        "Pupitar",
+        "Tyranitar"
+      ]
+    },
+    {
+      "name": "The Fighting Dojo",
+      "url": "https://imgur.com/a/DTSPjVD",
+      "hunts": [
+        "Machop",
+        "Machoke",
+        "Machamp"
+      ]
+    },
+    {
+      "name": "The Power Plant",
+      "url": "https://imgur.com/a/71ylvsZ",
+      "hunts": [
+        "Magnemite",
+        "Magneton",
+        "Skarmory"
+      ]
+    },
+    {
+      "name": "The Sky Nest",
+      "url": "https://imgur.com/a/zr9dusV",
+      "hunts": [
+        "Pidgey",
+        "Pidgeotto",
+        "Pidgeot"
+      ]
+    },
+    {
+      "name": "The Psychic realm",
+      "url": "https://imgur.com/a/rheBd69",
+      "hunts": [
+        "Abra",
+        "Kadabra",
+        "Alakazam"
+      ]
+    },
+    {
+      "name": "The Treasure Vault",
+      "url": "https://imgur.com/a/f3auU8w",
+      "hunts": [
+        "Meowth",
+        "Persian",
+        "Tauros"
+      ]
+    },
+    {
+      "name": "The Electric Plains",
+      "url": "https://imgur.com/a/Mcc2tDO",
+      "hunts": [
+        "Mareep",
+        "Flaaffy",
+        "Ampharos"
+      ]
+    },
+    {
+      "name": "The Flooded Cavern",
+      "url": "https://imgur.com/a/8AOBeci",
+      "hunts": [
+        "Totodile",
+        "Croconaw",
+        "Feraligatr"
+      ]
+    },
+    {
+      "name": "The Big Volcano",
+      "url": "https://imgur.com/a/bZlqknr",
+      "hunts": [
+        "Cyndaquil",
+        "Quilava",
+        "Typhlosion"
+      ]
+    },
+    {
+      "name": "The Dragon's Lair",
+      "url": "https://imgur.com/a/ca4NlMA",
+      "hunts": [
+        "Dratini",
+        "Dragonair",
+        "Dragonite"
+      ]
+    },
+    {
+      "name": "The Frozen Tundra",
+      "url": "https://imgur.com/a/x6Vhx3k",
+      "hunts": [
+        "Swinub",
+        "Piloswine",
+        "Lapras"
+      ]
+    },
+    {
+      "name": "The Verdant Garden",
+      "url": "https://imgur.com/a/WUFWUoC",
+      "hunts": [
+        "Chikorita",
+        "Bayleef",
+        "Meganium"
+      ]
+    },
+    {
+      "name": "The Haunted Tower",
+      "url": "https://imgur.com/a/407kGXI",
+      "hunts": [
+        "Gastly",
+        "Haunter",
+        "Gengar"
+      ]
+    },
+    {
+      "name": "The Dark Abyss",
+      "url": "https://imgur.com/a/Nv70mug",
+      "hunts": [
+        "Deino",
+        "Zweilous",
+        "Hydreigon"
+      ]
+    }
+  ],
+  "dungeonsDisabled": [
+    "Spinarak",
+    "Zubat",
+    "Steelix",
+    "Druddigon",
+    "Pinsir",
+    "Golem"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "porygon": [
+    {
+      "title": "Onde",
+      "text": "Último andar do CP de New Bark. Fale com o Dr. Vektor, e depois interaja com o computador ao lado dele. Apenas um jogador pode entrar na dungeon por vez."
+    },
+    {
+      "title": "Parte 1",
+      "text": "No dungeon, existem 3 computadores coloridos (Vermelho, Azul e Verde) espalhados aleatoriamente. Pra passar da primeira parte, precisa interagir com os 3 computadores em uma ordem específica. Se interagir fora da ordem, deve ir para o primeiro computador novamente"
+    },
+    {
+      "title": "Parte 2",
+      "text": "Após interagir com os 3 computadores e liberar o portal na parte norte/direita do dungeon, interaja com o botão no meio da sala para iniciar a luta contra o Porygon Boss."
+    },
+    {
+      "title": "Porygon Boss",
+      "text": "- É altamente recomendado usar um pokemon lutador (Shiny Machamp ou Shiny Hitmontop).\n- Não é possível usar revive nem puxar o pokemon de volta durante a batalha.\n- Healing spots aparecem pela sala no decorrer da batalha. Sempre vá atrás deles para recuperar hp.\n- No decorrer da batalha 3 minion porygons vão spawnar na sala. Eles healam o boss quando estão perto dele.\n- SEMPRE deixe um spell AOE forte preparado para matar os minions o mais rápido possível."
+    }
+  ]
+}

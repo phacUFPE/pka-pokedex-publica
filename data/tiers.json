@@ -1,0 +1,4429 @@
+{
+  "tiers": [
+    {
+      "name": "Bulbasaur",
+      "tier": "T6",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Bulbasaur",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Ivysaur",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Ivysaur",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Venusaur",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Venusaur",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Charmander",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Charmander",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Charmeleon",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Charmeleon",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Charizard",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Charizard",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Squirtle",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Squirtle",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Wartortle",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Wartortle",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Blastoise",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Blastoise",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Caterpie",
+      "tier": "T7",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Caterpie",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Metapod",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Metapod",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Butterfree",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Butterfree",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Weedle",
+      "tier": "T7",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Weedle",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Kakuna",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Kakuna",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Beedrill",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Beedrill",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Pidgey",
+      "tier": "T7",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Pidgey",
+      "tier": "T6",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Pidgeotto",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Pidgeotto",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Pidgeot",
+      "tier": "T3",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Pidgeot",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Rattata",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Rattata",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Raticate",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Raticate",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Spearow",
+      "tier": "T7",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Spearow",
+      "tier": "T6",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Fearow",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Fearow",
+      "tier": "T3",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Ekans",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Ekans",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Arbok",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Arbok",
+      "tier": "T3",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Pikachu",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Pikachu",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Raichu",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Raichu",
+      "tier": "T1",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Sandshrew",
+      "tier": "T6",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Sandshrew",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Sandslash",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Sandslash",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Nidoran female",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Nidoran female",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Nidorina",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Nidorina",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Nidoqueen",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Nidoqueen",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Nidoran Male",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Nidoran Male",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Nidorino",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Nidorino",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Nidoking",
+      "tier": "T3",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Nidoking",
+      "tier": "T1",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Clefairy",
+      "tier": "T6",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Clefairy",
+      "tier": "T5",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Clefable",
+      "tier": "T4",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Clefable",
+      "tier": "T3",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Mega Clefable",
+      "tier": "T1",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Vulpix",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Vulpix",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Ninetales",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Ninetales",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Jigglypuff",
+      "tier": "T6",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Jigglypuff",
+      "tier": "T5",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Wigglytuff",
+      "tier": "T4",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Wigglytuff",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Zubat",
+      "tier": "T7",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Zubat",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Golbat",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Golbat",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Oddish",
+      "tier": "T7",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Oddish",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Gloom",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Gloom",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Vileplume",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Vileplume",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Paras",
+      "tier": "T7",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Paras",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Parasect",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Parasect",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Venonat",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Venonat",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Venomoth",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Venomoth",
+      "tier": "T2",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Diglett",
+      "tier": "T6",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Diglett",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Dugtrio",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Dugtrio",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Meowth",
+      "tier": "T6",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Meowth",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Persian",
+      "tier": "T4",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Persian",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Psyduck",
+      "tier": "T6",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Psyduck",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Golduck",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Golduck",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Mankey",
+      "tier": "T6",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Mankey",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Primeape",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Primeape",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Growlithe",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Growlithe",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Arcanine",
+      "tier": "T2",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Arcanine",
+      "tier": "Super Rare",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Poliwag",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Poliwag",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Poliwhirl",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Poliwhirl",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Poliwrath",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Poliwrath",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Abra",
+      "tier": "T6",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Abra",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Kadabra",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Kadabra",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Alakazam",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Alakazam",
+      "tier": "Legendary",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Machop",
+      "tier": "T6",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Machop",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Machoke",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Machoke",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Machamp",
+      "tier": "T2",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Machamp",
+      "tier": "Super Rare",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Bellsprout",
+      "tier": "T7",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Bellsprout",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Weepinbell",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Weepinbell",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Victreebel",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Victreebel",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Tentacool",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Tentacool",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Tentacruel",
+      "tier": "T3",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Tentacruel",
+      "tier": "T1",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Geodude",
+      "tier": "T6",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Geodude",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Graveler",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Graveler",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Golem",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Golem",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Ponyta",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Ponyta",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Rapidash",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Rapidash",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Slowpoke",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Slowpoke",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Slowbro",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Slowbro",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Magnemite",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Magnemite",
+      "tier": "T5",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Magneton",
+      "tier": "T3",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Magneton",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Farfetch'd",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Farfetch'd",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Doduo",
+      "tier": "T6",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Doduo",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Dodrio",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Dodrio",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Seel",
+      "tier": "T6",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Seel",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Dewgong",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Dewgong",
+      "tier": "T3",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Grimer",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Grimer",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Muk",
+      "tier": "T3",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Muk",
+      "tier": "T1",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shellder",
+      "tier": "T6",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Shellder",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Cloyster",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Cloyster",
+      "tier": "T3",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Gastly",
+      "tier": "T6",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Gastly",
+      "tier": "T5",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Haunter",
+      "tier": "T5",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Haunter",
+      "tier": "T4",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Gengar",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Gengar",
+      "tier": "Legendary",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Onix",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Onix",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Drowzee",
+      "tier": "T6",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Drowzee",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Hypno",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Hypno",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Krabby",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Krabby",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Kingler",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Kingler",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Voltorb",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Voltorb",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Electrode",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Electrode",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Exeggcute",
+      "tier": "T6",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Exeggcute",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Exeggutor",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Exeggutor",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Cubone",
+      "tier": "T6",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Cubone",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Marowak",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Marowak",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Hitmonlee",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Hitmonlee",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Hitmonchan",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Hitmonchan",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Lickitung",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Lickitung",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Koffing",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Koffing",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Weezing",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Weezing",
+      "tier": "T3",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Rhyhorn",
+      "tier": "T6",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Rhyhorn",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Rhydon",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Rhydon",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Chansey",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Chansey",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Tangela",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Tangela",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Kangaskhan",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Kangaskhan",
+      "tier": "Super Rare",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Horsea",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Horsea",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Seadra",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Seadra",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Goldeen",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Goldeen",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Seaking",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Seaking",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Staryu",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Staryu",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Starmie",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Starmie",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Mr. Mime",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Mr. Mime",
+      "tier": "Super Rare",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Scyther",
+      "tier": "T3",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Scyther",
+      "tier": "Super Rare",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Jynx",
+      "tier": "T2",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Jynx",
+      "tier": "T1",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Electabuzz",
+      "tier": "T2",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Electabuzz",
+      "tier": "Legendary",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Magmar",
+      "tier": "T2",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Magmar",
+      "tier": "Legendary",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Pinsir",
+      "tier": "T3",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Pinsir",
+      "tier": "Super Rare",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Tauros",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Tauros",
+      "tier": "Super Rare",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Magikarp",
+      "tier": "T7",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Magikarp",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Gyarados",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Gyarados",
+      "tier": "Legendary",
+      "moveset": "Water"
+    },
+    {
+      "name": "Lapras",
+      "tier": "T2",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Lapras",
+      "tier": "T1",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Ditto",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Ditto",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Eevee",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Eevee",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Vaporeon",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Vaporeon",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Jolteon",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Jolteon",
+      "tier": "T1",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Flareon",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Flareon",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Porygon",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Porygon",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Omanyte",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Omanyte",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Omastar",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Omastar",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Kabuto",
+      "tier": "T6",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Kabuto",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Kabutops",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Kabutops",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Aerodactyl",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Aerodactyl",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Snorlax",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Snorlax",
+      "tier": "Legendary",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Articuno",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Articuno",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Zapdos",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Zapdos",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Moltres",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Moltres",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Dratini",
+      "tier": "T5",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Dratini",
+      "tier": "T4",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Dragonair",
+      "tier": "T4",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Dragonair",
+      "tier": "Legendary",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Dragonite",
+      "tier": "T2",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Dragonite",
+      "tier": "Mythic",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Mewtwo",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Mewtwo",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Mew",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Mew",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Chikorita",
+      "tier": "T6",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Chikorita",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Bayleef",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Bayleef",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Meganium",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Meganium",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Cyndaquil",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Cyndaquil",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Quilava",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Quilava",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Typhlosion",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Typhlosion",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Totodile",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Totodile",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Croconaw",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Croconaw",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Feraligatr",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Feraligatr",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Sentret",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Sentret",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Furret",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Furret",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Hoothoot",
+      "tier": "T7",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Hoothoot",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Noctowl",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Noctowl",
+      "tier": "T2",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Ledyba",
+      "tier": "T6",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Ledyba",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Ledian",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Ledian",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Spinarak",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Spinarak",
+      "tier": "T5",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Ariados",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Ariados",
+      "tier": "T3",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Crobat",
+      "tier": "T3",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Crobat",
+      "tier": "T2",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Chinchou",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Chinchou",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Lanturn",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Lanturn",
+      "tier": "T2",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Pichu",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Pichu",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Cleffa",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Cleffa",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Igglybuff",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Igglybuff",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Togepi",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Togepi",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Togetic",
+      "tier": "T3",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Togetic",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Natu",
+      "tier": "T6",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Natu",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Xatu",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Xatu",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Mareep",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Mareep",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Flaaffy",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Flaaffy",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Ampharos",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Ampharos",
+      "tier": "T1",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Bellossom",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Bellossom",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Marill",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Marill",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Azumarill",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Azumarill",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Sudowoodo",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Sudowoodo",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Politoed",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Politoed",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Hoppip",
+      "tier": "T6",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Hoppip",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Skiploom",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Skiploom",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Jumpluff",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Jumpluff",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Aipom",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Aipom",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Sunkern",
+      "tier": "T7",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Sunkern",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Sunflora",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Sunflora",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Yanma",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Yanma",
+      "tier": "T3",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Wooper",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Wooper",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Quagsire",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Quagsire",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Espeon",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Espeon",
+      "tier": "T1",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Umbreon",
+      "tier": "T4",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Umbreon",
+      "tier": "T1",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Murkrow",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Murkrow",
+      "tier": "T3",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Slowking",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Slowking",
+      "tier": "T1",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Misdreavus",
+      "tier": "T3",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Misdreavus",
+      "tier": "Super Rare",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Unown",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Unown",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Wobbuffet",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Wobbuffet",
+      "tier": "Super Rare",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Girafarig",
+      "tier": "T3",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Girafarig",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Pineco",
+      "tier": "T7",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Pineco",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Forretress",
+      "tier": "T3",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Forretress",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Dunsparce",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Dunsparce",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Gligar",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Gligar",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Steelix",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Steelix",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Snubbull",
+      "tier": "T6",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Snubbull",
+      "tier": "T5",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Granbull",
+      "tier": "T3",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Granbull",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Qwilfish",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Qwilfish",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Scizor",
+      "tier": "T2",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Scizor",
+      "tier": "Legendary",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shuckle",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Shuckle",
+      "tier": "T4",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Heracross",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Heracross",
+      "tier": "T2",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Sneasel",
+      "tier": "T4",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Sneasel",
+      "tier": "T3",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Teddiursa",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Teddiursa",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Ursaring",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Ursaring",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Slugma",
+      "tier": "T6",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Slugma",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Magcargo",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Magcargo",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Swinub",
+      "tier": "T6",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Swinub",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Piloswine",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Piloswine",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Corsola",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Corsola",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Remoraid",
+      "tier": "T6",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Remoraid",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Octillery",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Octillery",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Delibird",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Delibird",
+      "tier": "T3",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Mantine",
+      "tier": "T3",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Mantine",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Skarmory",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Skarmory",
+      "tier": "Super Rare",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Houndour",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Houndour",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Houndoom",
+      "tier": "T2",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Houndoom",
+      "tier": "Super Rare",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Mega Houndoom",
+      "tier": "Legendary",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Kingdra",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Kingdra",
+      "tier": "Super Rare",
+      "moveset": "Water"
+    },
+    {
+      "name": "Phanpy",
+      "tier": "T6",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Phanpy",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Donphan",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Donphan",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Porygon2",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Porygon2",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Stantler",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Stantler",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Smeargle",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Smeargle",
+      "tier": "T1",
+      "moveset": "?"
+    },
+    {
+      "name": "Tyrogue",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Tyrogue",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Hitmontop",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Hitmontop",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Smoochum",
+      "tier": "T6",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Smoochum",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Elekid",
+      "tier": "T6",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Elekid",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Magby",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Magby",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Miltank",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Miltank",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Blissey",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Blissey",
+      "tier": "T1",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Raikou",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Raikou",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Entei",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Entei",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Suicune",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Suicune",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Larvitar",
+      "tier": "T6",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Larvitar",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Pupitar",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Pupitar",
+      "tier": "Super Rare",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Tyranitar",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Tyranitar",
+      "tier": "Mythic",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Lugia",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Lugia",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Ho-oh",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Ho-oh",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Celebi",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Celebi",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Treecko",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Treecko",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Grovyle",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Grovyle",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Sceptile",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Sceptile",
+      "tier": "Ultra Rare",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Torchic",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Torchic",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Combusken",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Combusken",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Blaziken",
+      "tier": "T2",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Blaziken",
+      "tier": "Ultra Rare",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Mudkip",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Mudkip",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Marshtomp",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Marshtomp",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Swampert",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Swampert",
+      "tier": "Ultra Rare",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Poochyena",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Poochyena",
+      "tier": "T4",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Mightyena",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Mightyena",
+      "tier": "Ultra Rare",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Zigzagoon",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Zigzagoon",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Linoone",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Linoone",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Wurmple",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Wurmple",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Silcoon",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Silcoon",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Beautifly",
+      "tier": "T3",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Beautifly",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Cascoon",
+      "tier": "T6",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Shiny Cascoon",
+      "tier": "T5",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Dustox",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Dustox",
+      "tier": "T1",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Lotad",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Lotad",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Lombre",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Lombre",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Ludicolo",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Ludicolo",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Seedot",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Seedot",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Nuzleaf",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Nuzleaf",
+      "tier": "T3",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiftry",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Shiftry",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Taillow",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Taillow",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Swellow",
+      "tier": "T2",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Swellow",
+      "tier": "Super Rare",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Wingull",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Wingull",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Pelipper",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Pelipper",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Ralts",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Ralts",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Kirlia",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Kirlia",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Gardevoir",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Gardevoir",
+      "tier": "Ultra Rare",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Surskit",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Surskit",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Masquerain",
+      "tier": "T3",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Masquerain",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shroomish",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Shroomish",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Breloom",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Breloom",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Slakoth",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Slakoth",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Vigoroth",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Vigoroth",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Slaking",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Slaking",
+      "tier": "Mythic",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Nincada",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Nincada",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Ninjask",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Ninjask",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shedinja",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Shedinja",
+      "tier": "T1",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Whismur",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Whismur",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Loudred",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Loudred",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Exploud",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Exploud",
+      "tier": "Ultra Rare",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Makuhita",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Makuhita",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Hariyama",
+      "tier": "T2",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Hariyama",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Azurill",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Azurill",
+      "tier": "T3",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Nosepass",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Nosepass",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Skitty",
+      "tier": "T5",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Skitty",
+      "tier": "T4",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Delcatty",
+      "tier": "T3",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Delcatty",
+      "tier": "T1",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Sableye",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Sableye",
+      "tier": "T1",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Mawile",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Mawile",
+      "tier": "T1",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Aron",
+      "tier": "T5",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Aron",
+      "tier": "T4",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Lairon",
+      "tier": "T4",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Lairon",
+      "tier": "T3",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Aggron",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Aggron",
+      "tier": "Super Rare",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Meditite",
+      "tier": "T5",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Meditite",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Medicham",
+      "tier": "T2",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Medicham",
+      "tier": "T1",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Electrike",
+      "tier": "T5",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Electrike",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Manectric",
+      "tier": "T2",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Manectric",
+      "tier": "Ultra Rare",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Plusle",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Plusle",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Minun",
+      "tier": "T4",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Minun",
+      "tier": "T3",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Volbeat",
+      "tier": "T3",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Volbeat",
+      "tier": "T2",
+      "moveset": "?"
+    },
+    {
+      "name": "Illumise",
+      "tier": "T3",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Illumise",
+      "tier": "T2",
+      "moveset": "?"
+    },
+    {
+      "name": "Roselia",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Roselia",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Gulpin",
+      "tier": "T4",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Gulpin",
+      "tier": "T3",
+      "moveset": "?"
+    },
+    {
+      "name": "Swalot",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Swalot",
+      "tier": "Ultra Rare",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Carvanha",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Carvanha",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Sharpedo",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Sharpedo",
+      "tier": "Super Rare",
+      "moveset": "Water"
+    },
+    {
+      "name": "Wailmer",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Wailmer",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Wailord",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Wailord",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Numel",
+      "tier": "T5",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Numel",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Camerupt",
+      "tier": "T2",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Camerupt",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Torkoal",
+      "tier": "T2",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Torkoal",
+      "tier": "Ultra Rare",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Spoink",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Spoink",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Grumpig",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Grumpig",
+      "tier": "T1",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Spinda",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Spinda",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Trapinch",
+      "tier": "T5",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Trapinch",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Vibrava",
+      "tier": "T4",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Vibrava",
+      "tier": "T3",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Flygon",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Flygon",
+      "tier": "Legendary",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Cacnea",
+      "tier": "T5",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Cacnea",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Cacturne",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Cacturne",
+      "tier": "T1",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Swablu",
+      "tier": "T5",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Swablu",
+      "tier": "T4",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Altaria",
+      "tier": "T2",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Altaria",
+      "tier": "Super Rare",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Zangoose",
+      "tier": "T2",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Shiny Zangoose",
+      "tier": "T1",
+      "moveset": "Normal"
+    },
+    {
+      "name": "Seviper",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Seviper",
+      "tier": "Super Rare",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Lunatone",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Lunatone",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Solrock",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Solrock",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Barboach",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Barboach",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Whiscash",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Whiscash",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Corphish",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Corphish",
+      "tier": "T4",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Crawdaunt",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Crawdaunt",
+      "tier": "T1",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Baltoy",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Baltoy",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Claydol",
+      "tier": "T2",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Claydol",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Lileep",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Lileep",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Cradily",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Cradily",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Anorith",
+      "tier": "T5",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Anorith",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Armaldo",
+      "tier": "T2",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Armaldo",
+      "tier": "Super Rare",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Feebas",
+      "tier": "T5",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Feebas",
+      "tier": "T4",
+      "moveset": "Water"
+    },
+    {
+      "name": "Milotic",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Milotic",
+      "tier": "Ultra Rare",
+      "moveset": "Water"
+    },
+    {
+      "name": "Castform",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Castform",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Kecleon",
+      "tier": "T3",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Kecleon",
+      "tier": "T1",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shuppet",
+      "tier": "T5",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Shuppet",
+      "tier": "T4",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Banette",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Banette",
+      "tier": "T1",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Duskull",
+      "tier": "T5",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Duskull",
+      "tier": "T4",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Dusclops",
+      "tier": "T2",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Dusclops",
+      "tier": "T1",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Tropius",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Tropius",
+      "tier": "Ultra Rare",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Chimecho",
+      "tier": "T3",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Chimecho",
+      "tier": "T1",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Absol",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Absol",
+      "tier": "Legendary",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Wynaut",
+      "tier": "T5",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Shiny Wynaut",
+      "tier": "T4",
+      "moveset": "Psychic"
+    },
+    {
+      "name": "Snorunt",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Snorunt",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Glalie",
+      "tier": "T2",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Glalie",
+      "tier": "Ultra Rare",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Spheal",
+      "tier": "T5",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Spheal",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Sealeo",
+      "tier": "T4",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Sealeo",
+      "tier": "T3",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Walrein",
+      "tier": "T2",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Walrein",
+      "tier": "Super Rare",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Clamperl",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Clamperl",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Huntail",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Huntail",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Gorebyss",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Gorebyss",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Relicanth",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Relicanth",
+      "tier": "T1",
+      "moveset": "Water"
+    },
+    {
+      "name": "Luvdisc",
+      "tier": "T3",
+      "moveset": "Water"
+    },
+    {
+      "name": "Shiny Luvdisc",
+      "tier": "T2",
+      "moveset": "Water"
+    },
+    {
+      "name": "Bagon",
+      "tier": "T5",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Bagon",
+      "tier": "T4",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shelgon",
+      "tier": "T4",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Shelgon",
+      "tier": "T3",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Salamence",
+      "tier": "T2",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Salamence",
+      "tier": "Ultra Rare",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Beldum",
+      "tier": "T5",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Beldum",
+      "tier": "T4",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Metang",
+      "tier": "T4",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Metang",
+      "tier": "T1",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Metagross",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Metagross",
+      "tier": "Ultra Rare",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Regirock",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Regirock",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Regice",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Regice",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Registeel",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Registeel",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Latios",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Latios",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Latias",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Latias",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Kyogre",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Kyogre",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Groudon",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Groudon",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Rayquaza",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Rayquaza",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Jirachi",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Jirachi",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Deoxys",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Deoxys",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Turtwig",
+      "tier": "T6",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Turtwig",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Grotle",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Grotle",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Torterra",
+      "tier": "T1",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Shiny Torterra",
+      "tier": "Super Rare",
+      "moveset": "Ground"
+    },
+    {
+      "name": "Chimchar",
+      "tier": "T6",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Chimchar",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Monferno",
+      "tier": "T4",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Monferno",
+      "tier": "T3",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Infernape",
+      "tier": "T1",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shiny Infernape",
+      "tier": "Super Rare",
+      "moveset": "Fire"
+    },
+    {
+      "name": "Shinx",
+      "tier": "?",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Shinx",
+      "tier": "?",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Luxio",
+      "tier": "?",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Luxio",
+      "tier": "?",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Luxray",
+      "tier": "T1",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Luxray",
+      "tier": "Super Rare",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Cranidos",
+      "tier": "T4",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Cranidos",
+      "tier": "T3",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Rampardos",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Rampardos",
+      "tier": "Ultra Rare",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Pachirisu",
+      "tier": "T2",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Shiny Pachirisu",
+      "tier": "Super Rare",
+      "moveset": "Electric"
+    },
+    {
+      "name": "Lopuny",
+      "tier": "?",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Lopuny",
+      "tier": "?",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Riolu",
+      "tier": "T4",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Shiny Riolu",
+      "tier": "T3",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Lucario",
+      "tier": "T2",
+      "moveset": "Steel"
+    },
+    {
+      "name": "Shiny Lucario",
+      "tier": "Legendary",
+      "moveset": "Fighting"
+    },
+    {
+      "name": "Croagunk",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Shiny Croagunk",
+      "tier": "?",
+      "moveset": "?"
+    },
+    {
+      "name": "Toxicroak",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Toxicroak",
+      "tier": "Super Rare",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Abomasnow",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Mega Abomasnow",
+      "tier": "Legendary",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Rhyperior",
+      "tier": "T1",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Shiny Rhyperior",
+      "tier": "Legendary",
+      "moveset": "Rock"
+    },
+    {
+      "name": "Tangrowth",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Tangrowth",
+      "tier": "Super Rare",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Leafeon",
+      "tier": "T2",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Leafeon",
+      "tier": "Legendary",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Glaceon",
+      "tier": "T2",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Shiny Glaceon",
+      "tier": "Legendary",
+      "moveset": "Ice"
+    },
+    {
+      "name": "Gliscor",
+      "tier": "T1",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Shiny Gliscor",
+      "tier": "Super Rare",
+      "moveset": "Flying"
+    },
+    {
+      "name": "Dusknoir",
+      "tier": "T1",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Shiny Dusknoir",
+      "tier": "Super Rare",
+      "moveset": "Ghost"
+    },
+    {
+      "name": "Audino",
+      "tier": "T2",
+      "moveset": null
+    },
+    {
+      "name": "Scolipede",
+      "tier": "T2",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Mega Scolipede",
+      "tier": "T2",
+      "moveset": "Bug"
+    },
+    {
+      "name": "Trubbish",
+      "tier": "T6",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Trubbish",
+      "tier": "T4",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Garbodor",
+      "tier": "T1",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Shiny Garbodor",
+      "tier": "Legendary",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Druddigon",
+      "tier": "T2",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Shiny Druddigon",
+      "tier": "T1",
+      "moveset": "Dragon"
+    },
+    {
+      "name": "Deino",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Deino",
+      "tier": "T5",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Zweilous",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Zweilous",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Hydreigon",
+      "tier": "T2",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Shiny Hydreigon",
+      "tier": "Super Rare",
+      "moveset": "Dark"
+    },
+    {
+      "name": "Flabébé",
+      "tier": "T6",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Flabébé",
+      "tier": "T5",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Floette",
+      "tier": "T5",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Floette",
+      "tier": "T4",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Florges",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Florges",
+      "tier": "Super Rare",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Skiddo",
+      "tier": "T4",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Skiddo",
+      "tier": "T3",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Gogoat",
+      "tier": "T1",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Shiny Gogoat",
+      "tier": "Super Rare",
+      "moveset": "Grass"
+    },
+    {
+      "name": "Dragalge",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Mega Dragalge",
+      "tier": "T2",
+      "moveset": "Poison"
+    },
+    {
+      "name": "Sylveon",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Sylveon",
+      "tier": "Legendary",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Mimikyu",
+      "tier": "T2",
+      "moveset": "Fairy"
+    },
+    {
+      "name": "Shiny Mimikyu",
+      "tier": "Super Rare",
+      "moveset": "Fairy"
+    }
+  ],
+  "tierHighlights": {
+    "Ultra Rare": [
+      "Shiny Blaziken",
+      "Shiny Swampert",
+      "Shiny Mightyena",
+      "Shiny Gardevoir",
+      "Shiny Exploud",
+      "Shiny Manectric",
+      "Shiny Swalot",
+      "Shiny Torkoal",
+      "Shiny Milotic",
+      "Shiny Tropius",
+      "Shiny Glalie",
+      "Shiny Salamence",
+      "Shiny Metagross",
+      "Shiny Rampardos"
+    ],
+    "T1": [
+      "Shiny Charizard",
+      "Shiny Blastoise",
+      "Shiny Pidgeot",
+      "Shiny Raichu",
+      "Shiny Nidoqueen",
+      "Shiny Nidoking",
+      "Mega Clefable",
+      "Shiny Ninetales",
+      "Shiny Poliwrath",
+      "Shiny Tentacruel",
+      "Shiny Golem",
+      "Shiny Rapidash",
+      "Shiny Farfetch'd",
+      "Shiny Dodrio",
+      "Shiny Muk",
+      "Shiny Marowak",
+      "Shiny Hitmonlee",
+      "Shiny Hitmonchan",
+      "Shiny Jynx",
+      "Shiny Lapras",
+      "Shiny Vaporeon",
+      "Shiny Jolteon",
+      "Shiny Flareon",
+      "Shiny Omastar",
+      "Shiny Kabutops",
+      "Aerodactyl",
+      "Shiny Meganium",
+      "Shiny Typhlosion",
+      "Shiny Feraligatr",
+      "Shiny Ampharos",
+      "Shiny Sudowoodo",
+      "Shiny Politoed",
+      "Shiny Espeon",
+      "Shiny Umbreon",
+      "Shiny Slowking",
+      "Shiny Steelix",
+      "Shiny Ursaring",
+      "Shiny Magcargo",
+      "Shiny Mantine",
+      "Shiny Smeargle",
+      "Shiny Hitmontop",
+      "Shiny Miltank",
+      "Shiny Blissey",
+      "Shiny Beautifly",
+      "Shiny Dustox",
+      "Shiny Ludicolo",
+      "Shiny Shiftry",
+      "Shiny Pelipper",
+      "Shiny Masquerain",
+      "Shiny Breloom",
+      "Shiny Ninjask",
+      "Shiny Shedinja",
+      "Shiny Hariyama",
+      "Shiny Delcatty",
+      "Shiny Sableye",
+      "Shiny Mawile",
+      "Shiny Medicham",
+      "Shiny Roselia",
+      "Shiny Wailord",
+      "Shiny Camerupt",
+      "Shiny Grumpig",
+      "Shiny Cacturne",
+      "Shiny Zangoose",
+      "Shiny Lunatone",
+      "Shiny Solrock",
+      "Shiny Whiscash",
+      "Shiny Crawdaunt",
+      "Shiny Claydol",
+      "Shiny Cradily",
+      "Shiny Kecleon",
+      "Shiny Banette",
+      "Shiny Dusclops",
+      "Shiny Chimecho",
+      "Shiny Huntail",
+      "Shiny Gorebyss",
+      "Shiny Relicanth",
+      "Shiny Metang",
+      "Torterra",
+      "Infernape",
+      "Luxray",
+      "Rampardos",
+      "Rhyperior",
+      "Tangrowth",
+      "Gliscor",
+      "Dusknoir",
+      "Garbodor",
+      "Shiny Druddigon",
+      "Gogoat"
+    ],
+    "Super Rare": [
+      "Shiny Altaria",
+      "Shiny Arcanine",
+      "Shiny Armaldo",
+      "Shiny Dusknoir",
+      "Shiny Florges",
+      "Shiny Gliscor",
+      "Shiny Gogoat",
+      "Shiny Houndoom",
+      "Shiny Hydreigon",
+      "Shiny Infernape",
+      "Shiny Kangaskhan",
+      "Shiny Kingdra",
+      "Shiny Luxray",
+      "Shiny Machamp",
+      "Shiny Mimikyu",
+      "Shiny Misdreavus",
+      "Shiny Mr. Mime",
+      "Shiny Pachirisu",
+      "Shiny Pinsir",
+      "Shiny Pupitar",
+      "Shiny Scyther",
+      "Shiny Seviper",
+      "Shiny Sharpedo",
+      "Shiny Skarmory",
+      "Shiny Swellow",
+      "Shiny Tangrowth",
+      "Shiny Tauros",
+      "Shiny Torterra",
+      "Shiny Toxicroak",
+      "Shiny Walrein",
+      "Shiny Wobbuffet"
+    ],
+    "Legendary": [
+      "Shiny Gengar",
+      "Shiny Electabuzz",
+      "Shiny Magmar",
+      "Shiny Gyarados",
+      "Shiny Snorlax",
+      "Shiny Dragonair",
+      "Shiny Scizor",
+      "Mega Houndoom",
+      "Shiny Flygon",
+      "Shiny Absol",
+      "Shiny Lucario",
+      "Mega Abomasnow",
+      "Shiny Rhyperior",
+      "Shiny Leafeon",
+      "Shiny Glaceon",
+      "Shiny Garbodor",
+      "Shiny Sylveon"
+    ]
+  }
+}

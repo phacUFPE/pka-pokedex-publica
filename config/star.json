@@ -1,0 +1,11 @@
+{
+  "maxStar": 5,
+  "starDamagePerLevel": {
+    "T3": 2,
+    "T2": 4,
+    "T1": 6,
+    "Super Rare": 8,
+    "Ultra Rare": 10,
+    "Legendary": 15
+  }
+}

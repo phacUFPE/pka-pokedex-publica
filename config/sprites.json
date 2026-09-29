@@ -1,0 +1,26 @@
+{
+  "sprites": {
+    "baseUrl": "https://img.pokemondb.net/sprites/home",
+    "nameFixes": {
+      "charmelion": "charmeleon",
+      "chicorita": "chikorita",
+      "nidoran female": "nidoran-f",
+      "nidoran male": "nidoran-m",
+      "nidoran fêmea": "nidoran-f",
+      "nidoran macho": "nidoran-m",
+      "mr. mime": "mr-mime",
+      "mime": "mr-mime",
+      "farfetch'd": "farfetchd",
+      "flabébé": "flabebe",
+      "foette": "floette",
+      "folette": "floette",
+      "hydreidon": "hydreigon",
+      "lopuny": "lopunny",
+      "zangooze": "zangoose",
+      "ilumise": "illumise",
+      "salamalence": "salamence",
+      "luvdisk": "luvdisc",
+      "feraligator": "feraligatr"
+    }
+  }
+}

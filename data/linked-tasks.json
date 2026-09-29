@@ -1,0 +1,1096 @@
+{
+  "linked": [
+    {
+      "qty": 30,
+      "name": "Rattata",
+      "type": "Normal",
+      "url": "https://imgur.com/a/ZyszZOZ",
+      "kph": null
+    },
+    {
+      "qty": 30,
+      "name": "Oddish",
+      "type": "Normal",
+      "url": "https://imgur.com/a/2SuUURl",
+      "kph": null
+    },
+    {
+      "qty": 30,
+      "name": "Geodude",
+      "type": "Normal",
+      "url": "https://imgur.com/a/IhJ17iJ",
+      "kph": null
+    },
+    {
+      "qty": 60,
+      "name": "Mankey",
+      "type": "Normal",
+      "url": "https://imgur.com/a/4E7gOtq",
+      "kph": null
+    },
+    {
+      "qty": 60,
+      "name": "Rhyhorn",
+      "type": "Normal",
+      "url": "https://imgur.com/a/cPbYaoO",
+      "kph": null
+    },
+    {
+      "qty": 60,
+      "name": "Gloom",
+      "type": "Normal",
+      "url": "https://imgur.com/a/TaH2l6m",
+      "kph": null
+    },
+    {
+      "qty": 100,
+      "name": "Graveler",
+      "type": "Normal",
+      "url": "https://imgur.com/a/SHzJxH4",
+      "kph": null
+    },
+    {
+      "qty": 100,
+      "name": "Golbat",
+      "type": "Normal",
+      "url": "https://imgur.com/a/uvfPxaO",
+      "kph": null
+    },
+    {
+      "qty": 250,
+      "name": "Tangela",
+      "type": "Normal",
+      "url": "https://imgur.com/a/IZyOqys",
+      "kph": null
+    },
+    {
+      "qty": 250,
+      "name": "Marowak",
+      "type": "Normal",
+      "url": "https://imgur.com/a/VrqZwDG",
+      "kph": 2150
+    },
+    {
+      "qty": 250,
+      "name": "Electrode",
+      "type": "Normal",
+      "url": "https://imgur.com/a/ZNQjOvj",
+      "kph": null
+    },
+    {
+      "qty": 400,
+      "name": "Magneton",
+      "type": "Normal",
+      "url": "https://imgur.com/a/ZNQjOvj",
+      "kph": null
+    },
+    {
+      "qty": 500,
+      "name": "Fearow",
+      "type": "Normal",
+      "url": "https://imgur.com/a/NVXqWOp",
+      "kph": null
+    },
+    {
+      "qty": 800,
+      "name": "Venusaur",
+      "type": "Normal",
+      "url": "https://imgur.com/a/zRcrSLP",
+      "kph": null
+    },
+    {
+      "qty": 800,
+      "name": "Blastoise",
+      "type": "Normal",
+      "url": "https://imgur.com/a/o6O5mnt",
+      "kph": 2900
+    },
+    {
+      "qty": 800,
+      "name": "Charizard",
+      "type": "Normal",
+      "url": "https://imgur.com/a/ksXMwHN",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Ampharos",
+      "type": "Wild",
+      "url": "https://imgur.com/a/O7GKc00",
+      "kph": 3000
+    },
+    {
+      "qty": 10000,
+      "name": "Blastoise",
+      "type": "Wild",
+      "url": "https://imgur.com/a/H98mIzg",
+      "kph": 2000
+    },
+    {
+      "qty": 10000,
+      "name": "Charizard",
+      "type": "Wild",
+      "url": "https://imgur.com/a/thSWZiw",
+      "kph": 2500
+    },
+    {
+      "qty": 10000,
+      "name": "Dodrio",
+      "type": "Wild",
+      "url": "https://imgur.com/a/mZdWvFw",
+      "kph": 2350
+    },
+    {
+      "qty": 10000,
+      "name": "Espeon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/CkBSqXN",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Farfetch'd",
+      "type": "Wild",
+      "url": "https://imgur.com/a/mZdWvFw",
+      "kph": 2150
+    },
+    {
+      "qty": 10000,
+      "name": "Feraligatr",
+      "type": "Wild",
+      "url": "https://imgur.com/a/H98mIzg",
+      "kph": 2700
+    },
+    {
+      "qty": 10000,
+      "name": "Flareon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/0QTUhoj",
+      "kph": 2500
+    },
+    {
+      "qty": 10000,
+      "name": "Golem",
+      "type": "Wild",
+      "url": "https://imgur.com/a/rg5qYI4",
+      "kph": 3150
+    },
+    {
+      "qty": 10000,
+      "name": "Hitmonchan",
+      "type": "Wild",
+      "url": "https://imgur.com/a/pjIUv00",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Hitmonlee",
+      "type": "Wild",
+      "url": "https://imgur.com/a/pjIUv00",
+      "kph": 3300
+    },
+    {
+      "qty": 10000,
+      "name": "Hitmontop",
+      "type": "Wild",
+      "url": "https://imgur.com/a/30cn4iq",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Jolteon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/clP3jSD",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Jynx",
+      "type": "Wild",
+      "url": "https://imgur.com/a/3LppiO7",
+      "kph": 3750
+    },
+    {
+      "qty": 100,
+      "name": "Kabutops",
+      "type": "Normal",
+      "url": "https://imgur.com/a/hGRDfmM",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Lapras",
+      "type": "Wild",
+      "url": "https://imgur.com/a/ca4NlMA",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Magcargo",
+      "type": "Wild",
+      "url": "https://imgur.com/a/PjJgh5m",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Mantine",
+      "type": "Wild",
+      "url": "https://imgur.com/a/H98mIzg",
+      "kph": 2750
+    },
+    {
+      "qty": 10000,
+      "name": "Marowak",
+      "type": "Wild",
+      "url": "https://imgur.com/a/AYaHOY2",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Meganium",
+      "type": "Wild",
+      "url": "https://imgur.com/uw0XICj",
+      "kph": 2100
+    },
+    {
+      "qty": 10000,
+      "name": "Miltank",
+      "type": "Wild",
+      "url": "https://imgur.com/a/doQnA6i",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Muk",
+      "type": "Wild",
+      "url": "https://imgur.com/a/vgGrrfT",
+      "kph": 2400
+    },
+    {
+      "qty": 10000,
+      "name": "Nidoking",
+      "type": "Wild",
+      "url": "https://imgur.com/a/HWxtEs3",
+      "kph": 2300
+    },
+    {
+      "qty": 10000,
+      "name": "Nidoqueen",
+      "type": "Wild",
+      "url": "https://imgur.com/a/lnONjUq",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Ninetales",
+      "type": "Wild",
+      "url": "https://imgur.com/a/2uMZqFZ",
+      "kph": 3000
+    },
+    {
+      "qty": 100,
+      "name": "Omastar",
+      "type": "Normal",
+      "url": "https://imgur.com/a/lrEa6jJ",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Pidgeot",
+      "type": "Wild",
+      "url": "https://imgur.com/a/mZdWvFw",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Politoed",
+      "type": "Wild",
+      "url": "https://imgur.com/a/zMl0ekj",
+      "kph": 3220
+    },
+    {
+      "qty": 10000,
+      "name": "Poliwrath",
+      "type": "Wild",
+      "url": "https://imgur.com/a/c9ewG6a",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Raichu",
+      "type": "Wild",
+      "url": "https://imgur.com/a/clP3jSD",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Rapidash",
+      "type": "Wild",
+      "url": "https://imgur.com/a/lwqRvJB",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Slowking",
+      "type": "Wild",
+      "url": "https://imgur.com/a/XUZFbv9",
+      "kph": 3500
+    },
+    {
+      "qty": 10000,
+      "name": "Steelix",
+      "type": "Wild",
+      "url": "https://imgur.com/a/GWp5vC7",
+      "kph": 2300
+    },
+    {
+      "qty": 10000,
+      "name": "Tentacruel",
+      "type": "Wild",
+      "url": "https://imgur.com/a/1MIh0TT",
+      "kph": 1800
+    },
+    {
+      "qty": 10000,
+      "name": "Typhlosion",
+      "type": "Wild",
+      "url": "https://imgur.com/a/nmnNuO5",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Umbreon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/CkBSqXN",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Ursaring",
+      "type": "Wild",
+      "url": "https://imgur.com/a/nBXkwSw",
+      "kph": 2300
+    },
+    {
+      "qty": 10000,
+      "name": "Vaporeon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/RI7U1mv",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Venusaur",
+      "type": "Wild",
+      "url": "https://imgur.com/a/QZY9tMI",
+      "kph": 2600
+    },
+    {
+      "qty": 10000,
+      "name": "Misdreavus",
+      "type": "Wild",
+      "url": "https://imgur.com/a/xfYPzTw",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Mr. Mime",
+      "type": "Wild",
+      "url": "https://imgur.com/a/bIuz6Tm",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Pinsir",
+      "type": "Wild",
+      "url": "https://imgur.com/a/T3rOBjE",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Pupitar",
+      "type": "Wild",
+      "url": "https://imgur.com/a/SJntAUa",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Scyther",
+      "type": "Wild",
+      "url": "https://imgur.com/a/df36NrE",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Skarmory",
+      "type": "Wild",
+      "url": "https://imgur.com/a/otQbKEE",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Tauros",
+      "type": "Wild",
+      "url": "https://imgur.com/a/j21SPSA",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Houndoom",
+      "type": "Wild",
+      "url": "https://imgur.com/a/kUQvKbL",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Kangaskhan",
+      "type": "Wild",
+      "url": "https://imgur.com/a/j21SPSA",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Kingdra",
+      "type": "Wild",
+      "url": "https://imgur.com/a/W6HZl3X",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Machamp",
+      "type": "Wild",
+      "url": "https://imgur.com/a/yB63tms",
+      "kph": null
+    },
+    {
+      "qty": 10000,
+      "name": "Wobbuffet",
+      "type": "Wild",
+      "url": "https://imgur.com/a/ZlGOsvk",
+      "kph": 3700
+    },
+    {
+      "qty": 10000,
+      "name": "Dusknoir",
+      "type": "Wild",
+      "url": "https://imgur.com/a/DMCBxm0",
+      "kph": 2300
+    },
+    {
+      "qty": 10000,
+      "name": "Luxray",
+      "type": "Wild",
+      "url": "https://imgur.com/a/L0bj8Vd",
+      "kph": 2100
+    },
+    {
+      "qty": 10000,
+      "name": "Mimikyu",
+      "type": "Wild",
+      "url": "https://imgur.com/a/tBNDQGq",
+      "kph": 2400
+    },
+    {
+      "qty": 10000,
+      "name": "Toxicroak",
+      "type": "Wild",
+      "url": "https://imgur.com/a/voSoRee",
+      "kph": 2900
+    },
+    {
+      "qty": 10000,
+      "name": "Torterra",
+      "type": "Wild",
+      "url": "https://imgur.com/a/OSpmhX3",
+      "kph": 2600
+    },
+    {
+      "qty": 10000,
+      "name": "Tangrowth",
+      "type": "Wild",
+      "url": "https://imgur.com/a/6PD5gEv",
+      "kph": 2800
+    },
+    {
+      "qty": 10000,
+      "name": "Arcanine",
+      "type": "Wild",
+      "url": "https://imgur.com/a/NnkwV5t",
+      "kph": 2800
+    },
+    {
+      "qty": 10000,
+      "name": "Florges",
+      "type": "Wild",
+      "url": "https://imgur.com/a/dHnsWqn",
+      "kph": 3400
+    },
+    {
+      "qty": 10000,
+      "name": "Hydreigon",
+      "type": "Wild",
+      "url": "https://imgur.com/a/tkRwGdL",
+      "kph": 2600
+    },
+    {
+      "qty": 4000,
+      "name": "Walrein",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/MtwwL6b",
+      "kph": 1120
+    },
+    {
+      "qty": 4000,
+      "name": "Seviper",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/l3lliRe",
+      "kph": 1120
+    },
+    {
+      "qty": 4000,
+      "name": "Aggron",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/cJndpSb",
+      "kph": 1120
+    },
+    {
+      "qty": 4000,
+      "name": "Sharpedo",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/xEQLyNo",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Armaldo",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/xG6MiHI",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Altaria",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/4BU3DIw",
+      "kph": 1200
+    },
+    {
+      "qty": 4000,
+      "name": "Swellow",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/zWjp1is",
+      "kph": 1300
+    },
+    {
+      "qty": 4000,
+      "name": "Huntail",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/xi7IxsL",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Breloom",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/xkbItkt",
+      "kph": 1140
+    },
+    {
+      "qty": 4000,
+      "name": "Claydol",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/FaZB45d",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Hariyama",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/ywTJuVx",
+      "kph": 1100
+    },
+    {
+      "qty": 4000,
+      "name": "Cradily",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/zziX3N4",
+      "kph": 1050
+    },
+    {
+      "qty": 4000,
+      "name": "Roselia",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Dv4T5af",
+      "kph": 1600
+    },
+    {
+      "qty": 4000,
+      "name": "Pelipper",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/9ny4RTg",
+      "kph": 1170
+    },
+    {
+      "qty": 4000,
+      "name": "Dustox",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/aa8JVeg",
+      "kph": 1250
+    },
+    {
+      "qty": 4000,
+      "name": "Solrock",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/eWSLlta",
+      "kph": 1500
+    },
+    {
+      "qty": 4000,
+      "name": "Clamperl",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/3by4nDT",
+      "kph": 1350
+    },
+    {
+      "qty": 4000,
+      "name": "Banette",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/JL6EoDR",
+      "kph": 900
+    },
+    {
+      "qty": 4000,
+      "name": "Camerupt",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/a8pfzjH",
+      "kph": 1250
+    },
+    {
+      "qty": 4000,
+      "name": "Castform Fire",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Ts9I3R9",
+      "kph": 1150
+    },
+    {
+      "qty": 4000,
+      "name": "Castform Ice",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Ts9I3R9",
+      "kph": 1300
+    },
+    {
+      "qty": 4000,
+      "name": "Castform Electric",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Ts9I3R9",
+      "kph": 1090
+    },
+    {
+      "qty": 4000,
+      "name": "Kecleon",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/8sxx7sN",
+      "kph": 1070
+    },
+    {
+      "qty": 4000,
+      "name": "Dusclops",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/625I8kI",
+      "kph": 1370
+    },
+    {
+      "qty": 4000,
+      "name": "Zangoose",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/NfMKEg7",
+      "kph": 850
+    },
+    {
+      "qty": 4000,
+      "name": "Metang",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/rQJH8mB",
+      "kph": 1470
+    },
+    {
+      "qty": 4000,
+      "name": "Beautifly",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/vePSZZs",
+      "kph": 1220
+    },
+    {
+      "qty": 4000,
+      "name": "Ludicolo",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/uSuyBkT",
+      "kph": 1450
+    },
+    {
+      "qty": 4000,
+      "name": "Cacturne",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/DRfmDZB",
+      "kph": 1140
+    },
+    {
+      "qty": 4000,
+      "name": "Chimecho",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/SGKMzoy",
+      "kph": 1460
+    },
+    {
+      "qty": 4000,
+      "name": "Gorebyss",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/dtnPZxU",
+      "kph": 1460
+    },
+    {
+      "qty": 4000,
+      "name": "Shiftry",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/d9DZYAm",
+      "kph": 990
+    },
+    {
+      "qty": 4000,
+      "name": "Crawdaunt",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/5Ljg7sC",
+      "kph": 1460
+    },
+    {
+      "qty": 4000,
+      "name": "Ninjask",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/J42Cek5",
+      "kph": 900
+    },
+    {
+      "qty": 4000,
+      "name": "Relicanth",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/RVcmBFH",
+      "kph": 1270
+    },
+    {
+      "qty": 4000,
+      "name": "Masquerain",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/A6mD163",
+      "kph": 1270
+    },
+    {
+      "qty": 4000,
+      "name": "Wailord",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/2m6nCb5",
+      "kph": 1340
+    },
+    {
+      "qty": 4000,
+      "name": "Mawile",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/odInvRR",
+      "kph": 1230
+    },
+    {
+      "qty": 4000,
+      "name": "Lunatone",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/NUmiPTH",
+      "kph": 1600
+    },
+    {
+      "qty": 4000,
+      "name": "Medicham",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/0irrv1r",
+      "kph": 1160
+    },
+    {
+      "qty": 4000,
+      "name": "Whiscash",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/AfWRHhd",
+      "kph": 970
+    },
+    {
+      "qty": 4000,
+      "name": "Shedinja",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/LUgy00h",
+      "kph": 1350
+    },
+    {
+      "qty": 4000,
+      "name": "Delcatty",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/PC3fNSZ",
+      "kph": 1250
+    },
+    {
+      "qty": 4000,
+      "name": "Grumpig",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/sL7iPRj",
+      "kph": 1250
+    },
+    {
+      "qty": 4000,
+      "name": "Blaziken",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Z1blUfu",
+      "kph": 1010
+    },
+    {
+      "qty": 4000,
+      "name": "Metagross",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/rQJH8mB",
+      "kph": 1480
+    },
+    {
+      "qty": 4000,
+      "name": "Swalot",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/CVYjLFv",
+      "kph": 1260
+    },
+    {
+      "qty": 4000,
+      "name": "Exploud",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/WTFRBwz",
+      "kph": 1160
+    },
+    {
+      "qty": 4000,
+      "name": "Tropius",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/9vbSqES",
+      "kph": 1260
+    },
+    {
+      "qty": 4000,
+      "name": "Manectric",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/OoNfzDJ",
+      "kph": 1160
+    },
+    {
+      "qty": 4000,
+      "name": "Torkoal",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/KBxrXSg",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Gardevoir",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/Duh5van",
+      "kph": 1500
+    },
+    {
+      "qty": 4000,
+      "name": "Salamence",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/c60bAOF",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Mightyena",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/TtFAFi8",
+      "kph": 1480
+    },
+    {
+      "qty": 4000,
+      "name": "Milotic",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/4Ovdko8",
+      "kph": 1360
+    },
+    {
+      "qty": 4000,
+      "name": "Sceptile",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/0NfZ1UB",
+      "kph": 1540
+    },
+    {
+      "qty": 4000,
+      "name": "Swampert",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/ZZR9q3t",
+      "kph": 1420
+    },
+    {
+      "qty": 4000,
+      "name": "Glalie",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/zeIeMhU",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Absol",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/bKY4IH1",
+      "kph": 1360
+    },
+    {
+      "qty": 4000,
+      "name": "Flygon",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/frxHhRk",
+      "kph": 1200
+    },
+    {
+      "qty": 4000,
+      "name": "Dragonair",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1450
+    },
+    {
+      "qty": 4000,
+      "name": "Gengar",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1350
+    },
+    {
+      "qty": 4000,
+      "name": "Electabuzz",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1200
+    },
+    {
+      "qty": 4000,
+      "name": "Gyarados",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1500
+    },
+    {
+      "qty": 4000,
+      "name": "Magmar",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Scizor",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1470
+    },
+    {
+      "qty": 4000,
+      "name": "Lucario",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1570
+    },
+    {
+      "qty": 4000,
+      "name": "Rhyperior",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1500
+    },
+    {
+      "qty": 4000,
+      "name": "Alakazam",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1440
+    },
+    {
+      "qty": 4000,
+      "name": "Snorlax",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1170
+    },
+    {
+      "qty": 4000,
+      "name": "Sylveon",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1220
+    },
+    {
+      "qty": 4000,
+      "name": "Glaceon",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1550
+    },
+    {
+      "qty": 4000,
+      "name": "Garbodor",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/wFcUcVR",
+      "kph": 1400
+    },
+    {
+      "qty": 4000,
+      "name": "Sableye",
+      "type": "Hoenn",
+      "url": "https://imgur.com/a/cI3PbPr",
+      "kph": 1350
+    }
+  ],
+  "linkedRemaining": [
+    {
+      "name": "Gliscor",
+      "tier": "Super Rare",
+      "where": "Wild"
+    },
+    {
+      "name": "Infernape",
+      "tier": "Super Rare",
+      "where": "Wild"
+    },
+    {
+      "name": "Pachirisu",
+      "tier": "Super Rare",
+      "where": "Wild"
+    },
+    {
+      "name": "Rampardos",
+      "tier": "Ultra Rare",
+      "where": "Hoenn"
+    },
+    {
+      "name": "Leafeon",
+      "tier": "Legendary",
+      "where": "Tubos"
+    },
+    {
+      "name": "Dragonite",
+      "tier": "Mythic",
+      "where": "Tubos"
+    },
+    {
+      "name": "Slaking",
+      "tier": "Mythic",
+      "where": "Hoenn"
+    },
+    {
+      "name": "Tyranitar",
+      "tier": "Mythic",
+      "where": "Tubos"
+    }
+  ]
+}

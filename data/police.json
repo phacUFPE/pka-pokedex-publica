@@ -1,0 +1,353 @@
+{
+  "police": [
+    {
+      "name": "OFFICER BLAZE",
+      "members": [
+        {
+          "npc": "sh Charizard",
+          "counter": "Rock"
+        },
+        {
+          "npc": "sh Magmar",
+          "counter": "Water/Ground"
+        },
+        {
+          "npc": "sh Flareon",
+          "counter": "Water/Ground"
+        },
+        {
+          "npc": "sh Typhlosion",
+          "counter": "Water/Ground"
+        },
+        {
+          "npc": "sh Ninetales",
+          "counter": "Water/Ground"
+        },
+        {
+          "npc": "sh Arcanine",
+          "counter": "Water/Ground"
+        }
+      ]
+    },
+    {
+      "name": "OFFICER MARINA",
+      "members": [
+        {
+          "npc": "sh Feraligator",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Lapras",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Gyarados",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Vaporeon",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Starmie",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Blastoise",
+          "counter": "Grass/Electric"
+        }
+      ]
+    },
+    {
+      "name": "SERGEANT VOLT",
+      "members": [
+        {
+          "npc": "sh Magneton",
+          "counter": "Fire/Fight"
+        },
+        {
+          "npc": "sh Ampharos",
+          "counter": "Ground"
+        },
+        {
+          "npc": "sh Lanturn",
+          "counter": "Grass"
+        },
+        {
+          "npc": "sh Electabuzz",
+          "counter": "Ground"
+        },
+        {
+          "npc": "sh Raichu",
+          "counter": "Ground"
+        },
+        {
+          "npc": "sh Jolteon",
+          "counter": "Ground"
+        }
+      ]
+    },
+    {
+      "name": "CAPTAIN VERDANT",
+      "members": [
+        {
+          "npc": "sh Meganium",
+          "counter": "Fire/Fly/Ice"
+        },
+        {
+          "npc": "sh Vileplume",
+          "counter": "Fire/Fly/Ice"
+        },
+        {
+          "npc": "sh Venusaur",
+          "counter": "Fire/Fly/Ice"
+        },
+        {
+          "npc": "sh Exeggutor",
+          "counter": "Bug/Fire/Fly"
+        },
+        {
+          "npc": "sh Victreebel",
+          "counter": "Fire/Fly/Ice"
+        },
+        {
+          "npc": "sh Jumpluff",
+          "counter": "Ice/Fire/Rock"
+        }
+      ]
+    },
+    {
+      "name": "INSPECTOR FROST",
+      "members": [
+        {
+          "npc": "sh Piloswine",
+          "counter": "Fire/Fight"
+        },
+        {
+          "npc": "sh Cloyster",
+          "counter": "Electric/Fight"
+        },
+        {
+          "npc": "sh Jynx",
+          "counter": "Fire/Steel"
+        },
+        {
+          "npc": "sh Lapras",
+          "counter": "Electric/Fight"
+        },
+        {
+          "npc": "sh Dewgong",
+          "counter": "Electric/Fight"
+        },
+        {
+          "npc": "sh Sneasel",
+          "counter": "Fight"
+        }
+      ]
+    },
+    {
+      "name": "COMMANDER MIND",
+      "members": [
+        {
+          "npc": "sh Starmie",
+          "counter": "Grass/Electric"
+        },
+        {
+          "npc": "sh Alakazam",
+          "counter": "Bug/Ghost/Dark"
+        },
+        {
+          "npc": "sh Espeon",
+          "counter": "Bug/Ghost/Dark"
+        },
+        {
+          "npc": "sh Exeggutor",
+          "counter": "Bug/Fire/Fly"
+        },
+        {
+          "npc": "sh Mr. Mime",
+          "counter": "Ghost/Steel"
+        },
+        {
+          "npc": "sh Xatu",
+          "counter": "Electric/Ghost"
+        }
+      ]
+    },
+    {
+      "name": "WARDEN SHADE",
+      "members": [
+        {
+          "npc": "Houndoom",
+          "counter": "Fight/Water/Grd/Rock"
+        },
+        {
+          "npc": "sh Sneasel",
+          "counter": "Fight"
+        },
+        {
+          "npc": "Tyranitar",
+          "counter": "Fight"
+        },
+        {
+          "npc": "sh Houndoom",
+          "counter": "Fight/Water/Grd/Rock"
+        },
+        {
+          "npc": "sh Tyranitar",
+          "counter": "Fight"
+        },
+        {
+          "npc": "sh Umbreon",
+          "counter": "Fight/Bug/Fairy"
+        }
+      ]
+    },
+    {
+      "name": "LIEUTENANT ALLOY",
+      "members": [
+        {
+          "npc": "sh Scizor",
+          "counter": "Fire"
+        },
+        {
+          "npc": "sh Magneton",
+          "counter": "Fire/Fight"
+        },
+        {
+          "npc": "sh Skarmory",
+          "counter": "Fire/Electric"
+        },
+        {
+          "npc": "sh Steelix",
+          "counter": "Fire/Fight/Water"
+        },
+        {
+          "npc": "sh Forretress",
+          "counter": "Fire"
+        },
+        {
+          "npc": "Scizor",
+          "counter": "Fire"
+        }
+      ]
+    },
+    {
+      "name": "MARSHAL BOULDER",
+      "members": [
+        {
+          "npc": "sh Omastar",
+          "counter": "Grass"
+        },
+        {
+          "npc": "sh Golem",
+          "counter": "Water/Grass"
+        },
+        {
+          "npc": "sh Tyranitar",
+          "counter": "Fight"
+        },
+        {
+          "npc": "sh Sudowoodo",
+          "counter": "Fight/Water"
+        },
+        {
+          "npc": "sh Kabutops",
+          "counter": "Grass"
+        },
+        {
+          "npc": "sh Rhydon",
+          "counter": "Grass/Fight/Water"
+        }
+      ]
+    },
+    {
+      "name": "DETECTIVE TERRA",
+      "members": [
+        {
+          "npc": "sh Nidoqueen",
+          "counter": "Water/Grd/Ice"
+        },
+        {
+          "npc": "sh Nidoking",
+          "counter": "Water/Grd/Ice"
+        },
+        {
+          "npc": "sh Marowak",
+          "counter": "Water/Grass/Ice"
+        },
+        {
+          "npc": "sh Sandslash",
+          "counter": "Water/Grass/Ice"
+        },
+        {
+          "npc": "sh Donphan",
+          "counter": "Water/Grass/Ice"
+        },
+        {
+          "npc": "sh Dugtrio",
+          "counter": "Water/Grass/Ice"
+        }
+      ]
+    },
+    {
+      "name": "CHIEF TOXIN",
+      "members": [
+        {
+          "npc": "sh Weezing",
+          "counter": "Ground/Psychic"
+        },
+        {
+          "npc": "sh Muk",
+          "counter": "Ground/Psychic"
+        },
+        {
+          "npc": "sh Nidoking",
+          "counter": "Water/Grd/Ice"
+        },
+        {
+          "npc": "sh Crobat",
+          "counter": "Electric/Psy/Rock/Ice"
+        },
+        {
+          "npc": "sh Toxicroak",
+          "counter": "Psychic/Fly/Grd"
+        },
+        {
+          "npc": "sh Vileplume",
+          "counter": "Fire/Fight/Psy/Ice"
+        }
+      ]
+    },
+    {
+      "name": "RANGER STRIKE",
+      "members": [
+        {
+          "npc": "sh Primeape",
+          "counter": "Fly/Psy"
+        },
+        {
+          "npc": "sh Machamp",
+          "counter": "Fly/Psy"
+        },
+        {
+          "npc": "sh Heracross",
+          "counter": "Fly/Psy/Fire"
+        },
+        {
+          "npc": "sh Hitmonchan",
+          "counter": "Fly/Psy"
+        },
+        {
+          "npc": "sh Poliwrath",
+          "counter": "Fly/Psy/Electric"
+        },
+        {
+          "npc": "sh Hitmonlee",
+          "counter": "Fly/Psy"
+        }
+      ]
+    }
+  ],
+  "policeInfo": "Pokemons da esquerda são os do NPC. \nOs da direita são os recomendados\n\nPrecisa ter ganhado a batalha com o Giovanni pra iniciar\n\nLocalização:https://imgur.com/a/Fbmmqeh"
+}

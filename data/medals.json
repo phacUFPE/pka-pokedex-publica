@@ -1,0 +1,759 @@
+{
+  "medals": [
+    {
+      "name": "Bulbasaur",
+      "buff": "Defense Boost",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Ivysaur",
+      "buff": "HP Boost",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Venusaur",
+      "buff": "Pokemon Speed",
+      "debuff": "HP Boost"
+    },
+    {
+      "name": "Charmander",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Charmelion",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Charizard",
+      "buff": "Critical Damage",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Squirtle",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Wartortle",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Blastoise",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Caterpie",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Metapod",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Butterfree",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Weedle",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Kakuna",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Beedrill",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Headbutt Skill"
+    },
+    {
+      "name": "Pidgey",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Pidgeotto",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Pidgeot",
+      "buff": "Fly Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Rattata",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Raticate",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Spearow",
+      "buff": "Defense Boost",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Fearow",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Ekans",
+      "buff": "Pokemon Speed",
+      "debuff": "HP Boost"
+    },
+    {
+      "name": "Arbok",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Pikachu",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Raichu",
+      "buff": "Critical Damage",
+      "debuff": "Critical Chance"
+    },
+    {
+      "name": "Sandshrew",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Sandslash",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Nidoran female",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Nidorina",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Nidoqueen",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Nidoran Male",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Nidorino",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Nidoking",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Clefairy",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Clefable",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Vulpix",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Ninetales",
+      "buff": "Surf Speed",
+      "debuff": "Fly Speed"
+    },
+    {
+      "name": "Jigglypuff",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Wigglytuff",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Zubat",
+      "buff": "Defense Boost",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Golbat",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Oddish",
+      "buff": "Pokemon Speed",
+      "debuff": "HP Boost"
+    },
+    {
+      "name": "Gloom",
+      "buff": "Character Speed",
+      "debuff": "Pokemon speed"
+    },
+    {
+      "name": "Vileplume",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Paras",
+      "buff": "Critical Damage",
+      "debuff": "Critical Chance"
+    },
+    {
+      "name": "Parasect",
+      "buff": "Life Leech",
+      "debuff": "Critital Damage"
+    },
+    {
+      "name": "Venonat",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Venomoth",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Diglett",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Dugtrio",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Meowth",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Persian",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Psyduck",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Golduck",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Mankey",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Primeape",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Growlithe",
+      "buff": "Surf Speed",
+      "debuff": "Fly Spped"
+    },
+    {
+      "name": "Arcanine",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Poliwag",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Poliwhirl",
+      "buff": "Defense Boost",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Poliwrath",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Abra",
+      "buff": "Pokemon Speed",
+      "debuff": "Hp Boost"
+    },
+    {
+      "name": "Kadabra",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Alakazam",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Machop",
+      "buff": "Critical Damage",
+      "debuff": "Critical Change"
+    },
+    {
+      "name": "Machoke",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Machamp",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Bellsprout",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Weepinbell",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Victreebel",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Tentacool",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Tentacruel",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Geodude",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Graveler",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Golem",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Ponyta",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Rapidash",
+      "buff": "Surf Speed",
+      "debuff": "Fly Speed"
+    },
+    {
+      "name": "Slowpoke",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Slowbro",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Magnemite",
+      "buff": "Defense Boost",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Magneton",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Farfetch'd",
+      "buff": "Pokemon Speed",
+      "debuff": "Hp Boost"
+    },
+    {
+      "name": "Doduo",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Dodrio",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Seel",
+      "buff": "Critical Damage",
+      "debuff": "Critical Chance"
+    },
+    {
+      "name": "Dewgong",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Grimer",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Muk",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Shellder",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Cloyster",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Gastly",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Haunter",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Gengar",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Onix",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Drowzee",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Hypno",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Krabby",
+      "buff": "Surf Speed",
+      "debuff": "Fly Speed"
+    },
+    {
+      "name": "Kingler",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Voltorb",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Electrode",
+      "buff": "Defense Boost",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Exeggcute",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Exeggutor",
+      "buff": "Pokemon Speed",
+      "debuff": "Hp Boost"
+    },
+    {
+      "name": "Cubone",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Marowak",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Hitmonlee",
+      "buff": "Critical Damage",
+      "debuff": "Critical Chance"
+    },
+    {
+      "name": "Hitmonchan",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Lickitung",
+      "buff": "Precision Percent",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Koffing",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Weezing",
+      "buff": "Shiny Fishing Rate",
+      "debuff": "Evasion Percent"
+    },
+    {
+      "name": "Rhyhorn",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Rhydon",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Chansey",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Tangela",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Kangaskhan",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Horsea",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Seadra",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Goldeen",
+      "buff": "Surf Speed",
+      "debuff": "Fly Speed"
+    },
+    {
+      "name": "Seaking",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Staryu",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Starmie",
+      "buff": "Defense Boost",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Mr. Mime",
+      "buff": "HP Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Scyther",
+      "buff": "Pokemon Speed",
+      "debuff": "Hp Boost"
+    },
+    {
+      "name": "Jynx",
+      "buff": "Character Speed",
+      "debuff": "Pokemon Speed"
+    },
+    {
+      "name": "Electabuzz",
+      "buff": "Critical Chance",
+      "debuff": "Character Speed"
+    },
+    {
+      "name": "Magmar",
+      "buff": "Critical Damage",
+      "debuff": "Critical Chance"
+    },
+    {
+      "name": "Pinsir",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Tauros",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Magikarp",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Gyarados",
+      "buff": "Shing FIshing Rate",
+      "debuff": "Headbutt Skill"
+    },
+    {
+      "name": "Lapras",
+      "buff": "Shiny Headbutt Rate",
+      "debuff": "Shiny Fishing Rate"
+    },
+    {
+      "name": "Ditto",
+      "buff": "Loot Boost",
+      "debuff": "Shiny Headbutt Rate"
+    },
+    {
+      "name": "Eevee",
+      "buff": "Catch Rate",
+      "debuff": "Loot Boost"
+    },
+    {
+      "name": "Vaporeon",
+      "buff": "Shiny Catch Rate",
+      "debuff": "Catch Rate"
+    },
+    {
+      "name": "Jolteon",
+      "buff": "Shiny Charm Rate",
+      "debuff": "Shiny Catch Rate"
+    },
+    {
+      "name": "Flareon",
+      "buff": "Critical Resistance",
+      "debuff": "Shiny Charm Rate"
+    },
+    {
+      "name": "Porygon",
+      "buff": "Fly Speed",
+      "debuff": "Extra Fishing"
+    },
+    {
+      "name": "Omanyte",
+      "buff": "Surf Speed",
+      "debuff": "Fly Speed"
+    },
+    {
+      "name": "Omastar",
+      "buff": "Ride Speed",
+      "debuff": "Surf Speed"
+    },
+    {
+      "name": "Kabuto",
+      "buff": "Damage Boost",
+      "debuff": "Ride Speed"
+    },
+    {
+      "name": "Kabutops",
+      "buff": "Defense Boost",
+      "debuff": "Damage Boost"
+    },
+    {
+      "name": "Aerodactyl",
+      "buff": "Hp Boost",
+      "debuff": "Defense Boost"
+    },
+    {
+      "name": "Snorlax",
+      "buff": "Pokemon Speed",
+      "debuff": "HP Boost"
+    },
+    {
+      "name": "Articuno",
+      "buff": "Pokemon Speed",
+      "debuff": "-"
+    },
+    {
+      "name": "Zapdos",
+      "buff": "Character Speed",
+      "debuff": "-"
+    },
+    {
+      "name": "Moltres",
+      "buff": "Critical Chance",
+      "debuff": "-"
+    },
+    {
+      "name": "Dratini",
+      "buff": "Life Leech",
+      "debuff": "Critical Damage"
+    },
+    {
+      "name": "Dragonair",
+      "buff": "Precision Percent",
+      "debuff": "Life Leech"
+    },
+    {
+      "name": "Dragonite",
+      "buff": "Evasion Percent",
+      "debuff": "Fishing Skill"
+    },
+    {
+      "name": "Mewtwo",
+      "buff": "Shiny Catch Rate",
+      "debuff": "-"
+    },
+    {
+      "name": "Mew",
+      "buff": "Shiny Charm Rate",
+      "debuff": "-"
+    }
+  ]
+}

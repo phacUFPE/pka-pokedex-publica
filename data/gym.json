@@ -1,0 +1,119 @@
+{
+  "gym": [
+    {
+      "city": "Viridian",
+      "task1": "10 Shiny Nidoqueen",
+      "task2": "10 Shiny Nidoking",
+      "url": "https://imgur.com/a/CNjdEEP"
+    },
+    {
+      "city": "Pewter",
+      "task1": "10 Shiny Marowak",
+      "task2": "10 Shiny Steelix",
+      "url": "https://imgur.com/a/TdDDQvL"
+    },
+    {
+      "city": "Cerulean",
+      "task1": "10 Shiny Blastoise",
+      "task2": "10 Shiny Feraligatr",
+      "url": "https://imgur.com/a/9zLq4Sq"
+    },
+    {
+      "city": "Vermilion",
+      "task1": "10 Shiny Raichu",
+      "task2": "10 Shiny Lanturn",
+      "url": "https://imgur.com/a/X1JlKl5"
+    },
+    {
+      "city": "Celadon",
+      "task1": "10 Shiny Venusaur",
+      "task2": "10 Shiny Meganium",
+      "url": "https://imgur.com/a/M7Jk4Ip"
+    },
+    {
+      "city": "Fuchsia",
+      "task1": "10 Shiny Tentacruel",
+      "task2": "10 Shiny Muk",
+      "url": "https://imgur.com/a/has6KOr"
+    },
+    {
+      "city": "Saffron",
+      "task1": "10 Shiny Espeon",
+      "task2": "10 Shiny Xatu",
+      "url": "https://imgur.com/a/ZJrqy4w"
+    },
+    {
+      "city": "Cinnabar",
+      "task1": "10 Shiny Charizard",
+      "task2": "10 Shiny Typhlosion",
+      "url": "https://imgur.com/a/hLzaofv"
+    }
+  ],
+  "gymLeaders": {
+    "Viridian": [
+      "sh Kangaskhan",
+      "sh Nidoking",
+      "sh Nidoqueen",
+      "sh Dugtrio",
+      "sh Persian",
+      "sh Rhydon"
+    ],
+    "Pewter": [
+      "sh Marowak",
+      "sh Onix",
+      "sh Rhydon",
+      "sh Golem",
+      "Aerodactyl",
+      "sh Steelix"
+    ],
+    "Cerulean": [
+      "sh Blastoise",
+      "sh Vaporeon",
+      "sh Tentacruel",
+      "sh Feraligatr",
+      "sh Politoed",
+      "sh Mantine"
+    ],
+    "Vermilion": [
+      "sh Magneton",
+      "sh Ampharos",
+      "sh Raichu",
+      "sh Lanturn",
+      "sh Jolteon",
+      "sh Electabuzz"
+    ],
+    "Celadon": [
+      "sh Exeggutor",
+      "sh Venusaur",
+      "sh Meganium",
+      "sh Tangela",
+      "sh Vileplume",
+      "Vileplume"
+    ],
+    "Fuchsia": [
+      "sh Nidoking",
+      "sh Nidoqueen",
+      "sh Crobat",
+      "sh Tentacruel",
+      "sh Venomoth",
+      "sh Muk"
+    ],
+    "Saffron": [
+      "sh Alakazam",
+      "sh Xatu",
+      "sh Wobbuffet",
+      "sh Espeon",
+      "sh Mr. Mime",
+      "sh Hypno"
+    ],
+    "Cinnabar": [
+      "sh Magmar",
+      "sh Flareon",
+      "sh Ninetales",
+      "sh Arcanine",
+      "sh Charizard",
+      "sh Typhlosion"
+    ]
+  },
+  "gymInfo": "Informações extras:\n\n- Precisa ser lvl 250+\n- Pra começar a task, fale com o NPC Alfred na entrada de cada ginásio\n- Pra completar a task, fale com o NPC Alfred novamente\n- As dungeons possuem um limite de 10 minutos, e não é possível usar revive\n- Se morrer na dungeon, conta como uma morte normal (perde xp/bless)\n- Caso falhe na dungeon, é cobrado 250k para tentar novamente\n- Caso falhe no líder do ginásio, é cobrado 3 simple orbs do tipo respectivo\n- Caso falhe pros outros membros do ginásio, é cobrado 1 simple orb\n- Recompensa: 4 Potent Boost Stones (Lvl 21-25) do tipo respectivo\n- Mais informações: https://www.youtube.com/watch?v=khbKeyFrczI"
+}

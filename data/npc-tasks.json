@@ -1,0 +1,2636 @@
+{
+  "tasks": [
+    {
+      "name": "Bulbasaur",
+      "npcs": [
+        {
+          "npc": "Blake",
+          "url": "https://imgur.com/a/bZOLHYr"
+        }
+      ]
+    },
+    {
+      "name": "Ivysaur",
+      "npcs": [
+        {
+          "npc": "Blake",
+          "url": "https://imgur.com/a/bZOLHYr"
+        }
+      ]
+    },
+    {
+      "name": "Venusaur",
+      "npcs": [
+        {
+          "npc": "Penelope",
+          "url": "https://imgur.com/a/uUDQMYp"
+        },
+        {
+          "npc": "Bert",
+          "url": "https://imgur.com/a/zWioDB8"
+        },
+        {
+          "npc": "Mason",
+          "url": "https://imgur.com/a/2a1rF5l"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "npcs": [
+        {
+          "npc": "Stella",
+          "url": "https://imgur.com/a/hWfJGuR"
+        }
+      ]
+    },
+    {
+      "name": "Charmeleon",
+      "npcs": [
+        {
+          "npc": "Stella",
+          "url": "https://imgur.com/a/hWfJGuR"
+        }
+      ]
+    },
+    {
+      "name": "Charizard",
+      "npcs": [
+        {
+          "npc": "Oliver",
+          "url": "https://imgur.com/a/crIpAZr"
+        },
+        {
+          "npc": "Bert",
+          "url": "https://imgur.com/a/zWioDB8"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "npcs": []
+    },
+    {
+      "name": "Wartortle",
+      "npcs": []
+    },
+    {
+      "name": "Blastoise",
+      "npcs": [
+        {
+          "npc": "Eva",
+          "url": "https://imgur.com/a/EUrKfTz"
+        },
+        {
+          "npc": "Bert",
+          "url": "https://imgur.com/a/zWioDB8"
+        }
+      ]
+    },
+    {
+      "name": "Caterpie",
+      "npcs": [
+        {
+          "npc": "Elena",
+          "url": "https://imgur.com/a/Q8Xv483"
+        }
+      ]
+    },
+    {
+      "name": "Metapod",
+      "npcs": [
+        {
+          "npc": "Maya",
+          "url": "https://imgur.com/a/lFsNSc4"
+        }
+      ]
+    },
+    {
+      "name": "Butterfree",
+      "npcs": []
+    },
+    {
+      "name": "Weedle",
+      "npcs": [
+        {
+          "npc": "Elena",
+          "url": "https://imgur.com/a/Q8Xv483"
+        }
+      ]
+    },
+    {
+      "name": "Kakuna",
+      "npcs": [
+        {
+          "npc": "Maya",
+          "url": "https://imgur.com/a/lFsNSc4"
+        }
+      ]
+    },
+    {
+      "name": "Beedrill",
+      "npcs": []
+    },
+    {
+      "name": "Pidgey",
+      "npcs": [
+        {
+          "npc": "Lara",
+          "url": "https://imgur.com/a/Hpe1Tgw"
+        },
+        {
+          "npc": "Hayden",
+          "url": "https://imgur.com/a/pcKcLKB"
+        }
+      ]
+    },
+    {
+      "name": "Pidgeotto",
+      "npcs": [
+        {
+          "npc": "Hayden",
+          "url": "https://imgur.com/a/pcKcLKB"
+        }
+      ]
+    },
+    {
+      "name": "Pidgeot",
+      "npcs": [
+        {
+          "npc": "Hayden",
+          "url": "https://imgur.com/a/pcKcLKB"
+        }
+      ]
+    },
+    {
+      "name": "Rattata",
+      "npcs": [
+        {
+          "npc": "Liam",
+          "url": "https://imgur.com/a/1hoNp8D"
+        }
+      ]
+    },
+    {
+      "name": "Raticate",
+      "npcs": [
+        {
+          "npc": "Leah",
+          "url": "https://imgur.com/a/OAk89kY"
+        }
+      ]
+    },
+    {
+      "name": "Spearow",
+      "npcs": [
+        {
+          "npc": "Lara",
+          "url": "https://imgur.com/a/Hpe1Tgw"
+        }
+      ]
+    },
+    {
+      "name": "Fearow",
+      "npcs": []
+    },
+    {
+      "name": "Ekans",
+      "npcs": []
+    },
+    {
+      "name": "Arbok",
+      "npcs": [
+        {
+          "npc": "Zoe",
+          "url": "https://imgur.com/a/L9Nfkce"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "npcs": []
+    },
+    {
+      "name": "Raichu",
+      "npcs": []
+    },
+    {
+      "name": "Sandshrew",
+      "npcs": [
+        {
+          "npc": "Owen",
+          "url": "https://imgur.com/a/oN5SIKI"
+        }
+      ]
+    },
+    {
+      "name": "Sandslash",
+      "npcs": [
+        {
+          "npc": "Owen",
+          "url": "https://imgur.com/a/oN5SIKI"
+        }
+      ]
+    },
+    {
+      "name": "Nidoran female",
+      "npcs": []
+    },
+    {
+      "name": "Nidorina",
+      "npcs": []
+    },
+    {
+      "name": "Nidoqueen",
+      "npcs": [
+        {
+          "npc": "Elijah",
+          "url": "https://imgur.com/a/h9HfdlB"
+        }
+      ]
+    },
+    {
+      "name": "Nidoran Male",
+      "npcs": []
+    },
+    {
+      "name": "Nidorino",
+      "npcs": []
+    },
+    {
+      "name": "Nidoking",
+      "npcs": [
+        {
+          "npc": "Caleb",
+          "url": "https://imgur.com/a/x0CsPv0"
+        }
+      ]
+    },
+    {
+      "name": "Clefairy",
+      "npcs": []
+    },
+    {
+      "name": "Clefable",
+      "npcs": [
+        {
+          "npc": "Sebastian",
+          "url": "https://imgur.com/a/ZGcetex"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "npcs": []
+    },
+    {
+      "name": "Ninetales",
+      "npcs": []
+    },
+    {
+      "name": "Jigglypuff",
+      "npcs": []
+    },
+    {
+      "name": "Wigglytuff",
+      "npcs": [
+        {
+          "npc": "Violet",
+          "url": "https://imgur.com/a/Z6GyJou"
+        }
+      ]
+    },
+    {
+      "name": "Zubat",
+      "npcs": []
+    },
+    {
+      "name": "Golbat",
+      "npcs": []
+    },
+    {
+      "name": "Oddish",
+      "npcs": []
+    },
+    {
+      "name": "Gloom",
+      "npcs": []
+    },
+    {
+      "name": "Vileplume",
+      "npcs": []
+    },
+    {
+      "name": "Paras",
+      "npcs": []
+    },
+    {
+      "name": "Parasect",
+      "npcs": []
+    },
+    {
+      "name": "Venonat",
+      "npcs": []
+    },
+    {
+      "name": "Venomoth",
+      "npcs": []
+    },
+    {
+      "name": "Diglett",
+      "npcs": [
+        {
+          "npc": "Owen",
+          "url": "https://imgur.com/a/oN5SIKI"
+        }
+      ]
+    },
+    {
+      "name": "Dugtrio",
+      "npcs": [
+        {
+          "npc": "Owen",
+          "url": "https://imgur.com/a/oN5SIKI"
+        }
+      ]
+    },
+    {
+      "name": "Meowth",
+      "npcs": []
+    },
+    {
+      "name": "Persian",
+      "npcs": []
+    },
+    {
+      "name": "Psyduck",
+      "npcs": []
+    },
+    {
+      "name": "Golduck",
+      "npcs": []
+    },
+    {
+      "name": "Mankey",
+      "npcs": []
+    },
+    {
+      "name": "Primeape",
+      "npcs": []
+    },
+    {
+      "name": "Growlithe",
+      "npcs": []
+    },
+    {
+      "name": "Arcanine",
+      "npcs": [
+        {
+          "npc": "Chloe",
+          "url": "https://imgur.com/a/21pTgjt"
+        }
+      ]
+    },
+    {
+      "name": "Poliwag",
+      "npcs": []
+    },
+    {
+      "name": "Poliwhirl",
+      "npcs": []
+    },
+    {
+      "name": "Poliwrath",
+      "npcs": []
+    },
+    {
+      "name": "Abra",
+      "npcs": []
+    },
+    {
+      "name": "Kadabra",
+      "npcs": []
+    },
+    {
+      "name": "Alakazam",
+      "npcs": [
+        {
+          "npc": "Isaac",
+          "url": "https://imgur.com/a/TIukT70"
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "npcs": [
+        {
+          "npc": "Gavin",
+          "url": "https://imgur.com/a/1yRsaFj"
+        }
+      ]
+    },
+    {
+      "name": "Machoke",
+      "npcs": [
+        {
+          "npc": "Gavin",
+          "url": "https://imgur.com/a/1yRsaFj"
+        }
+      ]
+    },
+    {
+      "name": "Machamp",
+      "npcs": []
+    },
+    {
+      "name": "Bellsprout",
+      "npcs": []
+    },
+    {
+      "name": "Weepinbell",
+      "npcs": [
+        {
+          "npc": "Nina",
+          "url": "https://imgur.com/a/lafCMUj"
+        }
+      ]
+    },
+    {
+      "name": "Victreebel",
+      "npcs": []
+    },
+    {
+      "name": "Tentacool",
+      "npcs": []
+    },
+    {
+      "name": "Tentacruel",
+      "npcs": []
+    },
+    {
+      "name": "Geodude",
+      "npcs": []
+    },
+    {
+      "name": "Graveler",
+      "npcs": []
+    },
+    {
+      "name": "Golem",
+      "npcs": []
+    },
+    {
+      "name": "Ponyta",
+      "npcs": []
+    },
+    {
+      "name": "Rapidash",
+      "npcs": []
+    },
+    {
+      "name": "Slowpoke",
+      "npcs": []
+    },
+    {
+      "name": "Slowbro",
+      "npcs": []
+    },
+    {
+      "name": "Magnemite",
+      "npcs": [
+        {
+          "npc": "Aaron",
+          "url": "https://imgur.com/a/pFkpjev"
+        }
+      ]
+    },
+    {
+      "name": "Magneton",
+      "npcs": []
+    },
+    {
+      "name": "Farfetch'd",
+      "npcs": [
+        {
+          "npc": "Camila",
+          "url": "https://imgur.com/a/qQvozOt"
+        }
+      ]
+    },
+    {
+      "name": "Doduo",
+      "npcs": []
+    },
+    {
+      "name": "Dodrio",
+      "npcs": []
+    },
+    {
+      "name": "Seel",
+      "npcs": []
+    },
+    {
+      "name": "Dewgong",
+      "npcs": [
+        {
+          "npc": "Lucas",
+          "url": "https://imgur.com/a/YO8943i"
+        }
+      ]
+    },
+    {
+      "name": "Grimer",
+      "npcs": []
+    },
+    {
+      "name": "Muk",
+      "npcs": [
+        {
+          "npc": "Connor",
+          "url": "https://imgur.com/a/rNnKjpv"
+        }
+      ]
+    },
+    {
+      "name": "Shellder",
+      "npcs": []
+    },
+    {
+      "name": "Cloyster",
+      "npcs": [
+        {
+          "npc": "Aurora",
+          "url": "https://imgur.com/a/c8zaZAh"
+        }
+      ]
+    },
+    {
+      "name": "Gastly",
+      "npcs": [
+        {
+          "npc": "Grace",
+          "url": "https://imgur.com/a/7owKwog"
+        }
+      ]
+    },
+    {
+      "name": "Haunter",
+      "npcs": [
+        {
+          "npc": "Grace",
+          "url": "https://imgur.com/a/7owKwog"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "npcs": [
+        {
+          "npc": "Jackson",
+          "url": "https://imgur.com/a/fDtaziH"
+        }
+      ]
+    },
+    {
+      "name": "Onix",
+      "npcs": []
+    },
+    {
+      "name": "Drowzee",
+      "npcs": []
+    },
+    {
+      "name": "Hypno",
+      "npcs": []
+    },
+    {
+      "name": "Krabby",
+      "npcs": []
+    },
+    {
+      "name": "Kingler",
+      "npcs": []
+    },
+    {
+      "name": "Voltorb",
+      "npcs": [
+        {
+          "npc": "Aaron",
+          "url": "https://imgur.com/a/pFkpjev"
+        }
+      ]
+    },
+    {
+      "name": "Electrode",
+      "npcs": []
+    },
+    {
+      "name": "Exeggcute",
+      "npcs": []
+    },
+    {
+      "name": "Exeggutor",
+      "npcs": []
+    },
+    {
+      "name": "Cubone",
+      "npcs": [
+        {
+          "npc": "Lily",
+          "url": "https://imgur.com/a/GEmLpCs"
+        }
+      ]
+    },
+    {
+      "name": "Marowak",
+      "npcs": [
+        {
+          "npc": "Lily",
+          "url": "https://imgur.com/a/GEmLpCs"
+        }
+      ]
+    },
+    {
+      "name": "Hitmonlee",
+      "npcs": []
+    },
+    {
+      "name": "Hitmonchan",
+      "npcs": []
+    },
+    {
+      "name": "Lickitung",
+      "npcs": []
+    },
+    {
+      "name": "Koffing",
+      "npcs": []
+    },
+    {
+      "name": "Weezing",
+      "npcs": []
+    },
+    {
+      "name": "Rhyhorn",
+      "npcs": []
+    },
+    {
+      "name": "Rhydon",
+      "npcs": []
+    },
+    {
+      "name": "Chansey",
+      "npcs": []
+    },
+    {
+      "name": "Tangela",
+      "npcs": [
+        {
+          "npc": "Nolan",
+          "url": "https://imgur.com/a/nlNYZER"
+        },
+        {
+          "npc": "Vincent",
+          "url": "https://imgur.com/a/DqsE5Ex"
+        }
+      ]
+    },
+    {
+      "name": "Kangaskhan",
+      "npcs": [
+        {
+          "npc": "Matilda",
+          "url": "https://imgur.com/a/GxzDzlT"
+        }
+      ]
+    },
+    {
+      "name": "Horsea",
+      "npcs": []
+    },
+    {
+      "name": "Seadra",
+      "npcs": []
+    },
+    {
+      "name": "Goldeen",
+      "npcs": []
+    },
+    {
+      "name": "Seaking",
+      "npcs": []
+    },
+    {
+      "name": "Staryu",
+      "npcs": []
+    },
+    {
+      "name": "Starmie",
+      "npcs": []
+    },
+    {
+      "name": "Mr. Mime",
+      "npcs": [
+        {
+          "npc": "Marcel",
+          "url": "https://imgur.com/a/zxBmy6C"
+        }
+      ]
+    },
+    {
+      "name": "Scyther",
+      "npcs": [
+        {
+          "npc": "Blade",
+          "url": "https://imgur.com/a/MWTHslg"
+        }
+      ]
+    },
+    {
+      "name": "Jynx",
+      "npcs": [
+        {
+          "npc": "Harper",
+          "url": "https://imgur.com/a/dy3sR9T"
+        }
+      ]
+    },
+    {
+      "name": "Electabuzz",
+      "npcs": []
+    },
+    {
+      "name": "Magmar",
+      "npcs": []
+    },
+    {
+      "name": "Pinsir",
+      "npcs": [
+        {
+          "npc": "Dexter",
+          "url": "https://imgur.com/a/VfGDmhy"
+        }
+      ]
+    },
+    {
+      "name": "Tauros",
+      "npcs": [
+        {
+          "npc": "Riley",
+          "url": "https://imgur.com/a/IEK8k14"
+        }
+      ]
+    },
+    {
+      "name": "Magikarp",
+      "npcs": []
+    },
+    {
+      "name": "Gyarados",
+      "npcs": []
+    },
+    {
+      "name": "Lapras",
+      "npcs": [
+        {
+          "npc": "Coral",
+          "url": "https://imgur.com/a/IuuAQLl"
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "npcs": [
+        {
+          "npc": "Dr. Oliveira",
+          "url": "https://imgur.com/a/bVsObWr"
+        }
+      ]
+    },
+    {
+      "name": "Eevee",
+      "npcs": []
+    },
+    {
+      "name": "Vaporeon",
+      "npcs": []
+    },
+    {
+      "name": "Jolteon",
+      "npcs": []
+    },
+    {
+      "name": "Flareon",
+      "npcs": []
+    },
+    {
+      "name": "Porygon",
+      "npcs": []
+    },
+    {
+      "name": "Omanyte",
+      "npcs": []
+    },
+    {
+      "name": "Omastar",
+      "npcs": []
+    },
+    {
+      "name": "Kabuto",
+      "npcs": []
+    },
+    {
+      "name": "Kabutops",
+      "npcs": []
+    },
+    {
+      "name": "Aerodactyl",
+      "npcs": []
+    },
+    {
+      "name": "Snorlax",
+      "npcs": [
+        {
+          "npc": "Doris",
+          "url": "https://imgur.com/a/8FonsNS"
+        }
+      ]
+    },
+    {
+      "name": "Articuno",
+      "npcs": []
+    },
+    {
+      "name": "Zapdos",
+      "npcs": []
+    },
+    {
+      "name": "Moltres",
+      "npcs": []
+    },
+    {
+      "name": "Dratini",
+      "npcs": []
+    },
+    {
+      "name": "Dragonair",
+      "npcs": [
+        {
+          "npc": "Scarlet",
+          "url": "https://imgur.com/a/D2LbysH"
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "npcs": []
+    },
+    {
+      "name": "Mewtwo",
+      "npcs": []
+    },
+    {
+      "name": "Mew",
+      "npcs": []
+    },
+    {
+      "name": "Chikorita",
+      "npcs": []
+    },
+    {
+      "name": "Bayleef",
+      "npcs": []
+    },
+    {
+      "name": "Meganium",
+      "npcs": [
+        {
+          "npc": "Penelope",
+          "url": "https://imgur.com/a/uUDQMYp"
+        }
+      ]
+    },
+    {
+      "name": "Cyndaquil",
+      "npcs": []
+    },
+    {
+      "name": "Quilava",
+      "npcs": []
+    },
+    {
+      "name": "Typhlosion",
+      "npcs": []
+    },
+    {
+      "name": "Totodile",
+      "npcs": []
+    },
+    {
+      "name": "Croconaw",
+      "npcs": []
+    },
+    {
+      "name": "Feraligatr",
+      "npcs": []
+    },
+    {
+      "name": "Sentret",
+      "npcs": []
+    },
+    {
+      "name": "Furret",
+      "npcs": []
+    },
+    {
+      "name": "Hoothoot",
+      "npcs": []
+    },
+    {
+      "name": "Noctowl",
+      "npcs": []
+    },
+    {
+      "name": "Ledyba",
+      "npcs": []
+    },
+    {
+      "name": "Ledian",
+      "npcs": []
+    },
+    {
+      "name": "Spinarak",
+      "npcs": []
+    },
+    {
+      "name": "Ariados",
+      "npcs": []
+    },
+    {
+      "name": "Crobat",
+      "npcs": []
+    },
+    {
+      "name": "Chinchou",
+      "npcs": []
+    },
+    {
+      "name": "Lanturn",
+      "npcs": []
+    },
+    {
+      "name": "Pichu",
+      "npcs": []
+    },
+    {
+      "name": "Cleffa",
+      "npcs": []
+    },
+    {
+      "name": "Igglybuff",
+      "npcs": []
+    },
+    {
+      "name": "Togepi",
+      "npcs": []
+    },
+    {
+      "name": "Togetic",
+      "npcs": []
+    },
+    {
+      "name": "Natu",
+      "npcs": []
+    },
+    {
+      "name": "Xatu",
+      "npcs": []
+    },
+    {
+      "name": "Mareep",
+      "npcs": []
+    },
+    {
+      "name": "Flaaffy",
+      "npcs": []
+    },
+    {
+      "name": "Ampharos",
+      "npcs": []
+    },
+    {
+      "name": "Bellossom",
+      "npcs": []
+    },
+    {
+      "name": "Marill",
+      "npcs": []
+    },
+    {
+      "name": "Azumarill",
+      "npcs": []
+    },
+    {
+      "name": "Sudowoodo",
+      "npcs": []
+    },
+    {
+      "name": "Politoed",
+      "npcs": []
+    },
+    {
+      "name": "Hoppip",
+      "npcs": []
+    },
+    {
+      "name": "Skiploom",
+      "npcs": []
+    },
+    {
+      "name": "Jumpluff",
+      "npcs": []
+    },
+    {
+      "name": "Aipom",
+      "npcs": []
+    },
+    {
+      "name": "Sunkern",
+      "npcs": []
+    },
+    {
+      "name": "Sunflora",
+      "npcs": []
+    },
+    {
+      "name": "Yanma",
+      "npcs": []
+    },
+    {
+      "name": "Wooper",
+      "npcs": []
+    },
+    {
+      "name": "Quagsire",
+      "npcs": []
+    },
+    {
+      "name": "Espeon",
+      "npcs": []
+    },
+    {
+      "name": "Umbreon",
+      "npcs": []
+    },
+    {
+      "name": "Murkrow",
+      "npcs": []
+    },
+    {
+      "name": "Slowking",
+      "npcs": []
+    },
+    {
+      "name": "Misdreavus",
+      "npcs": [
+        {
+          "npc": "Mia",
+          "url": "https://imgur.com/a/PBPp44A"
+        },
+        {
+          "npc": "Wendy",
+          "url": "https://imgur.com/a/cDdMYdF"
+        }
+      ]
+    },
+    {
+      "name": "Unown",
+      "npcs": []
+    },
+    {
+      "name": "Wobbuffet",
+      "npcs": [
+        {
+          "npc": "Wanda",
+          "url": "https://imgur.com/a/QY7kylO"
+        }
+      ]
+    },
+    {
+      "name": "Girafarig",
+      "npcs": []
+    },
+    {
+      "name": "Pineco",
+      "npcs": []
+    },
+    {
+      "name": "Forretress",
+      "npcs": []
+    },
+    {
+      "name": "Dunsparce",
+      "npcs": []
+    },
+    {
+      "name": "Gligar",
+      "npcs": []
+    },
+    {
+      "name": "Steelix",
+      "npcs": []
+    },
+    {
+      "name": "Snubbull",
+      "npcs": []
+    },
+    {
+      "name": "Granbull",
+      "npcs": []
+    },
+    {
+      "name": "Qwilfish",
+      "npcs": [
+        {
+          "npc": "Quill",
+          "url": "https://imgur.com/a/fmnPze7"
+        }
+      ]
+    },
+    {
+      "name": "Scizor",
+      "npcs": []
+    },
+    {
+      "name": "Shuckle",
+      "npcs": []
+    },
+    {
+      "name": "Heracross",
+      "npcs": [
+        {
+          "npc": "Atlas",
+          "url": "https://imgur.com/a/JrzuMGt"
+        }
+      ]
+    },
+    {
+      "name": "Sneasel",
+      "npcs": []
+    },
+    {
+      "name": "Teddiursa",
+      "npcs": []
+    },
+    {
+      "name": "Ursaring",
+      "npcs": []
+    },
+    {
+      "name": "Slugma",
+      "npcs": []
+    },
+    {
+      "name": "Magcargo",
+      "npcs": []
+    },
+    {
+      "name": "Swinub",
+      "npcs": []
+    },
+    {
+      "name": "Piloswine",
+      "npcs": [
+        {
+          "npc": "Benjamin",
+          "url": "https://imgur.com/a/5sRvkND"
+        }
+      ]
+    },
+    {
+      "name": "Corsola",
+      "npcs": []
+    },
+    {
+      "name": "Remoraid",
+      "npcs": []
+    },
+    {
+      "name": "Octillery",
+      "npcs": []
+    },
+    {
+      "name": "Delibird",
+      "npcs": []
+    },
+    {
+      "name": "Mantine",
+      "npcs": [
+        {
+          "npc": "Marissa",
+          "url": "https://imgur.com/a/29hR1XF"
+        }
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "npcs": [
+        {
+          "npc": "Autumn",
+          "url": "https://imgur.com/a/TkJ6dSS"
+        },
+        {
+          "npc": "Blaze",
+          "url": "https://imgur.com/a/HQZwt8g"
+        }
+      ]
+    },
+    {
+      "name": "Houndour",
+      "npcs": []
+    },
+    {
+      "name": "Houndoom",
+      "npcs": [
+        {
+          "npc": "Grayson",
+          "url": "https://imgur.com/a/4J1YTmD"
+        }
+      ]
+    },
+    {
+      "name": "Kingdra",
+      "npcs": []
+    },
+    {
+      "name": "Phanpy",
+      "npcs": []
+    },
+    {
+      "name": "Donphan",
+      "npcs": []
+    },
+    {
+      "name": "Porygon2",
+      "npcs": []
+    },
+    {
+      "name": "Stantler",
+      "npcs": []
+    },
+    {
+      "name": "Smeargle",
+      "npcs": []
+    },
+    {
+      "name": "Tyrogue",
+      "npcs": []
+    },
+    {
+      "name": "Hitmontop",
+      "npcs": []
+    },
+    {
+      "name": "Smoochum",
+      "npcs": []
+    },
+    {
+      "name": "Elekid",
+      "npcs": []
+    },
+    {
+      "name": "Magby",
+      "npcs": []
+    },
+    {
+      "name": "Miltank",
+      "npcs": [
+        {
+          "npc": "Henry",
+          "url": "https://imgur.com/a/D03hzNM"
+        },
+        {
+          "npc": "Daisy",
+          "url": "https://imgur.com/a/D03hzNM"
+        }
+      ]
+    },
+    {
+      "name": "Blissey",
+      "npcs": []
+    },
+    {
+      "name": "Raikou",
+      "npcs": []
+    },
+    {
+      "name": "Entei",
+      "npcs": []
+    },
+    {
+      "name": "Suicune",
+      "npcs": []
+    },
+    {
+      "name": "Larvitar",
+      "npcs": []
+    },
+    {
+      "name": "Pupitar",
+      "npcs": []
+    },
+    {
+      "name": "Tyranitar",
+      "npcs": []
+    },
+    {
+      "name": "Lugia",
+      "npcs": []
+    },
+    {
+      "name": "Ho-oh",
+      "npcs": []
+    },
+    {
+      "name": "Celebi",
+      "npcs": []
+    },
+    {
+      "name": "Treecko",
+      "npcs": []
+    },
+    {
+      "name": "Grovyle",
+      "npcs": []
+    },
+    {
+      "name": "Sceptile",
+      "npcs": [
+        {
+          "npc": "Kaela",
+          "url": "https://imgur.com/a/7Tok0hP"
+        }
+      ]
+    },
+    {
+      "name": "Torchic",
+      "npcs": [
+        {
+          "npc": "Beatriz",
+          "url": "https://imgur.com/a/13SqnNQ"
+        }
+      ]
+    },
+    {
+      "name": "Combusken",
+      "npcs": [
+        {
+          "npc": "Beatriz",
+          "url": "https://imgur.com/a/13SqnNQ"
+        }
+      ]
+    },
+    {
+      "name": "Blaziken",
+      "npcs": [
+        {
+          "npc": "Kaela",
+          "url": "https://imgur.com/a/7Tok0hP"
+        },
+        {
+          "npc": "Beatriz",
+          "url": "https://imgur.com/a/13SqnNQ"
+        }
+      ]
+    },
+    {
+      "name": "Mudkip",
+      "npcs": [
+        {
+          "npc": "Cedric",
+          "url": "https://imgur.com/a/CilI2Qu"
+        }
+      ]
+    },
+    {
+      "name": "Marshtomp",
+      "npcs": [
+        {
+          "npc": "Cedric",
+          "url": "https://imgur.com/a/CilI2Qu"
+        }
+      ]
+    },
+    {
+      "name": "Swampert",
+      "npcs": [
+        {
+          "npc": "Cedric",
+          "url": "https://imgur.com/a/CilI2Qu"
+        },
+        {
+          "npc": "Kaela",
+          "url": "https://imgur.com/a/7Tok0hP"
+        }
+      ]
+    },
+    {
+      "name": "Poochyena",
+      "npcs": [
+        {
+          "npc": "Diana",
+          "url": "https://imgur.com/a/quY35DH"
+        }
+      ]
+    },
+    {
+      "name": "Mightyena",
+      "npcs": [
+        {
+          "npc": "Diana",
+          "url": "https://imgur.com/a/quY35DH"
+        }
+      ]
+    },
+    {
+      "name": "Zigzagoon",
+      "npcs": [
+        {
+          "npc": "Eduardo",
+          "url": "https://imgur.com/a/srQujl5"
+        }
+      ]
+    },
+    {
+      "name": "Linoone",
+      "npcs": [
+        {
+          "npc": "Eduardo",
+          "url": "https://imgur.com/a/srQujl5"
+        }
+      ]
+    },
+    {
+      "name": "Wurmple",
+      "npcs": []
+    },
+    {
+      "name": "Silcoon",
+      "npcs": [
+        {
+          "npc": "Fernanda",
+          "url": "https://imgur.com/a/DzCTHuU"
+        }
+      ]
+    },
+    {
+      "name": "Beautifly",
+      "npcs": [
+        {
+          "npc": "Fernanda",
+          "url": "https://imgur.com/a/DzCTHuU"
+        }
+      ]
+    },
+    {
+      "name": "Cascoon",
+      "npcs": [
+        {
+          "npc": "Gustavo",
+          "url": "https://imgur.com/a/qWFHjSa"
+        }
+      ]
+    },
+    {
+      "name": "Dustox",
+      "npcs": [
+        {
+          "npc": "Gustavo",
+          "url": "https://imgur.com/a/qWFHjSa"
+        }
+      ]
+    },
+    {
+      "name": "Lotad",
+      "npcs": [
+        {
+          "npc": "Helena",
+          "url": "https://imgur.com/a/bVXSMgI"
+        }
+      ]
+    },
+    {
+      "name": "Lombre",
+      "npcs": [
+        {
+          "npc": "Helena",
+          "url": "https://imgur.com/a/bVXSMgI"
+        }
+      ]
+    },
+    {
+      "name": "Ludicolo",
+      "npcs": [
+        {
+          "npc": "Helena",
+          "url": "https://imgur.com/a/bVXSMgI"
+        }
+      ]
+    },
+    {
+      "name": "Seedot",
+      "npcs": [
+        {
+          "npc": "Igor",
+          "url": "https://imgur.com/a/5qzdvFp"
+        }
+      ]
+    },
+    {
+      "name": "Nuzleaf",
+      "npcs": [
+        {
+          "npc": "Igor",
+          "url": "https://imgur.com/a/5qzdvFp"
+        }
+      ]
+    },
+    {
+      "name": "Shiftry",
+      "npcs": [
+        {
+          "npc": "Igor",
+          "url": "https://imgur.com/a/5qzdvFp"
+        }
+      ]
+    },
+    {
+      "name": "Taillow",
+      "npcs": []
+    },
+    {
+      "name": "Swellow",
+      "npcs": []
+    },
+    {
+      "name": "Wingull",
+      "npcs": [
+        {
+          "npc": "Kevin",
+          "url": "https://imgur.com/a/3uzfVdr"
+        }
+      ]
+    },
+    {
+      "name": "Pelipper",
+      "npcs": [
+        {
+          "npc": "Kevin",
+          "url": "https://imgur.com/a/3uzfVdr"
+        }
+      ]
+    },
+    {
+      "name": "Ralts",
+      "npcs": [
+        {
+          "npc": "Larissa",
+          "url": "https://imgur.com/a/4qZv6j4"
+        }
+      ]
+    },
+    {
+      "name": "Kirlia",
+      "npcs": [
+        {
+          "npc": "Larissa",
+          "url": "https://imgur.com/a/4qZv6j4"
+        }
+      ]
+    },
+    {
+      "name": "Gardevoir",
+      "npcs": [
+        {
+          "npc": "Larissa",
+          "url": "https://imgur.com/a/4qZv6j4"
+        }
+      ]
+    },
+    {
+      "name": "Surskit",
+      "npcs": [
+        {
+          "npc": "Marcelo",
+          "url": "https://imgur.com/a/7RyMS2g"
+        }
+      ]
+    },
+    {
+      "name": "Masquerain",
+      "npcs": [
+        {
+          "npc": "Marcelo",
+          "url": "https://imgur.com/a/7RyMS2g"
+        }
+      ]
+    },
+    {
+      "name": "Shroomish",
+      "npcs": [
+        {
+          "npc": "Nicole",
+          "url": "https://imgur.com/a/s6WzxSe"
+        }
+      ]
+    },
+    {
+      "name": "Breloom",
+      "npcs": [
+        {
+          "npc": "Nicole",
+          "url": "https://imgur.com/a/s6WzxSe"
+        }
+      ]
+    },
+    {
+      "name": "Slakoth",
+      "npcs": [
+        {
+          "npc": "Octavio",
+          "url": "https://imgur.com/a/Rv0FwSX"
+        }
+      ]
+    },
+    {
+      "name": "Vigoroth",
+      "npcs": [
+        {
+          "npc": "Octavio",
+          "url": "https://imgur.com/a/Rv0FwSX"
+        }
+      ]
+    },
+    {
+      "name": "Slaking",
+      "npcs": [
+        {
+          "npc": "Octavio",
+          "url": "https://imgur.com/a/Rv0FwSX"
+        }
+      ]
+    },
+    {
+      "name": "Nincada",
+      "npcs": [
+        {
+          "npc": "Patricia",
+          "url": "https://imgur.com/a/E8qjeH8"
+        }
+      ]
+    },
+    {
+      "name": "Ninjask",
+      "npcs": [
+        {
+          "npc": "Patricia",
+          "url": "https://imgur.com/a/E8qjeH8"
+        }
+      ]
+    },
+    {
+      "name": "Shedinja",
+      "npcs": [
+        {
+          "npc": "Patricia",
+          "url": "https://imgur.com/a/E8qjeH8"
+        }
+      ]
+    },
+    {
+      "name": "Whismur",
+      "npcs": [
+        {
+          "npc": "Quirino",
+          "url": "https://imgur.com/a/rGxGeVU"
+        }
+      ]
+    },
+    {
+      "name": "Loudred",
+      "npcs": [
+        {
+          "npc": "Quirino",
+          "url": "https://imgur.com/a/rGxGeVU"
+        }
+      ]
+    },
+    {
+      "name": "Exploud",
+      "npcs": [
+        {
+          "npc": "Quirino",
+          "url": "https://imgur.com/a/rGxGeVU"
+        }
+      ]
+    },
+    {
+      "name": "Makuhita",
+      "npcs": [
+        {
+          "npc": "Rafaela",
+          "url": "https://imgur.com/a/subt538"
+        }
+      ]
+    },
+    {
+      "name": "Hariyama",
+      "npcs": [
+        {
+          "npc": "Rafaela",
+          "url": "https://imgur.com/a/subt538"
+        }
+      ]
+    },
+    {
+      "name": "Azurill",
+      "npcs": []
+    },
+    {
+      "name": "Nosepass",
+      "npcs": []
+    },
+    {
+      "name": "Skitty",
+      "npcs": [
+        {
+          "npc": "Ulisses",
+          "url": "https://imgur.com/a/aKu4S0S"
+        }
+      ]
+    },
+    {
+      "name": "Delcatty",
+      "npcs": [
+        {
+          "npc": "Ulisses",
+          "url": "https://imgur.com/a/aKu4S0S"
+        }
+      ]
+    },
+    {
+      "name": "Sableye",
+      "npcs": [
+        {
+          "npc": "Wagner",
+          "url": "https://imgur.com/a/pPbHeWc"
+        }
+      ]
+    },
+    {
+      "name": "Mawile",
+      "npcs": [
+        {
+          "npc": "Xenia",
+          "url": "https://imgur.com/a/SJjIR88"
+        }
+      ]
+    },
+    {
+      "name": "Aron",
+      "npcs": [
+        {
+          "npc": "Ygor",
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "Lairon",
+      "npcs": [
+        {
+          "npc": "Ygor",
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "Aggron",
+      "npcs": [
+        {
+          "npc": "Ygor",
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "Meditite",
+      "npcs": [
+        {
+          "npc": "Zuleica",
+          "url": "https://imgur.com/a/0irrv1r"
+        }
+      ]
+    },
+    {
+      "name": "Medicham",
+      "npcs": [
+        {
+          "npc": "Zuleica",
+          "url": "https://imgur.com/a/0irrv1r"
+        }
+      ]
+    },
+    {
+      "name": "Electrike",
+      "npcs": [
+        {
+          "npc": "Adriano",
+          "url": "https://imgur.com/a/gZXKevQ"
+        }
+      ]
+    },
+    {
+      "name": "Manectric",
+      "npcs": [
+        {
+          "npc": "Adriano",
+          "url": "https://imgur.com/a/gZXKevQ"
+        }
+      ]
+    },
+    {
+      "name": "Plusle",
+      "npcs": [
+        {
+          "npc": "Bianca",
+          "url": "https://imgur.com/a/NP74ZdI"
+        }
+      ]
+    },
+    {
+      "name": "Minun",
+      "npcs": [
+        {
+          "npc": "Bianca",
+          "url": "https://imgur.com/a/NP74ZdI"
+        }
+      ]
+    },
+    {
+      "name": "Volbeat",
+      "npcs": []
+    },
+    {
+      "name": "Illumise",
+      "npcs": []
+    },
+    {
+      "name": "Roselia",
+      "npcs": [
+        {
+          "npc": "Daniela",
+          "url": "https://imgur.com/a/wTW0rgt"
+        }
+      ]
+    },
+    {
+      "name": "Gulpin",
+      "npcs": [
+        {
+          "npc": "Fabiana",
+          "url": "https://imgur.com/a/W1n420E"
+        }
+      ]
+    },
+    {
+      "name": "Swalot",
+      "npcs": [
+        {
+          "npc": "Fabiana",
+          "url": "https://imgur.com/a/W1n420E"
+        }
+      ]
+    },
+    {
+      "name": "Carvanha",
+      "npcs": [
+        {
+          "npc": "Gilberto",
+          "url": "https://imgur.com/a/cG8jdq3"
+        }
+      ]
+    },
+    {
+      "name": "Sharpedo",
+      "npcs": [
+        {
+          "npc": "Gilberto",
+          "url": "https://imgur.com/a/cG8jdq3"
+        }
+      ]
+    },
+    {
+      "name": "Wailmer",
+      "npcs": [
+        {
+          "npc": "Heloisa",
+          "url": "https://imgur.com/a/f1vbCNC"
+        }
+      ]
+    },
+    {
+      "name": "Wailord",
+      "npcs": [
+        {
+          "npc": "Heloisa",
+          "url": "https://imgur.com/a/f1vbCNC"
+        }
+      ]
+    },
+    {
+      "name": "Numel",
+      "npcs": [
+        {
+          "npc": "Iuri",
+          "url": "https://imgur.com/a/LltpRYe"
+        }
+      ]
+    },
+    {
+      "name": "Camerupt",
+      "npcs": [
+        {
+          "npc": "Iuri",
+          "url": "https://imgur.com/a/LltpRYe"
+        }
+      ]
+    },
+    {
+      "name": "Torkoal",
+      "npcs": [
+        {
+          "npc": "Jaqueline",
+          "url": "https://imgur.com/a/e9oSags"
+        }
+      ]
+    },
+    {
+      "name": "Spoink",
+      "npcs": [
+        {
+          "npc": "Kaue",
+          "url": "https://imgur.com/a/iViOJtA"
+        }
+      ]
+    },
+    {
+      "name": "Grumpig",
+      "npcs": [
+        {
+          "npc": "Kaue",
+          "url": "https://imgur.com/a/iViOJtA"
+        }
+      ]
+    },
+    {
+      "name": "Spinda",
+      "npcs": []
+    },
+    {
+      "name": "Trapinch",
+      "npcs": [
+        {
+          "npc": "Mario",
+          "url": "https://imgur.com/a/J2yH0M6"
+        }
+      ]
+    },
+    {
+      "name": "Vibrava",
+      "npcs": [
+        {
+          "npc": "Mario",
+          "url": "https://imgur.com/a/J2yH0M6"
+        }
+      ]
+    },
+    {
+      "name": "Flygon",
+      "npcs": [
+        {
+          "npc": "Mario",
+          "url": "https://imgur.com/a/J2yH0M6"
+        }
+      ]
+    },
+    {
+      "name": "Cacnea",
+      "npcs": [
+        {
+          "npc": "Natalia",
+          "url": "https://imgur.com/a/CHRjs14"
+        }
+      ]
+    },
+    {
+      "name": "Cacturne",
+      "npcs": [
+        {
+          "npc": "Natalia",
+          "url": "https://imgur.com/a/CHRjs14"
+        }
+      ]
+    },
+    {
+      "name": "Swablu",
+      "npcs": [
+        {
+          "npc": "Osvaldo",
+          "url": "https://imgur.com/a/4BU3DIw"
+        }
+      ]
+    },
+    {
+      "name": "Altaria",
+      "npcs": [
+        {
+          "npc": "Osvaldo",
+          "url": "https://imgur.com/a/4BU3DIw"
+        }
+      ]
+    },
+    {
+      "name": "Zangoose",
+      "npcs": [
+        {
+          "npc": "Priscila",
+          "url": "https://imgur.com/a/UZYLkq1"
+        }
+      ]
+    },
+    {
+      "name": "Seviper",
+      "npcs": [
+        {
+          "npc": "Renato",
+          "url": "https://imgur.com/a/8blMAEF"
+        },
+        {
+          "npc": "Sergio",
+          "url": "https://imgur.com/a/xp2NokO"
+        }
+      ]
+    },
+    {
+      "name": "Lunatone",
+      "npcs": [
+        {
+          "npc": "Lyra",
+          "url": "https://imgur.com/a/ZNfrPlF"
+        },
+        {
+          "npc": "Thiago",
+          "url": "https://imgur.com/a/tHVsIsX"
+        }
+      ]
+    },
+    {
+      "name": "Solrock",
+      "npcs": [
+        {
+          "npc": "Helio",
+          "url": "https://imgur.com/a/W937hgf"
+        },
+        {
+          "npc": "Thiago",
+          "url": "https://imgur.com/a/tHVsIsX"
+        }
+      ]
+    },
+    {
+      "name": "Barboach",
+      "npcs": [
+        {
+          "npc": "Vicente",
+          "url": "https://imgur.com/a/3VwW2qZ"
+        }
+      ]
+    },
+    {
+      "name": "Whiscash",
+      "npcs": [
+        {
+          "npc": "Vicente",
+          "url": "https://imgur.com/a/3VwW2qZ"
+        }
+      ]
+    },
+    {
+      "name": "Corphish",
+      "npcs": [
+        {
+          "npc": "Xisto",
+          "url": "https://imgur.com/a/8N0wTGr"
+        }
+      ]
+    },
+    {
+      "name": "Crawdaunt",
+      "npcs": [
+        {
+          "npc": "Xisto",
+          "url": "https://imgur.com/a/8N0wTGr"
+        }
+      ]
+    },
+    {
+      "name": "Baltoy",
+      "npcs": [
+        {
+          "npc": "Yasmin",
+          "url": "https://imgur.com/a/91iZYub"
+        }
+      ]
+    },
+    {
+      "name": "Claydol",
+      "npcs": [
+        {
+          "npc": "Yasmin",
+          "url": "https://imgur.com/a/91iZYub"
+        }
+      ]
+    },
+    {
+      "name": "Lileep",
+      "npcs": []
+    },
+    {
+      "name": "Cradily",
+      "npcs": [
+        {
+          "npc": "Zeca",
+          "url": "https://imgur.com/a/dhBNsP3"
+        }
+      ]
+    },
+    {
+      "name": "Anorith",
+      "npcs": [
+        {
+          "npc": "Alessandra",
+          "url": "https://imgur.com/a/3TH2eLX"
+        }
+      ]
+    },
+    {
+      "name": "Armaldo",
+      "npcs": [
+        {
+          "npc": "Alessandra",
+          "url": "https://imgur.com/a/3TH2eLX"
+        }
+      ]
+    },
+    {
+      "name": "Feebas",
+      "npcs": [
+        {
+          "npc": "Elisa",
+          "url": "https://imgur.com/a/KXcgrGa"
+        }
+      ]
+    },
+    {
+      "name": "Milotic",
+      "npcs": [
+        {
+          "npc": "Elisa",
+          "url": "https://imgur.com/a/KXcgrGa"
+        }
+      ]
+    },
+    {
+      "name": "Castform",
+      "npcs": [
+        {
+          "npc": "Diego",
+          "url": "https://imgur.com/a/M08qGWo"
+        }
+      ]
+    },
+    {
+      "name": "Kecleon",
+      "npcs": [
+        {
+          "npc": "Fernando",
+          "url": "https://imgur.com/a/tIZh4hQ"
+        }
+      ]
+    },
+    {
+      "name": "Shuppet",
+      "npcs": []
+    },
+    {
+      "name": "Banette",
+      "npcs": []
+    },
+    {
+      "name": "Duskull",
+      "npcs": []
+    },
+    {
+      "name": "Dusclops",
+      "npcs": []
+    },
+    {
+      "name": "Tropius",
+      "npcs": [
+        {
+          "npc": "Henrique",
+          "url": "https://imgur.com/a/4tWBIfg"
+        }
+      ]
+    },
+    {
+      "name": "Chimecho",
+      "npcs": [
+        {
+          "npc": "Isadora",
+          "url": "https://imgur.com/a/makffiD"
+        }
+      ]
+    },
+    {
+      "name": "Absol",
+      "npcs": [
+        {
+          "npc": "Jorge",
+          "url": "https://imgur.com/a/JvDgg2S"
+        },
+        {
+          "npc": "Rowena",
+          "url": "https://imgur.com/a/3CUDkD2"
+        }
+      ]
+    },
+    {
+      "name": "Wynaut",
+      "npcs": []
+    },
+    {
+      "name": "Snorunt",
+      "npcs": []
+    },
+    {
+      "name": "Glalie",
+      "npcs": []
+    },
+    {
+      "name": "Spheal",
+      "npcs": [
+        {
+          "npc": "Nelio",
+          "url": "https://imgur.com/a/1SDaMvq"
+        }
+      ]
+    },
+    {
+      "name": "Sealeo",
+      "npcs": [
+        {
+          "npc": "Nelio",
+          "url": "https://imgur.com/a/1SDaMvq"
+        }
+      ]
+    },
+    {
+      "name": "Walrein",
+      "npcs": [
+        {
+          "npc": "Nelio",
+          "url": "https://imgur.com/a/1SDaMvq"
+        }
+      ]
+    },
+    {
+      "name": "Clamperl",
+      "npcs": [
+        {
+          "npc": "Leonardo",
+          "url": "https://imgur.com/a/7plXUBy"
+        }
+      ]
+    },
+    {
+      "name": "Huntail",
+      "npcs": [
+        {
+          "npc": "Olivia",
+          "url": "https://imgur.com/a/GvUNfvI"
+        },
+        {
+          "npc": "Darian",
+          "url": "https://imgur.com/a/yf8McW8"
+        }
+      ]
+    },
+    {
+      "name": "Gorebyss",
+      "npcs": [
+        {
+          "npc": "Quezia",
+          "url": "https://imgur.com/a/rPNCYPx"
+        }
+      ]
+    },
+    {
+      "name": "Relicanth",
+      "npcs": [
+        {
+          "npc": "Roberto",
+          "url": "https://imgur.com/a/6rbv74w"
+        },
+        {
+          "npc": "Aldric",
+          "url": "https://imgur.com/a/FWC14O8"
+        }
+      ]
+    },
+    {
+      "name": "Luvdisc",
+      "npcs": [
+        {
+          "npc": "Tiago",
+          "url": "https://imgur.com/a/TD4brVl"
+        }
+      ]
+    },
+    {
+      "name": "Bagon",
+      "npcs": [
+        {
+          "npc": "Sonia",
+          "url": "https://imgur.com/a/aH6C5Aa"
+        }
+      ]
+    },
+    {
+      "name": "Shelgon",
+      "npcs": [
+        {
+          "npc": "Sonia",
+          "url": "https://imgur.com/a/aH6C5Aa"
+        }
+      ]
+    },
+    {
+      "name": "Salamence",
+      "npcs": [
+        {
+          "npc": "Sonia",
+          "url": "https://imgur.com/a/aH6C5Aa"
+        }
+      ]
+    },
+    {
+      "name": "Beldum",
+      "npcs": [
+        {
+          "npc": "Ester",
+          "url": "https://imgur.com/a/63Z6NBG"
+        }
+      ]
+    },
+    {
+      "name": "Metang",
+      "npcs": [
+        {
+          "npc": "Ester",
+          "url": "https://imgur.com/a/63Z6NBG"
+        }
+      ]
+    },
+    {
+      "name": "Metagross",
+      "npcs": [
+        {
+          "npc": "Ester",
+          "url": "https://imgur.com/a/63Z6NBG"
+        }
+      ]
+    },
+    {
+      "name": "Regirock",
+      "npcs": []
+    },
+    {
+      "name": "Regice",
+      "npcs": []
+    },
+    {
+      "name": "Registeel",
+      "npcs": []
+    },
+    {
+      "name": "Latios",
+      "npcs": []
+    },
+    {
+      "name": "Latias",
+      "npcs": []
+    },
+    {
+      "name": "Kyogre",
+      "npcs": []
+    },
+    {
+      "name": "Groudon",
+      "npcs": []
+    },
+    {
+      "name": "Rayquaza",
+      "npcs": []
+    },
+    {
+      "name": "Jirachi",
+      "npcs": []
+    },
+    {
+      "name": "Deoxys",
+      "npcs": []
+    },
+    {
+      "name": "Turtwig",
+      "npcs": []
+    },
+    {
+      "name": "Grotle",
+      "npcs": []
+    },
+    {
+      "name": "Torterra",
+      "npcs": []
+    },
+    {
+      "name": "Chimchar",
+      "npcs": []
+    },
+    {
+      "name": "Monferno",
+      "npcs": []
+    },
+    {
+      "name": "Infernape",
+      "npcs": []
+    },
+    {
+      "name": "Shinx",
+      "npcs": []
+    },
+    {
+      "name": "Luxio",
+      "npcs": []
+    },
+    {
+      "name": "Luxray",
+      "npcs": []
+    },
+    {
+      "name": "Cranidos",
+      "npcs": []
+    },
+    {
+      "name": "Rampardos",
+      "npcs": []
+    },
+    {
+      "name": "Pachirisu",
+      "npcs": [
+        {
+          "npc": "Edmund",
+          "url": "https://imgur.com/a/AHqoyTH"
+        }
+      ]
+    },
+    {
+      "name": "Lopuny",
+      "npcs": []
+    },
+    {
+      "name": "Riolu",
+      "npcs": []
+    },
+    {
+      "name": "Lucario",
+      "npcs": []
+    },
+    {
+      "name": "Croagunk",
+      "npcs": []
+    },
+    {
+      "name": "Toxicroak",
+      "npcs": []
+    },
+    {
+      "name": "Abomasnow",
+      "npcs": []
+    },
+    {
+      "name": "Rhyperior",
+      "npcs": []
+    },
+    {
+      "name": "Tangrowth",
+      "npcs": []
+    },
+    {
+      "name": "Leafeon",
+      "npcs": []
+    },
+    {
+      "name": "Glaceon",
+      "npcs": []
+    },
+    {
+      "name": "Gliscor",
+      "npcs": []
+    },
+    {
+      "name": "Dusknoir",
+      "npcs": []
+    },
+    {
+      "name": "Audino",
+      "npcs": []
+    },
+    {
+      "name": "Scolipede",
+      "npcs": []
+    },
+    {
+      "name": "Trubbish",
+      "npcs": []
+    },
+    {
+      "name": "Garbodor",
+      "npcs": []
+    },
+    {
+      "name": "Druddigon",
+      "npcs": []
+    },
+    {
+      "name": "Deino",
+      "npcs": []
+    },
+    {
+      "name": "Zweilous",
+      "npcs": []
+    },
+    {
+      "name": "Hydreigon",
+      "npcs": []
+    },
+    {
+      "name": "Flabébé",
+      "npcs": []
+    },
+    {
+      "name": "Floette",
+      "npcs": []
+    },
+    {
+      "name": "Florges",
+      "npcs": []
+    },
+    {
+      "name": "Skiddo",
+      "npcs": []
+    },
+    {
+      "name": "Gogoat",
+      "npcs": []
+    },
+    {
+      "name": "Dragalge",
+      "npcs": []
+    },
+    {
+      "name": "Sylveon",
+      "npcs": []
+    },
+    {
+      "name": "Mimikyu",
+      "npcs": [
+        {
+          "npc": "Kyra",
+          "url": "https://imgur.com/a/UvNX1DL"
+        }
+      ]
+    }
+  ]
+}

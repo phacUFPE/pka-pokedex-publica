@@ -1,0 +1,77 @@
+{
+  "starLevel": {
+    "T3": [
+      4,
+      1,
+      8,
+      2,
+      12,
+      3,
+      16,
+      4,
+      20,
+      5
+    ],
+    "T2": [
+      6,
+      1.5,
+      12,
+      3,
+      18,
+      4.5,
+      24,
+      6,
+      30,
+      7.5
+    ],
+    "T1": [
+      12,
+      3,
+      24,
+      6,
+      36,
+      9,
+      48,
+      12,
+      60,
+      15
+    ],
+    "Super Rare": [
+      16,
+      4,
+      32,
+      8,
+      48,
+      12,
+      64,
+      16,
+      80,
+      20
+    ],
+    "Ultra Rare": [
+      24,
+      6,
+      48,
+      12,
+      72,
+      18,
+      96,
+      24,
+      120,
+      30
+    ],
+    "Legendary": [
+      48,
+      12,
+      96,
+      24,
+      144,
+      36,
+      192,
+      48,
+      240,
+      60
+    ]
+  },
+  "starInfo": "Valores são considerando a opção de 100% de sucesso;\n\nStar aumenta o DANO DE ATAQUE:\n- Tier 3: 2% por nível de estrela.\n- Tier 2: 4% por nível de estrela.\n- Tier 1: 6% por nível de estrela.\n- Super Rare: 8% por nível de estrela.\n- Ultra Rare: 10% por nível de estrela.\n- Legendary: 15% por nível de estrela."
+}

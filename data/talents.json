@@ -1,0 +1,4356 @@
+{
+  "talents": [
+    {
+      "item": "fighter hawk",
+      "source": "Machop",
+      "qty": 25,
+      "type": "Character",
+      "level": 1,
+      "buff": "Gives all your Pokemon 1% critical chance."
+    },
+    {
+      "item": "rock fist",
+      "source": "Geodude",
+      "qty": 25,
+      "type": "Character",
+      "level": 1,
+      "buff": "Gives all your Pokemon 1% critical chance."
+    },
+    {
+      "item": "bear claw",
+      "source": "Ursaring",
+      "qty": 1500,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "cow tail",
+      "source": "Miltank",
+      "qty": 1100,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "earth badge",
+      "source": "Viridian Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "heart stone",
+      "source": null,
+      "qty": 1000,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "pink wings",
+      "source": "Clefable",
+      "qty": 450,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "snorlax paw",
+      "source": "Snorlax",
+      "qty": 1500,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "wigglytuff ear",
+      "source": "Wigglytuff",
+      "qty": 450,
+      "type": "Character",
+      "level": 2,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "volcano badge",
+      "source": "Cinnabar Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "fire wing",
+      "source": "Charizard",
+      "qty": 1500,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "magma foot",
+      "source": "Magmar",
+      "qty": 1500,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "giant piece of fur",
+      "source": "Arcanine",
+      "qty": 1100,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "magma shell",
+      "source": "Magcargo",
+      "qty": 900,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "fire stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Character",
+      "level": 3,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "boulder badge",
+      "source": "Pewter Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "stone rocks",
+      "source": "Golem",
+      "qty": 1500,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "horn drill",
+      "source": "Rhydon",
+      "qty": 1500,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "bone",
+      "source": "Marowak",
+      "qty": 1100,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "steelix tail",
+      "source": "Steelix",
+      "qty": 900,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "rock stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "earth stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 4,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "cascade badge",
+      "source": "Cerulean Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "lapras fin",
+      "source": "Lapras",
+      "qty": 900,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 1500,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 1100,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 1500,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 5,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "thunder badge",
+      "source": "Vermilion Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "electric sheep tail",
+      "source": "Ampharos",
+      "qty": 1100,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "electric tail",
+      "source": "Electabuzz",
+      "qty": 1500,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "electric ear",
+      "source": "Raichu",
+      "qty": 1500,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "electric collar",
+      "source": "Jolteon",
+      "qty": 900,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "thunder stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Character",
+      "level": 6,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "rainbow badge",
+      "source": "Celadon Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "red petal",
+      "source": "Venusaur",
+      "qty": 1500,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "big petal",
+      "source": "Meganium",
+      "qty": 1500,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "coconut leaves",
+      "source": "Exeggutor",
+      "qty": 1100,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "vine hair",
+      "source": "Tangela",
+      "qty": 900,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "leaf stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "cocoon stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Character",
+      "level": 7,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "soul badge",
+      "source": "Fuchsia Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "queen ear",
+      "source": "Nidoqueen",
+      "qty": 1500,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "king ear",
+      "source": "Nidoking",
+      "qty": 1500,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "giant bat wing",
+      "source": "Crobat",
+      "qty": 1100,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "stinky hand",
+      "source": "Muk",
+      "qty": 900,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "venom stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Character",
+      "level": 8,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "marsh badge",
+      "source": "Saffron Gym",
+      "qty": 1,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "psychic moustache",
+      "source": "Alakazam",
+      "qty": 1500,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "two-eyed black tail",
+      "source": "Wobbuffet",
+      "qty": 1500,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "xatu wing",
+      "source": "Xatu",
+      "qty": 1100,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 900,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Character",
+      "level": 9,
+      "buff": "Accelerates the regeneration of 1 second cooldown of the spells of Pokemon stored in the bag (Pokemon that remain inside the Poke Balls)."
+    },
+    {
+      "item": "electric screws",
+      "source": "Magnemite",
+      "qty": 25,
+      "type": "Character",
+      "level": 10,
+      "buff": "Gives all your Pokemon 10% critical chance."
+    },
+    {
+      "item": "remains of voltorb",
+      "source": "Voltorb",
+      "qty": 25,
+      "type": "Character",
+      "level": 10,
+      "buff": "Gives all your Pokemon 10% critical chance."
+    },
+    {
+      "item": "blue wings",
+      "source": "Shiny Clefable",
+      "qty": 1,
+      "type": "Character",
+      "level": 11,
+      "buff": "Your character will have an increase of 500 hitpoints in their maximum health."
+    },
+    {
+      "item": "big cute ear",
+      "source": "Shiny Wigglytuff",
+      "qty": 1,
+      "type": "Character",
+      "level": 11,
+      "buff": "Your character will have an increase of 500 hitpoints in their maximum health."
+    },
+    {
+      "item": "wigglytuff ear",
+      "source": "Wigglytuff",
+      "qty": 250,
+      "type": "Character",
+      "level": 12,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "pink wings",
+      "source": "Clefable",
+      "qty": 250,
+      "type": "Character",
+      "level": 12,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "snorlax paw",
+      "source": "Snorlax",
+      "qty": 400,
+      "type": "Character",
+      "level": 13,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "bear claw",
+      "source": "Ursaring",
+      "qty": 400,
+      "type": "Character",
+      "level": 13,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "magikarp fin",
+      "source": "Magikarp",
+      "qty": 10,
+      "type": "Character",
+      "level": 14,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "mouse tail",
+      "source": "Ratata",
+      "qty": 30,
+      "type": "Character",
+      "level": 14,
+      "buff": "Your character will have an increase of 300 hitpoints in their maximum health."
+    },
+    {
+      "item": "fire hair",
+      "source": "Ponyta",
+      "qty": 80,
+      "type": "Character",
+      "level": 15,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "blue hair",
+      "source": "Shiny Ponyta",
+      "qty": 1,
+      "type": "Character",
+      "level": 15,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "fire hoof",
+      "source": "Rapidash",
+      "qty": 100,
+      "type": "Character",
+      "level": 16,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "giant piece of fur",
+      "source": "Arcanine",
+      "qty": 100,
+      "type": "Character",
+      "level": 16,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "yellow bird crest",
+      "source": "Shiny Pidgey",
+      "qty": 1,
+      "type": "Character",
+      "level": 17,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "carmine wing",
+      "source": "Shiny Spearow",
+      "qty": 1,
+      "type": "Character",
+      "level": 17,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "bird wing",
+      "source": "Spearow",
+      "qty": 5,
+      "type": "Character",
+      "level": 18,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "bird crest",
+      "source": "Pidgey",
+      "qty": 5,
+      "type": "Character",
+      "level": 18,
+      "buff": "Give to player more 20 speed."
+    },
+    {
+      "item": "mythic water orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 1,
+      "buff": "Reduces speed impariment caused by being underwater by 40%"
+    },
+    {
+      "item": "arcane water orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 875,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 800,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 2,
+      "buff": "Reduces speed impariment caused by being underwater by 20%"
+    },
+    {
+      "item": "arcane water orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 750,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 375,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 3,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "simple water orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 700,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 375,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 4,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "simple water orb",
+      "source": "Verificar aba de drops",
+      "qty": 10,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 5,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "giant ruby",
+      "source": "Tentacruel",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "gyarados tail",
+      "source": "Gyarados",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "big fist gloves",
+      "source": "Poliwrath",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "aquatic tail",
+      "source": "Vaporeon",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "duck paw",
+      "source": "Golduck",
+      "qty": 250,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "water stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 25,
+      "type": "Pokemon",
+      "level": 6,
+      "buff": "Reduces speed impariment caused by being underwater by 10%"
+    },
+    {
+      "item": "mythic psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 7,
+      "buff": "Reduces speed impariment caused by sand by 40%"
+    },
+    {
+      "item": "arcane psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 875,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 800,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 800,
+      "type": "Pokemon",
+      "level": 8,
+      "buff": "Reduces speed impariment caused by sand by 20%"
+    },
+    {
+      "item": "arcane psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 750,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 375,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 9,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "simple psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 350,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 10,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "simple psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 10,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 11,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "sea dragon fin",
+      "source": "Kingdra",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "red hair",
+      "source": "Feraligatr",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "water cannon",
+      "source": "Blastoise",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "blue ray tail",
+      "source": "Mantine",
+      "qty": 250,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "enigma stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "heart stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 12,
+      "buff": "Reduces speed impariment caused by sand by 10%"
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 1000,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 13,
+      "buff": "Reduces speed impariment caused by snow by 40%"
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 875,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 525,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 800,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 14,
+      "buff": "Reduces speed impariment caused by snow by 20%"
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 750,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 450,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 375,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 400,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 15,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 20,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 420,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 350,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 200,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 16,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 10,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 600,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 360,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 17,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonair tail",
+      "source": "Dragonair",
+      "qty": 500,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 300,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 250,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "ice stone",
+      "source": "Verificar aba de drops",
+      "qty": 50,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "crystal stone",
+      "source": "Verificar aba de drops",
+      "qty": 25,
+      "type": "Pokemon",
+      "level": 18,
+      "buff": "Reduces speed impariment caused by snow by 10%"
+    },
+    {
+      "item": "mythic bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Bug",
+      "level": 1,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "bug essence",
+      "source": "Wurmple\nSilcoon\nBeautifly\nCascoon\nDustox\nSurskit\nMasquerain\nNincada\nNinjask\nShedinja\nVolbeat\nIllumise",
+      "qty": 100,
+      "type": "Bug",
+      "level": 1,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "worm horn",
+      "source": "Wurmple",
+      "qty": 500,
+      "type": "Bug",
+      "level": 1,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "mythic bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Bug",
+      "level": 2,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "pink bug horn",
+      "source": "Shiny Heracross",
+      "qty": 1,
+      "type": "Bug",
+      "level": 2,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "moth wing",
+      "source": "Venomoth",
+      "qty": 500,
+      "type": "Bug",
+      "level": 2,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "simple bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Bug",
+      "level": 3,
+      "buff": "Increas all Bug Type spells damage by 5%."
+    },
+    {
+      "item": "yellow sting",
+      "source": "Shiny Weedle",
+      "qty": 3,
+      "type": "Bug",
+      "level": 3,
+      "buff": "Increas all Bug Type spells damage by 5%."
+    },
+    {
+      "item": "bee sting",
+      "source": "Beedrill",
+      "qty": 25,
+      "type": "Bug",
+      "level": 4,
+      "buff": "Increas all Bug Type spells damage by 3%."
+    },
+    {
+      "item": "arcane bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Bug",
+      "level": 5,
+      "buff": "Increas all Bug Type spells damage by 5%."
+    },
+    {
+      "item": "red cocoon",
+      "source": "Shiny Kakuna",
+      "qty": 3,
+      "type": "Bug",
+      "level": 5,
+      "buff": "Increas all Bug Type spells damage by 5%."
+    },
+    {
+      "item": "bee sting",
+      "source": "Beedrill",
+      "qty": 120,
+      "type": "Bug",
+      "level": 5,
+      "buff": "Increas all Bug Type spells damage by 5%."
+    },
+    {
+      "item": "simple bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Bug",
+      "level": 6,
+      "buff": "Increas all Bug Type spells defense by 5%."
+    },
+    {
+      "item": "sparkle antenna",
+      "source": "Shiny Caterpie",
+      "qty": 3,
+      "type": "Bug",
+      "level": 6,
+      "buff": "Increas all Bug Type spells defense by 5%."
+    },
+    {
+      "item": "piece of cocoon",
+      "source": "Metapod",
+      "qty": 25,
+      "type": "Bug",
+      "level": 7,
+      "buff": "Increas all Bug Type spells defense by 3%."
+    },
+    {
+      "item": "yellow cocoon",
+      "source": "Kakuna",
+      "qty": 25,
+      "type": "Bug",
+      "level": 7,
+      "buff": "Increas all Bug Type spells defense by 3%."
+    },
+    {
+      "item": "arcane bug orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Bug",
+      "level": 8,
+      "buff": "Increas all Bug Type spells defense by 5%."
+    },
+    {
+      "item": "red piece of cocoon",
+      "source": "Shiny Metapod",
+      "qty": 3,
+      "type": "Bug",
+      "level": 8,
+      "buff": "Increas all Bug Type spells defense by 5%."
+    },
+    {
+      "item": "butterfree wing",
+      "source": "Butterfree",
+      "qty": 120,
+      "type": "Bug",
+      "level": 8,
+      "buff": "Increas all Bug Type spells defense by 5%."
+    },
+    {
+      "item": "mythic dark orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Dark",
+      "level": 1,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "dark essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Dark",
+      "level": 1,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "pooch fur",
+      "source": "Poochyena",
+      "qty": 500,
+      "type": "Dark",
+      "level": 1,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "mythic dark orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Dark",
+      "level": 2,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "cyan feather",
+      "source": "Shiny Sneasel",
+      "qty": 1,
+      "type": "Dark",
+      "level": 2,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "tyranitar tail",
+      "source": "Tyranitar",
+      "qty": 500,
+      "type": "Dark",
+      "level": 2,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "simple dark orb",
+      "source": "Shiny Houndour",
+      "qty": 5,
+      "type": "Dark",
+      "level": 3,
+      "buff": "Increas all Dark Type spells damage by 5%."
+    },
+    {
+      "item": "smoked bones",
+      "source": "Shiny Houndour",
+      "qty": 3,
+      "type": "Dark",
+      "level": 3,
+      "buff": "Increas all Dark Type spells damage by 5%."
+    },
+    {
+      "item": "yellow beak",
+      "source": "Murkrow",
+      "qty": 25,
+      "type": "Dark",
+      "level": 4,
+      "buff": "Increas all Dark Type spells damage by 3%."
+    },
+    {
+      "item": "arcane dark orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Dark",
+      "level": 5,
+      "buff": "Increas all Dark Type spells damage by 5%."
+    },
+    {
+      "item": "dark beak",
+      "source": "Shiny Murkrow",
+      "qty": 3,
+      "type": "Dark",
+      "level": 5,
+      "buff": "Increas all Dark Type spells damage by 5%."
+    },
+    {
+      "item": "yellow beak",
+      "source": "Murkrow",
+      "qty": 120,
+      "type": "Dark",
+      "level": 5,
+      "buff": "Increas all Dark Type spells damage by 5%."
+    },
+    {
+      "item": "simple dark orb",
+      "source": "Shiny Houndour",
+      "qty": 5,
+      "type": "Dark",
+      "level": 6,
+      "buff": "Increas all Dark Type spells defense by 5%."
+    },
+    {
+      "item": "smoked bones",
+      "source": "Shiny Houndour",
+      "qty": 3,
+      "type": "Dark",
+      "level": 6,
+      "buff": "Increas all Dark Type spells defense by 5%."
+    },
+    {
+      "item": "yellow beak",
+      "source": "Murkrow",
+      "qty": 50,
+      "type": "Dark",
+      "level": 7,
+      "buff": "Increas all Dark Type spells defense by 3%."
+    },
+    {
+      "item": "arcane dark orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Dark",
+      "level": 8,
+      "buff": "Increas all Dark Type spells defense by 5%."
+    },
+    {
+      "item": "dark beak",
+      "source": "Shiny Murkrow",
+      "qty": 3,
+      "type": "Dark",
+      "level": 8,
+      "buff": "Increas all Dark Type spells defense by 5%."
+    },
+    {
+      "item": "yellow beak",
+      "source": "Murkrow",
+      "qty": 120,
+      "type": "Dark",
+      "level": 8,
+      "buff": "Increas all Dark Type spells defense by 5%."
+    },
+    {
+      "item": "mythic dragon orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Dragon",
+      "level": 1,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "dragon essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Dragon",
+      "level": 1,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "dragon topknot",
+      "source": "Bagon",
+      "qty": 500,
+      "type": "Dragon",
+      "level": 1,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "mythic dragon orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Dragon",
+      "level": 2,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "shiny dragon ears",
+      "source": "Shiny Dratini",
+      "qty": 3,
+      "type": "Dragon",
+      "level": 2,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "dragonite tail",
+      "source": "Dragonite",
+      "qty": 500,
+      "type": "Dragon",
+      "level": 2,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "simple dragon orb",
+      "source": "Shiny Dratini",
+      "qty": 5,
+      "type": "Dragon",
+      "level": 3,
+      "buff": "Increas all Dragon Type spells damage by 5%."
+    },
+    {
+      "item": "shiny dragon ears",
+      "source": "Shiny Dratini",
+      "qty": 5,
+      "type": "Dragon",
+      "level": 3,
+      "buff": "Increas all Dragon Type spells damage by 5%."
+    },
+    {
+      "item": "dratini ear",
+      "source": "Dratini",
+      "qty": 50,
+      "type": "Dragon",
+      "level": 4,
+      "buff": "Increas all Dragon Type spells damage by 3%."
+    },
+    {
+      "item": "arcane dragon orb",
+      "source": "Shiny Dragonair",
+      "qty": 3,
+      "type": "Dragon",
+      "level": 5,
+      "buff": "Increas all Dragon Type spells damage by 5%."
+    },
+    {
+      "item": "shiny dragon ears",
+      "source": "Shiny Dratini",
+      "qty": 10,
+      "type": "Dragon",
+      "level": 5,
+      "buff": "Increas all Dragon Type spells damage by 5%."
+    },
+    {
+      "item": "dratini ear",
+      "source": "Dratini",
+      "qty": 120,
+      "type": "Dragon",
+      "level": 5,
+      "buff": "Increas all Dragon Type spells damage by 5%."
+    },
+    {
+      "item": "simple dragon orb",
+      "source": "Shiny Dratini",
+      "qty": 5,
+      "type": "Dragon",
+      "level": 6,
+      "buff": "Increas all Dragon Type spells defense by 5%."
+    },
+    {
+      "item": "shiny dragon ears",
+      "source": "Shiny Dratini",
+      "qty": 5,
+      "type": "Dragon",
+      "level": 6,
+      "buff": "Increas all Dragon Type spells defense by 5%."
+    },
+    {
+      "item": "dratini ear",
+      "source": "Dratini",
+      "qty": 50,
+      "type": "Dragon",
+      "level": 7,
+      "buff": "Increas all Dragon Type spells defense by 3%."
+    },
+    {
+      "item": "arcane dragon orb",
+      "source": "Shiny Dragonair",
+      "qty": 3,
+      "type": "Dragon",
+      "level": 8,
+      "buff": "Increas all Dragon Type spells defense by 5%."
+    },
+    {
+      "item": "shiny dragon ears",
+      "source": "Shiny Dratini",
+      "qty": 10,
+      "type": "Dragon",
+      "level": 8,
+      "buff": "Increas all Dragon Type spells defense by 5%."
+    },
+    {
+      "item": "dratini ear",
+      "source": "Dratini",
+      "qty": 120,
+      "type": "Dragon",
+      "level": 8,
+      "buff": "Increas all Dragon Type spells defense by 5%."
+    },
+    {
+      "item": "simple electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Electric",
+      "level": 1,
+      "buff": "Increas all Electric Type spells defense by 5%."
+    },
+    {
+      "item": "green remains",
+      "source": "Shiny Voltorb",
+      "qty": 3,
+      "type": "Electric",
+      "level": 1,
+      "buff": "Increas all Electric Type spells defense by 5%."
+    },
+    {
+      "item": "electric rat tail",
+      "source": "Pikachu",
+      "qty": 50,
+      "type": "Electric",
+      "level": 2,
+      "buff": "Increas all Electric Type spells defense by 3%."
+    },
+    {
+      "item": "mythic electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Electric",
+      "level": 3,
+      "buff": "Increas all Electric Type spells defense by 5%."
+    },
+    {
+      "item": "electric soft wool",
+      "source": "Shiny Flaaffy",
+      "qty": 3,
+      "type": "Electric",
+      "level": 3,
+      "buff": "Increas all Electric Type spells defense by 5%."
+    },
+    {
+      "item": "soft wool",
+      "source": "Flaaffy",
+      "qty": 120,
+      "type": "Electric",
+      "level": 3,
+      "buff": "Increas all Electric Type spells defense by 5%."
+    },
+    {
+      "item": "mythic electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Electric",
+      "level": 4,
+      "buff": "Increas all Electric Type spells defense by 3%."
+    },
+    {
+      "item": "electric essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Electric",
+      "level": 4,
+      "buff": "Increas all Electric Type spells defense by 3%."
+    },
+    {
+      "item": "green crest",
+      "source": "Electrike",
+      "qty": 500,
+      "type": "Electric",
+      "level": 4,
+      "buff": "Increas all Electric Type spells defense by 3%."
+    },
+    {
+      "item": "arcane electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Electric",
+      "level": 5,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "big green piece",
+      "source": "Shiny Electrode",
+      "qty": 1,
+      "type": "Electric",
+      "level": 5,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "electric sheep tail",
+      "source": "Ampharos",
+      "qty": 500,
+      "type": "Electric",
+      "level": 5,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "simple electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Electric",
+      "level": 6,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "blue screws",
+      "source": "Shiny Magnemite",
+      "qty": 3,
+      "type": "Electric",
+      "level": 6,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "remains of voltorb",
+      "source": "Voltorb",
+      "qty": 25,
+      "type": "Electric",
+      "level": 7,
+      "buff": "Increas all Electric Type spells damage by 3%."
+    },
+    {
+      "item": "electric screws",
+      "source": "Magnemite",
+      "qty": 25,
+      "type": "Electric",
+      "level": 7,
+      "buff": "Increas all Electric Type spells damage by 3%."
+    },
+    {
+      "item": "arcane electric orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Electric",
+      "level": 8,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "electric rat tail",
+      "source": "Shiny Pikachu",
+      "qty": 3,
+      "type": "Electric",
+      "level": 8,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "electric ear",
+      "source": "Raichu",
+      "qty": 120,
+      "type": "Electric",
+      "level": 8,
+      "buff": "Increas all Electric Type spells damage by 5%."
+    },
+    {
+      "item": "simple fairy orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fairy",
+      "level": 1,
+      "buff": "Increas all Fairy Type spells defense by 5%."
+    },
+    {
+      "item": "punk ear",
+      "source": "Shiny Snubbull",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 1,
+      "buff": "Increas all Fairy Type spells defense by 5%."
+    },
+    {
+      "item": "snubull ear",
+      "source": "Snubbull",
+      "qty": 50,
+      "type": "Fairy",
+      "level": 2,
+      "buff": "Increas all Fairy Type spells defense by 3%."
+    },
+    {
+      "item": "mythic fairy orb",
+      "source": "Shiny Granbull",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 3,
+      "buff": "Increas all Fairy Type spells defense by 5%."
+    },
+    {
+      "item": "purple moon topknot",
+      "source": "Shiny Clefairy",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 3,
+      "buff": "Increas all Fairy Type spells defense by 5%."
+    },
+    {
+      "item": "moon topknot",
+      "source": "Clefairy",
+      "qty": 120,
+      "type": "Fairy",
+      "level": 3,
+      "buff": "Increas all Fairy Type spells defense by 5%."
+    },
+    {
+      "item": "mythic fairy orb",
+      "source": "Shiny Granbull",
+      "qty": 2,
+      "type": "Fairy",
+      "level": 4,
+      "buff": "Increas all Fairy Type spells defense by 3%."
+    },
+    {
+      "item": "fairy essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Fairy",
+      "level": 4,
+      "buff": "Increas all Fairy Type spells defense by 3%."
+    },
+    {
+      "item": "baby blue tail",
+      "source": "Azurill",
+      "qty": 500,
+      "type": "Fairy",
+      "level": 4,
+      "buff": "Increas all Fairy Type spells defense by 3%."
+    },
+    {
+      "item": "arcane fairy orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 5,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "pink dainty wing",
+      "source": "Shiny Togetic",
+      "qty": 1,
+      "type": "Fairy",
+      "level": 5,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "pink wings",
+      "source": "Clefable",
+      "qty": 500,
+      "type": "Fairy",
+      "level": 5,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "simple fairy orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fairy",
+      "level": 6,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "punk ear",
+      "source": "Shiny Snubbull",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 6,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "snubull ear",
+      "source": "Snubbull",
+      "qty": 50,
+      "type": "Fairy",
+      "level": 7,
+      "buff": "Increas all Fairy Type spells damage by 3%."
+    },
+    {
+      "item": "arcane fairy orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 8,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "purple moon topknot",
+      "source": "Shiny Clefairy",
+      "qty": 3,
+      "type": "Fairy",
+      "level": 8,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "moon topknot",
+      "source": "Clefairy",
+      "qty": 120,
+      "type": "Fairy",
+      "level": 8,
+      "buff": "Increas all Fairy Type spells damage by 5%."
+    },
+    {
+      "item": "mythic fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Fighting",
+      "level": 1,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "fighter essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Fighting",
+      "level": 1,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "boxing gloves",
+      "source": "Makuhita",
+      "qty": 500,
+      "type": "Fighting",
+      "level": 1,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "mythic fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 2,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "metal bracelet",
+      "source": "Shiny Primeape",
+      "qty": 2,
+      "type": "Fighting",
+      "level": 2,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "punching machine",
+      "source": "Hitmonchan",
+      "qty": 500,
+      "type": "Fighting",
+      "level": 2,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "simple fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fighting",
+      "level": 3,
+      "buff": "Increas all Fighting Type spells damage by 5%."
+    },
+    {
+      "item": "blond hawk",
+      "source": "Shiny Machop",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 3,
+      "buff": "Increas all Fighting Type spells damage by 5%."
+    },
+    {
+      "item": "mankey tail",
+      "source": "Mankey",
+      "qty": 50,
+      "type": "Fighting",
+      "level": 4,
+      "buff": "Increas all Fighting Type spells damage by 3%."
+    },
+    {
+      "item": "arcane fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 5,
+      "buff": "Increas all Fighting Type spells damage by 5%."
+    },
+    {
+      "item": "champion underwear",
+      "source": "Shiny Machoke",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 5,
+      "buff": "Increas all Fighting Type spells damage by 5%."
+    },
+    {
+      "item": "fighter underwear",
+      "source": "Machoke",
+      "qty": 120,
+      "type": "Fighting",
+      "level": 5,
+      "buff": "Increas all Fighting Type spells damage by 5%."
+    },
+    {
+      "item": "simple fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fighting",
+      "level": 6,
+      "buff": "Increas all Fighting Type spells defense by 5%."
+    },
+    {
+      "item": "white monkey tail",
+      "source": "Shiny Mankey",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 6,
+      "buff": "Increas all Fighting Type spells defense by 5%."
+    },
+    {
+      "item": "fighter hawk",
+      "source": "Machop",
+      "qty": 50,
+      "type": "Fighting",
+      "level": 7,
+      "buff": "Increas all Fighting Type spells defense by 3%."
+    },
+    {
+      "item": "arcane fighting orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 8,
+      "buff": "Increas all Fighting Type spells defense by 5%."
+    },
+    {
+      "item": "champion underwear",
+      "source": "Shiny Machoke",
+      "qty": 3,
+      "type": "Fighting",
+      "level": 8,
+      "buff": "Increas all Fighting Type spells defense by 5%."
+    },
+    {
+      "item": "fighter underwear",
+      "source": "Machoke",
+      "qty": 120,
+      "type": "Fighting",
+      "level": 8,
+      "buff": "Increas all Fighting Type spells defense by 5%."
+    },
+    {
+      "item": "mythic fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Fire",
+      "level": 1,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "fighter essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Fire",
+      "level": 1,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "fire plume",
+      "source": "Torchic",
+      "qty": 500,
+      "type": "Fire",
+      "level": 1,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "mythic fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fire",
+      "level": 2,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "black lizard tail",
+      "source": "Shiny Charmelion",
+      "qty": 2,
+      "type": "Fire",
+      "level": 2,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "magma shell",
+      "source": "Magcargo",
+      "qty": 500,
+      "type": "Fire",
+      "level": 2,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "simple fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fire",
+      "level": 3,
+      "buff": "Increas all Fire Type spells damage by 5%."
+    },
+    {
+      "item": "blue canine tail",
+      "source": "Shiny Vulpix",
+      "qty": 3,
+      "type": "Fire",
+      "level": 3,
+      "buff": "Increas all Fire Type spells damage by 5%."
+    },
+    {
+      "item": "fire hair",
+      "source": "Ponyta",
+      "qty": 25,
+      "type": "Fire",
+      "level": 4,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "dog fur",
+      "source": "Growlithe",
+      "qty": 25,
+      "type": "Fire",
+      "level": 4,
+      "buff": "Increas all Fire Type spells damage by 3%."
+    },
+    {
+      "item": "arcane fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fire",
+      "level": 5,
+      "buff": "Increas all Fire Type spells damage by 5%."
+    },
+    {
+      "item": "black lizard tail",
+      "source": "Shiny Charmelion",
+      "qty": 3,
+      "type": "Fire",
+      "level": 5,
+      "buff": "Increas all Fire Type spells damage by 5%."
+    },
+    {
+      "item": "lizard tail",
+      "source": "Charmelion",
+      "qty": 120,
+      "type": "Fire",
+      "level": 5,
+      "buff": "Increas all Fire Type spells damage by 5%."
+    },
+    {
+      "item": "simple fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Fire",
+      "level": 6,
+      "buff": "Increas all Fire Type spells defense by 5%."
+    },
+    {
+      "item": "black tail",
+      "source": "Shiny Charmander",
+      "qty": 3,
+      "type": "Fire",
+      "level": 6,
+      "buff": "Increas all Fire Type spells defense by 5%."
+    },
+    {
+      "item": "fire tail",
+      "source": "Charmander",
+      "qty": 25,
+      "type": "Fire",
+      "level": 7,
+      "buff": "Increas all Fire Type spells defense by 3%."
+    },
+    {
+      "item": "canine tail",
+      "source": "Vulpix",
+      "qty": 25,
+      "type": "Fire",
+      "level": 7,
+      "buff": "Increas all Fire Type spells defense by 3%."
+    },
+    {
+      "item": "arcane fire orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Fire",
+      "level": 8,
+      "buff": "Increas all Fire Type spells defense by 5%."
+    },
+    {
+      "item": "blaze fur",
+      "source": "Shiny Quilava",
+      "qty": 3,
+      "type": "Fire",
+      "level": 8,
+      "buff": "Increas all Fire Type spells defense by 5%."
+    },
+    {
+      "item": "quilava fur",
+      "source": "Quilava",
+      "qty": 120,
+      "type": "Fire",
+      "level": 8,
+      "buff": "Increas all Fire Type spells defense by 5%."
+    },
+    {
+      "item": "mythic flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Flying",
+      "level": 1,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "flying essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Flying",
+      "level": 1,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "feather tail",
+      "source": "Taillow",
+      "qty": 500,
+      "type": "Flying",
+      "level": 1,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "mythic flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Flying",
+      "level": 2,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "shiny bat wing",
+      "source": "Shiny Crobat",
+      "qty": 1,
+      "type": "Flying",
+      "level": 2,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "dodrio feather",
+      "source": "Dodrio",
+      "qty": 500,
+      "type": "Flying",
+      "level": 2,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "bird wing",
+      "source": "Spearow",
+      "qty": 50,
+      "type": "Flying",
+      "level": 3,
+      "buff": "Increas all Flying Type spells damage by 3%."
+    },
+    {
+      "item": "simple flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Flying",
+      "level": 4,
+      "buff": "Increas all Flying Type spells damage by 5%."
+    },
+    {
+      "item": "carmine wing",
+      "source": "Shiny Spearow",
+      "qty": 3,
+      "type": "Flying",
+      "level": 4,
+      "buff": "Increas all Flying Type spells damage by 5%."
+    },
+    {
+      "item": "arcane flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Flying",
+      "level": 5,
+      "buff": "Increas all Flying Type spells damage by 5%."
+    },
+    {
+      "item": "two-colored tail",
+      "source": "Shiny Pidgeotto",
+      "qty": 3,
+      "type": "Flying",
+      "level": 5,
+      "buff": "Increas all Flying Type spells damage by 5%."
+    },
+    {
+      "item": "bird tail",
+      "source": "Pidgeotto",
+      "qty": 120,
+      "type": "Flying",
+      "level": 5,
+      "buff": "Increas all Flying Type spells damage by 5%."
+    },
+    {
+      "item": "bird crest",
+      "source": "Pidgey",
+      "qty": 50,
+      "type": "Flying",
+      "level": 6,
+      "buff": "Increas all Flying Type spells defense by 3%."
+    },
+    {
+      "item": "simple flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Flying",
+      "level": 7,
+      "buff": "Increas all Flying Type spells defense by 5%."
+    },
+    {
+      "item": "yellow bird crest",
+      "source": "Shiny Pidgey",
+      "qty": 3,
+      "type": "Flying",
+      "level": 7,
+      "buff": "Increas all Flying Type spells defense by 5%."
+    },
+    {
+      "item": "arcane flying orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Flying",
+      "level": 8,
+      "buff": "Increas all Flying Type spells defense by 5%."
+    },
+    {
+      "item": "two-colored tail",
+      "source": "Shiny Pidgeotto",
+      "qty": 3,
+      "type": "Flying",
+      "level": 8,
+      "buff": "Increas all Flying Type spells defense by 5%."
+    },
+    {
+      "item": "bird tail",
+      "source": "Pidgeotto",
+      "qty": 120,
+      "type": "Flying",
+      "level": 8,
+      "buff": "Increas all Flying Type spells defense by 5%."
+    },
+    {
+      "item": "mythic ghost orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Ghost",
+      "level": 1,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "ghost essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Ghost",
+      "level": 1,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "gray cloth",
+      "source": "Shuppet",
+      "qty": 500,
+      "type": "Ghost",
+      "level": 1,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "mythic ghost orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 2,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "dark claw",
+      "source": "Shiny Haunter",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 2,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "ghost claw",
+      "source": "Haunter",
+      "qty": 500,
+      "type": "Ghost",
+      "level": 2,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "simple ghost orb",
+      "source": "Shiny Gastly",
+      "qty": 5,
+      "type": "Ghost",
+      "level": 3,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "dark claw",
+      "source": "Shiny Haunter",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 3,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "ghost claw",
+      "source": "Haunter",
+      "qty": 500,
+      "type": "Ghost",
+      "level": 3,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "miss traces",
+      "source": "Misdreavus",
+      "qty": 750,
+      "type": "Ghost",
+      "level": 3,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "ectoplasm",
+      "source": "Gengar",
+      "qty": 1000,
+      "type": "Ghost",
+      "level": 3,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "ghost bottle",
+      "source": "Gastly",
+      "qty": 50,
+      "type": "Ghost",
+      "level": 4,
+      "buff": "Increas all Ghost Type spells damage by 3%."
+    },
+    {
+      "item": "simple ghost orb",
+      "source": "Shiny Gastly",
+      "qty": 5,
+      "type": "Ghost",
+      "level": 5,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "green ghost bottle",
+      "source": "Shiny Gastly",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 5,
+      "buff": "Increas all Ghost Type spells damage by 5%."
+    },
+    {
+      "item": "ghost bottle",
+      "source": "Gastly",
+      "qty": 50,
+      "type": "Ghost",
+      "level": 6,
+      "buff": "Increas all Ghost Type spells defense by 3%."
+    },
+    {
+      "item": "simple ghost orb",
+      "source": "Shiny Gastly",
+      "qty": 5,
+      "type": "Ghost",
+      "level": 7,
+      "buff": "Increas all Ghost Type spells defense by 5%."
+    },
+    {
+      "item": "green ghost bottle",
+      "source": "Shiny Gastly",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 7,
+      "buff": "Increas all Ghost Type spells defense by 5%."
+    },
+    {
+      "item": "arcane ghost orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 8,
+      "buff": "Increas all Ghost Type spells defense by 5%."
+    },
+    {
+      "item": "dark claw",
+      "source": "Shiny Haunter",
+      "qty": 3,
+      "type": "Ghost",
+      "level": 8,
+      "buff": "Increas all Ghost Type spells defense by 5%."
+    },
+    {
+      "item": "ghost claw",
+      "source": "Haunter",
+      "qty": 120,
+      "type": "Ghost",
+      "level": 8,
+      "buff": "Increas all Ghost Type spells defense by 5%."
+    },
+    {
+      "item": "mythic grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Grass",
+      "level": 1,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "grass essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Grass",
+      "level": 1,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "reptilian tail",
+      "source": "Treecko",
+      "qty": 500,
+      "type": "Grass",
+      "level": 1,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "mythic grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Grass",
+      "level": 2,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "blue coconut leaves",
+      "source": "Shiny Exeggutor",
+      "qty": 1,
+      "type": "Grass",
+      "level": 2,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "big petal",
+      "source": "Meganium",
+      "qty": 500,
+      "type": "Grass",
+      "level": 2,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "flower stem",
+      "source": "Bellsprout",
+      "qty": 50,
+      "type": "Grass",
+      "level": 3,
+      "buff": "Increas all Grass Type spells damage by 3%."
+    },
+    {
+      "item": "simple grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Grass",
+      "level": 4,
+      "buff": "Increas all Grass Type spells damage by 5%."
+    },
+    {
+      "item": "brown bulb",
+      "source": "Shiny Bulbasaur",
+      "qty": 3,
+      "type": "Grass",
+      "level": 4,
+      "buff": "Increas all Grass Type spells damage by 5%."
+    },
+    {
+      "item": "arcane grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Grass",
+      "level": 5,
+      "buff": "Increas all Grass Type spells damage by 5%."
+    },
+    {
+      "item": "purple leaf",
+      "source": "Shiny Ivysaur",
+      "qty": 3,
+      "type": "Grass",
+      "level": 5,
+      "buff": "Increas all Grass Type spells damage by 5%."
+    },
+    {
+      "item": "leaf",
+      "source": "Ivysaur",
+      "qty": 120,
+      "type": "Grass",
+      "level": 5,
+      "buff": "Increas all Grass Type spells damage by 5%."
+    },
+    {
+      "item": "leaves",
+      "source": "Oddish",
+      "qty": 50,
+      "type": "Grass",
+      "level": 6,
+      "buff": "Increas all Grass Type spells defense by 3%."
+    },
+    {
+      "item": "simple grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Grass",
+      "level": 7,
+      "buff": "Increas all Grass Type spells defense by 5%."
+    },
+    {
+      "item": "purple chicory",
+      "source": "Shiny Chikorita",
+      "qty": 3,
+      "type": "Grass",
+      "level": 7,
+      "buff": "Increas all Grass Type spells defense by 5%."
+    },
+    {
+      "item": "arcane grass orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Grass",
+      "level": 8,
+      "buff": "Increas all Grass Type spells defense by 5%."
+    },
+    {
+      "item": "purple big leaf",
+      "source": "Shiny Bayleef",
+      "qty": 3,
+      "type": "Grass",
+      "level": 8,
+      "buff": "Increas all Grass Type spells defense by 5%."
+    },
+    {
+      "item": "big leaf",
+      "source": "Bayleef",
+      "qty": 120,
+      "type": "Grass",
+      "level": 8,
+      "buff": "Increas all Grass Type spells defense by 5%."
+    },
+    {
+      "item": "small handfull of stones",
+      "source": "Diglett",
+      "qty": 50,
+      "type": "Ground",
+      "level": 1,
+      "buff": "Increas all Ground Type spells defense by 3%."
+    },
+    {
+      "item": "simple ground orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Ground",
+      "level": 2,
+      "buff": "Increas all Ground Type spells defense by 5%."
+    },
+    {
+      "item": "armadillo red tail",
+      "source": "Shiny Sandshrew",
+      "qty": 3,
+      "type": "Ground",
+      "level": 2,
+      "buff": "Increas all Ground Type spells defense by 5%."
+    },
+    {
+      "item": "arcane ground orb",
+      "source": "Vereificar aba de drops",
+      "qty": 3,
+      "type": "Ground",
+      "level": 3,
+      "buff": "Increas all Ground Type spells defense by 5%."
+    },
+    {
+      "item": "golden shell",
+      "source": "Shiny Rhyhorn",
+      "qty": 3,
+      "type": "Ground",
+      "level": 3,
+      "buff": "Increas all Ground Type spells defense by 5%."
+    },
+    {
+      "item": "bone",
+      "source": "Marowak",
+      "qty": 120,
+      "type": "Ground",
+      "level": 3,
+      "buff": "Increas all Ground Type spells defense by 5%."
+    },
+    {
+      "item": "mythic ground orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Ground",
+      "level": 4,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "ground essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Ground",
+      "level": 4,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "strange ball",
+      "source": "Trapinch",
+      "qty": 500,
+      "type": "Ground",
+      "level": 4,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "mythic ground orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ground",
+      "level": 5,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "golden drill",
+      "source": "Shiny Rhydon",
+      "qty": 1,
+      "type": "Ground",
+      "level": 5,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "elephant foot",
+      "source": "Donphan",
+      "qty": 500,
+      "type": "Ground",
+      "level": 5,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "armadillo tail",
+      "source": "Sandshrew",
+      "qty": 50,
+      "type": "Ground",
+      "level": 6,
+      "buff": "Increas all Ground Type spells damage by 3%."
+    },
+    {
+      "item": "simple ground orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Ground",
+      "level": 7,
+      "buff": "Increas all Ground Type spells damage by 5%."
+    },
+    {
+      "item": "small yellow stones",
+      "source": "Shiny Diglett",
+      "qty": 3,
+      "type": "Ground",
+      "level": 7,
+      "buff": "Increas all Ground Type spells damage by 5%."
+    },
+    {
+      "item": "arcane ground orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ground",
+      "level": 8,
+      "buff": "Increas all Ground Type spells damage by 5%."
+    },
+    {
+      "item": "golden shell",
+      "source": "Shiny Rhyhorn",
+      "qty": 3,
+      "type": "Ground",
+      "level": 8,
+      "buff": "Increas all Ground Type spells damage by 5%."
+    },
+    {
+      "item": "bone",
+      "source": "Marowak",
+      "qty": 120,
+      "type": "Ground",
+      "level": 8,
+      "buff": "Increas all Ground Type spells damage by 5%."
+    },
+    {
+      "item": "locksmith of shell",
+      "source": "Shellder",
+      "qty": 50,
+      "type": "Ice",
+      "level": 1,
+      "buff": "Increas all Ice Type spells defense by 3%."
+    },
+    {
+      "item": "simple ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Ice",
+      "level": 2,
+      "buff": "Increas all Ice Type spells defense by 5%."
+    },
+    {
+      "item": "blue shell",
+      "source": "Shiny Shellder",
+      "qty": 3,
+      "type": "Ice",
+      "level": 2,
+      "buff": "Increas all Ice Type spells defense by 5%."
+    },
+    {
+      "item": "arcane ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ice",
+      "level": 3,
+      "buff": "Increas all Ice Type spells defense by 5%."
+    },
+    {
+      "item": "blue shell",
+      "source": "Shiny Shellder",
+      "qty": 3,
+      "type": "Ice",
+      "level": 3,
+      "buff": "Increas all Ice Type spells defense by 5%."
+    },
+    {
+      "item": "pieces of shell",
+      "source": "Cloyster",
+      "qty": 120,
+      "type": "Ice",
+      "level": 3,
+      "buff": "Increas all Ice Type spells defense by 5%."
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Ice",
+      "level": 4,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "ice essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Ice",
+      "level": 4,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "short tail",
+      "source": "Spheal",
+      "qty": 500,
+      "type": "Ice",
+      "level": 4,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "mythic ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ice",
+      "level": 5,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "rainbow gift tail",
+      "source": "Shiny Delibird",
+      "qty": 1,
+      "type": "Ice",
+      "level": 5,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "psychic wig",
+      "source": "Jynx",
+      "qty": 500,
+      "type": "Ice",
+      "level": 5,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "seel tail",
+      "source": "Seel",
+      "qty": 50,
+      "type": "Ice",
+      "level": 6,
+      "buff": "Increas all Ice Type spells damage by 3%."
+    },
+    {
+      "item": "simple ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Ice",
+      "level": 7,
+      "buff": "Increas all Ice Type spells damage by 5%."
+    },
+    {
+      "item": "blue seel tail",
+      "source": "Shiny Seel",
+      "qty": 3,
+      "type": "Ice",
+      "level": 7,
+      "buff": "Increas all Ice Type spells damage by 5%."
+    },
+    {
+      "item": "arcane ice orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Ice",
+      "level": 8,
+      "buff": "Increas all Ice Type spells damage by 5%."
+    },
+    {
+      "item": "blue seel tail",
+      "source": "Shiny Seel",
+      "qty": 3,
+      "type": "Ice",
+      "level": 8,
+      "buff": "Increas all Ice Type spells damage by 5%."
+    },
+    {
+      "item": "dewgong tail",
+      "source": "Dewgong",
+      "qty": 120,
+      "type": "Ice",
+      "level": 8,
+      "buff": "Increas all Ice Type spells damage by 5%."
+    },
+    {
+      "item": "mythic normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Normal",
+      "level": 1,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "normal essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Normal",
+      "level": 1,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "cute ball",
+      "source": "Whismur",
+      "qty": 500,
+      "type": "Normal",
+      "level": 1,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "mythic normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Normal",
+      "level": 2,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "purple egg",
+      "source": "Shiny Chansey",
+      "qty": 2,
+      "type": "Normal",
+      "level": 2,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "cow tail",
+      "source": "Miltank",
+      "qty": 500,
+      "type": "Normal",
+      "level": 2,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "mouse tail",
+      "source": "Ratata",
+      "qty": 50,
+      "type": "Normal",
+      "level": 3,
+      "buff": "Increas all Normal Type spells damage by 3%."
+    },
+    {
+      "item": "simple normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Normal",
+      "level": 4,
+      "buff": "Increas all Normal Type spells damage by 5%."
+    },
+    {
+      "item": "blue mouse tail",
+      "source": "Shiny Ratata",
+      "qty": 3,
+      "type": "Normal",
+      "level": 4,
+      "buff": "Increas all Normal Type spells damage by 5%."
+    },
+    {
+      "item": "arcane normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Normal",
+      "level": 5,
+      "buff": "Increas all Normal Type spells damage by 5%."
+    },
+    {
+      "item": "loud microphone",
+      "source": "Shiny Jigglypuff",
+      "qty": 3,
+      "type": "Normal",
+      "level": 5,
+      "buff": "Increas all Normal Type spells damage by 5%."
+    },
+    {
+      "item": "bull tail",
+      "source": "Tauros",
+      "qty": 120,
+      "type": "Normal",
+      "level": 5,
+      "buff": "Increas all Normal Type spells damage by 5%."
+    },
+    {
+      "item": "mouse tail",
+      "source": "Ratata",
+      "qty": 50,
+      "type": "Normal",
+      "level": 6,
+      "buff": "Increas all Normal Type spells defense by 3%."
+    },
+    {
+      "item": "simple normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Normal",
+      "level": 7,
+      "buff": "Increas all Normal Type spells defense by 5%."
+    },
+    {
+      "item": "blue mouse tail",
+      "source": "Shiny Ratata",
+      "qty": 3,
+      "type": "Normal",
+      "level": 7,
+      "buff": "Increas all Normal Type spells defense by 5%."
+    },
+    {
+      "item": "arcane normal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Normal",
+      "level": 8,
+      "buff": "Increas all Normal Type spells defense by 5%."
+    },
+    {
+      "item": "loud microphone",
+      "source": "Shiny Jigglypuff",
+      "qty": 3,
+      "type": "Normal",
+      "level": 8,
+      "buff": "Increas all Normal Type spells defense by 5%."
+    },
+    {
+      "item": "bull tail",
+      "source": "Tauros",
+      "qty": 120,
+      "type": "Normal",
+      "level": 8,
+      "buff": "Increas all Normal Type spells defense by 5%."
+    },
+    {
+      "item": "mythic poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Poison",
+      "level": 1,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "poison essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Poison",
+      "level": 1,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "toxic thing",
+      "source": "Gulpin",
+      "qty": 500,
+      "type": "Poison",
+      "level": 1,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "mythic poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Poison",
+      "level": 2,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "poisoned fish tail",
+      "source": "Shiny Qwilfish",
+      "qty": 2,
+      "type": "Poison",
+      "level": 2,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "king ear",
+      "source": "Nidoking",
+      "qty": 500,
+      "type": "Poison",
+      "level": 2,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "snake tail",
+      "source": "Ekans",
+      "qty": 50,
+      "type": "Poison",
+      "level": 3,
+      "buff": "Increas all Poison Type spells damage by 3%."
+    },
+    {
+      "item": "simple poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Poison",
+      "level": 4,
+      "buff": "Increas all Poison Type spells damage by 5%."
+    },
+    {
+      "item": "disgusting gosme",
+      "source": "Shiny Grimer",
+      "qty": 3,
+      "type": "Poison",
+      "level": 4,
+      "buff": "Increas all Poison Type spells damage by 5%."
+    },
+    {
+      "item": "arcane poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Poison",
+      "level": 5,
+      "buff": "Increas all Poison Type spells damage by 5%."
+    },
+    {
+      "item": "contagious pore",
+      "source": "Shiny Koffing",
+      "qty": 3,
+      "type": "Poison",
+      "level": 5,
+      "buff": "Increas all Poison Type spells damage by 5%."
+    },
+    {
+      "item": "cobra tail",
+      "source": "Arbok",
+      "qty": 120,
+      "type": "Poison",
+      "level": 5,
+      "buff": "Increas all Poison Type spells damage by 5%."
+    },
+    {
+      "item": "poison pore",
+      "source": "Koffing",
+      "qty": 50,
+      "type": "Poison",
+      "level": 6,
+      "buff": "Increas all Poison Type spells defense by 3%."
+    },
+    {
+      "item": "simple poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Poison",
+      "level": 7,
+      "buff": "Increas all Poison Type spells defense by 5%."
+    },
+    {
+      "item": "contagious pore",
+      "source": "Shiny Koffing",
+      "qty": 3,
+      "type": "Poison",
+      "level": 7,
+      "buff": "Increas all Poison Type spells defense by 5%."
+    },
+    {
+      "item": "arcane poison orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Poison",
+      "level": 8,
+      "buff": "Increas all Poison Type spells defense by 5%."
+    },
+    {
+      "item": "gray snake tail",
+      "source": "Shiny Ekans",
+      "qty": 3,
+      "type": "Poison",
+      "level": 8,
+      "buff": "Increas all Poison Type spells defense by 5%."
+    },
+    {
+      "item": "toxic scale",
+      "source": "Weezing",
+      "qty": 120,
+      "type": "Poison",
+      "level": 8,
+      "buff": "Increas all Poison Type spells defense by 5%."
+    },
+    {
+      "item": "mythic psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Psychic",
+      "level": 1,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "psychic essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Psychic",
+      "level": 1,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "bowl hair",
+      "source": "Ralts",
+      "qty": 500,
+      "type": "Psychic",
+      "level": 1,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "mythic psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 2,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "psychic wings",
+      "source": "Shiny Xatu",
+      "qty": 2,
+      "type": "Psychic",
+      "level": 2,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "giraffe antenna",
+      "source": "Girafarig",
+      "qty": 500,
+      "type": "Psychic",
+      "level": 2,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "psychic vest",
+      "source": "Abra",
+      "qty": 50,
+      "type": "Psychic",
+      "level": 3,
+      "buff": "Increas all Psychic Type spells damage by 3%."
+    },
+    {
+      "item": "simple psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Psychic",
+      "level": 4,
+      "buff": "Increas all Psychic Type spells damage by 5%."
+    },
+    {
+      "item": "blue psychic vest",
+      "source": "Shiny Abra",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 4,
+      "buff": "Increas all Psychic Type spells damage by 5%."
+    },
+    {
+      "item": "arcane psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 5,
+      "buff": "Increas all Psychic Type spells damage by 5%."
+    },
+    {
+      "item": "enchanted spoon",
+      "source": "Shiny Kadabra",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 5,
+      "buff": "Increas all Psychic Type spells damage by 5%."
+    },
+    {
+      "item": "psychic spoon",
+      "source": "Kadabra",
+      "qty": 120,
+      "type": "Psychic",
+      "level": 5,
+      "buff": "Increas all Psychic Type spells damage by 5%."
+    },
+    {
+      "item": "drowzee trunk",
+      "source": "Drowzee",
+      "qty": 50,
+      "type": "Psychic",
+      "level": 6,
+      "buff": "Increas all Psychic Type spells defense by 3%."
+    },
+    {
+      "item": "simple psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Psychic",
+      "level": 7,
+      "buff": "Increas all Psychic Type spells defense by 5%."
+    },
+    {
+      "item": "orange trunk",
+      "source": "Shiny Drowzee",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 7,
+      "buff": "Increas all Psychic Type spells defense by 5%."
+    },
+    {
+      "item": "arcane psychic orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 8,
+      "buff": "Increas all Psychic Type spells defense by 5%."
+    },
+    {
+      "item": "enchanted spoon",
+      "source": "Shiny Kadabra",
+      "qty": 3,
+      "type": "Psychic",
+      "level": 8,
+      "buff": "Increas all Psychic Type spells defense by 5%."
+    },
+    {
+      "item": "hypnosis pendant",
+      "source": "Hypno",
+      "qty": 120,
+      "type": "Psychic",
+      "level": 8,
+      "buff": "Increas all Psychic Type spells defense by 5%."
+    },
+    {
+      "item": "rock fist",
+      "source": "Geodude",
+      "qty": 50,
+      "type": "Rock",
+      "level": 1,
+      "buff": "Increas all Rock Type spells defense by 3%."
+    },
+    {
+      "item": "simple rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Rock",
+      "level": 2,
+      "buff": "Increas all Rock Type spells defense by 5%."
+    },
+    {
+      "item": "purple fist",
+      "source": "Shiny Geodude",
+      "qty": 3,
+      "type": "Rock",
+      "level": 2,
+      "buff": "Increas all Rock Type spells defense by 5%."
+    },
+    {
+      "item": "arcane rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Rock",
+      "level": 3,
+      "buff": "Increas all Rock Type spells defense by 5%."
+    },
+    {
+      "item": "purple stone forehead",
+      "source": "Shiny Graveler",
+      "qty": 3,
+      "type": "Rock",
+      "level": 3,
+      "buff": "Increas all Rock Type spells defense by 5%."
+    },
+    {
+      "item": "rock forehead",
+      "source": "Graveler",
+      "qty": 120,
+      "type": "Rock",
+      "level": 3,
+      "buff": "Increas all Rock Type spells defense by 5%."
+    },
+    {
+      "item": "mythic rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Rock",
+      "level": 4,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "rock essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Rock",
+      "level": 4,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "rock nose",
+      "source": "Nosepass",
+      "qty": 500,
+      "type": "Rock",
+      "level": 4,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "mythic rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Rock",
+      "level": 5,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "gold tail",
+      "source": "Shiny Onix",
+      "qty": 1,
+      "type": "Rock",
+      "level": 5,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "rock plate",
+      "source": "Pupitar",
+      "qty": 500,
+      "type": "Rock",
+      "level": 5,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "rock fist",
+      "source": "Geodude",
+      "qty": 50,
+      "type": "Rock",
+      "level": 6,
+      "buff": "Increas all Rock Type spells damage by 3%."
+    },
+    {
+      "item": "simple rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Rock",
+      "level": 7,
+      "buff": "Increas all Rock Type spells damage by 5%."
+    },
+    {
+      "item": "purple fist",
+      "source": "Shiny Geodude",
+      "qty": 3,
+      "type": "Rock",
+      "level": 7,
+      "buff": "Increas all Rock Type spells damage by 5%."
+    },
+    {
+      "item": "arcane rock orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Rock",
+      "level": 8,
+      "buff": "Increas all Rock Type spells damage by 5%."
+    },
+    {
+      "item": "purple stone forehead",
+      "source": "Shiny Graveler",
+      "qty": 3,
+      "type": "Rock",
+      "level": 8,
+      "buff": "Increas all Rock Type spells damage by 5%."
+    },
+    {
+      "item": "rock forehead",
+      "source": "Graveler",
+      "qty": 120,
+      "type": "Rock",
+      "level": 8,
+      "buff": "Increas all Rock Type spells damage by 5%."
+    },
+    {
+      "item": "electric screws",
+      "source": "Magnemite",
+      "qty": 50,
+      "type": "Steel",
+      "level": 1,
+      "buff": "Increas all Steel Type spells defense by 3%."
+    },
+    {
+      "item": "simple metal orb",
+      "source": "Shiny Magnemite",
+      "qty": 5,
+      "type": "Steel",
+      "level": 2,
+      "buff": "Increas all Steel Type spells defense by 5%."
+    },
+    {
+      "item": "blue screws",
+      "source": "Shiny Magnemite",
+      "qty": 3,
+      "type": "Steel",
+      "level": 2,
+      "buff": "Increas all Steel Type spells defense by 5%."
+    },
+    {
+      "item": "arcane metal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Steel",
+      "level": 3,
+      "buff": "Increas all Steel Type spells defense by 5%."
+    },
+    {
+      "item": "blue screws",
+      "source": "Shiny Magnemite",
+      "qty": 10,
+      "type": "Steel",
+      "level": 3,
+      "buff": "Increas all Steel Type spells defense by 5%."
+    },
+    {
+      "item": "forretress shell",
+      "source": "Forretress",
+      "qty": 120,
+      "type": "Steel",
+      "level": 3,
+      "buff": "Increas all Steel Type spells defense by 5%."
+    },
+    {
+      "item": "mythic metal orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Steel",
+      "level": 4,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "steel essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Steel",
+      "level": 4,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "aron helmet",
+      "source": "Aron",
+      "qty": 500,
+      "type": "Steel",
+      "level": 4,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "mythic metal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Steel",
+      "level": 5,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "strong magnet",
+      "source": "Shiny Magneton",
+      "qty": 1,
+      "type": "Steel",
+      "level": 5,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "steel wing",
+      "source": "Skarmory",
+      "qty": 500,
+      "type": "Steel",
+      "level": 5,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "electric screws",
+      "source": "Magnemite",
+      "qty": 50,
+      "type": "Steel",
+      "level": 6,
+      "buff": "Increas all Steel Type spells damage by 3%."
+    },
+    {
+      "item": "simple metal orb",
+      "source": "Shiny Magnemite",
+      "qty": 5,
+      "type": "Steel",
+      "level": 7,
+      "buff": "Increas all Steel Type spells damage by 5%."
+    },
+    {
+      "item": "blue screws",
+      "source": "Shiny Magnemite",
+      "qty": 3,
+      "type": "Steel",
+      "level": 7,
+      "buff": "Increas all Steel Type spells damage by 5%."
+    },
+    {
+      "item": "arcane metal orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Steel",
+      "level": 8,
+      "buff": "Increas all Steel Type spells damage by 5%."
+    },
+    {
+      "item": "blue screws",
+      "source": "Shiny Magnemite",
+      "qty": 3,
+      "type": "Steel",
+      "level": 8,
+      "buff": "Increas all Steel Type spells damage by 5%."
+    },
+    {
+      "item": "magnet",
+      "source": "Magneton",
+      "qty": 120,
+      "type": "Steel",
+      "level": 8,
+      "buff": "Increas all Steel Type spells damage by 5%."
+    },
+    {
+      "item": "frog tail",
+      "source": "Poliwag",
+      "qty": 50,
+      "type": "Water",
+      "level": 1,
+      "buff": "Increas all Water Type spells defense by 3%."
+    },
+    {
+      "item": "simple water orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Water",
+      "level": 2,
+      "buff": "Increas all Water Type spells defense by 5%."
+    },
+    {
+      "item": "white tail",
+      "source": "Shiny Horsea",
+      "qty": 3,
+      "type": "Water",
+      "level": 2,
+      "buff": "Increas all Water Type spells defense by 5%."
+    },
+    {
+      "item": "arcane water orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Water",
+      "level": 3,
+      "buff": "Increas all Water Type spells defense by 5%."
+    },
+    {
+      "item": "cyan ear",
+      "source": "Shiny Wartortle",
+      "qty": 3,
+      "type": "Water",
+      "level": 3,
+      "buff": "fsmf"
+    },
+    {
+      "item": "wartortle ear",
+      "source": "Wartortle",
+      "qty": 120,
+      "type": "Water",
+      "level": 3,
+      "buff": "Increas all Water Type spells defense by 5%."
+    },
+    {
+      "item": "mythic water orb",
+      "source": "Verificar aba de drops",
+      "qty": 2,
+      "type": "Water",
+      "level": 4,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "water essence",
+      "source": "Verificar aba de drops",
+      "qty": 100,
+      "type": "Water",
+      "level": 4,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "mud tail",
+      "source": "Shiny Quagsire\nMudkip",
+      "qty": 500,
+      "type": "Water",
+      "level": 4,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "mythic water orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Water",
+      "level": 5,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "malfunctioning core",
+      "source": "Shiny Starmie",
+      "qty": 1,
+      "type": "Water",
+      "level": 5,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "star jewel",
+      "source": "Starmie",
+      "qty": 500,
+      "type": "Water",
+      "level": 5,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "horsea tail",
+      "source": "Horsea",
+      "qty": 25,
+      "type": "Water",
+      "level": 6,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "small blue fin",
+      "source": "Shiny Remoraid",
+      "qty": 25,
+      "type": "Water",
+      "level": 6,
+      "buff": "Increas all Water Type spells damage by 3%."
+    },
+    {
+      "item": "simple water orb",
+      "source": "Verificar aba de drops",
+      "qty": 5,
+      "type": "Water",
+      "level": 7,
+      "buff": "Increas all Water Type spells damage by 5%."
+    },
+    {
+      "item": "gray frog tail",
+      "source": "Shiny Poliwag",
+      "qty": 3,
+      "type": "Water",
+      "level": 7,
+      "buff": "Increas all Water Type spells damage by 5%."
+    },
+    {
+      "item": "arcane water orb",
+      "source": "Verificar aba de drops",
+      "qty": 3,
+      "type": "Water",
+      "level": 8,
+      "buff": "Increas all Water Type spells damage by 5%."
+    },
+    {
+      "item": "blue mohawk",
+      "source": "Shiny Croconaw",
+      "qty": 3,
+      "type": "Water",
+      "level": 8,
+      "buff": "Increas all Water Type spells damage by 5%."
+    },
+    {
+      "item": "crocodile hair",
+      "source": "Croconaw",
+      "qty": 120,
+      "type": "Water",
+      "level": 8,
+      "buff": "Increas all Water Type spells damage by 5%."
+    }
+  ]
+}

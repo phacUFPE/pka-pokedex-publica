@@ -1,0 +1,692 @@
+{
+  "faq": [
+    {
+      "keys": "star",
+      "text": "Star Ascension: wiki.pokealliance.com/sistemas/star-machine  /  Calculadora de custos pra estrelar: tinyurl.com/planilha-pka-star     A máquina fica subindo uma escada no TC"
+    },
+    {
+      "keys": "boost",
+      "text": "Boost Pokémon: wiki.pokealliance.com/guias/boost_stone      A máquina de boost fica no meio do TC, do lado direito"
+    },
+    {
+      "keys": "up",
+      "text": "Guia de up até o lvl 150: https://discord.com/channels/1159230367803392022/1308522087517782047     /     Primeiros passos: wiki.pokealliance.com/guias/primeiros-passos"
+    },
+    {
+      "keys": "fly",
+      "text": "Order no seu pé pra montar no fly. Subir e descer configura as hotkeys no Ctrl K -> Movements -> Fly Up e Fly Down. Se quiser tirar os botões que aparecem na tela, é em Config -> Game -> Show Fly Up/Down buttons"
+    },
+    {
+      "keys": "ilhas laranja",
+      "text": "Ilhas laranja (lvl150+): Fala com o Captain Frederic, na praia sul de Cianwood, e depois pega a chave escondida atrás do coqueiro (imgur.com/a/uu36dVY), e entrega a chave para o capitão. Depois só voar pra ilha que precisa ir"
+    },
+    {
+      "keys": "mapa",
+      "text": "Pra liberar o mapa completo: tinyurl.com/discord-pka-mapa     Fecha o jogo, e importa o arquivo pelo launcher: imgur.com/a/FzbjhL0"
+    },
+    {
+      "keys": "ditto",
+      "text": "Pra fazer o shiny Ditto: wiki.pokealliance.com/quests/quests-principais#dr-oliveira-e-shiny-ditto     O NPC Fica no lab de Pallet"
+    },
+    {
+      "keys": "combo autocombo",
+      "text": "Autocombo: Botão direito nas skills -> Open Auto Combo. Arrasta a skills pra baixo na ordem que quiser. Fecha a interface, botão direito no terceiro botão da action bar (o monstrinho) e seta a hotkey. imgur.com/6xFdECI"
+    },
+    {
+      "keys": "pesca",
+      "text": "Pra pescar, tem que procurar os fishing spots (uns peixes na água) direita ou sul de Saffron. Quando achar, aperta Ctrl Z e clica nele. Pescar só upa a skill de pesca, não da xp pro personagem, e nem vem muito shiny"
+    },
+    {
+      "keys": "fundir",
+      "text": "Fundir helds: wiki.pokealliance.com/sistemas/helds#fusao-de-helds    A máquina fica no meio do TC"
+    },
+    {
+      "keys": "trocar",
+      "text": "Trocar tokens por helds: youtu.be/Bvq8_LrDuXo?t=50"
+    },
+    {
+      "keys": "cupom",
+      "text": "Cupons: Biskella, Anunaki, Bandicot, Lemes, Safnaw, Loxas, Lele, Emprego, Twooplayerss, Kaka, Lixito"
+    },
+    {
+      "keys": "aura addon skill",
+      "text": "Trocar Aura/Addon/Nome/Training: Com o poke pra dentro, Ctrl Click na ball e seleciona \"Customize Pokeball\""
+    },
+    {
+      "keys": "prey",
+      "text": "Sistema de prey: wiki.pokealliance.com/sistemas/prey        // Pra conseguir os cards é na DD store, calendário, ou game pass"
+    },
+    {
+      "keys": "offensive defensive",
+      "text": "Pra setar offensive/defensive: Ctrl K -> Pokemon -> As últimas opções. imgur.com/a/0hqCnBb"
+    },
+    {
+      "keys": "shard dg",
+      "text": "Arcane shards servem pra entrar nas DGs: wiki.pokealliance.com/sistemas/arcane-shards-dungeons     /     Como chegar em cada dungeon: tinyurl.com/planilha-pka-dgs"
+    },
+    {
+      "keys": "treino treinar punching",
+      "text": "Sistema de treinamento: wiki.pokealliance.com/sistemas/treinamento                Pra treinar sem house é descendo uma escada no TC, e vai pro lado direito. Precisa comprar Punching Bag Premium Charger na DD Store -> Promotions"
+    },
+    {
+      "keys": "vender",
+      "text": "Pra vender um item no market é só arrastar ele pra interface. Não pode ser item unique."
+    },
+    {
+      "keys": "july",
+      "text": "Compra camera/decoração/backpack com a NPC July, na entrada do TC >"
+    },
+    {
+      "keys": "medalha",
+      "text": "Sistema de medalhas: wiki.pokealliance.com/sistemas/medal-system            Inicio da quest é com NPC sul de Petalburg"
+    },
+    {
+      "keys": "carteira",
+      "text": "Pra ver o dinheiro é no Perfil (Ctrl T) -> Carteira"
+    },
+    {
+      "keys": "expedition",
+      "text": "Expeditions (Fazer shards automaticamente): www.youtube.com/watch?v=hPkmXE61Y18"
+    },
+    {
+      "keys": "hunt",
+      "text": "Localizações das hunts:   tinyurl.com/planilha-pka-hunts  <-- Nesse link tem como chegar nas hunts, e também da pra ver pela Pokédex dentro do jogo, clicando na lupa do lado da foto dele na dex. Filtra por normal/wild na esquerda/cima"
+    },
+    {
+      "keys": "maxima media",
+      "text": "Máxima de brokes por tier (só shiny):  tinyurl.com/planilha-pka-brokes          /          Médias dos pokemons:  criticalcatch-pkatools.vercel.app/averages"
+    },
+    {
+      "keys": "passe",
+      "text": "Game Pass é acessado no menu superior, segundo botão. Pra ganhar as moedas da loja, precisa upar depois do lvl 50. 1 lvl = 1 moeda"
+    },
+    {
+      "keys": "linked",
+      "text": "Linked Tasks: tinyurl.com/planilha-pka-linked-tasks   //   Mais detalhes: wiki.pokealliance.com/sistemas/linked-tasks"
+    },
+    {
+      "keys": "revive",
+      "text": "Pra conseguir uns revives, tem uma box grátis na Store (No menu superior) -> Character -> Starter Box. As conquistas (Ctrl T) e Linked Tasks (Ctrl L) tbm dão"
+    },
+    {
+      "keys": "mega",
+      "text": "Megas: wiki.pokealliance.com/sistemas/hazard-mega-dens     Só a mega Clefable aparece na wildscape delas"
+    },
+    {
+      "keys": "togepi",
+      "text": "Pra evoluir Togepi/Eevee/Golbat/Chansey, mate pokemons com ele pra subir a barra de felicidade em baixo da vida dele, e ele estar pronto e começar a brilhar. Mas não compensa evoluir o togepi, ele perde a skill de cura"
+    },
+    {
+      "keys": "vip",
+      "text": "Benefícios de ser VIP: Autoloot, Teleport, Loot Stash, Guild Boss, Comprar House, Brotherhood, Rockets, Officers, Clones"
+    },
+    {
+      "keys": "legendary",
+      "text": "Shiny tier lendário só spawna na Mewtwo Island. Precisa lvl 350+ pra acessar e caça usando rotação de pokes. Nas wildscapes deles, nascem T1s do tipo respectivo: https://discord.com/channels/1159230367803392022/1235107027026448385/1492317824306384998"
+    },
+    {
+      "keys": "caveira",
+      "text": "Hunts com caveira são as Wildscapes. Precisa lvl 150 pra ganhar xp. Lá os pokes são mais fortes, tem drop rate maior e vem mais shiny"
+    },
+    {
+      "keys": "bh",
+      "text": "BH: https://discord.com/channels/1159230367803392022/1308285144943034398/1460010127838150699"
+    },
+    {
+      "keys": "kecleon",
+      "text": "Pra vender stones é com o NPC Kecleon, na entrada do TC ->"
+    },
+    {
+      "keys": "balls",
+      "text": "AB=5x, PB=4x, Elemental=5x, UB=4x. AB e PB não consideram o sistema de mérito (sempre contam como se fosse a primeira ball jogada). Mas AB e PB somam pro total de brokes (pra quando for usar UB/Elemental). Elem > UB > AB > PB"
+    },
+    {
+      "keys": "hoenn",
+      "text": "Ir pra Hoenn (Lvl250): Fala com os profs em Pallet e New Bark, depois pro NPC Hank sul de Goldenrod (imgur.com/a/AOqN6L0) e clica no trailer pra ir pra Hoenn. O prof Birch fica na hunt de Poochyena (imgur.com/a/AV1brbq)"
+    },
+    {
+      "keys": "pokelog",
+      "text": "Pokelog acessa no Ctrl T. Mais detalhes:     wiki.pokealliance.com/sistemas/pokelog"
+    },
+    {
+      "keys": "hazard",
+      "text": "Tasks do hazard: tinyurl.com/planilha-pka-hazard     /     Mais infos: https://discord.com/channels/1159230367803392022/1159230368940032093/1445053824707330221"
+    },
+    {
+      "keys": "stash",
+      "text": "Fecha o stash e arrasta o item pra cima da caixa azul no TC, como se fosse dropar em cima. Se forem muitos itens pra guardar, coloca numa bagzinha e arrasta ela"
+    },
+    {
+      "keys": "orb",
+      "text": "Todos os orbs são usados nos Poketalents. Da pra ver eles no Ctrl T -> Talentos. Mais detalhes: wiki.pokealliance.com/sistemas/talentos"
+    },
+    {
+      "keys": "dex",
+      "text": "Dex é o primeiro botão da action bar. Botao direito nele pra setar uma hotkey. Ou seta direto a hotkey no Ctrl K -> Action Bar -> Action Bar Pokedex"
+    },
+    {
+      "keys": "discord",
+      "text": "discord.gg/pokealliance"
+    },
+    {
+      "keys": "tierlist",
+      "text": "Tierlist: wiki.pokealliance.com/pokemon          //          tinyurl.com/planilha-pka-tierlist"
+    },
+    {
+      "keys": "talents",
+      "text": "Talentos de dano são os do tipo do move que será usado. Talentos de defesa são os do tipo do Pokemon que será usado. Se o pokemon tiver dois tipos, precisa fazer os talents de defesa dos dois pra ter 100% da eficácia"
+    },
+    {
+      "keys": "tp teleport",
+      "text": "Pra dar TP, Ctrl Tab e clica no nome da cidade. Precisa de VIP e ter falado com a Joy no CP da cidade. O cooldown base é 30min, e diminui conforme o held de tp quer tiver no pokemon (t1=25min, t2=22min, t3=20min, t4=15min, t5=10min, t6=5min, t7=1min)"
+    },
+    {
+      "keys": "rosemary",
+      "text": "Remover helds é com a NPC Rosemary, na entrada do TC à direita. Fala hi -> remove -> {NomeDoHeld}        wiki.pokealliance.com/sistemas/helds#como-retirar-um-held"
+    },
+    {
+      "keys": "heather",
+      "text": "Vender pokes é com a NPC Heather, na entrada do TC, do lado esquerdo"
+    },
+    {
+      "keys": "rockets",
+      "text": "Rockets: tinyurl.com/planilha-pka-rockets     /     Mais detalhes: wiki.pokealliance.com/sistemas/rockets-semanais"
+    },
+    {
+      "keys": "ginasios gyms",
+      "text": "Gyms: tinyurl.com/planilha-pka-gyms     /     Mais detalhes: wiki.pokealliance.com/sistemas/gyms-kanto-hoenn#etapas-de-cada-gym"
+    },
+    {
+      "keys": "normal",
+      "text": "Pokemon não-shiny não tem como calcular uma média dos catches pq  eles não aparecem no discord pra poder calcular. A máxima de não-shiny até T2 fica em torno de 5k, e de T1 120k+"
+    },
+    {
+      "keys": "memory",
+      "text": "Memory: Ctrl Click na ball e seleciona \"Ditto Memory\". Daí clica nos slots pra ir comprando. Custa 30, 40, 50, 60 e 70DD pra desbloquear os slots, respectivamente. Só funciona no Shiny Ditto"
+    },
+    {
+      "keys": "johto",
+      "text": "pra ir pras cidades de Johto, vai voando pela água ao sul de New Bark (Ctrl Tab pra ver o mapa), ou pode pegar o barco em Vermilion até Olivine por 50k"
+    },
+    {
+      "keys": "held",
+      "text": "Com o poke pra dentro, usa o held na ball. Tem que começar pelo tier 1 do held e ir subindo na ordem (t2, t3...). Mais infos:     wiki.pokealliance.com/sistemas/helds"
+    },
+    {
+      "keys": "share",
+      "text": "Compartilhar xp: Padrão=15lvls / Ilhas laranja=30lvls / Hoenn=80lvls. Mais detalhes: https://discord.com/channels/1159230367803392022/1308285144943034398/1460739112435712022"
+    },
+    {
+      "keys": "espeon umbreon",
+      "text": "Espeon = entre 06:00 e 17:59 no relógio do minimap. Umbreon = entre 18:00 e 05:59. O ciclo de 12h no jogo dura 2h no tempo real"
+    },
+    {
+      "keys": "bless",
+      "text": "Pra comprar bless é com a enfermeira Joy no CP abandonado direita de Fuchsia. imgur.com/a/ZRjJxLj"
+    },
+    {
+      "keys": "porygon",
+      "text": "Quest do Porygon: wiki.pokealliance.com/quests/porygon-dr-vektor     /     tinyurl.com/planilha-pka-porygon"
+    },
+    {
+      "keys": "loot",
+      "text": "Os itens vão pro Loot Stash. É o ícone de uma caixa no menu superior"
+    },
+    {
+      "keys": "order",
+      "text": "Order é o segundo botão na action bar (a mãozinha). Botão direito nela pra setar a hotkey"
+    },
+    {
+      "keys": "brokes",
+      "text": "Pra ver as brokes é no Ctrl T -> Pokemon Brokes, ou usando o comando !pokeball \"shiny nomedopoke"
+    },
+    {
+      "keys": "house",
+      "text": "Comprar house precisa lvl 200, VIP e ter o dinheiro na carteira. Clica na porta pra fazer o bid. Se tiver casas vazias pra comprar, aparece o ícone no Ctrl Tab, e depois que comprar usa !houseinfo wiki.pokealliance.com/sistemas/houses-e-bids"
+    },
+    {
+      "keys": "twitch",
+      "text": "Twitch: wiki.pokealliance.com/sistemas/twitch-shop"
+    },
+    {
+      "keys": "amulet",
+      "text": "Lucky Amulet (Lvl 250+): https://discord.com/channels/1159230367803392022/1367202787208859759/1367206876458254407     /     wiki.pokealliance.com/quests/lucky_amulet"
+    },
+    {
+      "keys": "corte",
+      "text": "Cortes de xp acontecem nos lvls: 100 130 150 200 320 400            Mais detalhes: https://wiki.pokealliance.com/sistemas/experiencia-e-level"
+    },
+    {
+      "keys": "hydreigon",
+      "text": "Hydreigon: https://discord.com/channels/1159230367803392022/1308285144943034398/1460007176562016448"
+    },
+    {
+      "keys": "foil",
+      "text": "Energy foils são teleports pras hunts de hoen (lvl 250+). Precisa ter ido nos waypoints (fotos dos pokes no Ctrl Tab) pra liberar o tp antes de usar"
+    },
+    {
+      "keys": "elixir",
+      "text": "Pra não tomar miss tem o Guardian Elixir. Compra no NPC Mark, ou na Twitch Store no menu superior -> Store -> Twitch Shop"
+    },
+    {
+      "keys": "radar",
+      "text": "Como funcionam os radares da Brotherhood: youtube.com/shorts/IssTYDDWpBo"
+    },
+    {
+      "keys": "berry",
+      "text": "Berries na loja do Global Buff: https://discord.com/channels/1159230367803392022/1159230368940032093/1503091998884626725"
+    },
+    {
+      "keys": "global buffs",
+      "text": "Global buffs: wiki.pokealliance.com/sistemas/global-buff"
+    },
+    {
+      "keys": "pokestop",
+      "text": "Configurar Pokestop: Ctrl K -> Player Actions -> Pokestop"
+    },
+    {
+      "keys": "rotações",
+      "text": "Rotações pra Hoenn: docs.google.com/document/d/1mVsLDJnSddFdjA3r_Gm66L9E5VVb1nAm (Créditos: Shaolin Pig Slayer - MOON)"
+    },
+    {
+      "keys": "speed",
+      "text": "Tier 7 até Tier 4: 500 de velocidade //  Tier 3: 600 de velocidade // Tier 2: 700 de velocidade //  Tier 1: 800 de velocidade // SR, UR e Legendary: 1000 de velocidade"
+    },
+    {
+      "keys": "taunt",
+      "text": "Ctrl K -> Player Actions -> Start Outfit Taunt"
+    },
+    {
+      "keys": "heracross",
+      "text": "NPC Heracross: 1986, 2014, 6"
+    },
+    {
+      "keys": "clones",
+      "text": "Clones: wiki.pokealliance.com/sistemas/clones"
+    },
+    {
+      "keys": "util",
+      "text": "Drop de shiny não da pra vender em NPC. Se for de primeira evolução pode ser usado nos talentos (Ctrl T). Se não for, não tem uso. Se o drop for de evolução, serve pra evoluir a pré-evolução respectiva"
+    },
+    {
+      "keys": "autorevive",
+      "text": "Arrasta o revive pra action bar e seleciona Auto Revive. Depois clica com o botão direito na barra pra setar a hotkey.    imgur.com/a/LsV35UJ"
+    },
+    {
+      "keys": "bid",
+      "text": "Lances/bids de house: wiki.pokealliance.com/sistemas/houses-e-bids     /     https://discord.com/channels/1159230367803392022/1159230368940032093/1515868878373130332"
+    },
+    {
+      "keys": "wonka",
+      "text": "Wonka Golden Ticket é do evento de páscoa. Por enquanto não tem uso, deve voltar no ano que vem"
+    },
+    {
+      "keys": "voucher",
+      "text": "Alliance Voucher só é dado como compensação quando tem alguma instabilidade no servidor"
+    },
+    {
+      "keys": "zap",
+      "text": "Comunidade oficial do PKA no Whatsapp: chat.whatsapp.com/DkjmJXgB6vgLwXGyr2dRYb  (Trade e Chat)  //  Trade 2:  https://chat.whatsapp.com/I8V1bnZRRVC2bNodHqekai"
+    },
+    {
+      "keys": "walk",
+      "text": "Configurar walk/fly automático: Ctrl K -> Player Actions -> Walk"
+    },
+    {
+      "keys": "ancient",
+      "text": "Único jeito de conseguir Ancient Stone é como recompensa na quest do Flint: https://discord.com/channels/1159230367803392022/1308283917266059304"
+    },
+    {
+      "keys": "seta efeito",
+      "text": "Efeitos de drops: Ctrl click no personagem -> Set Outfit -> Loot Effects"
+    },
+    {
+      "keys": "zoom",
+      "text": "Diminuir o zoom: Configs -> Graphics -> HudScale Percent. Se já tiver em 100%, só aumentando a resolução do monitor (O jogo ta otimizado pra 1920x1080). Jogar no modo clássico tbm diminui (Ctrl Ponto)"
+    },
+    {
+      "keys": "autoball",
+      "text": "Pra só pressionar a hotkey e ir passando o mouse nos corpos pra jogar ball, seleciona \"Smart Use\" na ação da ball, e \"On Key Press\" na hotkey da ball.     imgur.com/a/wsBc9WF"
+    },
+    {
+      "keys": "moving",
+      "text": "Pra mudar a cidade inicial tem que usar o Moving Ticket. É um verde que vc ganhou quando criou a conta. Se já usou, da pra comprar outro na Store -> Characater"
+    },
+    {
+      "keys": "police",
+      "text": "Police: tinyurl.com/planilha-pka-police     /     Mais detalhes: wiki.pokealliance.com/sistemas/polices-semanais"
+    },
+    {
+      "keys": "corpse bride",
+      "text": "Corpse Bride Ticket era do evento do dia dos namorados. Já terminou, agora não da mais pra usar"
+    },
+    {
+      "keys": "moomoo moo",
+      "text": "Moomoo Milk Quest(Lvl 300+): https://discord.com/channels/1159230367803392022/1525116514116567080"
+    },
+    {
+      "keys": "tyrogue",
+      "text": "Serve pra evoluir o tyrogue. Na dex dele da pra ver qual item usa pra cada evolução"
+    },
+    {
+      "keys": "roupa",
+      "text": "Roupa de Ski (Levar 3 Ice Stone): imgur.com/a/zyBfjzG // Sandboard (Levar 3 Enigma Stone): imgur.com/bUSyhB4 // Roupa de Mergulho (Levar 3 Water Stone): imgur.com/xWkxgwg Se a conta foi criada depois de 09/05/2026 ja tem as roupas"
+    },
+    {
+      "keys": "fraqueza",
+      "text": "Olha na dex quais as fraquezas do pokemon. Usa o maior tier que vc conseguir pegar que bata efetivo: wiki.pokealliance.com/pokemon"
+    },
+    {
+      "keys": "recovery",
+      "text": "Recovery Key: https://discord.com/channels/1159230367803392022/1235107027026448385/1525600910506725576"
+    },
+    {
+      "keys": "money",
+      "text": "ve na aba Sell do market os drops que a galera ta pagando mais, e farma elas pra vender"
+    },
+    {
+      "keys": "npc task",
+      "text": "NPC Tasks: tinyurl.com/planilha-pka-tasks   <- Localizações   //   wiki.pokealliance.com/sistemas/tasks-do-mundo   <- Recompensas, e mais infos"
+    },
+    {
+      "keys": "isca",
+      "text": "Pra comprar isca é com o NPC Fisherman, norte/esquerda do market de Saffron: imgur.com/a/NVhr3YD"
+    },
+    {
+      "keys": "drop",
+      "text": "Pra saber qual poke dropa um item específico:      tinyurl.com/planilha-pka-drops      Ou segura Shift na tela dos talentos/boost  Ou Ctrl click -> Consultar Drops"
+    },
+    {
+      "keys": "ping",
+      "text": "Nâo tem como ver o ping dentro do jogo. O mais próximo é mandar um \"ping pokealliance.com\" no cmd"
+    },
+    {
+      "keys": ".",
+      "text": "100k cargas premium upam 1 pokemon do lvl 0 até lvl 23 + 30%"
+    },
+    {
+      "keys": "150",
+      "text": "Depois do lvl 150 vc upa em qualquer wildscape (hunt com caveira) que vc tenha pokes pra caçar: tinyurl.com/planilha-pka-hunts"
+    },
+    {
+      "keys": "tubos",
+      "text": "Tubos (Hunt lvl 350+):  imgur.com/a/wFcUcVR"
+    },
+    {
+      "keys": "python",
+      "text": "Fiz um scriptzinho em python onde eu aperto um atalho, digito uma palavra chave da pergunta, e ele ja traz a mensagem pro meu Ctrl C"
+    },
+    {
+      "keys": "qwilfish",
+      "text": "NPC pra trocar o item do Qwilfish pelo shiny: imgur.com/a/fmnPze7"
+    },
+    {
+      "keys": "reinicia reabre",
+      "text": "Reabre o client, e força atualização pelo launcher, clicando na engrenagem em cima/direita -> Verificar atualizações"
+    },
+    {
+      "keys": "package",
+      "text": "Usa um Package Kit no item pra tirar ele da house. Compra por 1k na NPC July na entrada do TC ->"
+    },
+    {
+      "keys": "quest",
+      "text": "Quests principais: wiki.pokealliance.com/quests/quests-principais"
+    },
+    {
+      "keys": "wiki",
+      "text": "Wiki oficial do PKA: wiki.pokealliance.com"
+    },
+    {
+      "keys": "outland",
+      "text": ".h outland north/east/south"
+    },
+    {
+      "keys": "depot",
+      "text": "Depot stash no TC, uma caixa azul perto da televisão"
+    },
+    {
+      "keys": "autoloot",
+      "text": "autoloot é só pra vip. Se não for, aperta espaço perto dos corpos pra lootear. E se quiser trocar a hotkey, Ctrl K -> Others -> Auto Loot"
+    },
+    {
+      "keys": "tracker rastreador",
+      "text": "Tracker de Linked/Pokelog: Ctrl T -> Pokelog -> Open Tracker     /     Tracker de Brokes: Ctrl T -> Pokemon Brokes -> Open Tracker. Clica na mira do lado do pokemon pra adicionar ele no tracker"
+    },
+    {
+      "keys": "revendedor",
+      "text": "Revendedor oficial do PKA: curse.com.br/pokealliance"
+    },
+    {
+      "keys": "store",
+      "text": "Pra acessar a loja da twitch/online points é na guia superior ^, no lado esquerdo < simbolo de uma lojinha"
+    },
+    {
+      "keys": "compravip",
+      "text": "pra comprar VIP: Menu superior -> Store -> Diamond Shop -> Aba Character -> VIP Account"
+    },
+    {
+      "keys": "donate",
+      "text": "depois de confirmar o pagamento, reabre a Diamond Shop que o saldo vai estar em \"Account\" em cima na esquerda. Clica em \"Withdraw\" que os DDs vão pro seu depot"
+    },
+    {
+      "keys": "market",
+      "text": "pra recolher os itens/dinheiro do market, clica no sqm da direita na máquina azul do market. Vai abrir o depot com os itens pra vc coletar"
+    },
+    {
+      "keys": "rmt",
+      "text": "RMT é liberado, mas não pode anunciar os preços em canais dentro do jogo. Nas regras no discord explica com mais detalhes: https://discord.com/channels/1159230367803392022/1159230368940032092/1235097347394895872"
+    },
+    {
+      "keys": "referal",
+      "text": "Referal code não da nenhuma vantagem. É só usado em algumas campanhas específicas pra staff ter umas métricas. Pode usar seu nick mesmo"
+    },
+    {
+      "keys": "recomendado",
+      "text": "Pokemons bons pra pegar antes do lvl 150: Arcanine, Mimikyu, Gyarados, Shiny Victreebel, Glaceon, Pachirisu, Mightyena"
+    },
+    {
+      "keys": "dailyguild",
+      "text": "Daily guild são 42 tasks por semana (7 diárias + 35 tickets). Mais detalhes: https://discord.com/channels/1159230367803392022/1159230368940032093/1536193255350345848"
+    },
+    {
+      "keys": "surf",
+      "text": "pra surfar é só andar em direção à água, tendo um poke pra fora que tenha surf"
+    },
+    {
+      "keys": "ability habilidade",
+      "text": "pra saber se o pokemon tem fly, surf, dig... olha na Pokedex -> Info -> Field Abilities"
+    },
+    {
+      "keys": "comandos",
+      "text": "wiki.pokealliance.com/guias/comandos-disponiveis"
+    },
+    {
+      "keys": "ticket",
+      "text": "Pra abrir ticket,  pokealliance.com  faz o login e clica em \"Tickets\""
+    },
+    {
+      "keys": "instancia canal",
+      "text": "Instancias: https://wiki-pokealliance-es.pages.dev/instancias"
+    },
+    {
+      "keys": "topmenu",
+      "text": "Passa o mouse no meio da tela em cima que vai aparecer o botão pra abrir o menu"
+    },
+    {
+      "keys": "help",
+      "text": "deixa o chat de Help só pra dúvidas sobre as mecânicas do jogo, por favor. Se for bug, abre um ticket no site. Sugestão manda no #sugestões no discord. Resto manda no GC"
+    },
+    {
+      "keys": "mc",
+      "text": "pode abrir 2 clients, mas tem restrições. Da uma lida no chat #regras no Discord"
+    },
+    {
+      "keys": "calendario",
+      "text": "calendário premium vc consegue resgatar os dias anteriores pagando 100 online points pra cada dia"
+    },
+    {
+      "keys": "critico critical",
+      "text": "o efeito que aparece às vezes quando joga a ball é o critical catch. Naquela ball, a chance é dobrada"
+    },
+    {
+      "keys": "technological",
+      "text": "revive normal só funciona até o lvl 219. Max revive funciona a partir do lvl 220. Technological revive é o único que funciona nas hunts de rotação (Lvl 350+)"
+    },
+    {
+      "keys": "trade",
+      "text": "pra dar trade, ctrl click no item -> Trade With, e clica na pessoa"
+    },
+    {
+      "keys": "appricorn",
+      "text": "appricorns ainda não têm uso"
+    },
+    {
+      "keys": "smeargle",
+      "text": "Smeargle vem de um tipo aleatório, com moveset já pré-definido. O item do shiny permite troca a tipagem do shiny Smeargle. Pra estrelar, pode sacrificar um de qualquer tipo"
+    },
+    {
+      "keys": "evolui",
+      "text": "pra evoluir shiny, geralmente precisa de uma stone e do drop raro da evolução shiny dele. Na dex vai mostrar certinho o que precisa"
+    },
+    {
+      "keys": "aerodactyl",
+      "text": "Aerodactyl só tem na dg de mega dele. Lvl 350+ pra acessar"
+    },
+    {
+      "keys": "toybox",
+      "text": "Toybox da um toy de decoração. Não da pra vender em NPC"
+    },
+    {
+      "keys": "sellhouse",
+      "text": "Vender casa: wiki.pokealliance.com/sistemas/houses-e-bids#abandonar-ou-vender-uma-house"
+    },
+    {
+      "keys": "celebi shrine",
+      "text": "Celebi Shrine só fica ativo durante eventos. O próximo provavelmente vai ser no Halloween"
+    },
+    {
+      "keys": "pegaheld",
+      "text": "Pra conseguir helds: Daily Guild, Daily Shop, Rockets, Police, Brotherhood, Clones"
+    },
+    {
+      "keys": "exemploball",
+      "text": "Ex: Vc jogou 1000 PB ou AB. Se a ball 1001 for PB ou AB, vai ignorar as outras 1000. Se a ball 1001 for UB ou elemental, essa ball vai ter o mérito de 1001 brokes"
+    },
+    {
+      "keys": "pegaelemental",
+      "text": "Pra conseguir ball elemental é só na Diamond Store, Online Shop, Battle pass, ou comprando de jogadores no market"
+    },
+    {
+      "keys": "pegaab",
+      "text": "Pra conseguir AB, é só na Diamond Store, Battle Pass, durante eventos, ou comprando de jogadores no market"
+    },
+    {
+      "keys": "pegapb",
+      "text": "Pra conseguir PB, é só na Diamond Store, Online shop, Battle Pass, durante eventos, ou comprando de jogadores no market"
+    },
+    {
+      "keys": "heldboost",
+      "text": "Held boost aumenta o equivalente a x lvls no personagem. Da look no held, o level projetado é o valor que aparecer no final multiplicado por 3"
+    },
+    {
+      "keys": "pegacharm pegashiny",
+      "text": "Pra conseguir item de buff de shiny, tem na Diamond Store->Utilities, Linked Tasks (Ctrl L), NPC Tasks, Battle Pass e durante eventos"
+    },
+    {
+      "keys": "lucky",
+      "text": "Lucky amulet e lucky held no poke vai contar só o que der o maior bonus"
+    },
+    {
+      "keys": "talentditto",
+      "text": "Pro Ditto, talent de def é normal, e de dano é do tipo do move que for usar quando tiver transformado"
+    },
+    {
+      "keys": "console",
+      "text": "Pras mensagens privadas abrirem em uma nova aba, desmarca a opção Ctrl K -> Console -> Show private messages in console"
+    },
+    {
+      "keys": "multithread",
+      "text": "Se tiver travando, ativa a opção Options -> Graphics -> Multithread rendering"
+    },
+    {
+      "keys": "trainingroom",
+      "text": "Testa o dano dos pokemons no TR (Training Room), vai em qualquer CP, do lado da porta que entra no TC"
+    },
+    {
+      "keys": "achievement conquista",
+      "text": "Conquistas e recompensas:    wiki.pokealliance.com/sistemas/achievements"
+    },
+    {
+      "keys": "trocarevive",
+      "text": "Pra trocar revive unique por max revive é com o NPC na varanda do TC à esquerda. Deixa os revives no slot do lado do pokemon no Ctrl P, e fala \"exchange\". Só funciona com unique"
+    },
+    {
+      "keys": "titanRewarder lvl level",
+      "text": "Titan Rewarder: imgur.com/a/K9OUnE6     Recompensa por pegar lvl no Titan: https://discord.com/channels/1159230367803392022/1235107027026448385/1532474237913399396"
+    },
+    {
+      "keys": "AllianceRewarder 7k",
+      "text": "Alliance Rewarder (Precisa lvl 150+ e Vip): imgur.com/a/QzUk2PV    Recompensa pelos 7500 jogadores online  (10 Log Pose e 10 Minor Xp Boost)"
+    },
+    {
+      "keys": "tank",
+      "text": "Pra saber se um pokemon é tank, ve na dex se ele tem alguma skill que aumente a defesa dele"
+    },
+    {
+      "keys": "clan",
+      "text": "Ao invés de clã, aqui tem o sistema de Talentos, que da pra acessar no Ctrl T. Pode upar de todos os tipos. Mais detalhes: wiki.pokealliance.com/sistemas/talentos"
+    },
+    {
+      "keys": "tooltip",
+      "text": "Pra desabilitar o tooltip dos itens: Config -> Interface -> Item Window Delay"
+    },
+    {
+      "keys": "carga",
+      "text": "Carga pro treinamento da pra comprar por DD na Diamond Store -> Promotions, ou por KK na NPC July, no TC >. O item chama Punching Bag Premium Charger"
+    },
+    {
+      "keys": "mighty",
+      "text": "Mighty Tokens vc consegue matando os NPCs da Brotherhood, ou fazendo as tasks dos NPC de Hoenn"
+    },
+    {
+      "keys": "linkedwild",
+      "text": "Linked tasks só pode fazer em wildscape a partir da task de 10k Ampharos. Na própria task no Ctrl L vai dizer se é wild ou não. Ou ve por aqui: tinyurl.com/planilha-pka-linked-tasks"
+    },
+    {
+      "keys": "temmedia",
+      "text": "Todo pokemon tem média. Se eu pego com 1 ball e vc com 100, a média vai ser 50"
+    },
+    {
+      "keys": "smart",
+      "text": "Pra andar na diagonal, ativa o Smart Walk. Config -> Game -> Enable Smart Walk"
+    },
+    {
+      "keys": "regras",
+      "text": "Regras do PKA: pokealliance.com/terms"
+    },
+    {
+      "keys": "anuncio",
+      "text": "Para anúncios de Guild, lives, grupos de WhatsApp, comércio, formação de grupos, etc., por favor, utilizem o chat de Trade ou o Trade Center do respectivo mundo."
+    },
+    {
+      "keys": "finder",
+      "text": "Hunt Finder fica no menu superior, um ícone verde na direita. Por enquanto só aparecem as hunts de instância"
+    },
+    {
+      "keys": "cambuff",
+      "text": "Jogar com a cam ligada da +5% de aparição de shiny. Tbm funciona com senha"
+    },
+    {
+      "keys": "birch",
+      "text": "Depois de entregar o Poochyena, fala de novo com o Prof Birch pra entregar os packages e terminar a quest. Ganha um egg que vem um inicial de Hoenn"
+    },
+    {
+      "keys": "password",
+      "text": "Pra trocar o password é logo depois de logar, na tela onde vc escolhe o personagem, no canto direito/cima"
+    },
+    {
+      "keys": "primal",
+      "text": "Hunt Primal é pra lvl 350+, e o revive não funciona lá. Precisa caçar com rotação de pokemons"
+    }
+  ]
+}

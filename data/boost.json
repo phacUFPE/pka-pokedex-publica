@@ -1,0 +1,218 @@
+{
+  "boost": {
+    "Bug": [
+      "bug fragment",
+      "cocoon stone",
+      "scythe (Scyther)",
+      "scizor claw (Scizor)",
+      "pinsir horn (Pinsir)"
+    ],
+    "Dark": [
+      "dark fragment",
+      "darkness stone",
+      "tyranitar tail (Tyranitar)",
+      "dark canine horns (Houndoom)",
+      "shadow tail (Hydreidon)",
+      "dark ears (Umbreon)"
+    ],
+    "Dragon": [
+      "dragon fragment",
+      "crystal stone",
+      "dragonair tail (Dragonair)",
+      "shadow tail (Hydreidon)",
+      "sea dragon fin (Kingdra)",
+      "dragonite tail (Dragonite)"
+    ],
+    "Electric": [
+      "electric fragment",
+      "thunder stone",
+      "electric collar (Jolteon)",
+      "electric ear (Raichu)",
+      "electric tail (Electabuzz)",
+      "electric sheep tail (Ampharos)",
+      "luxray ear (Luxray)"
+    ],
+    "Fairy": [
+      "fairy fragment",
+      "heart stone",
+      "mimic clothes (Mr. Mime)",
+      "pink fairy bow (Sylveon)",
+      "mystic petal (Florges)",
+      "yellow mimikyu head (Mimikyu)"
+    ],
+    "Fighting": [
+      "fighting fragment",
+      "punch stone",
+      "belt of champions (Machamp)",
+      "big fist gloves (Poliwrath)",
+      "martial arts tail (Hitmontop)",
+      "kick machine (Hitmonlee)",
+      "punching machine (Hitmonchan)",
+      "poison bladder (Toxicroak)"
+    ],
+    "Fire": [
+      "fire fragment",
+      "fire stone",
+      "fire roof (Rapidash)",
+      "magma shell (Magcargo)",
+      "fox tail (Ninetales)",
+      "dark canine horns (Houndoom)",
+      "blaze tail (Flareon)",
+      "giant piece of fur (Arcanine)",
+      "magma foot (Magmar)",
+      "fire wings (Charizard)"
+    ],
+    "Flying": [
+      "flying fragment",
+      "feather stone",
+      "farfetch'd wing (Farfetch'd)",
+      "fire wing (Charizard)",
+      "steel wing (Skarmory)",
+      "dodrio feather (Dodrio)",
+      "dragonite tail (Dragonite)",
+      "gyarados tail (Gyarados)",
+      "scythe (Scyther)",
+      "blue ray tail (Mantine)"
+    ],
+    "Ghost": [
+      "ghost fragment",
+      "ghost stone",
+      "ectoplasm (Gengar)",
+      "miss traces (Misdreavus)",
+      "yellow mimikyu head (Mimikyu)"
+    ],
+    "Grass": [
+      "grass fragment",
+      "leaf stone",
+      "red petal (Venusaur)",
+      "big petal (Meganium)",
+      "gaia hands (Tangrowth)",
+      "piece of rock (Torterra)"
+    ],
+    "Ground": [
+      "ground fragment",
+      "earth stone",
+      "king ear (Nidoking)",
+      "queen ear (Nidoqueen)",
+      "stone rocks (Golem)",
+      "rock plate (Pupitar)",
+      "steelix tail (Steelix)",
+      "bone (Marowak)",
+      "piece of rock (Torterra)"
+    ],
+    "Ice": [
+      "ice fragment",
+      "ice stone",
+      "lapras fin (Lapras)",
+      "psychic wig (Jynx)"
+    ],
+    "Normal": [
+      "normal fragment",
+      "heart stone",
+      "cow tail (Miltank)",
+      "bull tail (Tauros)",
+      "kangaskhan ear (Kangaskhan)",
+      "farfetch'd wing (Farfetch'd)",
+      "big crest (Pidgeot)",
+      "snorlax paw (Snorlax)"
+    ],
+    "Poison": [
+      "poison fragment",
+      "venom stone",
+      "red petal (Venusaur)",
+      "ectoplasm (Gengar)",
+      "stinky hand (Muk)",
+      "giant ruby (Tentacruel)",
+      "king ear (Nidoking)"
+    ],
+    "Psychic": [
+      "psychic fragment",
+      "enigma stone",
+      "psychic wig (Jynx)",
+      "mimic clothes (Mr. Mime)",
+      "two-eyed black tail (Wobbuffet)",
+      "psychic moustache (Alakazam)",
+      "psychic ears (Espeon)",
+      "slowking necklace (Slowking)"
+    ],
+    "Rock": [
+      "rock fragment",
+      "rock stone",
+      "tyranitar tail (Tyranitar)",
+      "magma shell  (Magcargo)",
+      "rock plate (Pupitar)",
+      "stone rocks (Golem)"
+    ],
+    "Steel": [
+      "steel fragment",
+      "metal stone",
+      "steel wing (Skarmory)",
+      "steelix tail (Steelix)",
+      "scizor claw (Scizor)"
+    ],
+    "Water": [
+      "water fragment",
+      "water stone",
+      "blue ray tail (Mantine)",
+      "frog topknot (Politoed)",
+      "big fist gloves (Poliwrath)",
+      "red hair (Feraligatr)",
+      "giant ruby (Tentacruel)",
+      "lapras fin (Lapras)",
+      "sea dragon fin (Kingdra)",
+      "aquatic tail (Vaporeon)",
+      "gyarados tail (Gyarados)"
+    ]
+  },
+  "fragments": {
+    "levels": [
+      "0-5",
+      "6-10",
+      "11-15",
+      "16-20",
+      "21-25",
+      "26-30",
+      "31-35",
+      "36-40",
+      "41-45",
+      "46-50"
+    ],
+    "min": [
+      10,
+      20,
+      55,
+      130,
+      280,
+      452,
+      801,
+      1202,
+      2303,
+      2800
+    ],
+    "avg": [
+      20,
+      44,
+      105,
+      217,
+      391,
+      732,
+      1160,
+      1861,
+      2672,
+      3021
+    ],
+    "max": [
+      30,
+      60,
+      150,
+      300,
+      500,
+      1000,
+      1500,
+      2497,
+      3000,
+      3208
+    ],
+    "days": 477
+  }
+}

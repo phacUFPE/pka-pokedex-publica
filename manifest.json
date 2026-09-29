@@ -1,0 +1,34 @@
+{
+  "data": [
+    "data/tiers.json",
+    "data/drops.json",
+    "data/medals.json",
+    "data/hunt-locations.json",
+    "data/npc-tasks.json",
+    "data/linked-tasks.json",
+    "data/hazard-tasks.json",
+    "data/gym.json",
+    "data/bounty-hunter.json",
+    "data/talents.json",
+    "data/boost.json",
+    "data/dens.json",
+    "data/dungeons.json",
+    "data/porygon.json",
+    "data/rocket.json",
+    "data/police.json",
+    "data/star.json",
+    "data/brokes.json",
+    "data/shiny-rate.json",
+    "data/runes.json",
+    "data/damage.json",
+    "data/faq.json"
+  ],
+  "config": [
+    "config/ui.json",
+    "config/tiers.json",
+    "config/types.json",
+    "config/star.json",
+    "config/sprites.json",
+    "config/links.json"
+  ]
+}

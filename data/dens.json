@@ -1,0 +1,1153 @@
+{
+  "dens": [
+    {
+      "name": "Abra",
+      "players": 1,
+      "mobsCount": 43,
+      "xp": 50000,
+      "time": "1:35",
+      "mobs": [
+        "Abra",
+        "Drowzee"
+      ],
+      "xph": 1894737,
+      "drops": [
+        "psychic fragment",
+        "enigma stone",
+        "psychic vest (Abra)",
+        "drowzee trunk (Drowzee)",
+        "blue psychic vest (Shiny Abra)",
+        "enchanted spoon (Shiny Kadabra)"
+      ]
+    },
+    {
+      "name": "Alakazam",
+      "players": 1,
+      "mobsCount": 43,
+      "xp": 150000,
+      "time": "2:05",
+      "mobs": [
+        "Alakazam",
+        "Wobbuffet"
+      ],
+      "xph": 4320000,
+      "drops": [
+        "psychic fragment",
+        "enigma stone",
+        "psychic moustache (Alakazam)",
+        "two-eyed black tail (Wobbuffet)",
+        "purple moustache (Shiny Alakazam)"
+      ]
+    },
+    {
+      "name": "Ampharos",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 150000,
+      "time": "1:55",
+      "mobs": [
+        "Ampharos",
+        "Electabuzz",
+        "Raichu"
+      ],
+      "xph": 4695652,
+      "drops": [
+        "electric fragment",
+        "thunder stone",
+        "electric sheep tail (Ampharos)",
+        "electric ear (Raichu)",
+        "electric tail (Electabuzz)",
+        "green sheep tail (Shiny Ampharos)"
+      ]
+    },
+    {
+      "name": "Bayleef",
+      "players": 1,
+      "mobsCount": 56,
+      "xp": 100000,
+      "time": "2:30",
+      "mobs": [
+        "Bayleef",
+        "Ivysaur"
+      ],
+      "xph": 2400000,
+      "drops": [
+        "grass fragment",
+        "leaf stone",
+        "big leaf (Bayleef)",
+        "leaf (Ivysaur)",
+        "purple big leaf (Shiny Bayleef)",
+        "purple petal (Shiny Meganium)"
+      ]
+    },
+    {
+      "name": "Chicorita",
+      "players": 1,
+      "mobsCount": 56,
+      "xp": 50000,
+      "time": "2:15",
+      "mobs": [
+        "Bulbasaur",
+        "Chicorita",
+        "Exeggcute"
+      ],
+      "xph": 1333333,
+      "drops": [
+        "grass fragment",
+        "leaf stone",
+        "chicory (Chicorita)",
+        "bulb (Bulbasaur)",
+        "exeggcute seed (Exeggcute)",
+        "purple chicory (Shiny Chicorita)",
+        "purple big leaf (Shiny Bayleef)"
+      ]
+    },
+    {
+      "name": "Croconaw",
+      "players": 1,
+      "mobsCount": 66,
+      "xp": 100000,
+      "time": "2:45",
+      "mobs": [
+        "Croconaw",
+        "Vaporeon",
+        "Wartortle"
+      ],
+      "xph": 2181818,
+      "drops": [
+        "water fragment",
+        "water stone",
+        "red hair (Feraligatr)",
+        "cute ears (Azumarill)",
+        "water cannon (Blastoise)",
+        "aquatic tail (Vaporeon)",
+        "blue mohawk (Shiny Croconaw)",
+        "big blue mohawk (Shiny Feraligatr)"
+      ]
+    },
+    {
+      "name": "Cubone",
+      "players": 1,
+      "mobsCount": 50,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Cubone",
+        "Phanpy",
+        "Sandshrew"
+      ],
+      "xph": null,
+      "drops": [
+        "ground fragment",
+        "earth stone",
+        "armadillo tail (Sandshrew)",
+        "cubone skull (Cubone)",
+        "cyan skull (Shiny Cubone)",
+        "blue bone (Shiny Marowak)"
+      ]
+    },
+    {
+      "name": "Cyndaquil",
+      "players": 1,
+      "mobsCount": 50,
+      "xp": 50000,
+      "time": "2:00",
+      "mobs": [
+        "Charmander",
+        "Cyndaquil",
+        "Growlithe"
+      ],
+      "xph": 1500000,
+      "drops": [
+        "fire fragment",
+        "fire stone",
+        "cyndaquil nose (Cyndaquil)",
+        "dog fur (Growlithe)",
+        "fire tail (Charmander)",
+        "red nose (Shiny Cyndaquil)",
+        "blaze fur (Shiny Quilava)"
+      ]
+    },
+    {
+      "name": "Deino",
+      "players": 1,
+      "mobsCount": null,
+      "xp": null,
+      "time": null,
+      "mobs": [
+        "Deino",
+        "Houndour"
+      ],
+      "xph": null,
+      "drops": []
+    },
+    {
+      "name": "Dragonair",
+      "players": 1,
+      "mobsCount": 43,
+      "xp": 100000,
+      "time": "2:00",
+      "mobs": [
+        "Dragonair"
+      ],
+      "xph": 3000000,
+      "drops": [
+        "dragon fragment",
+        "crystal stone",
+        "dragonair tail (Dragonair)",
+        "yellow dragon tail (Shiny Dragonair)",
+        "golden dragon tail (Shiny Dragonite)"
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "players": 1,
+      "mobsCount": 40,
+      "xp": 150000,
+      "time": "2:00",
+      "mobs": [
+        "Dragonite",
+        "Kingdra"
+      ],
+      "xph": 4500000,
+      "drops": [
+        "dragon fragment",
+        "crystal stone",
+        "dragonite tail (Dragonite)",
+        "sea dragon fin (Kingdra)",
+        "golden dragon tail (Shiny Dragonite)"
+      ]
+    },
+    {
+      "name": "Dratini",
+      "players": 1,
+      "mobsCount": 43,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Dratini"
+      ],
+      "xph": null,
+      "drops": [
+        "dragon fragment",
+        "crystal stone",
+        "dratini ear (Dratini)",
+        "sea dragon fin (Kingdra)",
+        "yellow dragon tail (Shiny Dragonair)"
+      ]
+    },
+    {
+      "name": "Feraligatr",
+      "players": 1,
+      "mobsCount": 67,
+      "xp": 150000,
+      "time": "4:00",
+      "mobs": [
+        "Azumarill",
+        "Blastoise",
+        "Feraligatr",
+        "Vaporeon"
+      ],
+      "xph": 2250000,
+      "drops": [
+        "water fragment",
+        "water stone",
+        "red hair (Feraligatr)",
+        "cute ears (Azumarill)",
+        "water cannon (Blastoise)",
+        "aquatic tail (Vaporeon)",
+        "big blue mohawk (Shiny Feraligatr)"
+      ]
+    },
+    {
+      "name": "Flaaffy",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 100000,
+      "time": "1:45",
+      "mobs": [
+        "Electrode",
+        "Flaaffy",
+        "Jolteon"
+      ],
+      "xph": 3428571,
+      "drops": [
+        "electric fragment",
+        "thunder stone",
+        "soft wool (Flaaffy)",
+        "remains of electrode (Electrode)",
+        "electric collar (Jolteon)",
+        "electric soft wool (Shiny Flaaffy)",
+        "green sheep tail (Shiny Ampharos)"
+      ]
+    },
+    {
+      "name": "Flabébé",
+      "players": 1,
+      "mobsCount": 94,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Cleffa",
+        "Flabébé",
+        "Igglybuff"
+      ],
+      "xph": null,
+      "drops": [
+        "fairy fragment",
+        "fairy stone",
+        "small pink ears (Cleffa)",
+        "small topknot (Igglybuff)",
+        "yellow crown (Flabébé)",
+        "blue crown (Shiny Flabébé)",
+        "blue mystic flower (Shiny Floette)"
+      ]
+    },
+    {
+      "name": "Floette",
+      "players": 1,
+      "mobsCount": 94,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Snubull",
+        "Granbull",
+        "Floette"
+      ],
+      "xph": null,
+      "drops": [
+        "fairy fragment",
+        "fairy stone",
+        "snubull ear (Snubull)",
+        "granbull ear (Granbull)",
+        "mystic flower (Floette)",
+        "blue mystic flower (Shiny Floette)"
+      ]
+    },
+    {
+      "name": "Florges",
+      "players": 1,
+      "mobsCount": 94,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Togetic",
+        "Granbull",
+        "Florges"
+      ],
+      "xph": null,
+      "drops": [
+        "fairy fragment",
+        "fairy stone",
+        "mystic petal (Florges)",
+        "dainty wing (Togetic)",
+        "granbull ear (Granbull)",
+        "purple mystic petal (Florges)"
+      ]
+    },
+    {
+      "name": "Forretress",
+      "players": 1,
+      "mobsCount": 71,
+      "xp": 100000,
+      "time": "2:45",
+      "mobs": [
+        "Beedrill",
+        "Butterfree",
+        "Forretress"
+      ],
+      "xph": 2181818,
+      "drops": [
+        "bug fragment",
+        "cocoon stone",
+        "forretress shell (Forretress)",
+        "bee sting (Beedrill)",
+        "butterfree wing (Butterfree)",
+        "brown shell (Shiny Forretress)"
+      ]
+    },
+    {
+      "name": "Gastly",
+      "players": 1,
+      "mobsCount": 57,
+      "xp": 50000,
+      "time": "2:00",
+      "mobs": [
+        "Gastly"
+      ],
+      "xph": 1500000,
+      "drops": [
+        "ghost fragment",
+        "darkness stone",
+        "ghost bottle (Gastly)",
+        "green ghost bottle (Shiny Gastly)",
+        "dark claw (Shiny Haunter)"
+      ]
+    },
+    {
+      "name": "Gengar",
+      "players": 1,
+      "mobsCount": 57,
+      "xp": 150000,
+      "time": "3:00",
+      "mobs": [
+        "Gengar"
+      ],
+      "xph": 3000000,
+      "drops": [
+        "ghost fragment",
+        "darkness stone",
+        "ectoplasm (Gengar)",
+        "dark ectoplasm (Shiny Gengar)"
+      ]
+    },
+    {
+      "name": "Haunter",
+      "players": 1,
+      "mobsCount": 57,
+      "xp": 100000,
+      "time": "2:00",
+      "mobs": [
+        "Haunter"
+      ],
+      "xph": 3000000,
+      "drops": [
+        "ghost fragment",
+        "darkness stone",
+        "ghost claw (Haunter)",
+        "dark claw (Shiny Haunter)",
+        "dark ectoplasm (Shiny Gengar)"
+      ]
+    },
+    {
+      "name": "Hydreigon",
+      "players": 1,
+      "mobsCount": 93,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Houndoom",
+        "Hydreigon",
+        "Umbreon"
+      ],
+      "xph": null,
+      "drops": [
+        "dark fragment",
+        "darkness stone",
+        "shadow tail (Hydreigon)",
+        "dark canine horns (Houndoom)",
+        "dark ears (Umbreon)",
+        "phantom tail (Shiny Hydreigon)"
+      ]
+    },
+    {
+      "name": "Kadabra",
+      "players": 1,
+      "mobsCount": 43,
+      "xp": 100000,
+      "time": "1:20",
+      "mobs": [
+        "Hypno",
+        "Kadabra"
+      ],
+      "xph": 4500000,
+      "drops": [
+        "psychic fragment",
+        "enigma stone",
+        "psychic spoon (Kadabra)",
+        "hypnosis pendant (Hypno)",
+        "enchanted spoon (Shiny Hypno)",
+        "purple moustache (Shiny Alakazam)"
+      ]
+    },
+    {
+      "name": "Lapras",
+      "players": 1,
+      "mobsCount": 100,
+      "xp": 150000,
+      "time": "3:25",
+      "mobs": [
+        "Jynx",
+        "Lapras"
+      ],
+      "xph": 2634146,
+      "drops": [
+        "ice fragment",
+        "ice stone",
+        "lapras fin (Lapras)",
+        "psychic wig (Jynx)",
+        "purple fin (Shiny Lapras)"
+      ]
+    },
+    {
+      "name": "Larvitar",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Geodude",
+        "Larvitar",
+        "Rhyhorn"
+      ],
+      "xph": null,
+      "drops": [
+        "rock fragment",
+        "rock stone",
+        "hardrock shell (Rhyhorn)",
+        "rock fist (Geodude)",
+        "larvitar tail (Larvitar)",
+        "yellow larvitar tail (Shiny larvitar)",
+        "purple rock plate (Shiny Pupitar)"
+      ]
+    },
+    {
+      "name": "Machamp",
+      "players": 1,
+      "mobsCount": 44,
+      "xp": 150000,
+      "time": "2:05",
+      "mobs": [
+        "Hitmonchan",
+        "Hitmonlee",
+        "Hitmontop",
+        "Machamp"
+      ],
+      "xph": 4320000,
+      "drops": [
+        "fighting fragment",
+        "punch stone",
+        "martial arts tail (Hitmontop)",
+        "belt of champion (Machamp)",
+        "kick machine (Hitmonlee)",
+        "punching machine (Hitonchan)",
+        "master belt (Shiny Machamp)"
+      ]
+    },
+    {
+      "name": "Machoke",
+      "players": 1,
+      "mobsCount": 44,
+      "xp": 100000,
+      "time": "1:30",
+      "mobs": [
+        "Machoke",
+        "Primeape",
+        "Tyrogue"
+      ],
+      "xph": 4000000,
+      "drops": [
+        "fighting fragment",
+        "punch stone",
+        "fighter underwear (Machoke)",
+        "fist bandages (Tyrogue)",
+        "iron bracelet (Primeape)",
+        "champion underwear (Shiny Machoke)",
+        "master belt (Shiny Machamp)"
+      ]
+    },
+    {
+      "name": "Machop",
+      "players": 1,
+      "mobsCount": 44,
+      "xp": 50000,
+      "time": "1:25",
+      "mobs": [
+        "Machop",
+        "Mankey"
+      ],
+      "xph": 2117647,
+      "drops": [
+        "fighting fragment",
+        "punch stone",
+        "fighter hawk (Machop)",
+        "mankey tail (Mankey)",
+        "blond hawk (Shiny Machop)",
+        "champion underwear (Shiny Machoke)"
+      ]
+    },
+    {
+      "name": "Magnemite",
+      "players": 1,
+      "mobsCount": 85,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Magnemite"
+      ],
+      "xph": null,
+      "drops": [
+        "steel fragment",
+        "metal stone",
+        "electric screws (Magnemite)",
+        "blue screws (Shiny Magnemite)",
+        "strong magnet (Shiny Magneton)"
+      ]
+    },
+    {
+      "name": "Magneton",
+      "players": 1,
+      "mobsCount": 63,
+      "xp": 100000,
+      "time": "2:40",
+      "mobs": [
+        "Forretress",
+        "Magneton"
+      ],
+      "xph": 2250000,
+      "drops": [
+        "steel fragment",
+        "metal stone",
+        "forretress shell (Forretress)",
+        "magnet (Magneton)",
+        "strong magnet (Shiny Magneton)"
+      ]
+    },
+    {
+      "name": "Mareep",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Mareep",
+        "Pichu"
+      ],
+      "xph": null,
+      "drops": [
+        "electric fragment",
+        "thunder stone",
+        "yellow sheep wool (Mareep)",
+        "pichu ears (Pichu)",
+        "white sheep wool (Shiny Mareep)",
+        "electric soft wool (Shiny Flaaffy)"
+      ]
+    },
+    {
+      "name": "Marowak",
+      "players": 1,
+      "mobsCount": 37,
+      "xp": 150000,
+      "time": "1:55",
+      "mobs": [
+        "Donphan",
+        "Marowak"
+      ],
+      "xph": 4695652,
+      "drops": [
+        "ground fragment",
+        "earth stone",
+        "elephant foot (Donphan)",
+        "bone (Marowak)",
+        "blue bone (Shiny Marowak)"
+      ]
+    },
+    {
+      "name": "Meganium",
+      "players": 1,
+      "mobsCount": 56,
+      "xp": 150000,
+      "time": "3:15",
+      "mobs": [
+        "Exeggutor",
+        "Meganium",
+        "Vanusaur"
+      ],
+      "xph": 2769231,
+      "drops": [
+        "grass fragment",
+        "leaf stone",
+        "big petal (Meganium)",
+        "red petal (Venusaur)",
+        "coconut leaves (Exeggutor)",
+        "purple petal (Shiny Meganium)"
+      ]
+    },
+    {
+      "name": "Meowth",
+      "players": 1,
+      "mobsCount": 73,
+      "xp": 50000,
+      "time": "2:00",
+      "mobs": [
+        "Eevee",
+        "Meowth",
+        "Rattata"
+      ],
+      "xph": 1500000,
+      "drops": [
+        "normal fragment",
+        "heart stone",
+        "luck medallion (Meowth)",
+        "mouse tail  (Ratata)",
+        "furry tail (Eevee)",
+        "pink medallion (Shiny Meowth)",
+        "white ball (Shiny Persian)"
+      ]
+    },
+    {
+      "name": "Muk",
+      "players": 1,
+      "mobsCount": 67,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Arbok",
+        "Muk",
+        "Qwilfish"
+      ],
+      "xph": null,
+      "drops": [
+        "poison fragment",
+        "venom stone",
+        "cobra tail (Arbok)",
+        "puffer tail (Qwilfish)",
+        "stinky hand (Muk)",
+        "disgusting hand (Shiny Muk)"
+      ]
+    },
+    {
+      "name": "Persian",
+      "players": 1,
+      "mobsCount": 73,
+      "xp": 100000,
+      "time": "2:15",
+      "mobs": [
+        "Aipom",
+        "Persian",
+        "Raticate"
+      ],
+      "xph": 2666667,
+      "drops": [
+        "normal fragment",
+        "heart stone",
+        "wool ball (Persian)",
+        "rat ear (Raticate)",
+        "aipom paw (Aipom)",
+        "white ball (Shiny Persian)"
+      ]
+    },
+    {
+      "name": "Pidgeot",
+      "players": 1,
+      "mobsCount": 162,
+      "xp": 150000,
+      "time": "3:55",
+      "mobs": [
+        "Noctowl",
+        "Pidgeot",
+        "Skarmory"
+      ],
+      "xph": 2297872,
+      "drops": [
+        "flying fragment",
+        "feather stone",
+        "bird beak (Pidgeot)",
+        "steel wing (Skarmory)",
+        "owl crest (Noctowl)",
+        "two-colored crest (Shiny Pidgeot)"
+      ]
+    },
+    {
+      "name": "Pidgeotto",
+      "players": 1,
+      "mobsCount": 162,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Dodrio",
+        "Fearow",
+        "Pidgeotto"
+      ],
+      "xph": null,
+      "drops": [
+        "flying fragment",
+        "feather stone",
+        "pointy beak (Fearow)",
+        "bird tail (Pidgeotto)",
+        "dodrio feather (Dodrio)",
+        "two-colored tail (Shiny Pidgeotto)",
+        "two-colored crest (Shiny Pidgeot)"
+      ]
+    },
+    {
+      "name": "Pidgey",
+      "players": 1,
+      "mobsCount": 162,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Pidgey",
+        "Spearow"
+      ],
+      "xph": null,
+      "drops": [
+        "flying fragment",
+        "feather stone",
+        "bird crest (Pidgey)",
+        "bird wing (Spearow)",
+        "yellow bird crest (Shiny Pidgey)",
+        "two-colored tail (Shiny Pidgeotto)"
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "players": 1,
+      "mobsCount": 100,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Piloswine",
+        "Delibird"
+      ],
+      "xph": null,
+      "drops": [
+        "ice fragment",
+        "ice stone",
+        "ice tusks (Pilowsine)",
+        "girf tail (Delibird)",
+        "Frozen Tusks (Shiny Piloswine)"
+      ]
+    },
+    {
+      "name": "Pineco",
+      "players": 1,
+      "mobsCount": 71,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Caterpie",
+        "Pineco",
+        "Weedle"
+      ],
+      "xph": null,
+      "drops": [
+        "bug fragment",
+        "cocoon stone",
+        "pineco shell (Pineco)",
+        "poison sting (Weedle)",
+        "caterpie antenna (Caterpie)",
+        "orange shell (Shiny Pineco)",
+        "brown shell (Shiny Forretress)"
+      ]
+    },
+    {
+      "name": "Pupitar",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 100000,
+      "time": "1:55",
+      "mobs": [
+        "Graveler",
+        "Pupitar"
+      ],
+      "xph": 3130435,
+      "drops": [
+        "rock fragment",
+        "rock stone",
+        "rock plate (Pupitar)",
+        "rock forehead (Graveler)",
+        "purple rock plate (Shiny Pupitar)",
+        "godzilla tail (Shiny Tyranitar)"
+      ]
+    },
+    {
+      "name": "Quilava",
+      "players": 1,
+      "mobsCount": 50,
+      "xp": 100000,
+      "time": "2:25",
+      "mobs": [
+        "Charmelion",
+        "Flareon",
+        "Quilava"
+      ],
+      "xph": 2482759,
+      "drops": [
+        "fire fragment",
+        "fire stone",
+        "quilava fur (Quilava)",
+        "lizard tail (Charmelion)",
+        "blaze tail (Flareon)",
+        "blaze fur (Shiny Quilava)",
+        "volcano fur (Shiny Typhlosion)"
+      ]
+    },
+    {
+      "name": "Rhydon",
+      "players": 1,
+      "mobsCount": 37,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Dugtrio",
+        "Rhydon",
+        "Sandslash"
+      ],
+      "xph": null,
+      "drops": [
+        "ground fragment",
+        "earth stone",
+        "handful of stones (Dugtrio)",
+        "armadillo claw (Sandslash)",
+        "horn drill (Rhydon)",
+        "golden shell (Shiny Rhyhorn)",
+        "golden drill (Shiny Rhydon)"
+      ]
+    },
+    {
+      "name": "Scizor",
+      "players": 1,
+      "mobsCount": 71,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Pinsir",
+        "Scizor",
+        "Scyther"
+      ],
+      "xph": null,
+      "drops": [
+        "bug fragment",
+        "cocoon stone",
+        "scizor claw (Scizor)",
+        "pinsir horn (Pinsir)",
+        "scythe (Scyther)",
+        "carbon claw (Shiny Scizor)"
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "players": 1,
+      "mobsCount": 84,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Magneton",
+        "Scizor",
+        "Skarmory"
+      ],
+      "xph": null,
+      "drops": [
+        "steel fragment",
+        "metal stone",
+        "magnet (Magneton)",
+        "steel wing (Skarmory)",
+        "scizor claw (Scizor)",
+        "yellow steel wing (Shiny Skarmory)"
+      ]
+    },
+    {
+      "name": "Spinarak",
+      "players": 1,
+      "mobsCount": 16,
+      "xp": 50000,
+      "time": "0:45",
+      "mobs": [
+        "Spinarak"
+      ],
+      "xph": 4000000,
+      "drops": [
+        "poison fragment",
+        "cocoon stone",
+        "spider legs (Spinarak)",
+        "poisoned arachnid legs (Ariados)"
+      ]
+    },
+    {
+      "name": "Steelix",
+      "players": 1,
+      "mobsCount": 39,
+      "xp": 150000,
+      "time": "1:40",
+      "mobs": [
+        "Golem",
+        "Onix",
+        "Rhydon",
+        "Skarmory",
+        "Steelix"
+      ],
+      "xph": 5400000,
+      "drops": [
+        "steel fragment",
+        "metal stone",
+        "earth stone",
+        "steel wing (Skarmory)",
+        "onix tail (Onix)",
+        "steelix tail (Steelix)",
+        "horn drill (Rhydon)",
+        "golden steelix tail (Shiny Steelix)"
+      ]
+    },
+    {
+      "name": "Swinub",
+      "players": 1,
+      "mobsCount": 102,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Swinub",
+        "Smoochoom"
+      ],
+      "xph": null,
+      "drops": [
+        "ice fragment",
+        "ice stone",
+        "baby hair (Smoochoom)",
+        "furry hair (Swinub)",
+        "gray furry hair (Shiny Swinub)",
+        "frozen tusks (Shiny Piloswine)"
+      ]
+    },
+    {
+      "name": "Tauros",
+      "players": 1,
+      "mobsCount": 73,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Kangaskhan",
+        "Snorlax",
+        "Tauros"
+      ],
+      "xph": null,
+      "drops": [
+        "normal fragment",
+        "heart stone",
+        "bull tail (Tauros)",
+        "kangaskhan ear (Kangaskhan)",
+        "snorlax paw (Snorlax)",
+        "green bull tail (Shiny Tauros)"
+      ]
+    },
+    {
+      "name": "Totodile",
+      "players": 1,
+      "mobsCount": 67,
+      "xp": 50000,
+      "time": "2:50",
+      "mobs": [
+        "Maril",
+        "Totodile",
+        "Squirtle"
+      ],
+      "xph": 1058824,
+      "drops": [
+        "water fragment",
+        "water stone",
+        "totodile tail (Totodile)",
+        "aquatic tail (Maril)",
+        "squirtle hull (Squirtle)",
+        "cyan tail (Shiny Totodile)",
+        "blue mohawk (Shiny Croconaw)"
+      ]
+    },
+    {
+      "name": "Toxicroak",
+      "players": 1,
+      "mobsCount": 63,
+      "xp": 150000,
+      "time": null,
+      "mobs": [
+        "Nidoking",
+        "Nidoqueen",
+        "Toxicroak"
+      ],
+      "xph": null,
+      "drops": [
+        "poison fragment",
+        "venom stone",
+        "poison bladder (Toxicroak)",
+        "queen ear (Nidoqueen)",
+        "king ear (Nidoking)",
+        "pink poison bladder (Shiny Toxicroak)"
+      ]
+    },
+    {
+      "name": "Typhlosion",
+      "players": 1,
+      "mobsCount": 50,
+      "xp": 150000,
+      "time": "2:50",
+      "mobs": [
+        "Arcanine",
+        "Charizard",
+        "Flareon",
+        "Typhlosion"
+      ],
+      "xph": 3176471,
+      "drops": [
+        "fire fragment",
+        "fire stone",
+        "giant piece of fur (Arcanine)",
+        "fire wing (Charizard)",
+        "typhlosion fur (Typhlosion)",
+        "blaze tail (Flareon)",
+        "volcano fur (Shiny Typhlosion)"
+      ]
+    },
+    {
+      "name": "Tyranitar",
+      "players": 1,
+      "mobsCount": 51,
+      "xp": 150000,
+      "time": "2:55",
+      "mobs": [
+        "Kabutops",
+        "Omastar",
+        "Tyranitar"
+      ],
+      "xph": 3085714,
+      "drops": [
+        "rock fragment",
+        "rock stone",
+        "tyranitar tail (Tyranitar)",
+        "spike shell (Omastar)",
+        "gray scythe (Kabutops)",
+        "godzilla tail (Shiny Tyranitar)"
+      ]
+    },
+    {
+      "name": "Zubat",
+      "players": 1,
+      "mobsCount": 10,
+      "xp": 50000,
+      "time": null,
+      "mobs": [
+        "Ekans",
+        "Koffing",
+        "Zubat"
+      ],
+      "xph": null,
+      "drops": [
+        "poison fragment",
+        "venom stone",
+        "poison pore (Koffing)",
+        "snake tail (Ekans)",
+        "bat wing (Zubat)",
+        "green vampire wing (Shiny Golbat)"
+      ]
+    },
+    {
+      "name": "Zweilous",
+      "players": 1,
+      "mobsCount": 93,
+      "xp": 100000,
+      "time": null,
+      "mobs": [
+        "Murkrow",
+        "Qwilfish",
+        "Zweilous"
+      ],
+      "xph": null,
+      "drops": [
+        "dark fragment",
+        "darkness stone",
+        "yellow beak (Murkrow)",
+        "puffer tail (Qwilfish)",
+        "tweezers (Zweilous)",
+        "greenish tweezers (Shiny Zweilous)"
+      ]
+    }
+  ]
+}

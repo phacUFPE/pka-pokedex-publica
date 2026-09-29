@@ -1,0 +1,45 @@
+{
+  "brokes": [
+    {
+      "tier": "Mythic",
+      "max": "?"
+    },
+    {
+      "tier": "Legendary",
+      "max": 22535
+    },
+    {
+      "tier": "Ultra Rare",
+      "max": 9400
+    },
+    {
+      "tier": "Super Rare",
+      "max": 3500
+    },
+    {
+      "tier": "T1",
+      "max": 1280
+    },
+    {
+      "tier": "T2",
+      "max": "~900"
+    },
+    {
+      "tier": "T3",
+      "max": "~700"
+    },
+    {
+      "tier": "T4",
+      "max": "~600"
+    },
+    {
+      "tier": "T5",
+      "max": "~400"
+    },
+    {
+      "tier": "T6",
+      "max": "~200"
+    }
+  ],
+  "brokesInfo": "OBS\n1. Premier/Alliance balls contam sempre como a primeira bola jogada.\n2. Premier/Alliance balls contam para a contagem de brokes totais.\n3. O max é um valor não oficial descoberto pela comunidade, e pode mudar a qualquer momento.\n4. As brokes são pra shinys. Pokémon normal não tem max.\n5. Chegar na máxima não garante o catch. A chance só fica muito mais alta.\n6. Rates:\nPB = 4x\nUB = 4x\nAB = 5x\nElemental = 5x\n7. O sistema de mérito considera o total de brokes. Os rates não têm nada a ver com ele"
+}

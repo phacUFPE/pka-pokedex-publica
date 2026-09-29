@@ -1,0 +1,30 @@
+{
+  "tierOrder": [
+    "Mythic",
+    "Legendary",
+    "Ultra Rare",
+    "Super Rare",
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7",
+    "?"
+  ],
+  "tierColors": {
+    "Mythic": "linear-gradient(135deg, #e0368a, #7b3fe4)",
+    "Legendary": "linear-gradient(135deg, #e7a613, #d05a0c)",
+    "Ultra Rare": "#8a3ee0",
+    "Super Rare": "#2c6fe0",
+    "T1": "#d08a12",
+    "T2": "#3a9d3a",
+    "T3": "#2f9a6a",
+    "T4": "#3f8a8c",
+    "T5": "#5d7a8f",
+    "T6": "#7a8699",
+    "T7": "#8b93a3",
+    "default": "#9aa1b1"
+  }
+}

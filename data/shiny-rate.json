@@ -1,0 +1,75 @@
+{
+  "shinyRate": [
+    {
+      "label": 2.55,
+      "values": {
+        "T1": 33.43,
+        "Super Rare": 37.56,
+        "Ultra Rare": 28.04,
+        "Legendary": 29.99,
+        "Mythic": "-"
+      }
+    },
+    {
+      "label": 2.45,
+      "values": {
+        "T1": 34.58,
+        "Super Rare": 41.14,
+        "Ultra Rare": 31.63,
+        "Legendary": 31.83,
+        "Mythic": 49.91
+      }
+    },
+    {
+      "label": 2.35,
+      "values": {
+        "T1": 31.82,
+        "Super Rare": 49.55,
+        "Ultra Rare": 30.84,
+        "Legendary": 29.95,
+        "Mythic": "-"
+      }
+    },
+    {
+      "label": 2.05,
+      "values": {
+        "T1": 39.17,
+        "Super Rare": 52.89,
+        "Ultra Rare": 42.26,
+        "Legendary": "-",
+        "Mythic": "-"
+      }
+    },
+    {
+      "label": 1.55,
+      "values": {
+        "T1": 31.38,
+        "Super Rare": "-",
+        "Ultra Rare": "-",
+        "Legendary": "-",
+        "Mythic": "-"
+      }
+    },
+    {
+      "label": 0.55,
+      "values": {
+        "T1": 65.24,
+        "Super Rare": "-",
+        "Ultra Rare": "-",
+        "Legendary": "-",
+        "Mythic": "-"
+      }
+    },
+    {
+      "label": 0.25,
+      "values": {
+        "T1": 50.48,
+        "Super Rare": "-",
+        "Ultra Rare": "-",
+        "Legendary": "-",
+        "Mythic": "-"
+      }
+    }
+  ],
+  "shinyRateForm": "https://docs.google.com/forms/d/e/1FAIpQLSfDhUaqGeUK-6uLphsluOpr_FMMDLni0Q3uPvx69x19tYVfvg/viewform"
+}

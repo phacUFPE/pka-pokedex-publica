@@ -1,0 +1,129 @@
+{
+  "runes": [
+    {
+      "name": "Attack",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+2%"
+        },
+        {
+          "level": "Lvl 1 -> 2",
+          "points": 175,
+          "bonus": "+4%"
+        },
+        {
+          "level": "Lvl 2 -> 3",
+          "points": 275,
+          "bonus": "+6%"
+        },
+        {
+          "level": "Lvl 3 -> 4",
+          "points": 425,
+          "bonus": "+8%"
+        },
+        {
+          "level": "Lvl 4 -> 5",
+          "points": 625,
+          "bonus": "+10%"
+        }
+      ]
+    },
+    {
+      "name": "Critical Chance",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+1%"
+        }
+      ]
+    },
+    {
+      "name": "Critical Damage",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+2%"
+        }
+      ]
+    },
+    {
+      "name": "Critical Res",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+2%"
+        },
+        {
+          "level": "Lvl 1 -> 2",
+          "points": 175,
+          "bonus": null
+        }
+      ]
+    },
+    {
+      "name": "Defense",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+1%"
+        }
+      ]
+    },
+    {
+      "name": "Evasion",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+2%"
+        }
+      ]
+    },
+    {
+      "name": "Precision",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 100,
+          "bonus": "+1%"
+        }
+      ]
+    },
+    {
+      "name": "Shiny Charm",
+      "levels": [
+        {
+          "level": "Lvl 0 -> 1",
+          "points": 200,
+          "bonus": "+1%"
+        },
+        {
+          "level": "Lvl 1 -> 2",
+          "points": 350,
+          "bonus": null
+        },
+        {
+          "level": "Lvl 2 -> 3",
+          "points": "550?",
+          "bonus": null
+        },
+        {
+          "level": "Lvl 3 -> 4",
+          "points": "850?",
+          "bonus": null
+        },
+        {
+          "level": "Lvl 4 -> 5",
+          "points": "1250?",
+          "bonus": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5607 @@
+{
+  "drops": {
+    "Bulbasaur": [
+      "seed",
+      "bottle of poison",
+      "bulb"
+    ],
+    "Shiny Bulbasaur": [
+      "seed",
+      "bottle of poison",
+      "brown bulb",
+      "leaf stone",
+      "venom stone",
+      "simple grass orb"
+    ],
+    "Ivysaur": [
+      "seed",
+      "bottle of poison",
+      "leaf",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Ivysaur": [
+      "seed",
+      "bottle of poison",
+      "purple leaf",
+      "leaf stone",
+      "venom stone",
+      "arcane grass orb"
+    ],
+    "Venusaur": [
+      "seed",
+      "bottle of poison",
+      "red petal",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Venusaur": [
+      "seed",
+      "bottle of poison",
+      "brown petal",
+      "leaf stone",
+      "venom stone",
+      "mythic grass orb"
+    ],
+    "Charmander": [
+      "essence of fire",
+      "fire tail"
+    ],
+    "Shiny Charmander": [
+      "essence of fire",
+      "black tail",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Charmelion": [
+      "essence of fire",
+      "lizard tail",
+      "fire stone"
+    ],
+    "Shiny Charmelion": [
+      "essence of fire",
+      "black lizard tail",
+      "fire stone",
+      "arcane fire orb"
+    ],
+    "Charizard": [
+      "essence of fire",
+      "straw",
+      "fire wing",
+      "fire stone",
+      "feather stone"
+    ],
+    "Shiny Charizard": [
+      "essence of fire",
+      "essence of fire",
+      "straw",
+      "dark wing",
+      "fire stone",
+      "feather stone",
+      "mythic fire orb"
+    ],
+    "Squirtle": [
+      "water gem",
+      "squirtle hull"
+    ],
+    "Shiny Squirtle": [
+      "water gem",
+      "cyan hull",
+      "water stone",
+      "simple water orb"
+    ],
+    "Wartortle": [
+      "water gem",
+      "water gem",
+      "wartortle ear",
+      "water stone"
+    ],
+    "Shiny Wartortle": [
+      "water gem",
+      "water gem",
+      "cyan ear",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Blastoise": [
+      "water gem",
+      "water cannon",
+      "water stone"
+    ],
+    "Shiny Blastoise": [
+      "water gem",
+      "giant water cannon",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Caterpie": [
+      "bug gosme",
+      "caterpie antenna"
+    ],
+    "Shiny Caterpie": [
+      "bug gosme",
+      "sparkle antenna",
+      "simple bug orb"
+    ],
+    "Metapod": [
+      "bug gosme",
+      "piece of cocoon",
+      "cocoon stone"
+    ],
+    "Shiny Metapod": [
+      "bug gosme",
+      "red piece of cocoon",
+      "cocoon stone",
+      "simple bug orb"
+    ],
+    "Butterfree": [
+      "bug gosme",
+      "straw",
+      "butterfree wing",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Butterfree": [
+      "bug gosme",
+      "straw",
+      "pink wing",
+      "cocoon stone",
+      "feather stone",
+      "arcane bug orb"
+    ],
+    "Weedle": [
+      "bug gosme",
+      "bottle of poison",
+      "poison sting"
+    ],
+    "Shiny Weedle": [
+      "bug gosme",
+      "bottle of poison",
+      "yellow sting",
+      "simple bug orb"
+    ],
+    "Kakuna": [
+      "bug gosme",
+      "bottle of poison",
+      "yellow cocoon",
+      "cocoon stone"
+    ],
+    "Shiny Kakuna": [
+      "bug gosme",
+      "bottle of poison",
+      "red cocoon",
+      "cocoon stone",
+      "venom stone",
+      "simple bug orb"
+    ],
+    "Beedrill": [
+      "bug gosme",
+      "bottle of poison",
+      "bee sting",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Shiny Beedrill": [
+      "bug gosme",
+      "bottle of poison",
+      "red bee sting",
+      "cocoon stone",
+      "venom stone",
+      "arcane bug orb"
+    ],
+    "Pidgey": [
+      "rubber ball",
+      "straw",
+      "bird crest"
+    ],
+    "Shiny Pidgey": [
+      "rubber ball",
+      "straw",
+      "yellow bird crest",
+      "simple flying orb"
+    ],
+    "Pidgeotto": [
+      "rubber ball",
+      "straw",
+      "bird tail",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Pidgeotto": [
+      "rubber ball",
+      "straw",
+      "two-colored tail",
+      "heart stone",
+      "feather stone",
+      "arcane flying orb"
+    ],
+    "Pidgeot": [
+      "rubber ball",
+      "straw",
+      "bird beak",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Pidgeot": [
+      "rubber ball",
+      "straw",
+      "two-colored crest",
+      "heart stone",
+      "feather stone",
+      "mythic flying orb"
+    ],
+    "Rattata": [
+      "rubber ball",
+      "mouse tail"
+    ],
+    "Shiny Rattata": [
+      "rubber ball",
+      "blue Mouse Tail",
+      "simple normal orb"
+    ],
+    "Raticate": [
+      "rubber ball",
+      "rat ear",
+      "heart stone"
+    ],
+    "Shiny Raticate": [
+      "rubber ball",
+      "blue rat ear",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Spearow": [
+      "rubber ball",
+      "straw",
+      "bird wing"
+    ],
+    "Shiny Spearow": [
+      "rubber ball",
+      "straw",
+      "carmine wing",
+      "simple flying orb"
+    ],
+    "Fearow": [
+      "rubber ball",
+      "straw",
+      "pointy beak",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Fearow": [
+      "rubber ball",
+      "straw",
+      "red pointy beak",
+      "heart stone",
+      "feather stone",
+      "arcane flying orb"
+    ],
+    "Ekans": [
+      "bottle of poison",
+      "snake tail"
+    ],
+    "Shiny Ekans": [
+      "bottle of poison",
+      "gray snake tail",
+      "venom stone",
+      "simple poison orb"
+    ],
+    "Arbok": [
+      "bottle of poison",
+      "cobra tail",
+      "venom stone"
+    ],
+    "Shiny Arbok": [
+      "bottle of poison",
+      "black cobra tail",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Pikachu": [
+      "screw",
+      "electric rat tail",
+      "thunder stone"
+    ],
+    "Shiny Pikachu": [
+      "screw",
+      "electric rat tail",
+      "thunder stone",
+      "arcane electric orb"
+    ],
+    "Raichu": [
+      "screw",
+      "electric ear",
+      "thunder stone"
+    ],
+    "Shiny Raichu": [
+      "screw",
+      "electric white ear",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Sandshrew": [
+      "earth ball",
+      "armadillo tail"
+    ],
+    "Shiny Sandshrew": [
+      "earth ball",
+      "armadillo red tail",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Sandslash": [
+      "earth ball",
+      "armadillo claw",
+      "earth stone"
+    ],
+    "Shiny Sandslash": [
+      "earth ball",
+      "shining claws",
+      "earth stone",
+      "arcane ground orb"
+    ],
+    "Nidoran female": [
+      "bottle of poison",
+      "small blue ear"
+    ],
+    "Shiny Nidoran female": [
+      "bottle of poison",
+      "small green ear",
+      "simple poison orb"
+    ],
+    "Nidorina": [
+      "bottle of poison",
+      "blue nido ear",
+      "venom stone"
+    ],
+    "Shiny Nidorina": [
+      "bottle of poison",
+      "green nido ear",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Nidoqueen": [
+      "bottle of poison",
+      "earth ball",
+      "queen ear",
+      "venom stone",
+      "earth stone"
+    ],
+    "Shiny Nidoqueen": [
+      "bottle of poison",
+      "earth ball",
+      "green queen ear",
+      "venom stone",
+      "earth stone",
+      "mythic poison orb"
+    ],
+    "Nidoran Male": [
+      "bottle of poison",
+      "small purple ear"
+    ],
+    "Shiny Nidoran Male": [
+      "bottle of poison",
+      "small blue ear",
+      "simple poison orb"
+    ],
+    "Nidorino": [
+      "bottle of poison",
+      "purple nido ear",
+      "venom stone"
+    ],
+    "Shiny Nidorino": [
+      "bottle of poison",
+      "blue nido ear ear",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Nidoking": [
+      "bottle of poison",
+      "earth ball",
+      "king ear",
+      "venom stone",
+      "earth stone"
+    ],
+    "Shiny Nidoking": [
+      "bottle of poison",
+      "earth ball",
+      "blue king ear",
+      "venom stone",
+      "earth stone",
+      "mythic poison orb"
+    ],
+    "Clefairy": [
+      "fairy essence",
+      "moon topknot",
+      "fairy stone"
+    ],
+    "Shiny Clefairy": [
+      "fairy essence",
+      "purple moon topknot",
+      "fairy stone",
+      "simple fairy orb"
+    ],
+    "Clefable": [
+      "fairy essence",
+      "pink wings",
+      "fairy stone"
+    ],
+    "Shiny Clefable": [
+      "fairy essence",
+      "blue wings",
+      "fairy stone",
+      "arcane fairy orb"
+    ],
+    "Vulpix": [
+      "essence of fire",
+      "canine tail"
+    ],
+    "Shiny Vulpix": [
+      "essence of fire",
+      "blue canine tail",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Ninetales": [
+      "essence of fire",
+      "fox tail",
+      "fire stone"
+    ],
+    "Shiny Ninetales": [
+      "essence of fire",
+      "blue fox tail",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Jigglypuff": [
+      "rubber ball",
+      "fairy essence",
+      "microphone",
+      "fairy stone"
+    ],
+    "Shiny Jigglypuff": [
+      "rubber ball",
+      "fairy essence",
+      "loud microphone",
+      "fairy stone",
+      "simple fairy orb"
+    ],
+    "Wigglytuff": [
+      "rubber ball",
+      "fairy essence",
+      "wigglytuff ear",
+      "fairy stone"
+    ],
+    "Shiny Wigglytuff": [
+      "rubber ball",
+      "fairy essence",
+      "big cute ear",
+      "fairy stone",
+      "arcane fairy orb"
+    ],
+    "Zubat": [
+      "bottle of poison",
+      "straw",
+      "bat wing"
+    ],
+    "Shiny Zubat": [
+      "bottle of poison",
+      "straw",
+      "green bat wing",
+      "venom stone",
+      "feather stone",
+      "simple poison orb"
+    ],
+    "Golbat": [
+      "bottle of poison",
+      "straw",
+      "vampire wing",
+      "venom stone",
+      "feather stone"
+    ],
+    "Shiny Golbat": [
+      "bottle of poison",
+      "straw",
+      "green vampire wing",
+      "venom stone",
+      "feather stone",
+      "arcane poison orb"
+    ],
+    "Oddish": [
+      "seed",
+      "bottle of poison",
+      "leaves"
+    ],
+    "Shiny Oddish": [
+      "seed",
+      "bottle of poison",
+      "radiant leaves",
+      "simple grass orb"
+    ],
+    "Gloom": [
+      "seed",
+      "bottle of poison",
+      "poison bulb",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Gloom": [
+      "seed",
+      "bottle of poison",
+      "brown poison bulb",
+      "leaf stone",
+      "venom stone",
+      "arcane grass orb"
+    ],
+    "Vileplume": [
+      "seed",
+      "bottle of poison",
+      "poison petal",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Vileplume": [
+      "seed",
+      "bottle of poison",
+      "yellow poison petal",
+      "leaf stone",
+      "venom stone",
+      "arcane grass orb"
+    ],
+    "Paras": [
+      "bug gosme",
+      "seed",
+      "mushroom"
+    ],
+    "Shiny Paras": [
+      "bug gosme",
+      "seed",
+      "green mushroom",
+      "cocoon stone",
+      "leaf stone",
+      "simple bug orb"
+    ],
+    "Parasect": [
+      "bug gosme",
+      "seed",
+      "big mushroom",
+      "cocoon stone",
+      "leaf stone"
+    ],
+    "Shiny Parasect": [
+      "bug gosme",
+      "seed",
+      "green big mushroom",
+      "cocoon stone",
+      "leaf stone",
+      "arcane bug orb"
+    ],
+    "Venonat": [
+      "bug gosme",
+      "bottle of poison",
+      "bug antenna"
+    ],
+    "Shiny Venonat": [
+      "bug gosme",
+      "bottle of poison",
+      "blue bug antenna",
+      "cocoon stone",
+      "venom stone",
+      "simple bug orb"
+    ],
+    "Venomoth": [
+      "bug gosme",
+      "bottle of poison",
+      "moth wing",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Shiny Venomoth": [
+      "bug gosme",
+      "bottle of poison",
+      "blue moth wing",
+      "cocoon stone",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Diglett": [
+      "earth ball",
+      "small handfull of stones"
+    ],
+    "Shiny Diglett": [
+      "earth ball",
+      "small yellow stones",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Dugtrio": [
+      "earth ball",
+      "handful of stones",
+      "earth stone"
+    ],
+    "Shiny Dugtrio": [
+      "earth ball",
+      "handful or yellow stones",
+      "earth stone",
+      "arcane ground orb"
+    ],
+    "Meowth": [
+      "rubber ball",
+      "luck medallion"
+    ],
+    "Shiny Meowth": [
+      "rubber ball",
+      "pink medallion",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Persian": [
+      "rubber ball",
+      "wool ball",
+      "heart stone"
+    ],
+    "Shiny Persian": [
+      "rubber ball",
+      "heart stone",
+      "white ball",
+      "arcane normal orb",
+      "mythic normal orb"
+    ],
+    "Psyduck": [
+      "water gem",
+      "duck beak"
+    ],
+    "Shiny Psyduck": [
+      "water gem",
+      "gray duck beak",
+      "water stone",
+      "simple water orb"
+    ],
+    "Golduck": [
+      "water gem",
+      "duck paw",
+      "water stone"
+    ],
+    "Shiny Golduck": [
+      "water gem",
+      "gray duck paw",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Mankey": [
+      "band aid",
+      "mankey tail"
+    ],
+    "Shiny Mankey": [
+      "band aid",
+      "white monkey tail",
+      "punch stone",
+      "simple fighting orb"
+    ],
+    "Primeape": [
+      "band aid",
+      "iron bracelet",
+      "punch stone"
+    ],
+    "Shiny Primeape": [
+      "band aid",
+      "metal bracelet",
+      "punch stone",
+      "arcane fighting orb"
+    ],
+    "Growlithe": [
+      "essence of fire",
+      "dog fur"
+    ],
+    "Shiny Growlithe": [
+      "essence of fire",
+      "yellow dog fur",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Arcanine": [
+      "essence of fire",
+      "giant piece of fur",
+      "fire stone",
+      "crystal stone"
+    ],
+    "Shiny Arcanine": [
+      "essence of fire",
+      "giant white fur",
+      "fire stone",
+      "crystal stone",
+      "mythic fire orb"
+    ],
+    "Poliwag": [
+      "water gem",
+      "frog tail"
+    ],
+    "Shiny Poliwag": [
+      "water gem",
+      "gray frog tail",
+      "water stone",
+      "simple water orb"
+    ],
+    "Poliwhirl": [
+      "water gem",
+      "small box gloves",
+      "water stone"
+    ],
+    "Shiny Poliwhirl": [
+      "water gem",
+      "pristine small gloves",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Poliwrath": [
+      "water gem",
+      "band aid",
+      "big fist gloves",
+      "water orb",
+      "punch stone"
+    ],
+    "Shiny Poliwrath": [
+      "water gem",
+      "band aid",
+      "pristine punching gloves",
+      "water stone",
+      "punch stone",
+      "mythic fighting orb"
+    ],
+    "Abra": [
+      "enchanted gem",
+      "psychic vest"
+    ],
+    "Shiny Abra": [
+      "enchanted gem",
+      "blue psychic vest",
+      "enigma stone",
+      "simple psychic orb"
+    ],
+    "Kadabra": [
+      "enchanted gem",
+      "psychic spoon",
+      "enigma stone"
+    ],
+    "Shiny Kadabra": [
+      "enchanted gem",
+      "enchanted spoon",
+      "enigma stone",
+      "arcane psychic orb"
+    ],
+    "Alakazam": [
+      "enchanted gem",
+      "psychic moustache",
+      "enigma stone"
+    ],
+    "Shiny Alakazam": [
+      "enchanted gem",
+      "purple moustache",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Machop": [
+      "band aid",
+      "fighter hawk"
+    ],
+    "Shiny Machop": [
+      "band aid",
+      "blond hawk",
+      "punch stone",
+      "simple fighting orb"
+    ],
+    "Machoke": [
+      "band aid",
+      "fighter underwear",
+      "punch stone"
+    ],
+    "Shiny Machoke": [
+      "band aid",
+      "champion underwear",
+      "punch stone",
+      "arcane fighting orb"
+    ],
+    "Machamp": [
+      "band aid",
+      "belt of champion",
+      "punch stone"
+    ],
+    "Shiny Machamp": [
+      "band aid",
+      "master belt",
+      "punch stone",
+      "mythic fighting orb"
+    ],
+    "Bellsprout": [
+      "seed",
+      "bottle of poison",
+      "flower stem"
+    ],
+    "Shiny Bellsprout": [
+      "seed",
+      "bottle of poison",
+      "red stem",
+      "leaf stone",
+      "venom stone",
+      "simple grass orb"
+    ],
+    "Weepinbell": [
+      "seed",
+      "bottle of poison",
+      "weepinbell leaves",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Weepinbell": [
+      "seed",
+      "bottle of poison",
+      "cyan leaves",
+      "leaf stone",
+      "venom stone",
+      "arcane grass orb"
+    ],
+    "Victreebel": [
+      "seed",
+      "bottle of poison",
+      "victreebell tail",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Victreebel": [
+      "seed",
+      "bottle of poison",
+      "yellow plant tail",
+      "leaf stone",
+      "venom stone",
+      "arcane grass orb"
+    ],
+    "Tentacool": [
+      "water gem",
+      "bottle of poison",
+      "tentacle"
+    ],
+    "Shiny Tentacool": [
+      "water gem",
+      "bottle of poison",
+      "green tetacle",
+      "water stone",
+      "venom stone",
+      "simple water orb"
+    ],
+    "Tentacruel": [
+      "water gem",
+      "bottle of poison",
+      "giant ruby",
+      "water stone",
+      "venom stone"
+    ],
+    "Shiny Tentacruel": [
+      "water gem",
+      "bottle of poison",
+      "emerald",
+      "water stone",
+      "venom stone",
+      "mythic water orb"
+    ],
+    "Geodude": [
+      "small stone",
+      "earth ball",
+      "rock fist"
+    ],
+    "Shiny Geodude": [
+      "small stone",
+      "earth ball",
+      "purple fist",
+      "rock stone",
+      "earth stone",
+      "simple rock orb"
+    ],
+    "Graveler": [
+      "small stone",
+      "earth ball",
+      "rock forehead",
+      "rock stone",
+      "earth stone"
+    ],
+    "Shiny Graveler": [
+      "small stone",
+      "earth ball",
+      "purple stone forehead",
+      "rock stone",
+      "earth stone",
+      "arcane rock orb"
+    ],
+    "Golem": [
+      "small stone",
+      "earth ball",
+      "stone rocks",
+      "rock stone",
+      "earth stone"
+    ],
+    "Shiny Golem": [
+      "small stone",
+      "earth ball",
+      "black rocks",
+      "rock stone",
+      "earth stone",
+      "mythic rock orb"
+    ],
+    "Ponyta": [
+      "essence of fire",
+      "fire hair"
+    ],
+    "Shiny Ponyta": [
+      "essence of fire",
+      "blue hair",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Rapidash": [
+      "essence of fire",
+      "fire hoof",
+      "fire stone"
+    ],
+    "Shiny Rapidash": [
+      "essence of fire",
+      "blue fire hoof",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Slowpoke": [
+      "water gem",
+      "enchanted gem",
+      "slowpoke tail"
+    ],
+    "Shiny Slowpoke": [
+      "water gem",
+      "enchanted gem",
+      "purple slowpoke tail",
+      "water stone",
+      "enigma stone",
+      "simple psychic orb"
+    ],
+    "Slowbro": [
+      "water gem",
+      "enchanted gem",
+      "slowbro shell",
+      "water stone",
+      "enigma stone"
+    ],
+    "Shiny Slowbro": [
+      "water gem",
+      "enchanted gem",
+      "unbreakable shell",
+      "water stone",
+      "enigma stone",
+      "arcane psychic orb"
+    ],
+    "Magnemite": [
+      "screw",
+      "piece of steel",
+      "electric screws"
+    ],
+    "Shiny Magnemite": [
+      "screw",
+      "piece of steel",
+      "blue screws",
+      "thunder stone",
+      "metal stone",
+      "simple metal orb"
+    ],
+    "Magneton": [
+      "screw",
+      "piece of steel",
+      "magnet",
+      "thunder stone",
+      "metal stone"
+    ],
+    "Shiny Magneton": [
+      "screw",
+      "piece of steel",
+      "strong magnet",
+      "thunder stone",
+      "metal stone",
+      "arcane metal orb"
+    ],
+    "Farfetch'd": [
+      "rubber ball",
+      "straw",
+      "farfetch'd wing",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Farfetch'd": [
+      "rubber ball",
+      "straw",
+      "dark brown wings",
+      "heart stone",
+      "feather stone",
+      "mythic flying orb"
+    ],
+    "Doduo": [
+      "rubber ball",
+      "straw",
+      "doduo fur"
+    ],
+    "Shiny Doduo": [
+      "rubber ball",
+      "straw",
+      "gray fur",
+      "heart stone",
+      "feather stone",
+      "simple flying orb"
+    ],
+    "Dodrio": [
+      "rubber ball",
+      "straw",
+      "dodrio feather",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Dodrio": [
+      "rubber ball",
+      "straw",
+      "black feather",
+      "heart stone",
+      "feather stone",
+      "mythic flying orb"
+    ],
+    "Seel": [
+      "water gem",
+      "seel tail"
+    ],
+    "Shiny Seel": [
+      "water gem",
+      "blue seel tail",
+      "water stone",
+      "simple water orb"
+    ],
+    "Dewgong": [
+      "water gem",
+      "snowball",
+      "dewgong tail",
+      "water stone",
+      "ice stone"
+    ],
+    "Shiny Dewgong": [
+      "water gem",
+      "snowball",
+      "blue dewgong tail",
+      "water stone",
+      "ice stone",
+      "arcane ice orb"
+    ],
+    "Grimer": [
+      "bottle of poison",
+      "stinky gosme"
+    ],
+    "Shiny Grimer": [
+      "bottle of poison",
+      "disgusting gosme",
+      "venom stone",
+      "simple poison orb"
+    ],
+    "Muk": [
+      "bottle of poison",
+      "stinky hand",
+      "venom stone"
+    ],
+    "Shiny Muk": [
+      "bottle of poison",
+      "disgusting hand",
+      "venom stone",
+      "mythic poison orb"
+    ],
+    "Shellder": [
+      "water gem",
+      "locksmith of shell"
+    ],
+    "Shiny Shellder": [
+      "water gem",
+      "blue shell",
+      "water stone",
+      "simple water orb"
+    ],
+    "Cloyster": [
+      "water gem",
+      "snowball",
+      "pieces of shell",
+      "water stone",
+      "ice stone"
+    ],
+    "Shiny Cloyster": [
+      "water gem",
+      "snowball",
+      "blue pieces of shell",
+      "water stone",
+      "ice stone",
+      "arcane ice orb"
+    ],
+    "Gastly": [
+      "ghost essence",
+      "bottle of poison",
+      "ghost bottle"
+    ],
+    "Shiny Gastly": [
+      "ghost essence",
+      "bottle of poison",
+      "green ghost bottle",
+      "ghost stone",
+      "venom stone",
+      "simple ghost orb"
+    ],
+    "Haunter": [
+      "ghost essence",
+      "bottle of poison",
+      "ghost claw",
+      "ghost stone",
+      "venom stone"
+    ],
+    "Shiny Haunter": [
+      "ghost essence",
+      "bottle of poison",
+      "dark claw",
+      "ghost stone",
+      "venom stone",
+      "arcane ghost orb"
+    ],
+    "Gengar": [
+      "ghost essence",
+      "bottle of poison",
+      "ectoplasm",
+      "venom stone",
+      "ghost stone"
+    ],
+    "Shiny Gengar": [
+      "ghost essence",
+      "bottle of poison",
+      "dark ectoplasm",
+      "darkness stone",
+      "venom stone",
+      "mythic ghost orb"
+    ],
+    "Onix": [
+      "small stone",
+      "earth ball",
+      "onix tail",
+      "rock stone",
+      "earth stone"
+    ],
+    "Shiny Onix": [
+      "small stone",
+      "earth ball",
+      "gold tail",
+      "rock stone",
+      "earth stone",
+      "arcane rock orb"
+    ],
+    "Drowzee": [
+      "enchanted gem",
+      "drowzee trunk"
+    ],
+    "Shiny Drowzee": [
+      "enchanted gem",
+      "orange trunk",
+      "simple psychic orb"
+    ],
+    "Hypno": [
+      "enchanted gem",
+      "hypnosis pendant",
+      "enigma stone"
+    ],
+    "Shiny Hypno": [
+      "enchanted gem",
+      "enchanted pendant",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Krabby": [
+      "water gem",
+      "crab claw"
+    ],
+    "Shiny Krabby": [
+      "water gem",
+      "blue claw",
+      "water stone",
+      "simple water orb"
+    ],
+    "Kingler": [
+      "water gem",
+      "red guillotine",
+      "water stone"
+    ],
+    "Shiny Kingler": [
+      "water gem",
+      "blue guillotine",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Voltorb": [
+      "screw",
+      "remains of voltorb"
+    ],
+    "Shiny Voltorb": [
+      "screw",
+      "green remains",
+      "thunder stone",
+      "simple electric orb"
+    ],
+    "Electrode": [
+      "screw",
+      "remains of electrode",
+      "thunder stone"
+    ],
+    "Shiny Electrode": [
+      "screw",
+      "big green piece",
+      "thunder stone",
+      "arcane electric orb"
+    ],
+    "Exeggcute": [
+      "seed",
+      "enchanted gem",
+      "exeggcute seed"
+    ],
+    "Shiny Exeggcute": [
+      "seed",
+      "enchanted gem",
+      "green seeds",
+      "leaf stone",
+      "enigma stone",
+      "simple grass orb"
+    ],
+    "Exeggutor": [
+      "seed",
+      "enchanted gem",
+      "coconut leaves",
+      "leaf stone",
+      "enigma stone"
+    ],
+    "Shiny Exeggutor": [
+      "seed",
+      "enchanted gem",
+      "blue coconut leaves",
+      "leaf stone",
+      "enigma stone",
+      "mythic grass orb"
+    ],
+    "Cubone": [
+      "earth ball",
+      "cubone skull"
+    ],
+    "Shiny Cubone": [
+      "earth ball",
+      "cyan skull",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Marowak": [
+      "earth ball",
+      "bone",
+      "earth stone"
+    ],
+    "Shiny Marowak": [
+      "earth ball",
+      "blue bone",
+      "earth stone",
+      "mythic ground orb"
+    ],
+    "Hitmonlee": [
+      "band aid",
+      "power bracer",
+      "kick machine",
+      "pinch machine"
+    ],
+    "Shiny Hitmonlee": [
+      "band aid",
+      "punch stone",
+      "power bracer",
+      "gray kick machine",
+      "mythic fighting orb"
+    ],
+    "Hitmonchan": [
+      "band aid",
+      "power belt",
+      "punching machine",
+      "punch stone"
+    ],
+    "Shiny Hitmonchan": [
+      "band aid",
+      "punch stone",
+      "power belt",
+      "blue punching machine",
+      "mythic fighting orb"
+    ],
+    "Lickitung": [
+      "rubber ball",
+      "big tongue",
+      "heart stone"
+    ],
+    "Shiny Lickitung": [
+      "rubber ball",
+      "yellow tongue",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Koffing": [
+      "bottle of poison",
+      "poison pore"
+    ],
+    "Shiny Koffing": [
+      "bottle of poison",
+      "contagious pore",
+      "venom stone",
+      "simple poison orb"
+    ],
+    "Weezing": [
+      "bottle of poison",
+      "toxic scale",
+      "venom stone"
+    ],
+    "Shiny Weezing": [
+      "bottle of poison",
+      "gray toxic scale",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Rhyhorn": [
+      "earth ball",
+      "small stone",
+      "hardrock shell"
+    ],
+    "Shiny Rhyhorn": [
+      "earth ball",
+      "small stone",
+      "golden shell",
+      "earth stone",
+      "rock stone",
+      "simple rock orb"
+    ],
+    "Rhydon": [
+      "earth ball",
+      "small stone",
+      "horn drill",
+      "earth stone",
+      "rock stone"
+    ],
+    "Shiny Rhydon": [
+      "earth ball",
+      "small stone",
+      "golden drill",
+      "earth stone",
+      "rock stone",
+      "arcane ground orb"
+    ],
+    "Chansey": [
+      "rubber ball",
+      "lucky egg",
+      "heart stone"
+    ],
+    "Shiny Chansey": [
+      "rubber ball",
+      "purple egg",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Tangela": [
+      "seed",
+      "vine hair",
+      "leaf stone"
+    ],
+    "Shiny Tangela": [
+      "seed",
+      "green vine",
+      "leaf stone",
+      "arcane grass orb"
+    ],
+    "Kangaskhan": [
+      "rubber ball",
+      "kangaskhan ear",
+      "heart stone"
+    ],
+    "Shiny Kangaskhan": [
+      "rubber ball",
+      "kangaskhan blue ear",
+      "heart stone",
+      "mychic normal orb"
+    ],
+    "Horsea": [
+      "water gem",
+      "horsea tail"
+    ],
+    "Shiny Horsea": [
+      "water gem",
+      "white tail",
+      "water stone",
+      "simple water orb"
+    ],
+    "Seadra": [
+      "water gem",
+      "seadra fin",
+      "water stone"
+    ],
+    "Shiny Seadra": [
+      "water gem",
+      "white fin",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Goldeen": [
+      "water gem",
+      "goldeen tail"
+    ],
+    "Shiny Goldeen": [
+      "water gem",
+      "blue tail",
+      "water stone",
+      "simple water orb"
+    ],
+    "Seaking": [
+      "water gem",
+      "seaking tail",
+      "water stone"
+    ],
+    "Shiny Seaking": [
+      "water gem",
+      "purple big tail",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Staryu": [
+      "water gem",
+      "star core"
+    ],
+    "Shiny Staryu": [
+      "water gem",
+      "glowing core",
+      "water stone",
+      "simple water orb"
+    ],
+    "Starmie": [
+      "water gem",
+      "enchanted gem",
+      "star jewel",
+      "water stone",
+      "enigma stone"
+    ],
+    "Shiny Starmie": [
+      "water gem",
+      "enchanted gem",
+      "malfunctioning core",
+      "water stone",
+      "enigma stone",
+      "mythic water orb"
+    ],
+    "Mr. Mime": [
+      "enchanted gem",
+      "fairy essence",
+      "mimic clothes",
+      "enigma stone",
+      "heart stone"
+    ],
+    "Shiny Mr. Mime": [
+      "enchanted gem",
+      "fairy essence",
+      "mimic blue clothes",
+      "enigma stone",
+      "heart stone",
+      "mythic psychic orb"
+    ],
+    "Scyther": [
+      "bug gosme",
+      "straw",
+      "scythe",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Scyther": [
+      "bug gosme",
+      "straw",
+      "blue scythe",
+      "cocoon stone",
+      "feather stone",
+      "arcane bug orb",
+      "mythic bug orb"
+    ],
+    "Jynx": [
+      "snowball",
+      "enchanted gem",
+      "psychic wig",
+      "ice stone",
+      "enigma stone"
+    ],
+    "Shiny Jynx": [
+      "snowball",
+      "enchanted gem",
+      "white wig",
+      "ice stone",
+      "enigma stone",
+      "mythic ice orb"
+    ],
+    "Electabuzz": [
+      "screw",
+      "electric tail",
+      "thunder stone"
+    ],
+    "Shiny Electabuzz": [
+      "screw",
+      "electric white tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Magmar": [
+      "essence of fire",
+      "magma foot",
+      "fire stone"
+    ],
+    "Shiny Magmar": [
+      "essence of fire",
+      "magma red foot",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Pinsir": [
+      "bug gosme",
+      "pinsir horn",
+      "cocoon stone"
+    ],
+    "Shiny Pinsir": [
+      "bug gosme",
+      "white bug horn",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Tauros": [
+      "rubber ball",
+      "bull tail",
+      "heart stone"
+    ],
+    "Shiny Tauros": [
+      "rubber ball",
+      "green bull tail",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Magikarp": [
+      "water gem",
+      "magikarp fin"
+    ],
+    "Shiny Magikarp": [
+      "water gem",
+      "shiny magikarp fin",
+      "simple water orb"
+    ],
+    "Gyarados": [
+      "water gem",
+      "straw",
+      "gyarados tail",
+      "water stone",
+      "crystal stone"
+    ],
+    "Shiny Gyarados": [
+      "water gem",
+      "straw",
+      "red gyarados tail",
+      "water stone",
+      "crystal stone",
+      "mythic water orb"
+    ],
+    "Lapras": [
+      "water gem",
+      "snowball",
+      "lapras fin",
+      "water stone",
+      "ice stone"
+    ],
+    "Shiny Lapras": [
+      "water gem",
+      "snowball",
+      "purple fin",
+      "water stone",
+      "ice stone",
+      "mythic ice orb"
+    ],
+    "Ditto": [
+      "rubber ball",
+      "dna gosme"
+    ],
+    "Shiny Ditto": [
+      "rubber ball",
+      "mutant gosme",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Eevee": [
+      "rubber ball",
+      "furry tail"
+    ],
+    "Shiny Eevee": [
+      "rubber ball",
+      "furry pretty tail",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Vaporeon": [
+      "water gem",
+      "aquatic tail",
+      "water stone"
+    ],
+    "Shiny Vaporeon": [
+      "water gem",
+      "aquatic long tail",
+      "mythic water orb"
+    ],
+    "Jolteon": [
+      "screw",
+      "electric collar",
+      "thunder stone"
+    ],
+    "Shiny Jolteon": [
+      "screw",
+      "electric yellow collar",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Flareon": [
+      "essence of fire",
+      "blaze tail",
+      "fire stone"
+    ],
+    "Shiny Flareon": [
+      "essence of fire",
+      "blaze red tail",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Porygon": [
+      "rubber ball",
+      "virtual head",
+      "heart stone"
+    ],
+    "Shiny Porygon": [
+      "rubber ball",
+      "cyber head",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Omanyte": [
+      "small stone",
+      "water gem",
+      "helix shell"
+    ],
+    "Shiny Omanyte": [
+      "small stone",
+      "water gem",
+      "silver helix shell",
+      "rock stone",
+      "water stone",
+      "simple rock orb"
+    ],
+    "Omastar": [
+      "small stone",
+      "water gem",
+      "spike shell",
+      "rock stone",
+      "water stone"
+    ],
+    "Shiny Omastar": [
+      "small stone",
+      "water gem",
+      "silver spike shell",
+      "rock stone",
+      "water stone",
+      "mythic rock orb"
+    ],
+    "Kabuto": [
+      "small stone",
+      "water gem",
+      "dome shell"
+    ],
+    "Shiny Kabuto": [
+      "small stone",
+      "water gem",
+      "golden dome shell",
+      "rock stone",
+      "water stone",
+      "simple rock orb"
+    ],
+    "Kabutops": [
+      "small stone",
+      "water gem",
+      "gray scythe",
+      "rock stone",
+      "water stone"
+    ],
+    "Shiny Kabutops": [
+      "small stone",
+      "water gem",
+      "blood scythe",
+      "rock stone",
+      "water stone",
+      "mythic rock orb"
+    ],
+    "Aerodactyl": [
+      "small stone",
+      "straw",
+      "membranous wing",
+      "rock stone",
+      "feather stone"
+    ],
+    "Shiny Aerodactyl": [],
+    "Snorlax": [
+      "rubber ball",
+      "snorlax paw",
+      "heart stone"
+    ],
+    "Shiny Snorlax": [
+      "rubber ball",
+      "sleepyhead paw",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Articuno": [],
+    "Shiny Articuno": [],
+    "Zapdos": [],
+    "Shiny Zapdos": [],
+    "Moltres": [],
+    "Shiny Moltres": [],
+    "Dratini": [
+      "dragon scale",
+      "dratini ear"
+    ],
+    "Shiny Dratini": [
+      "dragon scale",
+      "shiny dragon ears",
+      "crystal stone",
+      "simple dragon orb"
+    ],
+    "Dragonair": [
+      "dragon scale",
+      "dragonair tail",
+      "crystal stone"
+    ],
+    "Shiny Dragonair": [
+      "dragon scale",
+      "yellow dragon tail",
+      "crystal stone",
+      "arcane dragon orb",
+      "mythic dragon orb"
+    ],
+    "Dragonite": [
+      "dragon scale",
+      "straw",
+      "dragonite tail",
+      "crystal stone"
+    ],
+    "Shiny Dragonite": [
+      "dragon scale",
+      "straw",
+      "golden dragon tail",
+      "crystal stone",
+      "feather stone",
+      "mythic dragon orb"
+    ],
+    "Mewtwo": [],
+    "Shiny Mewtwo": [],
+    "Mew": [],
+    "Shiny Mew": [],
+    "Chikorita": [
+      "seed",
+      "chicory"
+    ],
+    "Shiny Chikorita": [
+      "seed",
+      "purple chicory",
+      "leaf stone",
+      "simple grass orb"
+    ],
+    "Bayleef": [
+      "seed",
+      "big leaf",
+      "leaf stone"
+    ],
+    "Shiny Bayleef": [
+      "seed",
+      "purple big leaf",
+      "leaf stone",
+      "arcane grass orb"
+    ],
+    "Meganium": [
+      "seed",
+      "big petal",
+      "leaf stone"
+    ],
+    "Shiny Meganium": [
+      "seed",
+      "purple petal",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Cyndaquil": [
+      "essence of fire",
+      "cyndaquil nose"
+    ],
+    "Shiny Cyndaquil": [
+      "essence of fire",
+      "red nose",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Quilava": [
+      "essence of fire",
+      "quilava fur",
+      "fire stone"
+    ],
+    "Shiny Quilava": [
+      "essence of fire",
+      "blaze fur",
+      "fire stone",
+      "arcane fire orb"
+    ],
+    "Typhlosion": [
+      "essence of fire",
+      "typhlosion fur",
+      "fire stone"
+    ],
+    "Shiny Typhlosion": [
+      "essence of fire",
+      "volcano fur",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Totodile": [
+      "water gem",
+      "totodile tail"
+    ],
+    "Shiny Totodile": [
+      "water gem",
+      "cyan tail",
+      "water stone",
+      "simple water orb"
+    ],
+    "Croconaw": [
+      "water gem",
+      "crocodile hair",
+      "water stone"
+    ],
+    "Shiny Croconaw": [
+      "water gem",
+      "blue mohawk",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Feraligatr": [
+      "water gem",
+      "red hair",
+      "water stone"
+    ],
+    "Shiny Feraligatr": [
+      "water gem",
+      "big blue mohawk",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Sentret": [
+      "rubber ball",
+      "furry tail"
+    ],
+    "Shiny Sentret": [
+      "rubber ball",
+      "yellow furry tail",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Furret": [
+      "rubber ball",
+      "furret tail",
+      "heart stone"
+    ],
+    "Shiny Furret": [
+      "rubber ball",
+      "pink tail",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Hoothoot": [
+      "rubber ball",
+      "straw",
+      "owl antennas"
+    ],
+    "Shiny Hoothoot": [
+      "rubber ball",
+      "straw",
+      "shinning antennas",
+      "heard stone",
+      "feather stone",
+      "simple flying orb"
+    ],
+    "Noctowl": [
+      "rubber ball",
+      "straw",
+      "owl crest",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Noctowl": [
+      "rubber ball",
+      "straw",
+      "yellow crest",
+      "heart stone",
+      "feather stone",
+      "arcane flying orb"
+    ],
+    "Ledyba": [
+      "bug gosme",
+      "straw",
+      "ladybug wings"
+    ],
+    "Shiny Ledyba": [
+      "bug gosme",
+      "straw",
+      "blue ladybug wings",
+      "cocoon stone",
+      "feather stone",
+      "sinple bug orb"
+    ],
+    "Ledian": [
+      "bug gosme",
+      "straw",
+      "ledian wings",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Ledian": [
+      "bug gosme",
+      "straw",
+      "blue bug wings",
+      "cocoon stone",
+      "feather stone",
+      "arcane bug orb"
+    ],
+    "Spinarak": [
+      "bug gosme",
+      "bottle of poison",
+      "spider legs"
+    ],
+    "Shiny Spinarak": [
+      "bug gosme",
+      "bottle of poison",
+      "blue spider legs",
+      "cocoon stone",
+      "venom stone",
+      "single bug orb"
+    ],
+    "Ariados": [
+      "bug gosme",
+      "bottle of poison",
+      "arachnid legs",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Shiny Ariados": [
+      "bug gosme",
+      "poisoned arachnid legs",
+      "cocoon stone",
+      "venom stone",
+      "arcane bug orb"
+    ],
+    "Crobat": [
+      "bottle of poison",
+      "straw",
+      "giant bat wing",
+      "venom stone",
+      "feather stone"
+    ],
+    "Shiny Crobat": [
+      "bottle of poison",
+      "straw",
+      "shiny bat wing",
+      "venom stone",
+      "feather stone",
+      "arcane poison orb"
+    ],
+    "Chinchou": [
+      "water gem",
+      "screw",
+      "teardrop orb"
+    ],
+    "Shiny Chinchou": [
+      "water gem",
+      "screw",
+      "brilliant teardrop orb",
+      "water stone",
+      "thunder stone",
+      "simple electric orb"
+    ],
+    "Lanturn": [
+      "water gem",
+      "screw",
+      "electric fish tail",
+      "water stone",
+      "thunder stone"
+    ],
+    "Shiny Lanturn": [
+      "water gem",
+      "screw",
+      "purple fish tail",
+      "water stone",
+      "thunder stone",
+      "arcane electric orb"
+    ],
+    "Pichu": [
+      "screw",
+      "pichu ears"
+    ],
+    "Shiny Pichu": [
+      "screw",
+      "tanned ears",
+      "thunder stone",
+      "simple electric orb"
+    ],
+    "Cleffa": [
+      "fairy essence",
+      "small pink ears"
+    ],
+    "Shiny Cleffa": [
+      "rubber ball",
+      "fairy essence",
+      "small blue ears",
+      "fairy stone",
+      "simple fairy orb"
+    ],
+    "Igglybuff": [
+      "rubber ball",
+      "small topknot"
+    ],
+    "Shiny Igglybuff": [
+      "rubber ball",
+      "fairy essence",
+      "magenta topknot",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Togepi": [
+      "fairy essence",
+      "baby egg shell"
+    ],
+    "Shiny Togepi": [
+      "fairy essence",
+      "brilliant egg shell",
+      "heart stone",
+      "simple fairy orb"
+    ],
+    "Togetic": [
+      "fairy essence",
+      "straw",
+      "dainty wing",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Togetic": [
+      "fairy essence",
+      "straw",
+      "pink dainty wing",
+      "heart stone",
+      "feather stone",
+      "arcane fairy orb"
+    ],
+    "Natu": [
+      "enchanted gem",
+      "straw",
+      "natu wing"
+    ],
+    "Shiny Natu": [
+      "enchanted gem",
+      "straw",
+      "small psychic wing",
+      "enigma stone",
+      "feather stone",
+      "simple psychic orb"
+    ],
+    "Xatu": [
+      "enchanted gem",
+      "straw",
+      "xatu wing",
+      "enigma stone",
+      "feather stone"
+    ],
+    "Shiny Xatu": [
+      "enchanted gem",
+      "straw",
+      "psychic wings",
+      "enigma stone",
+      "feather stone",
+      "arcane psychic orb",
+      "mythic psychic orb"
+    ],
+    "Mareep": [
+      "screw",
+      "yellow sheep wool"
+    ],
+    "Shiny Mareep": [
+      "screw",
+      "white sheep wool",
+      "thunder stone",
+      "simple electric orb"
+    ],
+    "Flaaffy": [
+      "screw",
+      "soft wool",
+      "thunder stone"
+    ],
+    "Shiny Flaaffy": [
+      "screw",
+      "electric soft wool",
+      "thunder stone",
+      "arcane electric orb"
+    ],
+    "Ampharos": [
+      "screw",
+      "electric sheep tail",
+      "thunder stone"
+    ],
+    "Shiny Ampharos": [
+      "screw",
+      "green sheep tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Bellossom": [
+      "seed",
+      "small red flower",
+      "leaf stone",
+      "sun stone"
+    ],
+    "Shiny Bellossom": [
+      "seed",
+      "small purple flower",
+      "leaf stone",
+      "sun stone",
+      "arcane grass orb"
+    ],
+    "Marill": [
+      "water gem",
+      "fairy essence",
+      "aquatic tail"
+    ],
+    "Shiny Marill": [
+      "water gem",
+      "fairy essence",
+      "yellow aquatic tail",
+      "water stone",
+      "heart stone",
+      "simple fairy orb"
+    ],
+    "Azumarill": [
+      "water gem",
+      "fairy essence",
+      "cute ears",
+      "water stone",
+      "heart stone"
+    ],
+    "Shiny Azumarill": [
+      "water gem",
+      "fairy essence",
+      "yellow cute ears",
+      "water stone",
+      "heart stone",
+      "arcane fairy orb"
+    ],
+    "Sudowoodo": [
+      "small stone",
+      "branch of stones",
+      "rock stone"
+    ],
+    "Shiny Sudowoodo": [
+      "small stone",
+      "golden nuggets",
+      "rock stone",
+      "mythic rock orb"
+    ],
+    "Politoed": [
+      "water gem",
+      "frog topknot",
+      "water stone",
+      "king's rock"
+    ],
+    "Shiny Politoed": [
+      "water gem",
+      "cyan frog topknot",
+      "water stone",
+      "mythic water orb",
+      "king's rock"
+    ],
+    "Hoppip": [
+      "seed",
+      "straw",
+      "pointy leaf"
+    ],
+    "Shiny Hoppip": [
+      "seed",
+      "straw",
+      "cyan pointy leaf",
+      "leaf stone",
+      "feather stone",
+      "simple grass orb"
+    ],
+    "Skiploom": [
+      "seed",
+      "straw",
+      "yellow flower",
+      "leaf stone",
+      "feather stone"
+    ],
+    "Shiny Skiploom": [
+      "seed",
+      "straw",
+      "green flower",
+      "leaf stone",
+      "feather stone",
+      "arcane grass orb"
+    ],
+    "Jumpluff": [
+      "seed",
+      "straw",
+      "dandelion",
+      "leaf stone",
+      "feather stone"
+    ],
+    "Shiny Jumpluff": [
+      "seed",
+      "straw",
+      "white dandelion",
+      "leaf stone",
+      "feather stone",
+      "arcane grass orb"
+    ],
+    "Aipom": [
+      "rubber ball",
+      "aipom paw",
+      "heart stone"
+    ],
+    "Shiny Aipom": [
+      "rubber ball",
+      "blue aipom paw",
+      "heart stone",
+      "simple normal orb"
+    ],
+    "Sunkern": [
+      "seed",
+      "sun leaves"
+    ],
+    "Shiny Sunkern": [
+      "seed",
+      "cyan leaves",
+      "leaf stone",
+      "simple grass orb"
+    ],
+    "Sunflora": [
+      "seed",
+      "sunflower",
+      "leaf stone"
+    ],
+    "Shiny Sunflora": [
+      "seed",
+      "brown sunflower",
+      "leaf stone",
+      "arcane grass orb"
+    ],
+    "Yanma": [
+      "bug gosme",
+      "straw",
+      "mosquito tail",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Yanma": [
+      "bug gosme",
+      "straw",
+      "blue mosquito tail",
+      "cocoon stone",
+      "feather stone",
+      "arcane bug orb"
+    ],
+    "Wooper": [
+      "water gem",
+      "earth ball",
+      "magenta gill"
+    ],
+    "Shiny Wooper": [
+      "water gem",
+      "earth ball",
+      "pink gill",
+      "water stone",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Quagsire": [
+      "water gem",
+      "earth ball",
+      "amphibian tail",
+      "water stone",
+      "earth stone"
+    ],
+    "Shiny Quagsire": [
+      "water gem",
+      "earth ball",
+      "mud tail",
+      "water stone",
+      "earth stone",
+      "arcane ground orb"
+    ],
+    "Espeon": [
+      "enchanted gem",
+      "psychic ears",
+      "enigma stone"
+    ],
+    "Shiny Espeon": [
+      "enchanted gem",
+      "sunlight ears",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Umbreon": [
+      "dark gem",
+      "dark ears",
+      "darkness stone"
+    ],
+    "Shiny Umbreon": [
+      "dark gem",
+      "moonlight ears",
+      "darkness stone",
+      "mythic dark orb"
+    ],
+    "Murkrow": [
+      "dark gem",
+      "straw",
+      "yellow beak",
+      "darkness stone",
+      "feather stone"
+    ],
+    "Shiny Murkrow": [
+      "dark gem",
+      "straw",
+      "dark beak",
+      "darkness stone",
+      "feather stone",
+      "arcane dark orb"
+    ],
+    "Slowking": [
+      "water gem",
+      "enchanted gem",
+      "slowking necklace",
+      "king's rock",
+      "water stone",
+      "enigma stone"
+    ],
+    "Shiny Slowking": [
+      "water gem",
+      "enchanted gem",
+      "mysterious necklace",
+      "water stone",
+      "enigma stone",
+      "king's rock",
+      "mythic psychic orb"
+    ],
+    "Misdreavus": [
+      "ghost essence",
+      "miss traces",
+      "ghost stone"
+    ],
+    "Shiny Misdreavus": [
+      "ghost essence",
+      "terrifying traces",
+      "ghost stone",
+      "arcane ghost orb",
+      "mythic ghost orb"
+    ],
+    "Unown": [],
+    "Shiny Unown": [],
+    "Wobbuffet": [
+      "enchanted gem",
+      "two-eyed black tail",
+      "enigma stone"
+    ],
+    "Shiny Wobbuffet": [
+      "enchanted gem",
+      "two-eyed shiny tail",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Girafarig": [
+      "rubber ball",
+      "enchanted gem",
+      "giraffe antenna",
+      "heart stone",
+      "enigma stone"
+    ],
+    "Shiny Girafarig": [
+      "rubber ball",
+      "enchanted gem",
+      "orange giraffe antennas",
+      "heart stone",
+      "enigma stone",
+      "arcane psychic orb"
+    ],
+    "Pineco": [
+      "bug gosma",
+      "pineco shell"
+    ],
+    "Shiny Pineco": [
+      "bug gosma",
+      "orange shell",
+      "cocoon stone",
+      "simple bug orb"
+    ],
+    "Forretress": [
+      "bug gosma",
+      "piece of steel",
+      "forretress shell",
+      "cocoon stone",
+      "metal stone"
+    ],
+    "Shiny Forretress": [
+      "bug gosma",
+      "piece of steel",
+      "brown shell",
+      "cocoon stone",
+      "metal stone",
+      "arcane metal orb"
+    ],
+    "Dunsparce": [
+      "rubber ball",
+      "dunsparce wings"
+    ],
+    "Shiny Dunsparce": [
+      "rubber ball",
+      "dunsparce goild wings",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Gligar": [
+      "earth ball",
+      "straw",
+      "bat claw",
+      "earth stone",
+      "feather stone"
+    ],
+    "Shiny Gligar": [
+      "earth ball",
+      "straw",
+      "black bat claw",
+      "earth stone",
+      "feather stone",
+      "arcane ground orb"
+    ],
+    "Steelix": [
+      "piece of steel",
+      "earth ball",
+      "steelix tail",
+      "metal stone",
+      "earth stone",
+      "metal coat"
+    ],
+    "Shiny Steelix": [
+      "piece of steel",
+      "earth ball",
+      "golden steelix tail",
+      "metal stone",
+      "earth stone",
+      "mythic metal orb",
+      "metal coat"
+    ],
+    "Snubbull": [
+      "fairy essence",
+      "snubull ear"
+    ],
+    "Shiny Snubbull": [
+      "fairy essence",
+      "punk ear",
+      "fairy stone",
+      "simple fairy orb"
+    ],
+    "Granbull": [
+      "fairy essence",
+      "granbull ear",
+      "fairy stone"
+    ],
+    "Shiny Granbull": [
+      "fairy essence",
+      "brown ear",
+      "fairy stone",
+      "arcane fairy orb",
+      "mythic fairy orb"
+    ],
+    "Qwilfish": [
+      "water gem",
+      "bottle of poison",
+      "puffer tail",
+      "water stone",
+      "venom stone"
+    ],
+    "Shiny Qwilfish": [
+      "water gem",
+      "bottle of poison",
+      "poisoned fish tail",
+      "water stone",
+      "venom stone",
+      "arcane water orb"
+    ],
+    "Scizor": [
+      "bug gosme",
+      "piece of steel",
+      "scizor claw",
+      "cocoon stone",
+      "metal stone",
+      "metal coat"
+    ],
+    "Shiny Scizor": [
+      "bug gosme",
+      "piece of steel",
+      "carbon claw",
+      "cocoon stone",
+      "metal stone",
+      "metal coat",
+      "mythic metal orb"
+    ],
+    "Shuckle": [
+      "bug gosme",
+      "small stone",
+      "shuckle shell",
+      "cocoon stone",
+      "rock stone"
+    ],
+    "Shiny Shuckle": [
+      "bug gosme",
+      "small stone",
+      "blue shuckle shell",
+      "cocoon stone",
+      "rock stone",
+      "arcane rock orb"
+    ],
+    "Heracross": [
+      "bug gosme",
+      "band aid",
+      "bug horn",
+      "cocoon stone",
+      "punch stone"
+    ],
+    "Shiny Heracross": [
+      "bug gosme",
+      "band aid",
+      "pink bug horn",
+      "cocoon stone",
+      "punch stone",
+      "arcane fighting orb",
+      "mythic fighting orb"
+    ],
+    "Sneasel": [
+      "dark gem",
+      "snow ball",
+      "sneasel feather",
+      "darkness stone",
+      "ice stone"
+    ],
+    "Shiny Sneasel": [
+      "dark gem",
+      "snow ball",
+      "cyan feather",
+      "darkness stone",
+      "ice stone",
+      "arcane dark orb"
+    ],
+    "Teddiursa": [
+      "rubber ball",
+      "moon pendant"
+    ],
+    "Shiny Teddiursa": [
+      "rubber ball",
+      "shining moon pendant",
+      "heart stone",
+      "arcane normal orb"
+    ],
+    "Ursaring": [
+      "rubber ball",
+      "bear claw",
+      "heart stone"
+    ],
+    "Shiny Ursaring": [
+      "rubber ball",
+      "black bear claw",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Slugma": [
+      "essence of fire",
+      "magma ears"
+    ],
+    "Shiny Slugma": [
+      "essence of fire",
+      "yellow magma ears",
+      "fire stone",
+      "simple fire orb"
+    ],
+    "Magcargo": [
+      "essence of fire",
+      "small stone",
+      "magma shell",
+      "fire stone",
+      "rock stone"
+    ],
+    "Shiny Magcargo": [
+      "essence of fire",
+      "small stone",
+      "blue magma shell",
+      "fire stone",
+      "rock stone",
+      "arcane fire orb",
+      "mythic fire orb"
+    ],
+    "Swinub": [
+      "snowball",
+      "earth ball",
+      "furry hair"
+    ],
+    "Shiny Swinub": [
+      "snowball",
+      "earth ball",
+      "gray furry hair",
+      "ice stone",
+      "earth stone",
+      "simple ice orb"
+    ],
+    "Piloswine": [
+      "snotball",
+      "earth ball",
+      "ice tusks",
+      "ice stone",
+      "earth stone"
+    ],
+    "Shiny Piloswine": [
+      "snotball",
+      "earth ball",
+      "frozen turks",
+      "ice stone",
+      "earth stone",
+      "arcane ice orb",
+      "mythic ice orb"
+    ],
+    "Corsola": [
+      "water gem",
+      "small stone",
+      "piece of corsola",
+      "water stone",
+      "rock stone"
+    ],
+    "Shiny Corsola": [
+      "water gem",
+      "small stone",
+      "blue piece of corsola",
+      "water stone",
+      "rock stone",
+      "arcane rock orb"
+    ],
+    "Remoraid": [
+      "water gem",
+      "small blue fin"
+    ],
+    "Shiny Remoraid": [
+      "water gem",
+      "small green fin",
+      "water stone",
+      "simple water orb"
+    ],
+    "Octillery": [
+      "water gem",
+      "red tentacle",
+      "water stone"
+    ],
+    "Shiny Octillery": [
+      "water gem",
+      "yellow tentacle",
+      "water stone",
+      "arcane water orb"
+    ],
+    "Delibird": [
+      "snow ball",
+      "straw",
+      "gift tail",
+      "ice stone",
+      "feather stone"
+    ],
+    "Shiny Delibird": [
+      "snow ball",
+      "straw",
+      "rainbow gift tail",
+      "ice stone",
+      "feather stone",
+      "arcane ice orb"
+    ],
+    "Mantine": [
+      "water gem",
+      "straw",
+      "blue ray tail",
+      "water stone",
+      "feather stone"
+    ],
+    "Shiny Mantine": [
+      "water gem",
+      "straw",
+      "cyan ray tail",
+      "water stone",
+      "feather stone",
+      "mythic water orb"
+    ],
+    "Skarmory": [
+      "piece of steel",
+      "straw",
+      "steel wing",
+      "metal stone",
+      "feather stone"
+    ],
+    "Shiny Skarmory": [
+      "piece of steel",
+      "straw",
+      "yellow steel wing",
+      "metal stone",
+      "feather stone",
+      "mythic metal orb"
+    ],
+    "Houndour": [
+      "essence of fire",
+      "back bone"
+    ],
+    "Shiny Houndour": [
+      "dark gem",
+      "essence of fire",
+      "smoked bones",
+      "darkness stone",
+      "fire stone",
+      "simple dark orb"
+    ],
+    "Houndoom": [
+      "dark gem",
+      "essence of fire",
+      "dark canine horns",
+      "darkness stone",
+      "fire stone"
+    ],
+    "Shiny Houndoom": [
+      "dark gem",
+      "essence of fire",
+      "hellhound horns",
+      "darkness stone",
+      "fire stone",
+      "mythic dark orb"
+    ],
+    "Kingdra": [
+      "water gem",
+      "dragon scale",
+      "sea dragon fin",
+      "dragon scale",
+      "water stone"
+    ],
+    "Shiny Kingdra": [
+      "water gem",
+      "dragon scale",
+      "white dragon fin",
+      "dragon scale",
+      "water stone",
+      "crystal stone",
+      "mythic dragon orb"
+    ],
+    "Phanpy": [
+      "earth ball",
+      "small elephant ear"
+    ],
+    "Shiny Phanpy": [
+      "earth ball",
+      "green elephant ear",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Donphan": [
+      "earth ball",
+      "elephant foot",
+      "earth stone"
+    ],
+    "Shiny Donphan": [
+      "earth ball",
+      "orange elephant foot",
+      "earth stone",
+      "arcane ground orb",
+      "mythic ground orb"
+    ],
+    "Porygon2": [
+      "rubber ball",
+      "dimensional cube",
+      "heart stone"
+    ],
+    "Shiny Porygon2": [
+      "rubber ball",
+      "purple dimensional cube",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Stantler": [
+      "rubber ball",
+      "reindeer horns",
+      "heart stone"
+    ],
+    "Shiny Stantler": [
+      "rubber ball",
+      "illusion horns",
+      "heart stone",
+      "arcane normal orb",
+      "mythic normal orb"
+    ],
+    "Smeargle": [
+      "rubber ball",
+      "smeargle tail",
+      "heart stone"
+    ],
+    "Shiny Smeargle": [
+      "rubber ball",
+      "artist tail",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Tyrogue": [
+      "band aid",
+      "fist bandages",
+      "punch stone"
+    ],
+    "Shiny Tyrogue": [
+      "band aid",
+      "white bandages",
+      "punch stone",
+      "arcane fighting orb"
+    ],
+    "Hitmontop": [
+      "band aid",
+      "macho brace",
+      "martial arts tail",
+      "punch stone"
+    ],
+    "Shiny Hitmontop": [
+      "band aid",
+      "punch stone",
+      "macho brace",
+      "capoeira tail",
+      "mythic fighting orb"
+    ],
+    "Smoochum": [
+      "snowball",
+      "enchanted gem",
+      "baby hair"
+    ],
+    "Shiny Smoochum": [
+      "snowball",
+      "enchanted gem",
+      "light baby hair",
+      "ice stone",
+      "enigma stone",
+      "simple ice orb"
+    ],
+    "Elekid": [
+      "screw",
+      "plug ears"
+    ],
+    "Shiny Elekid": [
+      "screw",
+      "white plug ears",
+      "thunder stone",
+      "simple eletric orb"
+    ],
+    "Magby": [
+      "essence of fire",
+      "magma topknot"
+    ],
+    "Shiny Magby": [
+      "essence of fire",
+      "crimson topknot",
+      "fire stone",
+      "arcane fire orb"
+    ],
+    "Miltank": [
+      "rubber ball",
+      "cow tail",
+      "heart stone"
+    ],
+    "Shiny Miltank": [
+      "rubber ball",
+      "blue cow tail",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Blissey": [
+      "rubber ball",
+      "nurse's fur",
+      "heart stone"
+    ],
+    "Shiny Blissey": [
+      "rubber ball",
+      "purple nurse's fur",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Raikou": [],
+    "Shiny Raikou": [],
+    "Entei": [],
+    "Shiny Entei": [],
+    "Suicune": [],
+    "Shiny Suicune": [],
+    "Larvitar": [
+      "small stone",
+      "earth ball",
+      "larvitar tail"
+    ],
+    "Shiny Larvitar": [
+      "small stone",
+      "earth ball",
+      "yellow larvitar tail",
+      "rock stone",
+      "earth stone",
+      "simple ground orb"
+    ],
+    "Pupitar": [
+      "small stone",
+      "earth ball",
+      "rock plate",
+      "rock stone",
+      "earth stone"
+    ],
+    "Shiny Pupitar": [
+      "small stone",
+      "earth ball",
+      "purple rock plate",
+      "rock stone",
+      "earth stone",
+      "mythic ground orb"
+    ],
+    "Tyranitar": [
+      "small stone",
+      "dark gem",
+      "tyranitar tail",
+      "rock stone",
+      "darkness stone"
+    ],
+    "Shiny Tyranitar": [
+      "small stone",
+      "dark gem",
+      "godzilla tail",
+      "rock stone",
+      "darkness stone",
+      "mythic dark orb"
+    ],
+    "Lugia": [],
+    "Shiny Lugia": [],
+    "Ho-oh": [],
+    "Shiny Ho-oh": [],
+    "Celebi": [],
+    "Shiny Celebi": [],
+    "Treecko": [
+      "pile of seeds",
+      "reptilian tail",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Treecko": [
+      "pile of seeds",
+      "cyan reptilian tail",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Grovyle": [
+      "pile of seeds",
+      "reptilian leaves",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Grovyle": [
+      "pile of seeds",
+      "cyan reptilian leaves",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Sceptile": [
+      "pile of seeds",
+      "greens",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Sceptile": [
+      "pile of seeds",
+      "cyan greens",
+      "leaf stone",
+      "celestial grass orb"
+    ],
+    "Torchic": [
+      "compressed fire",
+      "fire plume",
+      "fire essence",
+      "fire stone"
+    ],
+    "Shiny Torchic": [
+      "compressed fire",
+      "reddish fire plume",
+      "fire stone",
+      "mythic fire orb"
+    ],
+    "Combusken": [
+      "compressed fire",
+      "injection",
+      "chicken feet",
+      "fire essence",
+      "fighter essence",
+      "fire stone",
+      "punch stone"
+    ],
+    "Shiny Combusken": [
+      "compressed fire",
+      "injection",
+      "black chicken feet",
+      "fire stone",
+      "punch stone",
+      "mythic fire orb"
+    ],
+    "Blaziken": [
+      "compressed fire",
+      "injection",
+      "fire feather",
+      "fire essence",
+      "fighter essence",
+      "fire stone",
+      "punch stone"
+    ],
+    "Shiny Blaziken": [
+      "compressed fire",
+      "injection",
+      "black fire feather",
+      "fire stone",
+      "punch stone",
+      "celestial fire orb",
+      "celestial fighting orb"
+    ],
+    "Mudkip": [
+      "solid water gem",
+      "mud tail",
+      "water stone"
+    ],
+    "Shiny Mudkip": [
+      "solid water gem",
+      "greenish mud tail",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Marshtomp": [
+      "solid water gem",
+      "solid earth piece",
+      "marsh tail",
+      "ground essence",
+      "water essence",
+      "water stone",
+      "earth stone"
+    ],
+    "Shiny Marshtomp": [
+      "solid water gem",
+      "solid earth piece",
+      "greenish marsh tail",
+      "water stone",
+      "earth stone",
+      "mythic water orb"
+    ],
+    "Swampert": [
+      "solid water gem",
+      "solid earth piece",
+      "black fins",
+      "ground essence",
+      "water essence",
+      "water stone",
+      "earth stone"
+    ],
+    "Shiny Swampert": [
+      "solid water gem",
+      "solid earth piece",
+      "greenish fins",
+      "water stone",
+      "earth stone",
+      "celestial water orb",
+      "celestial ground orb"
+    ],
+    "Poochyena": [
+      "solid dark gem",
+      "pooch fur",
+      "darkness stone"
+    ],
+    "Shiny Poochyena": [
+      "solid dark gem",
+      "yellowish pooch fur",
+      "darkness stone",
+      "mythic dark orb"
+    ],
+    "Mightyena": [
+      "solid dark gem",
+      "hyena tail",
+      "dark essence",
+      "darkness stone"
+    ],
+    "Shiny Mightyena": [
+      "solid dark gem",
+      "yellowish hyena tail",
+      "darkness stone",
+      "celestial dark orb"
+    ],
+    "Zigzagoon": [
+      "solid rubber ball",
+      "bicollor tail",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Zigzagoon": [
+      "solid rubber ball",
+      "reddish tail",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Linoone": [
+      "solid rubber ball",
+      "tiny raccoon fur",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Linoone": [
+      "solid rubber ball",
+      "reddish tiny raccoon fur",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Wurmple": [
+      "big bug gosme",
+      "worm horn",
+      "bug essence",
+      "cocoon stone"
+    ],
+    "Shiny Wurmple": [
+      "big bug gosme",
+      "purple worm horn",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Silcoon": [
+      "big bug gosme",
+      "white cocoon thorn",
+      "bug essence",
+      "cocoon stone"
+    ],
+    "Shiny Silcoon": [
+      "big bug gosme",
+      "yellowish cocoon thorn",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Beautifly": [
+      "big bug gosme",
+      "compressed straw",
+      "colored wings",
+      "bug essence",
+      "flying essence",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Beautifly": [
+      "big bug gosme",
+      "compressed straw",
+      "purple beautifly wings",
+      "cocoon stone",
+      "feather stone",
+      "celestial bug orb"
+    ],
+    "Cascoon": [
+      "big bug gosme",
+      "purple cocoon thorn",
+      "bug essence",
+      "cocoon stone"
+    ],
+    "Shiny Cascoon": [
+      "big bug gosme",
+      "greenish cocoon thorn",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Dustox": [
+      "big bug gosme",
+      "compressed straw",
+      "poison moth wings",
+      "bug essence",
+      "poison essence",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Shiny Dustox": [
+      "big bug gosme",
+      "compressed straw",
+      "yellowish poison moth wings",
+      "cocoon stone",
+      "venom stone",
+      "celestial bug orb"
+    ],
+    "Lotad": [
+      "solid water gem",
+      "pile of seeds",
+      "lotad beak",
+      "water essence",
+      "grass essence",
+      "water stone",
+      "leaf stone"
+    ],
+    "Shiny Lotad": [
+      "solid water gem",
+      "pile of seeds",
+      "cyan lotad beak",
+      "water stone",
+      "leaf stone",
+      "mythic water orb"
+    ],
+    "Lombre": [
+      "solid water gem",
+      "pile of seeds",
+      "circular leaf",
+      "water essence",
+      "grass essence",
+      "water stone",
+      "leaf stone"
+    ],
+    "Shiny Lombre": [
+      "solid water gem",
+      "pile of seeds",
+      "cyan circular leaf",
+      "water stone",
+      "leaf stone",
+      "mythic water orb"
+    ],
+    "Ludicolo": [
+      "solid water gem",
+      "pile of seeds",
+      "sombrero plant",
+      "water essence",
+      "grass essence",
+      "water stone",
+      "leaf stone"
+    ],
+    "Shiny Ludicolo": [
+      "solid water gem",
+      "pile of seeds",
+      "cyan sombrero plant",
+      "water stone",
+      "leaf stone",
+      "celestial water orb"
+    ],
+    "Seedot": [
+      "pile of seeds",
+      "nut shell",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Seedot": [
+      "pile of seeds",
+      "dark nut shell",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Nuzleaf": [
+      "pile of seeds",
+      "solid dark gem",
+      "big seed",
+      "dark essence",
+      "grass essence",
+      "leaf stone",
+      "darkness stone"
+    ],
+    "Shiny Nuzleaf": [
+      "pile of seeds",
+      "solid dark gem",
+      "dark big seed",
+      "leaf stone",
+      "darkness stone",
+      "mythic grass orb"
+    ],
+    "Shiftry": [
+      "pile of seeds",
+      "solid dark gem",
+      "sharp leaves",
+      "dark essence",
+      "grass essence",
+      "leaf stone",
+      "darkness stone"
+    ],
+    "Shiny Shiftry": [
+      "pile of seeds",
+      "solid dark gem",
+      "dark sharp leaves",
+      "leaf stone",
+      "darkness stone",
+      "celestial grass orb"
+    ],
+    "Taillow": [
+      "solid rubber ball",
+      "compressed straw",
+      "feather tail",
+      "normal essence",
+      "flying essence",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Taillow": [
+      "solid rubber ball",
+      "compressed straw",
+      "greenish feather tail",
+      "heart stone",
+      "feather stone",
+      "mythic flying orb"
+    ],
+    "Swellow": [
+      "solid rubber ball",
+      "compressed straw",
+      "crimson feather",
+      "normal essence",
+      "flying essence",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Swellow": [
+      "solid rubber ball",
+      "compressed straw",
+      "greenish crimson tail",
+      "heart stone",
+      "feather stone",
+      "celestial flying orb"
+    ],
+    "Wingull": [
+      "solid water gem",
+      "compressed straw",
+      "bicollor beak",
+      "water essence",
+      "flying essence",
+      "water stone",
+      "feather stone"
+    ],
+    "Shiny Wingull": [
+      "solid water gem",
+      "compressed straw",
+      "greenish wingull tail",
+      "water stone",
+      "feather stone",
+      "mythic water orb"
+    ],
+    "Pelipper": [
+      "solid water gem",
+      "compressed straw",
+      "pelican wing",
+      "water essence",
+      "flying essence",
+      "water stone",
+      "feather stone"
+    ],
+    "Shiny Pelipper": [
+      "solid water gem",
+      "compressed straw",
+      "greenish pelican wing",
+      "water stone",
+      "feather stone",
+      "celestial water orb"
+    ],
+    "Ralts": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "bowl hair",
+      "fairy essence",
+      "psychic essence",
+      "enigma stone",
+      "fairy stone"
+    ],
+    "Shiny Ralts": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "blue bowl hair",
+      "enigma stone",
+      "fairy stone",
+      "mythic psychic orb"
+    ],
+    "Kirlia": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "tutu",
+      "fairy essence",
+      "psychic essence",
+      "enigma stone",
+      "fairy stone"
+    ],
+    "Shiny Kirlia": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "blue tutu",
+      "enigma stone",
+      "fairy stone",
+      "mythic psychic orb"
+    ],
+    "Gardevoir": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "cure flower",
+      "fairy essence",
+      "psychic essence",
+      "enigma stone",
+      "fairy stone"
+    ],
+    "Shiny Gardevoir": [
+      "big enchanted gem",
+      "channeled fairy essence",
+      "fairy flower",
+      "enigma stone",
+      "fairy stone",
+      "celestial psychic orb"
+    ],
+    "Surskit": [
+      "big bug gosme",
+      "solid water gem",
+      "pond skater legs",
+      "bug essence",
+      "water essence",
+      "cocoon stone",
+      "water stone"
+    ],
+    "Shiny Surskit": [
+      "big bug gosme",
+      "solid water gem",
+      "purple pond skater legs",
+      "cocoon stone",
+      "water stone",
+      "mythic bug orb"
+    ],
+    "Masquerain": [
+      "big bug gosme",
+      "compressed straw",
+      "eyeball wings",
+      "bug essence",
+      "flying essence",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Masquerain": [
+      "big bug gosme",
+      "compressed straw",
+      "green eyeball wings",
+      "cocoon stone",
+      "feather stone",
+      "celestial bug orb"
+    ],
+    "Shroomish": [
+      "pile of seeds",
+      "green spore",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Shroomish": [
+      "pile of seeds",
+      "reddish spore",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Breloom": [
+      "pile of seeds",
+      "injection",
+      "breloom tail",
+      "grass essence",
+      "fighter essence",
+      "leaf stone",
+      "punch stone"
+    ],
+    "Shiny Breloom": [
+      "pile of seeds",
+      "injection",
+      "reddish breloom tail",
+      "leaf stone",
+      "punch stone",
+      "celestial fighting orb"
+    ],
+    "Slakoth": [
+      "solid rubber ball",
+      "sloth claw",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Slakoth": [
+      "solid rubber ball",
+      "rosy sloth claw",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Vigoroth": [
+      "solid rubber ball",
+      "teardrop fur",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Vigoroth": [
+      "solid rubber ball",
+      "purple teardrop fur",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Slaking": [
+      "solid rubber ball",
+      "fur ball",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Slaking": [
+      "solid rubber ball",
+      "reddish fur ball",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Nincada": [
+      "big bug gosme",
+      "solid earth piece",
+      "bug legs",
+      "bug essence",
+      "ground essence",
+      "cocoon stone",
+      "earth stone"
+    ],
+    "Shiny Nincada": [
+      "big bug gosme",
+      "solid earth piece",
+      "yellowish bug legs",
+      "cocoon stone",
+      "earth stone",
+      "mythic bug orb"
+    ],
+    "Ninjask": [
+      "big bug gosme",
+      "compressed straw",
+      "cicada wings",
+      "bug essence",
+      "flying essence",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Ninjask": [
+      "big bug gosme",
+      "compressed straw",
+      "cicada head",
+      "cocoon stone",
+      "feather stone",
+      "celestial bug orb"
+    ],
+    "Shedinja": [
+      "big bug gosme",
+      "compressed ghost essence",
+      "white halo",
+      "bug essence",
+      "ghost essence",
+      "cocoon stone",
+      "ghost essence"
+    ],
+    "Shiny Shedinja": [
+      "big bug gosme",
+      "compressed ghost essence",
+      "reddish halo wings",
+      "cocoon stone",
+      "ghost stone",
+      "celestial bug orb"
+    ],
+    "Whismur": [
+      "solid rubber ball",
+      "cute ball",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Whismur": [
+      "solid rubber ball",
+      "greenish cute ball",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Loudred": [
+      "solid rubber ball",
+      "sound ear",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Loudred": [
+      "solid rubber ball",
+      "bluish sound ear",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Exploud": [
+      "solid rubber ball",
+      "eruption ears",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Exploud": [
+      "solid rubber ball",
+      "bluish eruption ears",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Makuhita": [
+      "injection",
+      "boxing gloves",
+      "fighter essence",
+      "punch stone"
+    ],
+    "Shiny Makuhita": [
+      "injection",
+      "reddish boxing gloves",
+      "punch stone",
+      "mythic fighting orb"
+    ],
+    "Hariyama": [
+      "injection",
+      "big hands",
+      "fighter essence",
+      "punch stone"
+    ],
+    "Shiny Hariyama": [
+      "injection",
+      "red big hands",
+      "punch stone",
+      "celestial fighting orb"
+    ],
+    "Azurill": [
+      "solid rubber ball",
+      "channeled fairy essence",
+      "baby blue tail",
+      "fairy essence",
+      "normal essence",
+      "heart stone",
+      "fairy stone"
+    ],
+    "Shiny Azurill": [
+      "solid rubber ball",
+      "channeled fairy essence",
+      "baby green tail",
+      "heart stone",
+      "fairy stone",
+      "mythic normal orb"
+    ],
+    "Nosepass": [
+      "big stone",
+      "rock nose",
+      "rock essence",
+      "rock stone"
+    ],
+    "Shiny Nosepass": [
+      "big stone",
+      "yellow shining point",
+      "rock stone",
+      "mythic rock orb"
+    ],
+    "Skitty": [
+      "solid rubber ball",
+      "skitty tail",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Skitty": [
+      "solid rubber ball",
+      "whitish skitty tail",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Delcatty": [
+      "solid rubber ball",
+      "pin-like collar",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Delcatty": [
+      "solid rubber ball",
+      "whitish pin-like collar",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Sableye": [
+      "solid dark gem",
+      "compressed ghost essence",
+      "big crystal",
+      "dark essence",
+      "ghost essence",
+      "ghost stone",
+      "darkness stone"
+    ],
+    "Shiny Sableye": [
+      "solid dark gem",
+      "compressed ghost essence",
+      "yellowish big crystal",
+      "ghost stone",
+      "darkness stone",
+      "celestial dark orb"
+    ],
+    "Mawile": [
+      "compressed steel",
+      "channeled fairy essence",
+      "metal jaw",
+      "fairy essence",
+      "steel essence",
+      "metal stone",
+      "fairy stone"
+    ],
+    "Shiny Mawile": [
+      "compressed steel",
+      "channeled fairy essence",
+      "purple metal j aw",
+      "metal stone",
+      "fairy stone",
+      "celestial metal orb"
+    ],
+    "Aron": [
+      "compressed steel",
+      "big stone",
+      "aron helmet",
+      "steel essence",
+      "rock essence",
+      "metal stone",
+      "rock stone"
+    ],
+    "Shiny Aron": [
+      "compressed steel",
+      "big stone",
+      "bluish aron helmet",
+      "metal stone",
+      "rock stone",
+      "mythic metal orb"
+    ],
+    "Lairon": [
+      "compressed steel",
+      "big stone",
+      "iron armor",
+      "steel essence",
+      "rock essence",
+      "metal stone",
+      "rock stone"
+    ],
+    "Shiny Lairon": [
+      "compressed steel",
+      "big stone",
+      "bluish iron armor",
+      "metal stone",
+      "rock stone",
+      "mythic metal orb"
+    ],
+    "Aggron": [
+      "compressed steel",
+      "big stone",
+      "metal hull",
+      "steel essence",
+      "rock essence",
+      "metal stone",
+      "rock stone"
+    ],
+    "Shiny Aggron": [
+      "compressed steel",
+      "big stone",
+      "bluish iron tail",
+      "metal stone",
+      "rock stone",
+      "celestial metal orb"
+    ],
+    "Meditite": [
+      "injection",
+      "big enchanted gem",
+      "white short",
+      "fighter essence",
+      "psychic essence",
+      "punch stone",
+      "enigma stone"
+    ],
+    "Shiny Meditite": [
+      "injection",
+      "big enchanted gem",
+      "reddish white short",
+      "punch stone",
+      "enigma stone",
+      "mythic fighting orb"
+    ],
+    "Medicham": [
+      "injection",
+      "big enchanted gem",
+      "mediling",
+      "fighter essence",
+      "psythic essence",
+      "punch stone",
+      "enigma stone"
+    ],
+    "Shiny Medicham": [
+      "injection",
+      "big enchanted gem",
+      "blue mediling",
+      "punch stone",
+      "enigma stone",
+      "celestial fighting orb",
+      "celestial psychic orb"
+    ],
+    "Electrike": [
+      "electric sphere",
+      "green crest",
+      "electric essence",
+      "thunder stone"
+    ],
+    "Shiny Electrike": [
+      "electric sphere",
+      "blue crest",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Manectric": [
+      "electric sphere",
+      "shock topknot",
+      "electric essence",
+      "thunder stone"
+    ],
+    "Shiny Manectric": [
+      "electric sphere",
+      "electric black box",
+      "thunder stone",
+      "celestial electric orb"
+    ],
+    "Plusle": [
+      "electric sphere",
+      "positive tail",
+      "electric essence",
+      "thunder stone"
+    ],
+    "Shiny Plusle": [
+      "electric sphere",
+      "whitish positive tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Minun": [
+      "electric sphere",
+      "negative tail",
+      "electric essence",
+      "thunder stone"
+    ],
+    "Shiny Minun": [
+      "electric sphere",
+      "green negative tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Volbeat": [
+      "big bug gosme",
+      "firefly wings",
+      "bug essence",
+      "cocoon stone"
+    ],
+    "Shiny Volbeat": [
+      "big bug gosme",
+      "blue firefly wings",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Illumise": [
+      "big bug gosme",
+      "firefly wig",
+      "bug essence",
+      "cocoon stone"
+    ],
+    "Shiny Illumise": [
+      "big bug gosme",
+      "yellowish firefly wig",
+      "cocoon stone",
+      "mythic bug orb"
+    ],
+    "Roselia": [
+      "pile of seeds",
+      "big poison bottle",
+      "rose leaf",
+      "poison essence",
+      "grass essence",
+      "leaf stone",
+      "venom stone"
+    ],
+    "Shiny Roselia": [
+      "pile of seeds",
+      "big poison bottle",
+      "black leaf",
+      "leaf stone",
+      "venom stone",
+      "celestial grass orb"
+    ],
+    "Gulpin": [
+      "big poison bottle",
+      "toxic thing",
+      "poison essence",
+      "venom stone"
+    ],
+    "Shiny Gulpin": [
+      "big poison bottle",
+      "toxic green thing",
+      "venom stone",
+      "mythic poison orb"
+    ],
+    "Swalot": [
+      "big poison bottle",
+      "toxic mustache",
+      "poison esence",
+      "venom stone"
+    ],
+    "Shiny Swalot": [
+      "big poison bottle",
+      "toxic mouth",
+      "venom stone",
+      "celestial poison orb"
+    ],
+    "Carvanha": [
+      "solid water gem",
+      "solid dark gem",
+      "savage fin",
+      "dark essence",
+      "water essence",
+      "water stone",
+      "darkness stone"
+    ],
+    "Shiny Carvanha": [
+      "solid water gem",
+      "solid dark gem",
+      "purple savage fin",
+      "water stone",
+      "darkness stone",
+      "mythic water orb"
+    ],
+    "Sharpedo": [
+      "solid water gem",
+      "solid dark gem",
+      "brutal fin",
+      "dark essence",
+      "water essence",
+      "water stone",
+      "darkness stone"
+    ],
+    "Shiny Sharpedo": [
+      "solid water gem",
+      "solid dark gem",
+      "purple brutal fin",
+      "water stone",
+      "darkness stone",
+      "celestial water orb"
+    ],
+    "Wailmer": [
+      "solid water gem",
+      "whale fin",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Wailmer": [
+      "solid water gem",
+      "purple whale fin",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Wailord": [
+      "solid water gem",
+      "big whale fin",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Wailord": [
+      "solid water gem",
+      "purple big whale fin",
+      "water stone",
+      "celestial water orb"
+    ],
+    "Numel": [
+      "compressed fire",
+      "solid earth piece",
+      "nu ball",
+      "ground essence",
+      "fire essence",
+      "fire stone",
+      "earth stone"
+    ],
+    "Shiny Numel": [
+      "compressed fire",
+      "solid earth piece",
+      "black nu ball",
+      "fire stone",
+      "earth stone",
+      "mythic fire orb"
+    ],
+    "Camerupt": [
+      "compressed fire",
+      "solid earth piece",
+      "mini volcano",
+      "ground essence",
+      "fire essence",
+      "fire stone",
+      "earth stone"
+    ],
+    "Shiny Camerupt": [
+      "compressed fire",
+      "solid earth piece",
+      "bluish mini volcano",
+      "fire stone",
+      "earth stone",
+      "celestial fire orb"
+    ],
+    "Torkoal": [
+      "compressed fire",
+      "black hull",
+      "fire essence",
+      "fire stone"
+    ],
+    "Shiny Torkoal": [
+      "compressed fire",
+      "yellow hull",
+      "fire stone",
+      "celestial fire orb"
+    ],
+    "Spoink": [
+      "big enchanted gem",
+      "spring tail",
+      "psychic essence",
+      "enigma stone"
+    ],
+    "Shiny Spoink": [
+      "big enchanted gem",
+      "yellowish spring tail",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Grumpig": [
+      "big enchanted gem",
+      "springs",
+      "psychic essence",
+      "enigma stone"
+    ],
+    "Shiny Grumpig": [
+      "big enchanted gem",
+      "yellowish springs",
+      "enigma stone",
+      "celestial psychic orb"
+    ],
+    "Spinda": [
+      "solid rubber ball",
+      "spinda ear",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Spinda": [
+      "solid rubber ball",
+      "greenish spinda ear",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Trapinch": [
+      "solid earth piece",
+      "strange ball",
+      "ground essence",
+      "earth stone"
+    ],
+    "Shiny Trapinch": [
+      "solid earth piece",
+      "greenish strange ball",
+      "earth stone",
+      "mythic ground orb"
+    ],
+    "Vibrava": [
+      "solid earth piece",
+      "giant dragon scale",
+      "dragonfly wings",
+      "dragon essence",
+      "ground essence",
+      "earth stone",
+      "crystal stone"
+    ],
+    "Shiny Vibrava": [
+      "solid earth piece",
+      "giant dragon scale",
+      "orange dragonfly wings",
+      "earth stone",
+      "crystal stone",
+      "mythic ground orb"
+    ],
+    "Flygon": [
+      "solid earth piece",
+      "giant dragon scale",
+      "sand tail",
+      "dragon essence",
+      "ground essence",
+      "earth stone",
+      "crystal stone"
+    ],
+    "Shiny Flygon": [
+      "solid earth piece",
+      "giant dragon scale",
+      "yellowish sand tail",
+      "earth stone",
+      "crystal stone",
+      "celestial ground orb",
+      "celestial dragon orb"
+    ],
+    "Cacnea": [
+      "pile of seeds",
+      "small crown",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Cacnea": [
+      "pile of seeds",
+      "red crown",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Cacturne": [
+      "pile of seeds",
+      "solid dark gem",
+      "cactus head",
+      "dark essence",
+      "grass essence",
+      "leaf stone",
+      "darkness stone"
+    ],
+    "Shiny Cacturne": [
+      "pile of seeds",
+      "solid dark gem",
+      "orange cactus head",
+      "leaf stone",
+      "darkness stone",
+      "celestial grass orb"
+    ],
+    "Swablu": [
+      "solid rubber ball",
+      "compressed straw",
+      "little cloud wings",
+      "normal essence",
+      "flying essence",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Swablu": [
+      "solid rubber ball",
+      "compressed straw",
+      "yellow little cloud wings",
+      "heart stone",
+      "feather stone",
+      "arcane flying orb"
+    ],
+    "Altaria": [
+      "giant dragon scale",
+      "solid earth piece",
+      "cloud",
+      "dragon essence",
+      "flying essence",
+      "crystal stone",
+      "earth stone"
+    ],
+    "Shiny Altaria": [
+      "giant dragon scale",
+      "solid earth piece",
+      "yellow cloud",
+      "crystal stone",
+      "earth stone",
+      "celestial dragon orb"
+    ],
+    "Zangoose": [
+      "solid rubber ball",
+      "tribe mask",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Zangoose": [
+      "solid rubber ball",
+      "blue tribe mask",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Seviper": [
+      "big poison bottle",
+      "poisonous tail",
+      "poison essence",
+      "venom stone"
+    ],
+    "Shiny Seviper": [
+      "big poison bottle",
+      "greenish poisonous tail",
+      "venom stone",
+      "celestial poison orb"
+    ],
+    "Lunatone": [
+      "big stone",
+      "big enchanted gem",
+      "moon piece",
+      "psychic essence",
+      "rock essence",
+      "rock stone",
+      "enigma stone"
+    ],
+    "Shiny Lunatone": [
+      "big stone",
+      "big enchanted gem",
+      "blue moon piece",
+      "rock stone",
+      "enigma stone",
+      "celestial rock orb"
+    ],
+    "Solrock": [
+      "big stone",
+      "big enchanted gem",
+      "sun piece",
+      "psychic essence",
+      "rock essence",
+      "rock stone",
+      "enigma stone"
+    ],
+    "Shiny Solrock": [
+      "big stone",
+      "big enchanted gem",
+      "red run piece",
+      "rock stone",
+      "enigma stone",
+      "celestial rock orb"
+    ],
+    "Barboach": [
+      "solid water gem",
+      "solid earth piece",
+      "whiskers fin",
+      "ground essence",
+      "water essence",
+      "water stone",
+      "earth stone"
+    ],
+    "Shiny Barboach": [
+      "solid water gem",
+      "solid earth piece",
+      "yellow whiskers fin",
+      "water stone",
+      "earth stone",
+      "mythic water orb"
+    ],
+    "Whiscash": [
+      "solid water gem",
+      "solid earth piece",
+      "catfish whiskers",
+      "ground essence",
+      "water essence",
+      "water stone",
+      "earth stone"
+    ],
+    "Shiny Whiscash": [
+      "solid water gem",
+      "solid earth piece",
+      "reddish catfish whiskers",
+      "water stone",
+      "earth stone",
+      "celestial water orb"
+    ],
+    "Corphish": [
+      "solid water gem",
+      "corphish claw",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Corphish": [
+      "solid water gem",
+      "purple corphish claw",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Crawdaunt": [
+      "solid water gem",
+      "solid dark gem",
+      "lobster claw",
+      "dark essence",
+      "water essence",
+      "water stone",
+      "darkness stone"
+    ],
+    "Shiny Crawdaunt": [
+      "solid water gem",
+      "solid dark gem",
+      "purple lobster claw",
+      "water stone",
+      "darkness stone",
+      "celestial water orb"
+    ],
+    "Baltoy": [
+      "solid earth piece",
+      "big enchanted gem",
+      "spike mud",
+      "ground essence",
+      "psychic essence",
+      "earth stone",
+      "enigma stone"
+    ],
+    "Shiny Baltoy": [
+      "solid earth piece",
+      "big enchanted gem",
+      "green spike mud",
+      "earth stone",
+      "enigma stone",
+      "mythic ground orb"
+    ],
+    "Claydol": [
+      "solid earth piece",
+      "big enchanted gem",
+      "pawn",
+      "ground essence",
+      "psychic essence",
+      "earth stone",
+      "enigma stone"
+    ],
+    "Shiny Claydol": [
+      "solid earth piece",
+      "big enchanted gem",
+      "yellow pawn",
+      "earth stone",
+      "enigma stone",
+      "celestial ground orb"
+    ],
+    "Lileep": [],
+    "Shiny Lileep": [],
+    "Cradily": [
+      "big stone",
+      "pile of seeds",
+      "cradily feet",
+      "grass essence",
+      "rock essence",
+      "rock stone",
+      "leaf stone"
+    ],
+    "Shiny Cradily": [
+      "big stone",
+      "pile of seeds",
+      "pink cradily body",
+      "rock stone",
+      "leaf stone",
+      "celestial rock orb"
+    ],
+    "Anorith": [
+      "big stone",
+      "big bug gosme",
+      "little claw",
+      "bug essence",
+      "rock essence",
+      "rock stone",
+      "cocoon stone"
+    ],
+    "Shiny Anorith": [
+      "big stone",
+      "big bug gosme",
+      "red claw body",
+      "rock stone",
+      "cocoon stone",
+      "mythic rock orb",
+      "mythic bug orb"
+    ],
+    "Armaldo": [
+      "big stone",
+      "big bug gosme",
+      "claw fossil",
+      "bug essence",
+      "rock essence",
+      "rock stone",
+      "cocoon stone"
+    ],
+    "Shiny Armaldo": [
+      "big stone",
+      "big bug gosme",
+      "pink claw fossil",
+      "rock stone",
+      "cocoon stone",
+      "celestial rock orb",
+      "celestial bug orb"
+    ],
+    "Feebas": [
+      "solid water gem",
+      "pink lips",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Feebas": [
+      "solid water gem",
+      "gray fin",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Milotic": [
+      "solid water gem",
+      "prism scale",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Milotic": [
+      "solid water gem",
+      "shining prism scale",
+      "water stone",
+      "celestial water orb"
+    ],
+    "Castform": [
+      "solid rubber ball",
+      "molecules",
+      "normal essence",
+      "heart stone"
+    ],
+    "Castform Fire": [
+      "compressed fire",
+      "molecules",
+      "fire essence",
+      "fire stone",
+      "castform fire stone"
+    ],
+    "Castform Electric": [
+      "electric sphere",
+      "molecules",
+      "electric essence",
+      "thunder stone",
+      "castform thunder stone"
+    ],
+    "Castform Ice": [
+      "solid ice cube",
+      "molecules",
+      "ice essence",
+      "ice stone",
+      "castform ice stone"
+    ],
+    "Shiny Castform": [
+      "solid rubber ball",
+      "rosy molecules",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Shiny Castform Fire": [
+      "compressed fire",
+      "rosy molecules",
+      "fire stone",
+      "celestial fire orb",
+      "castform fire stone"
+    ],
+    "Shiny Castform Electric": [
+      "electric sphere",
+      "rosy molecules",
+      "thunder stone",
+      "celestial electric orb",
+      "castform thunder stone"
+    ],
+    "Shiny Castform Ice": [
+      "solid ice cube",
+      "rosy molecules",
+      "ice stone",
+      "celestial ice orb",
+      "castform ice stone"
+    ],
+    "Kecleon": [
+      "solid rubber ball",
+      "chameleon tail",
+      "normal essence",
+      "heart stone"
+    ],
+    "Shiny Kecleon": [
+      "solid rubber ball",
+      "rosy chameleon tail",
+      "heart stone",
+      "celestial normal orb"
+    ],
+    "Shuppet": [
+      "compressed ghost essence",
+      "gray cloth",
+      "ghost essence",
+      "ghost stone"
+    ],
+    "Shiny Shuppet": [
+      "compressed ghost essence",
+      "cyan clothe",
+      "ghost stone",
+      "mythic ghost orb"
+    ],
+    "Banette": [
+      "compressed ghost essence",
+      "doll star",
+      "ghost essence",
+      "ghost stone"
+    ],
+    "Shiny Banette": [
+      "compressed ghost essence",
+      "blue doll star",
+      "ghost stone",
+      "celestial ghost orb"
+    ],
+    "Duskull": [
+      "compressed ghost essence",
+      "ghost skull",
+      "ghost essence",
+      "ghost stone"
+    ],
+    "Shiny Duskull": [
+      "compressed ghost essence",
+      "ghost bones",
+      "ghost stone",
+      "mythic ghost orb"
+    ],
+    "Dusclops": [
+      "compressed ghost essence",
+      "creepy eye",
+      "ghost essence",
+      "ghost stone"
+    ],
+    "Shiny Dusclops": [
+      "compressed ghost essence",
+      "ghost reddish hands",
+      "ghost stone",
+      "celestial ghost orb"
+    ],
+    "Tropius": [
+      "pile of seeds",
+      "compressed straw",
+      "palm leaves",
+      "grass essence",
+      "flying essence",
+      "leaf stone",
+      "feather stone"
+    ],
+    "Shiny Tropius": [
+      "pile of seeds",
+      "compressed straw",
+      "yellowish palm leaves",
+      "leaf stone",
+      "feather stone",
+      "celestial grass orb"
+    ],
+    "Chimecho": [
+      "big enchanted gem",
+      "red skirt",
+      "psychic essence",
+      "enigma stone"
+    ],
+    "Shiny Chimecho": [
+      "big enchanted gem",
+      "green skirt",
+      "enigma stone",
+      "celestial psychic orb"
+    ],
+    "Absol": [
+      "solid dark gem",
+      "dark moon",
+      "dark essence",
+      "darkness stone"
+    ],
+    "Shiny Absol": [
+      "solid dark gem",
+      "red dark moon",
+      "darkness stone",
+      "celestial dark orb"
+    ],
+    "Wynaut": [
+      "big enchanted gem",
+      "long ear",
+      "psychic essence",
+      "enigma stone"
+    ],
+    "Shiny Wynaut": [
+      "big enchanted gem",
+      "yellow long ear",
+      "enigma stone",
+      "mythic psychic orb"
+    ],
+    "Snorunt": [
+      "solid ice cube",
+      "yellow cloak",
+      "ice essence",
+      "ice stone"
+    ],
+    "Shiny Snorunt": [
+      "solid ice cube",
+      "blue cloak",
+      "ice stone",
+      "mythic ice orb"
+    ],
+    "Glalie": [
+      "solid ice cube",
+      "ice blocks",
+      "ice essence",
+      "ice stone"
+    ],
+    "Shiny Glalie": [
+      "solid ice cube",
+      "solid blocks",
+      "ice stone",
+      "celestial ice orb"
+    ],
+    "Spheal": [
+      "solid ice cube",
+      "solid water gem",
+      "short tail",
+      "ice essence",
+      "water essence",
+      "ice stone",
+      "water stone"
+    ],
+    "Shiny Spheal": [
+      "solid ice cube",
+      "solid water gem",
+      "pink short tail",
+      "ice stone",
+      "water stone",
+      "mythic ice orb"
+    ],
+    "Sealeo": [
+      "solid ice cube",
+      "solid water gem",
+      "seal moustache",
+      "ice essence",
+      "water essence",
+      "ice stone",
+      "water stone"
+    ],
+    "Shiny Sealeo": [
+      "solid ice cube",
+      "solid water gem",
+      "pink seal tail",
+      "ice stone",
+      "water stone",
+      "mythic ice orb"
+    ],
+    "Walrein": [
+      "solid ice cube",
+      "solid water gem",
+      "seal mustache",
+      "ice essence",
+      "water essence",
+      "ice stone",
+      "water stone"
+    ],
+    "Shiny Walrein": [
+      "solid ice cube",
+      "solid water gem",
+      "rosy seal mustache",
+      "ice stone",
+      "water stone",
+      "celestial ice orb"
+    ],
+    "Clamperl": [
+      "solid water gem",
+      "blue pearl",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Clamperl": [
+      "solid water gem",
+      "purple shell",
+      "water stone",
+      "celestial water orb"
+    ],
+    "Huntail": [
+      "solid water gem",
+      "orange fins",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Huntail": [
+      "solid water gem",
+      "green abyssal tail",
+      "water stone",
+      "celestial water orb"
+    ],
+    "Gorebyss": [
+      "solid water gem",
+      "gorebyss tail",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Gorebyss": [
+      "solid water gem",
+      "yellowish gorebyss tail",
+      "water stone",
+      "celestial water orb"
+    ],
+    "Relicanth": [
+      "solid water gem",
+      "big stone",
+      "fossil fins",
+      "water essence",
+      "rock essence",
+      "water stone",
+      "rock stone"
+    ],
+    "Shiny Relicanth": [
+      "solid water gem",
+      "big stone",
+      "greenish fossil fins",
+      "water stone",
+      "rock stone",
+      "celestial water orb"
+    ],
+    "Luvdisc": [
+      "solid water gem",
+      "little heat",
+      "water essence",
+      "water stone"
+    ],
+    "Shiny Luvdisc": [
+      "solid water gem",
+      "yellow heart",
+      "water stone",
+      "mythic water orb"
+    ],
+    "Bagon": [
+      "giant dragon scale",
+      "dragon topknot",
+      "dragon essence",
+      "crystal stone"
+    ],
+    "Shiny Bagon": [
+      "giant dragon scale",
+      "greenish dragon topknot",
+      "crystal stone",
+      "mythic dragon orb"
+    ],
+    "Shelgon": [
+      "giant dragon scale",
+      "draco shell",
+      "dragon essence",
+      "crystal stone"
+    ],
+    "Shiny Shelgon": [
+      "giant dragon scale",
+      "greenish draco shell",
+      "crystal stone",
+      "mythic dragon orb"
+    ],
+    "Salamence": [
+      "giant dragon scale",
+      "compressed straw",
+      "bloody wings",
+      "dragon essence",
+      "flying essence",
+      "crystal stone",
+      "feather stone"
+    ],
+    "Shiny Salamence": [
+      "giant dragon scale",
+      "compressed straw",
+      "green bloody wings",
+      "crystal stone",
+      "feather stone",
+      "celestial dragon orb"
+    ],
+    "Beldum": [
+      "compressed steel",
+      "big enchanted gem",
+      "metal arm",
+      "psychic essence",
+      "steel essence",
+      "metal stone",
+      "enigma stone"
+    ],
+    "Shiny Beldum": [
+      "compressed steel",
+      "big enchanted gem",
+      "white metal arm",
+      "metal stone",
+      "enigma stone",
+      "mythic metal orb"
+    ],
+    "Metang": [
+      "compressed steel",
+      "big enchanted gem",
+      "tech ball",
+      "psychic essence",
+      "steel essence",
+      "metal stone",
+      "enigma stone"
+    ],
+    "Shiny Metang": [
+      "compressed steel",
+      "big enchanted gem",
+      "white tech ball",
+      "metal stone",
+      "enigma stone",
+      "celestial metal orb"
+    ],
+    "Metagross": [
+      "compressed steel",
+      "big enchanted gem",
+      "metal coat",
+      "psychic essence",
+      "steel essence",
+      "metal stone",
+      "enigma stone"
+    ],
+    "Shiny Metagross": [
+      "compressed steel",
+      "enchanted gem",
+      "white metal coat",
+      "metal stone",
+      "enigma stone",
+      "celestial metal orb"
+    ],
+    "Regirock": [],
+    "Shiny Regirock": [],
+    "Regice": [],
+    "Shiny Regice": [],
+    "Registeel": [],
+    "Shiny Registeel": [],
+    "Latios": [],
+    "Shiny Latios": [],
+    "Latias": [],
+    "Shiny Latias": [],
+    "Kyogre": [],
+    "Shiny Kyogre": [],
+    "Groudon": [],
+    "Shiny Groudon": [],
+    "Rayquaza": [],
+    "Shiny Rayquaza": [],
+    "Jirachi": [],
+    "Shiny Jirachi": [],
+    "Deoxys": [],
+    "Shiny Deoxys": [],
+    "Turtwig": [
+      "seed",
+      "sproutop",
+      "leaf stone"
+    ],
+    "Shiny Turtwig": [
+      "seed",
+      "reddish sproutop",
+      "leaf stone",
+      "arcane grass orb"
+    ],
+    "Grotle": [
+      "seed",
+      "shellgrove",
+      "leaf stone"
+    ],
+    "Shiny Grotle": [
+      "seed",
+      "reddish shellgrove",
+      "leaf stone",
+      "arcane grass orb",
+      "mythic grass orb"
+    ],
+    "Torterra": [
+      "earth ball",
+      "small stone",
+      "piece of rock",
+      "continent thorn",
+      "leaf stone",
+      "earth stone"
+    ],
+    "Shiny Torterra": [
+      "seed",
+      "earth ball",
+      "reddish continent thorn",
+      "earth stone",
+      "leaf stone",
+      "mythic ground orb"
+    ],
+    "Chimchar": [
+      "essence of fire",
+      "chimchar topknot",
+      "fire stone"
+    ],
+    "Shiny Chimchar": [
+      "essence of fire",
+      "reddish chimchar topknot",
+      "fire stone",
+      "arcane fire orb"
+    ],
+    "Monferno": [
+      "band aid",
+      "essence of fire",
+      "monferno topknot",
+      "fire stone",
+      "punch stone"
+    ],
+    "Shiny Monferno": [
+      "band aid",
+      "essence of fire",
+      "reddish monferno topknot",
+      "fire stone",
+      "punch stone",
+      "arcane fire orb"
+    ],
+    "Infarnape": [
+      "band aid",
+      "essence of fire",
+      "infernape topknot",
+      "flame tail",
+      "fire stone"
+    ],
+    "Shiny Infarnape": [
+      "band aid",
+      "essence of fire",
+      "reddish infernape topknot",
+      "fire stone",
+      "punch stone",
+      "mythic fire orb"
+    ],
+    "Starly": [
+      "rubber ball",
+      "straw",
+      "starly feather",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Starly": [
+      "rubber ball",
+      "straw",
+      "amber starly feather",
+      "heart stone",
+      "feather stone",
+      "arcane normal orb"
+    ],
+    "Staravia": [
+      "rubber ball",
+      "straw",
+      "staravia wing",
+      "heart stone",
+      "feather stone"
+    ],
+    "Shiny Staravia": [
+      "rubber ball",
+      "straw",
+      "amber staravia wing",
+      "heart stone",
+      "feather stone",
+      "arcane normal orb"
+    ],
+    "Staraptor": [
+      "rubber ball",
+      "straw",
+      "staraptor talon",
+      "heart stone",
+      "feather stone",
+      "staraptor crest"
+    ],
+    "Shiny Staraptor": [
+      "rubber ball",
+      "straw",
+      "heart stone",
+      "feather stone",
+      "mythic normal orb",
+      "amber staraptor crest"
+    ],
+    "Shinx": [
+      "screw",
+      "shinx fur",
+      "thunder stone"
+    ],
+    "Shiny Shinx": [
+      "screw",
+      "cyan shinx fur",
+      "thunder stone",
+      "arcane electric orb"
+    ],
+    "Luxio": [
+      "screw",
+      "electric sphere",
+      "thunder stone"
+    ],
+    "Shiny Luxio": [
+      "screw",
+      "reddish electric sphere",
+      "thunder stone",
+      "arcane electric orb",
+      "mythic electric orb"
+    ],
+    "Luxray": [
+      "screw",
+      "luxray ear",
+      "gleam tail",
+      "thunder stone"
+    ],
+    "Shiny Luxray": [
+      "screw",
+      "shiny gleam tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Cranidos": [
+      "big stone",
+      "small solid head",
+      "rock essence",
+      "rock stone"
+    ],
+    "Shiny Cranidos": [
+      "big stone",
+      "small reddish solid head",
+      "rock stone",
+      "mythic rock orb"
+    ],
+    "Rampardos": [
+      "big stone",
+      "rampardos skull",
+      "solid head",
+      "rock essence",
+      "rock stone"
+    ],
+    "Shiny Rampardos": [
+      "big stone",
+      "reddish rampardos skull",
+      "rock stone",
+      "celestial rock orb"
+    ],
+    "Shieldon": [
+      "small stone",
+      "piece of steel",
+      "shieldon plate",
+      "rock stone",
+      "metal stone"
+    ],
+    "Shiny Shieldon": [
+      "small stone",
+      "piece of steel",
+      "blue shieldon plate",
+      "rock stone",
+      "metal stone",
+      "arcane rock orb"
+    ],
+    "Bastiodon": [
+      "small stone",
+      "piece of steel",
+      "bone shield",
+      "rock stone",
+      "metal stone",
+      "bastiodon shard"
+    ],
+    "Shiny Bastiodon": [
+      "small stone",
+      "piece of steel",
+      "rock stone",
+      "metal stone",
+      "mythic rock orb",
+      "blue bastiodon shard"
+    ],
+    "Combee": [
+      "bug gosme",
+      "straw",
+      "golden honeycomb",
+      "cocoon stone",
+      "feather stone"
+    ],
+    "Shiny Combee": [
+      "bug gosme",
+      "straw",
+      "amber honeycomb",
+      "cocoon stone",
+      "feather stone",
+      "arcane bug orb"
+    ],
+    "Vespiquen": [
+      "bug gosme",
+      "straw",
+      "vespiquen wings",
+      "cocoon stone",
+      "feather stone",
+      "bucket of honey"
+    ],
+    "Shiny Vespiquen": [
+      "bug gosme",
+      "straw",
+      "crimson vespiquen wing",
+      "cocoon stone",
+      "feather stone",
+      "mythic bug orb"
+    ],
+    "Pachirisu": [
+      "screw",
+      "electric blue tail",
+      "thunder stone"
+    ],
+    "Shiny Pachirisu": [
+      "screw",
+      "electric pink tail",
+      "thunder stone",
+      "mythic electric orb"
+    ],
+    "Lopunny": [
+      "rubber ball",
+      "rabbit eyebrows",
+      "heart stone"
+    ],
+    "Shiny Lopunny": [
+      "rubber ball",
+      "pink bunny eyebrows",
+      "heart stone",
+      "mythic normal orb"
+    ],
+    "Mismagius": [
+      "ghost essence",
+      "miss traces",
+      "ghost stone",
+      "mismagius hat"
+    ],
+    "Shiny Mismagius": [
+      "ghost essence",
+      "ghost stone",
+      "mythic ghost orb",
+      "green mismagius hat"
+    ],
+    "Gible": [
+      "dragon scale",
+      "earth ball",
+      "gible fang",
+      "crystal stone",
+      "earth stone"
+    ],
+    "Shiny Gible": [
+      "dragon scale",
+      "earth ball",
+      "azure gible fang",
+      "crystal stone",
+      "earth stone",
+      "arcane dragon orb"
+    ],
+    "Gabite": [
+      "dragon scale",
+      "earth ball",
+      "gabite claw",
+      "crystal stone",
+      "earth stone"
+    ],
+    "Shiny Gabite": [
+      "dragon scale",
+      "earth ball",
+      "azure gabite claw",
+      "crystal stone",
+      "earth stone",
+      "arcane dragon orb"
+    ],
+    "Garchomp": [
+      "dragon scale",
+      "earth ball",
+      "garchomp tail",
+      "crystal stone",
+      "earth stone",
+      "garchomp fin"
+    ],
+    "Shiny Garchomp": [
+      "dragon scale",
+      "earth ball",
+      "crystal stone",
+      "earth stone",
+      "mythic dragon orb",
+      "azure garchomp fin"
+    ],
+    "Riolu": [
+      "band aid",
+      "small blue tail",
+      "punch stone"
+    ],
+    "Shiny Riolu": [
+      "band aid",
+      "small yellow tail",
+      "punch stone"
+    ],
+    "Lucario": [
+      "injection",
+      "compressed steel",
+      "lucario tail",
+      "fighter essence",
+      "steel essence",
+      "punch stone",
+      "metal stone"
+    ],
+    "Shiny Lucario": [
+      "injection",
+      "compressed steel",
+      "golden lucario tail",
+      "punch stone",
+      "metal stone",
+      "celestial fighting orb",
+      "celestial metal orb"
+    ],
+    "Skorupi": [],
+    "Shiny Skorupi": [],
+    "Drapion": [],
+    "Shiny Draopion": [],
+    "Croagunk": [],
+    "Shiny Croagunk": [],
+    "Toxicroak": [
+      "band aid",
+      "bottle of poison",
+      "poison bladder",
+      "punch stone",
+      "venom stone"
+    ],
+    "Shiny Toxicroak": [
+      "band aid",
+      "bottle of poison",
+      "pink poison bladder",
+      "punch stone",
+      "venom stone",
+      "mythic poison orb",
+      "earth stone"
+    ],
+    "Snover": [
+      "seed",
+      "snowball",
+      "snover leaf",
+      "leaf stone",
+      "ice stone"
+    ],
+    "Shiny Snover": [
+      "seed",
+      "snowball",
+      "frosted snover leaf",
+      "leaf stone",
+      "ice stone",
+      "arcane grass orb"
+    ],
+    "Abomasnow": [
+      "seed",
+      "snowball",
+      "abomasnow hands",
+      "leaf stone",
+      "ice stone",
+      "celestial rock orb"
+    ],
+    "Shiny Abomasnow": [
+      "seed",
+      "snowball",
+      "frosted abomasnow hands",
+      "leaf stone",
+      "ice stone",
+      "mythic grass orb"
+    ],
+    "Mega Abomasnow": [
+      "mega shard",
+      "seed",
+      "snowball",
+      "abomasnow hands",
+      "leaf stone",
+      "ice stone"
+    ],
+    "Rhyperior": [
+      "hardened horn",
+      "solid earth piece",
+      "big stone",
+      "solid rock paw",
+      "rock essence",
+      "rock stone",
+      "abomasite"
+    ],
+    "Shiny Rhyperior": [
+      "small stone",
+      "earth ball",
+      "yellow solid rock paw",
+      "rock stone",
+      "earth stone",
+      "mythic rock orb"
+    ],
+    "Tangrowth": [
+      "seed",
+      "gaia hands",
+      "gaia tentacles",
+      "leaf stone"
+    ],
+    "Shiny Tangrowth": [
+      "seed",
+      "greenish gaia tentacles",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Magmortar": [],
+    "Shiny Magmortar": [],
+    "Yanmega": [
+      "bug gosme",
+      "straw",
+      "red insectoid wing",
+      "cocoon stone",
+      "feather stone",
+      "yanmega wing"
+    ],
+    "Shiny Yanmega": [
+      "bug gosme",
+      "straw",
+      "cocoon stone",
+      "feather stone",
+      "mythic bug orb",
+      "violet wing"
+    ],
+    "Leafeon": [
+      "leaf tail",
+      "pile of seeds",
+      "grass essence",
+      "leaf stone"
+    ],
+    "Shiny Leafeon": [
+      "pile of seeds",
+      "solar leaf tial",
+      "leaf stone",
+      "celestial grass orb"
+    ],
+    "Glaceon": [
+      "solid ice cube",
+      "ice tail",
+      "ice essence",
+      "ice stone"
+    ],
+    "Shiny Glaceon": [
+      "solid ice cube",
+      "frozen ice ears",
+      "ice stone",
+      "celestial ice orb"
+    ],
+    "Gliscor": [
+      "earth ball",
+      "straw",
+      "gliscor claw",
+      "shadow gliscor wings",
+      "earth stone",
+      "feather stone"
+    ],
+    "Shiny Gliscor": [
+      "earth ball",
+      "straw",
+      "blue gliscor wings",
+      "earth stone",
+      "feather stone",
+      "mythic ground orb"
+    ],
+    "Gallade": [
+      "enchanted gem",
+      "band aid",
+      "blade horn",
+      "enigma stone",
+      "punch stone",
+      "gallade crest"
+    ],
+    "Shiny Gallade": [
+      "enchanted gem",
+      "band aid",
+      "gray blade horn",
+      "enigma stone",
+      "punch stone",
+      "mythic psychic orb"
+    ],
+    "Probopass": [
+      "small stone",
+      "piece of steel",
+      "rock stone",
+      "metal stone"
+    ],
+    "Shiny Probopass": [
+      "small stone",
+      "piece of steel",
+      "rock stone",
+      "metal stone",
+      "mythic rock orb"
+    ],
+    "Dusknoir": [
+      "ghost essence",
+      "ghost hands",
+      "reaper cloth",
+      "ghost stone"
+    ],
+    "Shiny Dusknoir": [
+      "ghost essence",
+      "blue ghost hands",
+      "ghost stone",
+      "mythic ghost orb"
+    ],
+    "Audino": [
+      "rubber ball",
+      "audino tail",
+      "heart stone"
+    ],
+    "Timburr": [
+      "band aid",
+      "timburr log",
+      "punch stone"
+    ],
+    "Shiny Simburr": [
+      "band aid",
+      "teal timburr log",
+      "punch stone",
+      "arcane fighting orb"
+    ],
+    "Gurdurr": [
+      "band aid",
+      "gurdurr beam",
+      "punch stone"
+    ],
+    "Shiny Gurdurr": [
+      "band aid",
+      "teal gurdurr beam",
+      "punch stone",
+      "arcane fighting orb"
+    ],
+    "Conkeldurr": [
+      "band aid",
+      "concrete pillar",
+      "punch stone",
+      "conkeldurr pillar"
+    ],
+    "Shiny Conkeldurr": [
+      "band aid",
+      "teal conkeldurr pillar",
+      "punch stone",
+      "mythic fighting orb"
+    ],
+    "Scolipede": [
+      "bug gosme",
+      "bottle of poison",
+      "scolipede tail",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Mega Scolipede": [
+      "mega shard",
+      "bug gosme",
+      "bottle of poison",
+      "scolipede tail",
+      "cocoon stone",
+      "venom stone"
+    ],
+    "Trubbish": [
+      "bottle of poison",
+      "trubbish ears"
+    ],
+    "Shiny Trubbish": [
+      "bottle of poison",
+      "trubbish blue ears",
+      "venom stone",
+      "arcane poison orb"
+    ],
+    "Garbodor": [
+      "big poison bottle",
+      "garbodor ears",
+      "poison piece",
+      "poison essence",
+      "venom stone"
+    ],
+    "Shiny Garbodor": [
+      "big poison bottle",
+      "purple poison piece",
+      "venom stone",
+      "celestial poison orb"
+    ],
+    "Druddigon": [
+      "dragon scale",
+      "crystal stone"
+    ],
+    "Shiny Druddigon": [
+      "dragon scale",
+      "crystal stone"
+    ],
+    "Deino": [
+      "dragon scale",
+      "strange solid piece"
+    ],
+    "Shiny Deino": [
+      "dragon scale",
+      "strange greenish piece",
+      "crystal stone",
+      "simple dark orb"
+    ],
+    "Zweilous": [
+      "dragon scale",
+      "tweezers"
+    ],
+    "Shiny Zweilous": [
+      "dragon scale",
+      "greenish tweezers",
+      "crystal stone",
+      "arcane dragon orb"
+    ],
+    "Hydreigon": [
+      "dragon scale",
+      "shadow tail",
+      "crystal stone",
+      "darkness stone"
+    ],
+    "Shiny Hydreigon": [
+      "dragon scale",
+      "phantom tail",
+      "crystal stone",
+      "mythic dark orb"
+    ],
+    "Flabébé": [
+      "fairy essence",
+      "yellow crown"
+    ],
+    "Shiny Flabébé": [
+      "fairy essence",
+      "blue crown",
+      "fairy stone",
+      "simple fairy orb"
+    ],
+    "Floette": [
+      "fairy essence",
+      "mystic flower",
+      "fairy stone"
+    ],
+    "Shiny Floette": [
+      "fairy essence",
+      "blue mystic flower",
+      "fairy stone",
+      "arcane fairy orb"
+    ],
+    "Florges": [
+      "fairy essence",
+      "mystic petal",
+      "fairy stone"
+    ],
+    "Shiny Florges": [
+      "fairy essence",
+      "purple mystic petal",
+      "fairy stone",
+      "mythic fairy orb"
+    ],
+    "Skiddo": [
+      "seed",
+      "small mane leaf",
+      "leaf stone"
+    ],
+    "Shiny Skiddo": [
+      "seed",
+      "leaf stone",
+      "small yellow mane leaf",
+      "arcane grass orb",
+      "mythic grass orb"
+    ],
+    "Gogoat": [
+      "seed",
+      "mane leaf",
+      "big mount horn",
+      "leaf stone"
+    ],
+    "Shiny Gogoat": [
+      "seed",
+      "yellow mane leaf",
+      "leaf stone",
+      "mythic grass orb"
+    ],
+    "Dragalge": [
+      "dragon scale",
+      "bottle of poison",
+      "dragalge hair",
+      "venom stone",
+      "crystal stone"
+    ],
+    "Mega Dragalge": [
+      "mega shard",
+      "dragon scale",
+      "bottle of poison",
+      "dragalge hair",
+      "venom stone",
+      "crystal stone",
+      "dragalgite"
+    ],
+    "Sylveon": [
+      "fairy esence",
+      "pink fairy bow",
+      "fairy stone"
+    ],
+    "Shiny Sylveon": [
+      "fairy esence",
+      "purple fairy bow",
+      "fairy stone",
+      "mythic fairy orb"
+    ],
+    "Mimikyu": [
+      "ghost essence",
+      "fairy essence",
+      "yellow mimikyu head",
+      "ghost stone",
+      "fairy stone"
+    ],
+    "Shiny Mimikyu": [
+      "ghost essence",
+      "fairy essence",
+      "white mimikyu head",
+      "ghost stone",
+      "fairy stone",
+      "mythic ghost orb"
+    ],
+    "Sneasler": [],
+    "Shiny Sneasler": []
+  }
+}

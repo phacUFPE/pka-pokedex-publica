@@ -1,0 +1,383 @@
+{
+  "rocket": [
+    {
+      "name": "SHADOW",
+      "members": [
+        {
+          "npc": "Feraligatr",
+          "counter": "sh Raichu"
+        },
+        {
+          "npc": "Shiny Gengar",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Alakazam",
+          "counter": "Scizor"
+        },
+        {
+          "npc": "Shiny Crobat",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Muk",
+          "counter": "sh Marowak"
+        },
+        {
+          "npc": "Houndoom",
+          "counter": "sh Starmie"
+        }
+      ]
+    },
+    {
+      "name": "FROST",
+      "members": [
+        {
+          "npc": "Misdreavus",
+          "counter": "sh Persian"
+        },
+        {
+          "npc": "Magcargo",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Hypno",
+          "counter": "Scizor"
+        },
+        {
+          "npc": "Gligar",
+          "counter": "sh Jynx"
+        },
+        {
+          "npc": "Houndour",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Murkrow",
+          "counter": "sh Golem"
+        }
+      ]
+    },
+    {
+      "name": "THORN",
+      "members": [
+        {
+          "npc": "Shiny Arbok",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Shiny Golbat",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Hypno",
+          "counter": "Scizor"
+        },
+        {
+          "npc": "Shiny Haunter",
+          "counter": "sh Persian"
+        },
+        {
+          "npc": "Shiny Murkrow",
+          "counter": "sh Jynx"
+        },
+        {
+          "npc": "Houndoom",
+          "counter": "sh Starmie"
+        }
+      ]
+    },
+    {
+      "name": "CIPHER",
+      "members": [
+        {
+          "npc": "Feraligatr",
+          "counter": "sh Raichu"
+        },
+        {
+          "npc": "Shiny Persian",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Venusaur",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Electabuzz",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Typhlosion",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Meganium",
+          "counter": "sh Arcanine"
+        }
+      ]
+    },
+    {
+      "name": "PHOENIX",
+      "members": [
+        {
+          "npc": "Charizard",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Blastoise",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Venusaur",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Shiny Electrode",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Shiny Magneton",
+          "counter": "sh Arcanine"
+        },
+        {
+          "npc": "Blastoise",
+          "counter": "sh Raichu"
+        }
+      ]
+    },
+    {
+      "name": "SCYTHE",
+      "members": [
+        {
+          "npc": "Scyther",
+          "counter": "sh Arcanine"
+        },
+        {
+          "npc": "Shiny Ampharos",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Raichu",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Nidoqueen",
+          "counter": "sh Jynx"
+        },
+        {
+          "npc": "Arcanine",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Shiny Houndoom",
+          "counter": "sh Hitmontop"
+        }
+      ]
+    },
+    {
+      "name": "MIRAGE",
+      "members": [
+        {
+          "npc": "Charizard",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Charizard",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Venusaur",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Shiny Venusaur",
+          "counter": "sh Arcanine"
+        },
+        {
+          "npc": "Blastoise",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Shiny Blastoise",
+          "counter": "sh Raichu"
+        }
+      ]
+    },
+    {
+      "name": "ZEPHYR",
+      "members": [
+        {
+          "npc": "Typhlosion",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Typhlosion",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Meganium",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Shiny Meganium",
+          "counter": "sh Arcanine"
+        },
+        {
+          "npc": "Feraligatr",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Shiny Feraligatr",
+          "counter": "sh Raichu"
+        }
+      ]
+    },
+    {
+      "name": "OBSIDIAN",
+      "members": [
+        {
+          "npc": "Shiny Gyarados",
+          "counter": "sh Raichu"
+        },
+        {
+          "npc": "Shiny Persian",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Shiny Machamp",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Shiny Kingdra",
+          "counter": "sh Clefable"
+        },
+        {
+          "npc": "Shiny Pidgeot",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Scizor",
+          "counter": "sh Arcanine"
+        }
+      ]
+    },
+    {
+      "name": "VORTEX",
+      "members": [
+        {
+          "npc": "Shiny Ninetales",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Shiny Magneton",
+          "counter": "sh Arcanine"
+        },
+        {
+          "npc": "Shiny Kabutops",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Shiny Omastar",
+          "counter": "sh Raichu"
+        },
+        {
+          "npc": "Shiny Pidgeot",
+          "counter": "sh Golem"
+        },
+        {
+          "npc": "Shiny Ampharos",
+          "counter": "sh Sandslash"
+        }
+      ]
+    },
+    {
+      "name": "TEMPEST",
+      "members": [
+        {
+          "npc": "Shiny Magmar",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Shiny Snorlax",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Shiny Mime",
+          "counter": "Scizor"
+        },
+        {
+          "npc": "Shiny Pupitar",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Shiny Umbreon",
+          "counter": "sh Clefable"
+        },
+        {
+          "npc": "Shiny Misdreavus",
+          "counter": "sh Persian"
+        }
+      ]
+    },
+    {
+      "name": "ECLIPSE",
+      "members": [
+        {
+          "npc": "Shiny Dragonair",
+          "counter": "sh Clefable"
+        },
+        {
+          "npc": "Shiny Arcanine",
+          "counter": "sh Starmie"
+        },
+        {
+          "npc": "Shiny Espeon",
+          "counter": "sh Persian"
+        },
+        {
+          "npc": "Shiny Pinsir",
+          "counter": "sh Pidgeot"
+        },
+        {
+          "npc": "Shiny Tauros",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Shiny Skarmory",
+          "counter": "sh Arcanine"
+        }
+      ]
+    },
+    {
+      "name": "GIOVANNI",
+      "note": "Para batalhar com o Giovanni, é necessário ter ganhado 130 batalhas contra os demais membros da equipe Rocket",
+      "members": [
+        {
+          "npc": "Shiny Nidoqueen",
+          "counter": "sh Sandslash"
+        },
+        {
+          "npc": "Shiny Persian",
+          "counter": "Machamp"
+        },
+        {
+          "npc": "Shiny Rhydon",
+          "counter": "sh Venusaur"
+        },
+        {
+          "npc": "Shiny Nidoking",
+          "counter": "sh Jynx"
+        },
+        {
+          "npc": "Shiny Kangaskhan",
+          "counter": "sh Hitmontop"
+        },
+        {
+          "npc": "Shiny Dugtrio",
+          "counter": "Gyarados"
+        }
+      ]
+    }
+  ],
+  "rocketInfo": "Pokemons da esquerda são os do NPC. \nOs da direita são os recomendados\n\n\n\n\nLocalização:\nhttps://imgur.com/a/p3eK6yV"
+}

@@ -1,0 +1,916 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pokédex PokeAlliance</title>
+<meta name="description" content="Pokédex pública da PokeAlliance (by Mts Vitor): tiers, drops, hunts, tasks, dungeons, boost, medalhas e mais.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f4f5f8;
+  --surface: #ffffff;
+  --surface-2: #f0f2f6;
+  --border: #e2e5ec;
+  --text: #171a21;
+  --muted: #5d6474;
+  --accent: #e3350d;
+  --accent-soft: #fde9e4;
+  --link: #1f5fd1;
+  --shadow: 0 1px 2px rgba(20, 24, 33, .06), 0 4px 16px rgba(20, 24, 33, .05);
+  --radius: 14px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1116; --surface: #181b22; --surface-2: #20242d; --border: #2b303b;
+    --text: #eceef3; --muted: #9aa1b1; --accent: #ff5a3c; --accent-soft: #3a1d17; --link: #7fb0ff;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1116; --surface: #181b22; --surface-2: #20242d; --border: #2b303b;
+  --text: #eceef3; --muted: #9aa1b1; --accent: #ff5a3c; --accent-soft: #3a1d17; --link: #7fb0ff;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 130px; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.5 Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+button, input, select { font: inherit; color: inherit; }
+
+/* ---------- header ---------- */
+header.top {
+  position: sticky; top: 0; z-index: 20;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  backdrop-filter: blur(12px); border-bottom: 1px solid var(--border);
+}
+.top-inner { max-width: 1280px; margin: 0 auto; padding: 12px 16px 0; }
+.brand-row { display: flex; align-items: center; gap: 12px; }
+.logo {
+  width: 34px; height: 34px; border-radius: 50%; flex: none;
+  background: linear-gradient(var(--accent) 0 46%, #222 46% 54%, #fff 54%);
+  border: 2px solid #222; position: relative;
+}
+.logo::after { content: ""; position: absolute; inset: 11px; border-radius: 50%; background: #fff; border: 2px solid #222; }
+.brand h1 { font-size: 18px; margin: 0; letter-spacing: -.01em; }
+.brand p { margin: 0; font-size: 12px; color: var(--muted); }
+.brand-row .spacer { flex: 1; }
+.icon-btn {
+  border: 1px solid var(--border); background: var(--surface); border-radius: 10px;
+  width: 38px; height: 38px; display: grid; place-items: center; cursor: pointer;
+}
+nav.tabs { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; margin-top: 10px; }
+nav.tabs::-webkit-scrollbar { display: none; }
+nav.tabs a {
+  white-space: nowrap; padding: 9px 12px; color: var(--muted); font-weight: 600; font-size: 14px;
+  border-bottom: 2px solid transparent;
+}
+nav.tabs a:hover { color: var(--text); text-decoration: none; }
+nav.tabs a[aria-current="page"] { color: var(--accent); border-color: var(--accent); }
+
+main { max-width: 1280px; margin: 0 auto; padding: 20px 16px 60px; }
+section.view { display: none; }
+section.view.active { display: block; }
+.view-head { display: flex; flex-wrap: wrap; align-items: end; gap: 8px 16px; margin-bottom: 14px; }
+.view-head h2 { margin: 0; font-size: 24px; letter-spacing: -.02em; }
+.view-head p { margin: 0; color: var(--muted); flex-basis: 100%; }
+h3 { font-size: 17px; margin: 28px 0 10px; }
+
+/* ---------- controls ---------- */
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+.search {
+  flex: 1 1 260px; display: flex; align-items: center; gap: 8px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 0 12px;
+}
+.search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.search input { border: 0; outline: 0; background: transparent; padding: 10px 0; width: 100%; }
+.search svg { color: var(--muted); flex: none; }
+select {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; cursor: pointer;
+}
+.count { color: var(--muted); font-size: 13px; align-self: center; }
+
+/* ---------- chips / badges ---------- */
+.chip {
+  display: inline-flex; align-items: center; gap: 4px; padding: 2px 9px; border-radius: 999px;
+  font-size: 12px; font-weight: 600; background: var(--surface-2); color: var(--text); border: 1px solid var(--border);
+  white-space: nowrap;
+}
+button.chip, a.chip { cursor: pointer; }
+button.chip:hover, a.chip:hover { border-color: var(--accent); text-decoration: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.tier { color: #fff; border: 0; }
+.type { color: #fff; border: 0; text-shadow: 0 1px 1px rgba(0,0,0,.25); }
+
+/* ---------- cards ---------- */
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 16px;
+}
+.grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+.poke-grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.poke {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 10px 10px 12px; text-align: center; cursor: pointer; position: relative;
+  transition: transform .12s, border-color .12s, box-shadow .12s; content-visibility: auto; contain-intrinsic-size: 190px;
+}
+.poke:hover, .poke:focus-visible { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); outline: none; }
+.poke .sprite { width: 88px; height: 88px; margin: 0 auto 4px; }
+.poke .name { font-weight: 700; font-size: 14px; line-height: 1.25; }
+.poke .chips { justify-content: center; margin-top: 6px; }
+.poke .shiny-star { position: absolute; top: 8px; right: 10px; color: #e7a613; font-size: 14px; }
+.sprite { display: grid; place-items: center; position: relative; }
+.sprite img { width: 100%; height: 100%; object-fit: contain; image-rendering: auto; }
+.sprite .ph {
+  width: 70%; aspect-ratio: 1; border-radius: 50%; display: grid; place-items: center;
+  background: var(--surface-2); color: var(--muted); font-weight: 800; font-size: 20px;
+}
+.empty { padding: 40px; text-align: center; color: var(--muted); }
+.more { display: block; margin: 16px auto 0; }
+.btn {
+  background: var(--accent); color: #fff; border: 0; border-radius: 10px; padding: 10px 16px; font-weight: 600; cursor: pointer;
+}
+.btn.ghost { background: var(--surface); color: var(--text); border: 1px solid var(--border); }
+
+/* ---------- tables ---------- */
+.table-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { padding: 9px 12px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); background: var(--surface-2); position: sticky; top: 0; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transparent); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+.linkish { background: none; border: 0; padding: 0; color: var(--link); cursor: pointer; font-weight: 600; text-align: left; }
+.linkish:hover { text-decoration: underline; }
+
+/* ---------- misc blocks ---------- */
+.note { overflow-wrap: anywhere;
+  background: var(--accent-soft); border-radius: 12px; padding: 12px 14px; font-size: 14px; white-space: pre-line;
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+}
+.note b { color: var(--accent); }
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; font-size: 14px; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; font-weight: 600; }
+.team h4 { margin: 0 0 8px; font-size: 14px; letter-spacing: .06em; }
+.team ul { list-style: none; margin: 0; padding: 0; }
+.team li { display: flex; justify-content: space-between; gap: 8px; padding: 6px 0; border-top: 1px dashed var(--border); font-size: 14px; }
+.team li span:last-child { color: var(--muted); text-align: right; }
+.team li span:last-child::before { content: "→ "; }
+.two-col { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); align-items: start; }
+.stat { font-size: 30px; font-weight: 800; letter-spacing: -.02em; }
+.stat small { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 4px; }
+.faq-item { overflow-wrap: anywhere; padding: 12px 0; border-top: 1px solid var(--border); }
+.faq-item:first-child { border-top: 0; }
+.faq-item .keys { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 4px; }
+.subnav { display: flex; flex-wrap: wrap; gap: 6px; margin: -4px 0 16px; }
+.subnav button { border: 1px solid var(--border); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-weight: 600; font-size: 13px; }
+.subnav button[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+.pane { display: none; } .pane.active { display: block; }
+.star-dmg { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border); }
+.star-dmg .stat { color: var(--accent); }
+.bar { height: 8px; border-radius: 4px; background: var(--accent); min-width: 2px; }
+.muted { color: var(--muted); }
+
+/* ---------- dialog ---------- */
+dialog {
+  border: 0; padding: 0; border-radius: 20px; width: min(760px, calc(100vw - 24px)); max-height: calc(100dvh - 24px);
+  background: var(--surface); color: var(--text); box-shadow: 0 20px 60px rgba(0,0,0,.35);
+}
+dialog::backdrop { background: rgba(10, 12, 18, .55); backdrop-filter: blur(3px); }
+.dlg-head { display: flex; gap: 16px; align-items: center; padding: 20px; background: var(--surface-2); border-bottom: 1px solid var(--border); position: relative; }
+.dlg-head .sprite { width: 110px; height: 110px; flex: none; }
+.dlg-head h2 { margin: 0 0 6px; font-size: 24px; }
+.dlg-close { position: absolute; top: 12px; right: 12px; }
+.dlg-body { padding: 4px 20px 22px; }
+.dlg-body h3 { margin-top: 20px; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.drop-list { display: grid; gap: 6px; }
+.drop { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; padding: 8px 10px; border-radius: 10px; background: var(--surface-2); }
+.drop .n { font-weight: 600; flex: 1 1 auto; }
+.drop .t { font-size: 12px; color: var(--muted); flex-basis: 100%; }
+.variants { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+
+footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px 16px 40px; }
+
+@media (max-width: 640px) {
+  .brand p { display: none; }
+  .view-head h2 { font-size: 20px; }
+  .poke-grid { grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); }
+  .poke .sprite { width: 72px; height: 72px; }
+  .dlg-head { flex-direction: column; text-align: center; }
+  .dlg-head .chips { justify-content: center; }
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand-row">
+      <div class="logo" aria-hidden="true"></div>
+      <div class="brand">
+        <h1>Pokédex PokeAlliance</h1>
+        <p>Planilha pública por Mts Vitor, agora em formato de site</p>
+      </div>
+      <div class="spacer"></div>
+      <button class="icon-btn" id="themeBtn" title="Alternar tema" aria-label="Alternar tema">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+    <nav class="tabs" id="tabs">
+      <a href="#pokedex">Pokédex</a>
+      <a href="#itens">Itens &amp; Drops</a>
+      <a href="#boost">Boost</a>
+      <a href="#medalhas">Medalhas</a>
+      <a href="#talentos">Talentos</a>
+      <a href="#dungeons">Dungeons</a>
+      <a href="#tasks">Tasks</a>
+      <a href="#batalhas">Rocket &amp; Police</a>
+      <a href="#star">Star</a>
+      <a href="#tabelas">Tabelas</a>
+      <a href="#faq">FAQ &amp; Guias</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- POKEDEX -->
+  <section class="view" id="view-pokedex">
+    <div class="view-head">
+      <h2>Pokédex</h2>
+      <p>Tier, moveset, drops, hunts, tasks e medalha de cada Pokémon. Clique em um card para ver tudo.</p>
+      <div class="chips" id="huntMaps"></div>
+    </div>
+    <div class="controls">
+      <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="dexSearch" type="search" placeholder="Buscar Pokémon…" autocomplete="off"></label>
+      <select id="dexTier" aria-label="Filtrar por tier"><option value="">Todos os tiers</option></select>
+      <select id="dexType" aria-label="Filtrar por moveset"><option value="">Todos os movesets</option></select>
+      <select id="dexForm" aria-label="Forma">
+        <option value="">Normal + Shiny</option><option value="normal">Só normal</option><option value="shiny">Só shiny / mega</option>
+      </select>
+      <span class="count" id="dexCount"></span>
+    </div>
+    <div class="poke-grid" id="dexGrid"></div>
+    <button class="btn ghost more" id="dexMore" hidden>Mostrar mais</button>
+  </section>
+
+  <!-- ITENS -->
+  <section class="view" id="view-itens">
+    <div class="view-head">
+      <h2>Itens &amp; Drops</h2>
+      <p>Pesquise um item para ver quais Pokémon dropam, em qual talento ele é usado e quais boosts pedem ele.</p>
+    </div>
+    <div class="controls">
+      <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="itemSearch" type="search" placeholder="Ex.: leaf stone, bulb, fire fragment…" autocomplete="off"></label>
+      <span class="count" id="itemCount"></span>
+    </div>
+    <div class="grid" id="itemGrid"></div>
+    <button class="btn ghost more" id="itemMore" hidden>Mostrar mais</button>
+  </section>
+
+  <!-- BOOST -->
+  <section class="view" id="view-boost">
+    <div class="view-head">
+      <h2>Boost</h2>
+      <p>Itens que já apareceram para boostar cada tipo (não são os itens do dia). A tabela ainda está sendo populada pelo autor.</p>
+    </div>
+    <div class="subnav" id="boostTypes"></div>
+    <div class="card" id="boostItems"></div>
+    <h3>Quantidade de fragmentos por nível de boost</h3>
+    <p class="muted" id="fragNote" style="margin-top:-4px"></p>
+    <div class="table-wrap" id="fragTable"></div>
+  </section>
+
+  <!-- MEDALHAS -->
+  <section class="view" id="view-medalhas">
+    <div class="view-head">
+      <h2>Medalhas</h2>
+      <p>Buff e debuff da medalha de cada Pokémon. Filtre pelo buff que você procura.</p>
+    </div>
+    <div class="controls">
+      <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="medalSearch" type="search" placeholder="Buscar Pokémon…" autocomplete="off"></label>
+      <select id="medalBuff" aria-label="Buff"><option value="">Qualquer buff</option></select>
+      <select id="medalDebuff" aria-label="Debuff"><option value="">Qualquer debuff</option></select>
+      <span class="count" id="medalCount"></span>
+    </div>
+    <div class="table-wrap"><table><thead><tr><th>Pokémon</th><th>Buff</th><th>Debuff</th></tr></thead><tbody id="medalBody"></tbody></table></div>
+  </section>
+
+  <!-- TALENTOS -->
+  <section class="view" id="view-talentos">
+    <div class="view-head">
+      <h2>PokeTalents</h2>
+      <p>Itens usados em cada talento (Ctrl T → Talentos), com quantidade necessária e o buff do nível.</p>
+    </div>
+    <div class="controls">
+      <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="talSearch" type="search" placeholder="Buscar item, Pokémon ou buff…" autocomplete="off"></label>
+      <select id="talType" aria-label="Tipo"><option value="">Todos os tipos</option></select>
+      <select id="talLevel" aria-label="Nível"><option value="">Todos os níveis</option></select>
+      <span class="count" id="talCount"></span>
+    </div>
+    <div class="table-wrap"><table><thead><tr><th>Talento</th><th>Item</th><th>Origem</th><th class="num">Qtd</th><th>Buff</th></tr></thead><tbody id="talBody"></tbody></table></div>
+    <button class="btn ghost more" id="talMore" hidden>Mostrar mais</button>
+  </section>
+
+  <!-- DUNGEONS -->
+  <section class="view" id="view-dungeons">
+    <div class="view-head">
+      <h2>Dungeons</h2>
+      <p>Dens (arcane shards), dungeons temáticas e o guia do Porygon.</p>
+    </div>
+    <div class="subnav" id="dgTabs">
+      <button data-pane="dens" aria-pressed="true">Dens</button>
+      <button data-pane="dgs" aria-pressed="false">Dungeons</button>
+      <button data-pane="porygon" aria-pressed="false">Porygon</button>
+    </div>
+    <div class="pane active" data-pane="dens">
+      <div class="controls">
+        <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="denSearch" type="search" placeholder="Buscar den, mob ou drop…" autocomplete="off"></label>
+        <select id="denSort" aria-label="Ordenar">
+          <option value="name">Ordenar por nome</option><option value="xph">Maior XP/h</option><option value="xp">Maior XP</option>
+        </select>
+        <span class="count" id="denCount"></span>
+      </div>
+      <div class="grid" id="denGrid"></div>
+    </div>
+    <div class="pane" data-pane="dgs">
+      <div class="grid" id="dgGrid"></div>
+      <h3>Desativadas</h3>
+      <div class="chips" id="dgOff"></div>
+    </div>
+    <div class="pane" data-pane="porygon"><div class="card" id="porygon"></div></div>
+  </section>
+
+  <!-- TASKS -->
+  <section class="view" id="view-tasks">
+    <div class="view-head">
+      <h2>Tasks</h2>
+      <p>Linked Tasks, Hazard, Ginásios e Bounty Hunter.</p>
+    </div>
+    <div class="subnav" id="taskTabs">
+      <button data-pane="linked" aria-pressed="true">Linked Tasks</button>
+      <button data-pane="npc" aria-pressed="false">Tasks de NPC</button>
+      <button data-pane="hazard" aria-pressed="false">Hazard</button>
+      <button data-pane="gym" aria-pressed="false">Ginásios</button>
+      <button data-pane="bh" aria-pressed="false">BH</button>
+    </div>
+    <div class="pane active" data-pane="linked">
+      <div class="note" id="linkedNote"></div>
+      <div class="controls" style="margin-top:14px">
+        <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="linkedSearch" type="search" placeholder="Buscar Pokémon…" autocomplete="off"></label>
+        <select id="linkedType" aria-label="Tipo de hunt"><option value="">Todos os tipos de hunt</option></select>
+        <span class="count" id="linkedCount"></span>
+      </div>
+      <div class="table-wrap"><table><thead><tr><th class="num">#</th><th class="num">Qtd</th><th>Pokémon</th><th>Tipo de hunt</th><th class="num">Kills/h</th><th>Hunt</th></tr></thead><tbody id="linkedBody"></tbody></table></div>
+      <h3>Restantes</h3>
+      <div class="table-wrap"><table><thead><tr><th>Pokémon</th><th>Tier</th><th>Onde</th></tr></thead><tbody id="linkedRest"></tbody></table></div>
+    </div>
+    <div class="pane" data-pane="npc">
+      <div class="controls">
+        <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="npcSearch" type="search" placeholder="Buscar Pokémon ou NPC…" autocomplete="off"></label>
+        <span class="count" id="npcCount"></span>
+      </div>
+      <div class="table-wrap"><table><thead><tr><th>Pokémon</th><th>NPCs (clique para ver a localização)</th></tr></thead><tbody id="npcBody"></tbody></table></div>
+    </div>
+    <div class="pane" data-pane="hazard">
+      <div class="table-wrap"><table><thead><tr><th>NPC</th><th>Task</th><th>Localização</th></tr></thead><tbody id="hazardBody"></tbody></table></div>
+    </div>
+    <div class="pane" data-pane="gym">
+      <div class="two-col">
+        <div class="table-wrap"><table><thead><tr><th>Cidade</th><th>Task 1</th><th>Task 2</th><th>Dungeon</th></tr></thead><tbody id="gymBody"></tbody></table></div>
+        <div class="note" id="gymInfo"></div>
+      </div>
+      <h3>Pokémon dos líderes</h3>
+      <div class="grid" id="gymLeaders"></div>
+    </div>
+    <div class="pane" data-pane="bh"><div class="note" id="bhInfo"></div></div>
+  </section>
+
+  <!-- BATALHAS -->
+  <section class="view" id="view-batalhas">
+    <div class="view-head">
+      <h2>Rocket &amp; Police</h2>
+      <p>À esquerda, os Pokémon do NPC; à direita, o counter recomendado.</p>
+    </div>
+    <div class="subnav" id="battleTabs">
+      <button data-pane="rocket" aria-pressed="true">Equipe Rocket</button>
+      <button data-pane="police" aria-pressed="false">Police</button>
+    </div>
+    <div class="pane active" data-pane="rocket"><div class="note" id="rocketInfo"></div><div class="grid" id="rocketGrid" style="margin-top:14px"></div></div>
+    <div class="pane" data-pane="police"><div class="note" id="policeInfo"></div><div class="grid" id="policeGrid" style="margin-top:14px"></div></div>
+  </section>
+
+  <!-- STAR -->
+  <section class="view" id="view-star">
+    <div class="view-head">
+      <h2>Calculadora de Star</h2>
+      <p>Custo para estrelar um Pokémon, considerando a opção de 100% de sucesso.</p>
+    </div>
+    <div class="two-col">
+      <div class="card">
+        <div class="controls" style="margin-bottom:18px">
+          <label>Star atual<br><select id="starFrom"></select></label>
+          <label>Star objetivo<br><select id="starTo"></select></label>
+          <label>Tier<br><select id="starTier"></select></label>
+        </div>
+        <div class="grid" style="grid-template-columns:repeat(3,1fr);gap:8px">
+          <div><div class="muted">Custo DD 💎</div><div class="stat" id="starDD"></div></div>
+          <div><div class="muted">Custo KK 💸</div><div class="stat" id="starKK"></div></div>
+          <div><div class="muted">Pokés necessários</div><div class="stat" id="starPokes"></div></div>
+        </div>
+        <div class="star-dmg">
+          <div class="muted">Dano de ataque final na star objetivo</div>
+          <div class="stat" id="starDmg"></div>
+          <div class="muted" id="starDmgNote" style="font-size:13px"></div>
+        </div>
+      </div>
+      <div class="note" id="starInfo"></div>
+    </div>
+    <h3>Custo por nível (DD / KK)</h3>
+    <div class="table-wrap" id="starTable"></div>
+  </section>
+
+  <!-- TABELAS -->
+  <section class="view" id="view-tabelas">
+    <div class="view-head">
+      <h2>Tabelas de referência</h2>
+      <p>Brokes máximas, shiny rate, runas e dano esperado por tier.</p>
+    </div>
+    <div class="two-col">
+      <div>
+        <h3 style="margin-top:0">Max brokes (shiny)</h3>
+        <div class="table-wrap"><table><thead><tr><th>Tier</th><th class="num">Max broke</th><th></th></tr></thead><tbody id="brokeBody"></tbody></table></div>
+      </div>
+      <div class="note" id="brokeInfo" style="margin-top:44px"></div>
+    </div>
+    <h3>Shiny rate (normais mortos por shiny)</h3>
+    <div class="table-wrap" id="shinyTable"></div>
+    <p class="muted" id="shinyForm" style="font-size:14px"></p>
+    <h3>Runas</h3>
+    <div class="grid" id="runeGrid"></div>
+    <h3>Dano esperado por função</h3>
+    <div class="table-wrap" id="dmgTable"></div>
+    <p class="muted" id="dmgNote" style="font-size:14px"></p>
+    <h3>Tops por tier (shiny)</h3>
+    <div class="grid" id="tierTops"></div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="view" id="view-faq">
+    <div class="view-head">
+      <h2>FAQ &amp; Guias</h2>
+      <p>Respostas rápidas para as dúvidas mais comuns do Discord.</p>
+    </div>
+    <div class="controls">
+      <label class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="faqSearch" type="search" placeholder="Ex.: fly, hoenn, revive, cupom…" autocomplete="off"></label>
+      <span class="count" id="faqCount"></span>
+    </div>
+    <div class="card" id="faqList"></div>
+  </section>
+</main>
+
+<footer>Dados da planilha "Pokedex Pública PokeAlliance" por <b>Mts Vitor</b>. Sprites: pokemondb.net.</footer>
+
+<dialog id="dlg" aria-labelledby="dlgTitle"></dialog>
+
+<script src="bundle.js"></script>
+<script>
+// manifest.json lists the files to load: data/*.json (generated from the spreadsheet)
+// and config/*.json (hand-editable settings). Each group is merged into one object.
+// Opened from disk (file://) the browser blocks fetch(), so bundle.js (scripts/build.py) is used instead.
+const loadJson = f => fetch(f).then(r => { if (!r.ok) throw new Error(f); return r.json(); });
+const loadGroup = files => Promise.all(files.map(loadJson)).then(parts => Object.assign({}, ...parts));
+const bundle = window.PKA_BUNDLE;
+(location.protocol === "file:" && bundle
+  ? Promise.resolve([bundle.data, bundle.config])
+  : loadJson("manifest.json").then(m => Promise.all([loadGroup(m.data), loadGroup(m.config)]))
+      .catch(err => { if (bundle) return [bundle.data, bundle.config]; throw err; }))
+  .then(([data, config]) => start(data, config))
+  .catch(err => {
+    document.querySelector("main").innerHTML = `<div class="note"><b>Não foi possível carregar os dados (${String(err.message).replace(/[<>&]/g, "")}).</b>
+Gere o bundle.js com <code>python scripts/build.py</code> para abrir o index.html direto do disco,
+ou sirva a pasta (ex.: <code>python -m http.server</code>) / hospede em GitHub Pages ou Netlify.</div>`;
+  });
+
+function start(D, C) {
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const norm = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+const fmt = n => typeof n === "number" ? n.toLocaleString("pt-BR") : esc(n ?? "–");
+const PAGE = C.pageSize || 120;
+
+/* ---------- theme ---------- */
+const root = document.documentElement;
+try { const t = localStorage.getItem("pka-theme"); if (t) root.dataset.theme = t; } catch {}
+$("#themeBtn").onclick = () => {
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("pka-theme", root.dataset.theme); } catch {}
+};
+
+/* ---------- helpers: tiers, types, links, sprites ---------- */
+const TIER_ORDER = C.tierOrder;
+const tierChip = t => t ? `<span class="chip tier" style="background:${C.tierColors[t] || C.tierColors.default}">${esc(t)}</span>` : "";
+const TYPE_COLOR = C.typeColors;
+const typeChip = t => t && t !== "None" ? `<span class="chip type" style="background:${TYPE_COLOR[t] || "#8b93a3"}">${esc(t)}</span>` : "";
+
+function linkify(text) {
+  return esc(text).replace(/((?:https?:\/\/)?(?:www\.)?(?:[a-z0-9-]+\.)+(?:com|app|be|gg)[^\s<),]*)/gi, m => {
+    const href = /^https?:/.test(m) ? m : "https://" + m;
+    return `<a href="${href}" target="_blank" rel="noopener">${m}</a>`;
+  });
+}
+const extLink = (url, label = "Ver mapa ↗") => url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${label}</a>` : `<span class="muted">–</span>`;
+
+// Base species name: strips Shiny/Mega/"sh" prefixes
+const baseName = n => String(n).replace(/^(shiny|mega|sh)\s+/i, "").trim();
+const isShiny = n => /^(shiny|sh)\s/i.test(n);
+const isMega = n => /^mega\s/i.test(n);
+const SLUG_FIX = C.sprites.nameFixes;
+function slug(name) {
+  const b = baseName(name).toLowerCase();
+  const fixed = SLUG_FIX[b] ?? SLUG_FIX[norm(b)] ?? b;
+  return norm(fixed).replace(/[^a-z0-9-]+/g, "-").replace(/^-|-$/g, "");
+}
+function sprite(name, cls = "") {
+  const s = slug(name);
+  const dir = isShiny(name) ? "shiny" : "normal";
+  const url = isMega(name) ? `${C.sprites.baseUrl}/${dir}/${s}-mega.png` : `${C.sprites.baseUrl}/${dir}/${s}.png`;
+  const fallback = `${C.sprites.baseUrl}/${dir}/${s}.png`;
+  const initials = esc(baseName(name).slice(0, 2));
+  return `<div class="sprite ${cls}"><img loading="lazy" alt="" src="${url}" data-fb="${fallback}" onerror="if(this.dataset.fb&&this.src!==this.dataset.fb){this.src=this.dataset.fb}else{this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:'${initials}'}))}"></div>`;
+}
+function fill(sel, values, keepFirst = true) {
+  const el = $(sel);
+  el.innerHTML = (keepFirst ? el.options[0].outerHTML : "") + values.map(v => `<option>${esc(v)}</option>`).join("");
+}
+const uniq = a => [...new Set(a.filter(Boolean))];
+const tierSort = (a, b) => TIER_ORDER.indexOf(a) - TIER_ORDER.indexOf(b);
+
+/* ---------- indexes ---------- */
+const byKey = (arr, f) => { const m = new Map(); for (const x of arr) m.set(norm(f(x)), x); return m; };
+const tierIdx = byKey(D.tiers, x => x.name);
+const locIdx = byKey(D.locations, x => x.name);
+const taskIdx = byKey(D.tasks, x => x.name);
+const medalIdx = byKey(D.medals, x => x.name);
+const linkedIdx = byKey(D.linked, x => x.name);
+const dropsIdx = new Map(Object.entries(D.drops).map(([k, v]) => [norm(k), v]));
+const itemKey = s => norm(String(s).replace(/\s*\(.*\)\s*$/, ""));
+const talentIdx = new Map();
+for (const t of D.talents) { const k = itemKey(t.item); if (!talentIdx.has(k)) talentIdx.set(k, []); talentIdx.get(k).push(t); }
+const boostIdx = new Map();
+for (const [type, items] of Object.entries(D.boost)) for (const it of items) { const k = itemKey(it); if (!boostIdx.has(k)) boostIdx.set(k, []); boostIdx.get(k).push(type); }
+
+// Every Pokémon that appears in tiers or drops (keeps tier-list order)
+const dexNames = uniq([...D.tiers.map(t => t.name), ...Object.keys(D.drops)]);
+const dex = dexNames.map(name => {
+  const t = tierIdx.get(norm(name));
+  return { name, tier: t?.tier, moveset: t?.moveset, shiny: isShiny(name) || isMega(name), key: norm(name) };
+});
+const dexIdx = new Map(dex.map(p => [p.key, p]));
+const pokeLink = n => dexIdx.has(norm(n)) ? `<button class="linkish" data-poke="${esc(n)}">${esc(n)}</button>` : esc(n);
+
+/* ---------- router ---------- */
+const views = [...document.querySelectorAll("section.view")].map(s => s.id.replace("view-", ""));
+function route() {
+  const [view, arg] = decodeURIComponent(location.hash.slice(1)).split("/");
+  const v = views.includes(view) ? view : "pokedex";
+  document.querySelectorAll("section.view").forEach(s => s.classList.toggle("active", s.id === "view-" + v));
+  document.querySelectorAll("#tabs a").forEach(a => a.hash === "#" + v ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
+  $(`#tabs a[href="#${v}"]`)?.scrollIntoView({ block: "nearest", inline: "center" });
+  if (v === "pokedex" && arg) openPoke(arg);
+  if (v === "itens" && arg) { $("#itemSearch").value = arg; renderItems(); }
+}
+addEventListener("hashchange", route);
+
+document.addEventListener("click", e => {
+  const p = e.target.closest("[data-poke]");
+  if (p) { e.preventDefault(); openPoke(p.dataset.poke); return; }
+  const it = e.target.closest("[data-item]");
+  if (it) { e.preventDefault(); $("#dlg").open && $("#dlg").close(); location.hash = "itens/" + it.dataset.item; }
+});
+
+function subTabs(navSel) {
+  const nav = $(navSel), sec = nav.parentElement;
+  nav.addEventListener("click", e => {
+    const b = e.target.closest("button[data-pane]"); if (!b) return;
+    nav.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+    sec.querySelectorAll(".pane").forEach(p => p.classList.toggle("active", p.dataset.pane === b.dataset.pane));
+  });
+}
+["#dgTabs", "#taskTabs", "#battleTabs"].forEach(subTabs);
+
+/* ---------- POKEDEX ---------- */
+$("#huntMaps").innerHTML = Object.entries(C.huntMaps || {}).map(([n, u]) => `<a class="chip" href="${esc(u)}" target="_blank" rel="noopener">Mapa ${esc(n)} ↗</a>`).join("");
+fill("#dexTier", uniq(D.tiers.map(t => t.tier)).sort(tierSort));
+fill("#dexType", uniq(D.tiers.map(t => t.moveset)).filter(t => t !== "None" && t !== "?").sort());
+let dexLimit = PAGE;
+function renderDex() {
+  const q = norm($("#dexSearch").value), tier = $("#dexTier").value, type = $("#dexType").value, form = $("#dexForm").value;
+  const list = dex.filter(p =>
+    (!q || p.key.includes(q)) && (!tier || p.tier === tier) && (!type || p.moveset === type) &&
+    (!form || (form === "shiny") === p.shiny));
+  $("#dexCount").textContent = `${list.length} Pokémon`;
+  $("#dexGrid").innerHTML = list.length ? list.slice(0, dexLimit).map(p => `
+    <div class="poke" tabindex="0" role="button" data-poke="${esc(p.name)}" aria-label="${esc(p.name)}">
+      ${p.shiny ? '<span class="shiny-star" title="Shiny">✦</span>' : ""}
+      ${sprite(p.name)}
+      <div class="name">${esc(p.name)}</div>
+      <div class="chips">${tierChip(p.tier)}${typeChip(p.moveset)}</div>
+    </div>`).join("") : `<div class="empty">Nenhum Pokémon encontrado.</div>`;
+  $("#dexMore").hidden = list.length <= dexLimit;
+}
+["#dexSearch", "#dexTier", "#dexType", "#dexForm"].forEach(s => $(s).addEventListener("input", () => { dexLimit = PAGE; renderDex(); }));
+$("#dexMore").onclick = () => { dexLimit += PAGE * 2; renderDex(); };
+$("#dexGrid").addEventListener("keydown", e => { if (e.key === "Enter" && e.target.dataset.poke) openPoke(e.target.dataset.poke); });
+
+function dropRow(item) {
+  const tal = talentIdx.get(itemKey(item)) || [];
+  const boosts = boostIdx.get(itemKey(item)) || [];
+  const t = tal[0];
+  return `<div class="drop"><button class="linkish n" data-item="${esc(item)}">${esc(item)}</button>
+    ${boosts.map(b => typeChip(b).replace("chip type", "chip type")).join("")}
+    ${t ? `<span class="chip">${esc(t.type)} #${esc(t.level)} · ${fmt(t.qty)}x</span><span class="t">${esc(t.buff)}</span>` : ""}
+  </div>`;
+}
+function openPoke(name) {
+  const key = norm(name);
+  const p = dexIdx.get(key) || { name, key };
+  const base = norm(baseName(name));
+  const shinyName = "shiny " + base;
+  const drops = dropsIdx.get(key) || [];
+  const loc = locIdx.get(key) || locIdx.get(base);
+  const task = taskIdx.get(key) || taskIdx.get(base);
+  const medal = medalIdx.get(key) || medalIdx.get(base);
+  const linked = linkedIdx.get(key) || linkedIdx.get(base);
+  const talSources = D.talents.filter(t => norm(t.source) === key);
+  const dens = D.dens.filter(d => d.mobs?.some(m => norm(m) === base));
+  const dgs = D.dungeons.filter(d => d.hunts.some(h => norm(h) === base));
+  const variants = dex.filter(x => x.key !== key && norm(baseName(x.name)) === base);
+  const sections = [];
+
+  if (drops.length) sections.push(`<h3>Drops</h3><div class="drop-list">${drops.map(dropRow).join("")}</div>`);
+  if (loc && (loc.normal || loc.wild || loc.hoenn)) sections.push(`<h3>Onde caçar</h3><div class="chips">
+    ${loc.normal ? `<a class="chip" href="${esc(loc.normal)}" target="_blank" rel="noopener">Normal ↗</a>` : ""}
+    ${loc.wild ? `<a class="chip" href="${esc(loc.wild)}" target="_blank" rel="noopener">Wildscape (lvl 150+) ↗</a>` : ""}
+    ${loc.hoenn ? `<a class="chip" href="${esc(loc.hoenn)}" target="_blank" rel="noopener">Hoenn (lvl 250+) ↗</a>` : ""}</div>`);
+  if (medal) sections.push(`<h3>Medalha</h3><dl class="kv"><dt>Buff</dt><dd>${esc(medal.buff)}</dd><dt>Debuff</dt><dd>${esc(medal.debuff)}</dd></dl>`);
+  if (task?.npcs.length) sections.push(`<h3>Tasks de NPC</h3><div class="chips">${task.npcs.map(n => n.url ? `<a class="chip" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.npc)} ↗</a>` : `<span class="chip">${esc(n.npc)}</span>`).join("")}</div>`);
+  if (linked) sections.push(`<h3>Linked Task</h3><dl class="kv"><dt>Quantidade</dt><dd>${fmt(linked.qty)}</dd><dt>Tipo de hunt</dt><dd>${esc(linked.type)}</dd>${linked.kph ? `<dt>Kills/h</dt><dd>${fmt(linked.kph)}</dd>` : ""}${linked.url ? `<dt>Hunt</dt><dd>${extLink(linked.url)}</dd>` : ""}</dl>`);
+  if (talSources.length) sections.push(`<h3>Itens de talento</h3><div class="drop-list">${talSources.map(t => dropRow(t.item)).join("")}</div>`);
+  if (dens.length || dgs.length) sections.push(`<h3>Aparece em dungeons</h3><div class="chips">${dens.map(d => `<span class="chip">Den ${esc(d.name)}</span>`).join("")}${dgs.map(d => `<a class="chip" href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.name)} ↗</a>`).join("")}</div>`);
+  if (!sections.length) sections.push(`<p class="muted">Sem informações adicionais na planilha.</p>`);
+
+  $("#dlg").innerHTML = `
+    <div class="dlg-head">
+      ${sprite(p.name)}
+      <div>
+        <h2 id="dlgTitle">${esc(p.name)}</h2>
+        <div class="chips">${tierChip(p.tier)}${typeChip(p.moveset)}</div>
+        ${variants.length ? `<div class="variants">${variants.map(v => `<button class="chip" data-poke="${esc(v.name)}">${v.shiny ? "✦ " : ""}${esc(v.name)} ${v.tier ? "· " + esc(v.tier) : ""}</button>`).join("")}</div>` : ""}
+      </div>
+      <button class="icon-btn dlg-close" aria-label="Fechar" onclick="this.closest('dialog').close()">✕</button>
+    </div>
+    <div class="dlg-body">${sections.join("")}</div>`;
+  if (!$("#dlg").open) $("#dlg").showModal();
+  $("#dlg").scrollTop = 0;
+}
+$("#dlg").addEventListener("click", e => { if (e.target === e.currentTarget) e.currentTarget.close(); });
+
+/* ---------- ITEMS ---------- */
+const itemMap = new Map();
+const addItem = (raw, fn) => {
+  const k = itemKey(raw);
+  if (!itemMap.has(k)) itemMap.set(k, { name: String(raw).replace(/\s*\(.*\)\s*$/, ""), droppedBy: [], dens: [] });
+  fn(itemMap.get(k));
+};
+for (const [poke, items] of Object.entries(D.drops)) for (const it of items) addItem(it, o => o.droppedBy.push(poke));
+for (const t of D.talents) addItem(t.item, () => {});
+for (const items of Object.values(D.boost)) for (const it of items) addItem(it, () => {});
+for (const d of D.dens) for (const it of d.drops) addItem(it, o => o.dens.push(d.name));
+const items = [...itemMap.entries()].map(([k, v]) => ({ key: k, ...v })).sort((a, b) => a.name.localeCompare(b.name));
+let itemLimit = 60;
+function renderItems() {
+  const q = norm($("#itemSearch").value);
+  const list = items.filter(i => !q || i.key.includes(q));
+  list.sort((a, b) => (b.key === q) - (a.key === q) || (b.key.startsWith(q)) - (a.key.startsWith(q)));
+  $("#itemCount").textContent = `${list.length} itens`;
+  $("#itemGrid").innerHTML = list.length ? list.slice(0, itemLimit).map(i => {
+    const tal = talentIdx.get(i.key) || [];
+    const boosts = boostIdx.get(i.key) || [];
+    return `<div class="card">
+      <div style="display:flex;justify-content:space-between;gap:8px;align-items:start">
+        <strong style="font-size:16px">${esc(i.name)}</strong>
+        <span class="chip">${i.droppedBy.length} Pokémon</span>
+      </div>
+      ${tal.map(t => `<div style="margin-top:8px"><span class="chip">${esc(t.type)} #${esc(t.level)} · ${fmt(t.qty)}x</span> <span class="muted" style="font-size:13px">${esc(t.buff)}</span></div>`).join("")}
+      ${boosts.length ? `<div class="chips" style="margin-top:8px"><span class="muted" style="font-size:13px">Boost:</span>${boosts.map(typeChip).join("")}</div>` : ""}
+      ${i.dens.length ? `<div style="margin-top:8px;font-size:13px"><span class="muted">Dens:</span> ${i.dens.map(esc).join(", ")}</div>` : ""}
+      ${i.droppedBy.length ? `<div class="chips" style="margin-top:10px">${i.droppedBy.map(n => `<button class="chip" data-poke="${esc(n)}">${esc(n)}</button>`).join("")}</div>` : ""}
+    </div>`;
+  }).join("") : `<div class="empty">Nenhum item encontrado.</div>`;
+  $("#itemMore").hidden = list.length <= itemLimit;
+}
+$("#itemSearch").addEventListener("input", () => { itemLimit = 60; renderItems(); });
+$("#itemMore").onclick = () => { itemLimit += 120; renderItems(); };
+
+/* ---------- BOOST ---------- */
+const boostTypes = Object.keys(D.boost);
+let boostSel = boostTypes[0];
+function renderBoost() {
+  $("#boostTypes").innerHTML = boostTypes.map(t => `<button aria-pressed="${t === boostSel}" data-type="${esc(t)}" style="${t === boostSel ? `background:${TYPE_COLOR[t]};border-color:${TYPE_COLOR[t]};color:#fff` : ""}">${esc(t)}</button>`).join("");
+  $("#boostItems").innerHTML = `<h3 style="margin-top:0">Itens para boostar ${typeChip(boostSel)}</h3>
+    <div class="drop-list">${D.boost[boostSel].map(it => {
+      const m = it.match(/^(.*?)\s*\((.*)\)\s*$/);
+      return `<div class="drop"><button class="linkish n" data-item="${esc(m ? m[1] : it)}">${esc(m ? m[1] : it)}</button>${m ? `<button class="chip" data-poke="${esc(m[2])}">${esc(m[2])}</button>` : ""}</div>`;
+    }).join("")}</div>`;
+}
+$("#boostTypes").addEventListener("click", e => { const b = e.target.closest("[data-type]"); if (b) { boostSel = b.dataset.type; renderBoost(); } });
+const F = D.fragments;
+$("#fragNote").textContent = `Mesma quantidade para todos os tipos. Valores observados em ${F.days} dias.`;
+const fragMax = Math.max(...F.max);
+$("#fragTable").innerHTML = `<table><thead><tr><th>Nível</th><th class="num">Menor</th><th class="num">Média</th><th class="num">Maior</th><th style="width:35%">Média</th></tr></thead><tbody>
+  ${F.levels.map((l, i) => `<tr><td>${esc(l)}</td><td class="num">${fmt(F.min[i])}</td><td class="num"><b>${fmt(F.avg[i])}</b></td><td class="num">${fmt(F.max[i])}</td>
+  <td><div class="bar" style="width:${(F.avg[i] / fragMax * 100).toFixed(1)}%"></div></td></tr>`).join("")}</tbody></table>`;
+
+/* ---------- MEDALS ---------- */
+const buffNorm = s => (s || "").replace(/\bhp\b/i, "HP").replace(/Critital/i, "Critical").trim();
+D.medals.forEach(m => { m.buff = buffNorm(m.buff); m.debuff = buffNorm(m.debuff); });
+fill("#medalBuff", uniq(D.medals.map(m => m.buff)).filter(b => b !== "-").sort());
+fill("#medalDebuff", uniq(D.medals.map(m => m.debuff)).filter(b => b !== "-").sort());
+function renderMedals() {
+  const q = norm($("#medalSearch").value), b = $("#medalBuff").value, d = $("#medalDebuff").value;
+  const list = D.medals.filter(m => (!q || norm(m.name).includes(q)) && (!b || m.buff === b) && (!d || m.debuff === d));
+  $("#medalCount").textContent = `${list.length} medalhas`;
+  $("#medalBody").innerHTML = list.map(m => `<tr><td>${pokeLink(m.name)}</td><td><span class="chip" style="background:#e5f5e8;color:#1d6b2d;border-color:#bfe5c6">▲ ${esc(m.buff)}</span></td><td>${m.debuff && m.debuff !== "-" ? `<span class="chip" style="background:#fbe6e6;color:#9b1c1c;border-color:#f0c2c2">▼ ${esc(m.debuff)}</span>` : '<span class="muted">–</span>'}</td></tr>`).join("") || `<tr><td colspan="3" class="empty">Nada encontrado.</td></tr>`;
+}
+["#medalSearch", "#medalBuff", "#medalDebuff"].forEach(s => $(s).addEventListener("input", renderMedals));
+
+/* ---------- TALENTS ---------- */
+fill("#talType", uniq(D.talents.map(t => t.type)).sort((a, b) => (a === "Character" ? -1 : b === "Character" ? 1 : a === "Pokemon" ? -1 : b === "Pokemon" ? 1 : a.localeCompare(b))));
+fill("#talLevel", uniq(D.talents.map(t => t.level)).sort((a, b) => a - b));
+let talLimit = 150;
+function renderTalents() {
+  const q = norm($("#talSearch").value), ty = $("#talType").value, lv = $("#talLevel").value;
+  const list = D.talents.filter(t => (!ty || t.type === ty) && (!lv || String(t.level) === lv) &&
+    (!q || norm(`${t.item} ${t.source} ${t.buff}`).includes(q)));
+  $("#talCount").textContent = `${list.length} itens`;
+  $("#talBody").innerHTML = list.slice(0, talLimit).map(t => `<tr>
+    <td style="white-space:nowrap">${TYPE_COLOR[t.type] ? typeChip(t.type) : `<span class="chip">${esc(t.type)}</span>`} <b>#${esc(t.level)}</b></td>
+    <td><button class="linkish" data-item="${esc(t.item)}">${esc(t.item)}</button></td>
+    <td>${t.source ? pokeLink(t.source) : '<span class="muted">–</span>'}</td>
+    <td class="num">${fmt(t.qty)}</td><td>${esc(t.buff)}</td></tr>`).join("") || `<tr><td colspan="5" class="empty">Nada encontrado.</td></tr>`;
+  $("#talMore").hidden = list.length <= talLimit;
+}
+["#talSearch", "#talType", "#talLevel"].forEach(s => $(s).addEventListener("input", () => { talLimit = 150; renderTalents(); }));
+$("#talMore").onclick = () => { talLimit += 300; renderTalents(); };
+
+/* ---------- DUNGEONS ---------- */
+function renderDens() {
+  const q = norm($("#denSearch").value), sort = $("#denSort").value;
+  let list = D.dens.filter(d => !q || norm([d.name, ...(d.mobs || []), ...d.drops].join(" ")).includes(q));
+  list = [...list].sort(sort === "name" ? (a, b) => a.name.localeCompare(b.name) : (a, b) => (b[sort] || 0) - (a[sort] || 0));
+  $("#denCount").textContent = `${list.length} dens`;
+  $("#denGrid").innerHTML = list.map(d => `<div class="card">
+    <div style="display:flex;gap:10px;align-items:center">${sprite(d.name).replace('class="sprite ', 'style="width:52px;height:52px;flex:none" class="sprite ')}
+      <div><strong style="font-size:16px">${esc(d.name)}</strong><div class="muted" style="font-size:13px">${d.players ? `${d.players} jogador${d.players > 1 ? "es" : ""}` : ""}${d.mobsCount ? ` · ${d.mobsCount} mobs` : ""}${d.time ? ` · ${esc(d.time)} min` : ""}</div></div></div>
+    <dl class="kv" style="margin:12px 0"><dt>XP</dt><dd>${fmt(d.xp)}</dd><dt>XP/h</dt><dd>${fmt(d.xph)}</dd></dl>
+    ${d.mobs?.length ? `<div class="chips" style="margin-bottom:8px">${d.mobs.map(m => `<button class="chip" data-poke="${esc(m)}">${esc(m)}</button>`).join("")}</div>` : ""}
+    <div class="chips">${d.drops.map(it => `<button class="chip" data-item="${esc(it.replace(/\s*\(.*\)\s*$/, ""))}" style="font-weight:500">${esc(it)}</button>`).join("")}</div>
+  </div>`).join("") || `<div class="empty">Nenhuma den encontrada.</div>`;
+}
+["#denSearch", "#denSort"].forEach(s => $(s).addEventListener("input", renderDens));
+$("#dgGrid").innerHTML = D.dungeons.map(d => `<div class="card"><div style="display:flex;justify-content:space-between;gap:8px"><strong>${esc(d.name)}</strong>${extLink(d.url, "Localização ↗")}</div>
+  <div class="chips" style="margin-top:10px">${d.hunts.map(h => `<button class="chip" data-poke="${esc(h)}">${esc(h)}</button>`).join("")}</div></div>`).join("");
+$("#dgOff").innerHTML = D.dungeonsDisabled.map(n => `<span class="chip">${esc(n)}</span>`).join("");
+$("#porygon").innerHTML = D.porygon.map(p => `<h3 style="margin-top:${p === D.porygon[0] ? 0 : 20}px">${esc(p.title)}</h3><p style="white-space:pre-line;margin:0">${esc(p.text)}</p>`).join("");
+
+/* ---------- TASKS ---------- */
+$("#linkedNote").innerHTML = linkify(C.linkedTasksInfo);
+fill("#linkedType", uniq(D.linked.map(l => l.type)));
+function renderLinked() {
+  const q = norm($("#linkedSearch").value), ty = $("#linkedType").value;
+  const list = D.linked.map((l, i) => ({ ...l, i: i + 1 })).filter(l => (!q || norm(l.name).includes(q)) && (!ty || l.type === ty));
+  $("#linkedCount").textContent = `${list.length} tasks`;
+  $("#linkedBody").innerHTML = list.map(l => `<tr><td class="num muted">${l.i}</td><td class="num">${fmt(l.qty)}</td><td>${pokeLink(l.name)}</td><td>${esc(l.type)}</td><td class="num">${l.kph ? fmt(l.kph) : "–"}</td><td>${extLink(l.url)}</td></tr>`).join("");
+}
+["#linkedSearch", "#linkedType"].forEach(s => $(s).addEventListener("input", renderLinked));
+$("#linkedRest").innerHTML = D.linkedRemaining.map(r => `<tr><td>${pokeLink(r.name)}</td><td>${tierChip(r.tier)}</td><td>${esc(r.where)}</td></tr>`).join("");
+
+function renderNpc() {
+  const q = norm($("#npcSearch").value);
+  const list = D.tasks.filter(t => t.npcs.length && (!q || norm(t.name + " " + t.npcs.map(n => n.npc).join(" ")).includes(q)));
+  $("#npcCount").textContent = `${list.length} Pokémon`;
+  $("#npcBody").innerHTML = list.map(t => `<tr><td>${pokeLink(t.name)}</td><td><div class="chips">${t.npcs.map(n => n.url ? `<a class="chip" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.npc)} ↗</a>` : `<span class="chip">${esc(n.npc)}</span>`).join("")}</div></td></tr>`).join("");
+}
+$("#npcSearch").addEventListener("input", renderNpc);
+
+const pokeList = s => s.split(/,\s*/).map(x => { const m = x.match(/^(\d+)\s+(.*)$/); return m ? `<span class="chip"><b>${m[1]}×</b> ${esc(m[2])}</span>` : `<span class="chip">${esc(x)}</span>`; }).join("");
+$("#hazardBody").innerHTML = D.hazard.map(h => `<tr><td><b>${esc(h.npc)}</b></td><td><div class="chips">${pokeList(h.task)}</div></td><td>${extLink(h.url)}</td></tr>`).join("");
+$("#gymBody").innerHTML = D.gym.map(g => `<tr><td><b>${esc(g.city)}</b></td><td>${esc(g.task1)}</td><td>${esc(g.task2)}</td><td>${extLink(g.url)}</td></tr>`).join("");
+$("#gymInfo").innerHTML = linkify(D.gymInfo);
+$("#gymLeaders").innerHTML = Object.entries(D.gymLeaders).map(([c, ps]) => `<div class="card team"><h4>${esc(c.toUpperCase())}</h4><div class="chips">${ps.filter(Boolean).map(p => `<span class="chip">${esc(p)}</span>`).join("")}</div></div>`).join("");
+$("#bhInfo").innerHTML = linkify(D.bh);
+
+/* ---------- ROCKET / POLICE ---------- */
+const teamCard = t => `<div class="card team"><h4>${esc(t.name)}</h4>${t.note ? `<p class="muted" style="font-size:13px;margin:0 0 8px">${esc(t.note)}</p>` : ""}
+  <ul>${t.members.map(m => `<li><span>${esc(m.npc)}</span><span>${esc(m.counter || "")}</span></li>`).join("")}</ul></div>`;
+$("#rocketGrid").innerHTML = D.rocket.map(teamCard).join("");
+$("#policeGrid").innerHTML = D.police.map(teamCard).join("");
+$("#rocketInfo").innerHTML = linkify(D.rocketInfo.replace(/\n{2,}/g, "\n"));
+$("#policeInfo").innerHTML = linkify(D.policeInfo.replace(/\n{2,}/g, "\n"));
+
+/* ---------- STAR ---------- */
+const starTiers = Object.keys(D.starLevel);
+const maxStar = C.maxStar || 5;
+fill("#starFrom", [...Array(maxStar).keys()], false);
+fill("#starTo", [...Array(maxStar).keys()].map(i => i + 1), false);
+fill("#starTier", starTiers, false);
+$("#starTier").value = "T1";
+// Mirrors the spreadsheet formula: each star needs 2 copies of the previous star level
+function starCost(tier, from, to, offset) {
+  const row = D.starLevel[tier];
+  const cost = k => row[k * 2 + offset];
+  let sumTo = 0, sumFrom = 0;
+  for (let k = from; k < to; k++) sumTo += cost(k) * 2 ** (to - k - 1);
+  for (let k = 0; k < from; k++) sumFrom += cost(k) * 2 ** (from - k - 1);
+  return (2 ** (to - from) - 1) * sumFrom + sumTo;
+}
+function renderStar() {
+  const from = +$("#starFrom").value, tier = $("#starTier").value;
+  let to = +$("#starTo").value;
+  if (to <= from) { to = from + 1; $("#starTo").value = to; }
+  $("#starDD").textContent = fmt(starCost(tier, from, to, 0));
+  $("#starKK").textContent = fmt(starCost(tier, from, to, 1));
+  $("#starPokes").textContent = fmt(2 ** to - 2 ** from);
+  const per = C.starDamagePerLevel[tier];
+  if (per == null) {
+    $("#starDmg").textContent = "–";
+    $("#starDmgNote").textContent = `Sem % configurado para ${tier} em config.json (starDamagePerLevel).`;
+  } else {
+    $("#starDmg").textContent = `+${fmt(per * to)}%`;
+    $("#starDmgNote").textContent = `${fmt(per)}% por estrela × ${to} ${to === 1 ? "estrela" : "estrelas"}` +
+      (from > 0 ? ` · ganho de +${fmt(per * (to - from))}% sobre a star atual (+${fmt(per * from)}%)` : "");
+  }
+}
+["#starFrom", "#starTo", "#starTier"].forEach(s => $(s).addEventListener("input", renderStar));
+$("#starInfo").textContent = D.starInfo;
+const starLv = [...Array(maxStar).keys()];
+$("#starTable").innerHTML = `<table><thead><tr><th>Tier</th>${starLv.map(i => `<th class="num">${i} → ${i + 1}</th>`).join("")}<th class="num">Dano por star</th></tr></thead><tbody>
+  ${starTiers.map(t => `<tr><td>${tierChip(t)}</td>${starLv.map(i => `<td class="num">${fmt(D.starLevel[t][i * 2])} 💎 / ${fmt(D.starLevel[t][i * 2 + 1])} 💸</td>`).join("")}<td class="num"><b>${C.starDamagePerLevel[t] != null ? "+" + fmt(C.starDamagePerLevel[t]) + "%" : "–"}</b></td></tr>`).join("")}</tbody></table>`;
+
+/* ---------- TABLES ---------- */
+const brokeNum = b => typeof b.max === "number" ? b.max : parseInt(String(b.max).replace(/\D/g, "")) || 0;
+const brokeMax = Math.max(...D.brokes.map(brokeNum));
+$("#brokeBody").innerHTML = D.brokes.map(b => `<tr><td>${tierChip(b.tier)}</td><td class="num"><b>${fmt(b.max)}</b></td><td style="width:45%"><div class="bar" style="width:${(brokeNum(b) / brokeMax * 100).toFixed(1)}%"></div></td></tr>`).join("");
+$("#brokeInfo").textContent = D.brokesInfo;
+
+const rateTiers = Object.keys(D.shinyRate[0].values);
+$("#shinyTable").innerHTML = `<table><thead><tr><th>Tier</th>${D.shinyRate.map(c => `<th class="num">${esc(c.label)}</th>`).join("")}</tr></thead><tbody>
+  ${rateTiers.map(t => `<tr><td>${tierChip(t)}</td>${D.shinyRate.map(c => `<td class="num">${typeof c.values[t] === "number" ? c.values[t].toLocaleString("pt-BR", { maximumFractionDigits: 1 }) : "–"}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
+$("#shinyForm").innerHTML = `Ajude a tabela a ser mais precisa, mande os dados do seu analyzer pelo <a href="${esc(D.shinyRateForm)}" target="_blank" rel="noopener">formulário ↗</a>. Obrigado! :)`;
+
+$("#runeGrid").innerHTML = D.runes.map(r => `<div class="card"><strong>${esc(r.name)}</strong>
+  <table style="margin-top:8px"><thead><tr><th>Nível</th><th class="num">Pontos</th><th class="num">Bônus</th></tr></thead><tbody>
+  ${r.levels.map(l => `<tr><td>${esc(l.level)}</td><td class="num">${fmt(l.points)}</td><td class="num">${esc(l.bonus ?? "–")}</td></tr>`).join("")}</tbody></table></div>`).join("");
+
+$("#dmgTable").innerHTML = `<table><thead><tr><th>Função</th>${D.damage.tiers.map(t => `<th class="num">${esc(t === "Legandary" ? "Legendary" : t)}</th>`).join("")}</tr></thead><tbody>
+  ${D.damage.rows.map(r => `<tr><td><b>${esc(r[0])}</b></td>${r.slice(1).map(v => `<td class="num">${fmt(v)}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
+$("#dmgNote").textContent = D.damage.note;
+$("#tierTops").innerHTML = Object.entries(D.tierHighlights).sort(([a], [b]) => tierSort(a, b)).map(([t, ps]) => `<div class="card"><div style="margin-bottom:10px">${tierChip(t)} <span class="muted" style="font-size:13px">${ps.length} Pokémon</span></div>
+  <div class="chips">${ps.map(p => `<button class="chip" data-poke="${esc(p)}">${esc(p)}</button>`).join("")}</div></div>`).join("");
+
+/* ---------- FAQ ---------- */
+function renderFaq() {
+  const q = norm($("#faqSearch").value);
+  const list = D.faq.filter(f => !q || norm(f.keys + " " + f.text).includes(q));
+  $("#faqCount").textContent = `${list.length} respostas`;
+  $("#faqList").innerHTML = list.map(f => `<div class="faq-item"><div class="keys">${f.keys.split(/\s+/).map(k => `<span class="chip">${esc(k)}</span>`).join("")}</div><div>${linkify(f.text)}</div></div>`).join("") || `<div class="empty">Nada encontrado.</div>`;
+}
+$("#faqSearch").addEventListener("input", renderFaq);
+
+/* ---------- init ---------- */
+renderDex(); renderItems(); renderBoost(); renderMedals(); renderTalents(); renderDens();
+renderLinked(); renderNpc(); renderStar(); renderFaq();
+route();
+}
+</script>
+</body>
+</html>
