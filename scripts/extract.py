@@ -285,12 +285,15 @@ FILES = {
     "damage.json": ["damage"],
     "faq.json": ["faq"],
 }
+# Hand-written files in data/ that don't come from the spreadsheet: kept as is and listed in the manifest
+MANUAL = ["hoenn-teams.json"]
+
 assigned = [k for keys in FILES.values() for k in keys]
 assert sorted(assigned) == sorted(data), f"unassigned keys: {set(data) ^ set(assigned)}"
 
 OUT_DIR.mkdir(exist_ok=True)
 for old_file in OUT_DIR.glob("*.json"):
-    if old_file.name not in FILES:
+    if old_file.name not in FILES and old_file.name not in MANUAL:
         old_file.unlink()
 for name, keys in FILES.items():
     path = OUT_DIR / name
@@ -298,7 +301,7 @@ for name, keys in FILES.items():
     print(f"  data/{name}: {', '.join(keys)} ({path.stat().st_size:,} bytes)")
 
 manifest = json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else {"config": []}
-manifest["data"] = [f"data/{name}" for name in FILES]
+manifest["data"] = [f"data/{name}" for name in [*FILES, *MANUAL]]
 MANIFEST.write_text(json.dumps({"data": manifest["data"], "config": manifest.get("config", [])}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 print("wrote", MANIFEST.name)
 
