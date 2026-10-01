@@ -520,7 +520,8 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px
 // manifest.json lists the files to load: data/*.json (generated from the spreadsheet)
 // and config/*.json (hand-editable settings). Each group is merged into one object.
 // Opened from disk (file://) the browser blocks fetch(), so bundle.js (scripts/build.py) is used instead.
-const loadJson = f => fetch(f).then(r => { if (!r.ok) throw new Error(f); return r.json(); });
+// cache: "no-cache" revalidates every file, so a new deploy never mixes fresh and stale JSON (GitHub Pages caches for 10 min)
+const loadJson = f => fetch(f, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(f); return r.json(); });
 const loadGroup = files => Promise.all(files.map(loadJson)).then(parts => Object.assign({}, ...parts));
 const bundle = window.PKA_BUNDLE;
 (location.protocol === "file:" && bundle
