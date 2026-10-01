@@ -181,6 +181,19 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .star-dmg .stat { color: var(--accent); }
 .bar { height: 8px; border-radius: 4px; background: var(--accent); min-width: 2px; }
 .muted { color: var(--muted); }
+.ht-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 10px; }
+.ht-head h4 { margin: 0 6px 0 0; font-size: 16px; }
+.ht h5 { margin: 14px 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.ht-list { list-style: none; margin: 0; padding: 0; }
+.ht-list li { display: flex; align-items: center; gap: 8px; padding: 4px 0; border-top: 1px dashed var(--border); font-size: 14px; }
+.ht-list li:first-child { border-top: 0; }
+.ht-list .sprite { width: 36px; height: 36px; flex: none; }
+.ht-list .sprite .ph { font-size: 11px; }
+.ht-list .n { flex: 1 1 auto; min-width: 0; }
+.ht-list .n small { display: block; color: var(--muted); font-size: 12px; }
+.ht-list .chips { flex: none; justify-content: flex-end; gap: 4px; }
+.ht-pc { margin: 12px 0 0; font-size: 14px; display: grid; gap: 4px; }
+.ht-pc b { margin-right: 4px; }
 
 /* ---------- dialog ---------- */
 dialog {
@@ -219,7 +232,7 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px
       <div class="logo" aria-hidden="true"></div>
       <div class="brand">
         <h1>Pokédex PokeAlliance</h1>
-        <p>Planilha pública por Mts Vitor, agora em formato de site</p>
+        <p>Planilha pública por Mts Vitor, agora em formato de site por The Forgiven - Titan 3</p>
       </div>
       <div class="spacer"></div>
       <button class="icon-btn" id="themeBtn" title="Alternar tema" aria-label="Alternar tema">
@@ -235,6 +248,7 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px
       <a href="#dungeons">Dungeons</a>
       <a href="#tasks">Tasks</a>
       <a href="#batalhas">Rocket &amp; Police</a>
+      <a href="#hoenn">Times Hoenn</a>
       <a href="#star">Star</a>
       <a href="#tabelas">Tabelas</a>
       <a href="#faq">FAQ &amp; Guias</a>
@@ -416,6 +430,17 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px
     <div class="pane" data-pane="police"><div class="note" id="policeInfo"></div><div class="grid" id="policeGrid" style="margin-top:14px"></div></div>
   </section>
 
+  <!-- TIMES HOENN -->
+  <section class="view" id="view-hoenn">
+    <div class="view-head">
+      <h2>Times para Hoenn</h2>
+      <p>Rotações mono elemento baratas para quem está começando em Hoenn: time inicial e o que pode melhorar depois.</p>
+    </div>
+    <div class="note" id="htNotes"></div>
+    <div class="chips" id="htFilter" style="margin:16px 0"></div>
+    <div class="grid" id="htGrid"></div>
+  </section>
+
   <!-- STAR -->
   <section class="view" id="view-star">
     <div class="view-head">
@@ -486,7 +511,7 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 24px
   </section>
 </main>
 
-<footer>Dados da planilha "Pokedex Pública PokeAlliance" por <b>Mts Vitor</b>. Sprites: pokemondb.net.</footer>
+<footer>Dados da planilha "Pokedex Pública PokeAlliance" por <b>Mts Vitor</b>. Site criado e informações compiladas por <b>The Forgiven - Titan 3</b>. Sprites: pokemondb.net.</footer>
 
 <dialog id="dlg" aria-labelledby="dlgTitle"></dialog>
 
@@ -837,6 +862,24 @@ $("#policeGrid").innerHTML = D.police.map(teamCard).join("");
 $("#rocketInfo").innerHTML = linkify(D.rocketInfo.replace(/\n{2,}/g, "\n"));
 $("#policeInfo").innerHTML = linkify(D.policeInfo.replace(/\n{2,}/g, "\n"));
 
+/* ---------- TIMES HOENN ---------- */
+const HT = D.hoennTeams;
+$("#htNotes").innerHTML = `${HT.notes.map(n => `• ${esc(n)}`).join("\n")}
+<b>Créditos:</b> ${esc(HT.credits)} · <a href="${esc(HT.source)}" target="_blank" rel="noopener">Documento original ↗</a>`;
+const htMember = p => `<li>${sprite(p.name)}<span class="n">${pokeLink(p.name)}${p.note ? `<small>${esc(p.note)}</small>` : ""}</span>
+  <span class="chips">${p.stars ? `<span class="chip">${"★".repeat(p.stars)}</span>` : ""}${p.offtank ? `<span class="chip">Offtank</span>` : ""}${tierChip(p.tier)}</span></li>`;
+const htCard = t => `<div class="card ht"><div class="ht-head"><h4>${esc(t.element)}</h4>${t.types.map(typeChip).join("")}${t.incomplete ? `<span class="chip">Incompleta</span>` : ""}</div>
+  ${t.start.length ? `${t.incomplete ? "" : "<h5>Time inicial</h5>"}<ul class="ht-list">${t.start.map(htMember).join("")}</ul>` : ""}
+  ${t.upgrades ? `<h5>O que pode melhorar</h5><ul class="ht-list">${t.upgrades.map(htMember).join("")}</ul>` : ""}
+  ${t.note ? `<p class="muted" style="margin:0">${esc(t.note)}</p>` : ""}
+  ${t.pros || t.cons ? `<div class="ht-pc">${t.pros ? `<div><b>Prós:</b>${esc(t.pros)}</div>` : ""}${t.cons ? `<div><b>Contras:</b>${esc(t.cons)}</div>` : ""}</div>` : ""}</div>`;
+let htSel = "";
+function renderHoenn() {
+  $("#htFilter").innerHTML = ["", ...HT.teams.map(t => t.element)].map(e => `<button class="chip" data-ht="${esc(e)}" aria-pressed="${e === htSel}"${e === htSel ? ` style="border-color:var(--accent)"` : ""}>${esc(e || "Todos")}</button>`).join("");
+  $("#htGrid").innerHTML = HT.teams.filter(t => !htSel || t.element === htSel).map(htCard).join("");
+}
+$("#htFilter").addEventListener("click", e => { const b = e.target.closest("[data-ht]"); if (b) { htSel = b.dataset.ht; renderHoenn(); } });
+
 /* ---------- STAR ---------- */
 const starTiers = Object.keys(D.starLevel);
 const maxStar = C.maxStar || 5;
@@ -908,7 +951,7 @@ $("#faqSearch").addEventListener("input", renderFaq);
 
 /* ---------- init ---------- */
 renderDex(); renderItems(); renderBoost(); renderMedals(); renderTalents(); renderDens();
-renderLinked(); renderNpc(); renderStar(); renderFaq();
+renderLinked(); renderNpc(); renderHoenn(); renderStar(); renderFaq();
 route();
 }
 </script>

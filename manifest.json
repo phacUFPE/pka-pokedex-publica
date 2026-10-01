@@ -21,7 +21,8 @@
     "data/shiny-rate.json",
     "data/runes.json",
     "data/damage.json",
-    "data/faq.json"
+    "data/faq.json",
+    "data/hoenn-teams.json"
   ],
   "config": [
     "config/ui.json",

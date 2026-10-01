@@ -1,0 +1,836 @@
+{
+  "hoennTeams": {
+    "source": "https://docs.google.com/document/d/1mVsLDJnSddFdjA3r_Gm66L9E5VVb1nAm",
+    "credits": "Shaolin Pig Slayer - MOON",    "notes": [
+      "Esse guia é para iniciantes: são sugestões de times baratos para iniciar Hoenn. Não são os times ideais nem os melhores possíveis, são os mais acessíveis.",
+      "São sugeridos times mono elemento por aumentarem as opções de hunt.",
+      "Os Pokémon dessa lista foram testados; os poucos que não foram estão indicados. Se falta alguma opção, é por falta de teste.",
+      "Em todas as rotações você pode encaixar o Shiny Smeargle do elemento da rotação: é um T1 com bom dano e CDs de SR, mas morre facilmente.",
+      "Shiny Hitmonchan é um Pokémon coringa: com o Elemental Hands ele entra em 5 rotações (Fighting, Fire, Electric, Ice e Ghost)."
+    ],
+    "teams": [
+      {
+        "element": "Dark / Ghost",
+        "types": [
+          "Dark",
+          "Ghost"
+        ],
+        "start": [
+          {
+            "name": "Mightyena",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Gengar",
+            "tier": "T2"
+          },
+          {
+            "name": "Shiny Hitmonchan",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Cacturne",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Persian",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Umbreon",
+            "tier": "T1"
+          },
+          {
+            "name": "Dusknoir",
+            "tier": "T1"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Houndoom",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Hydreigon",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Misdreavus",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Tauros",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Dusknoir",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Time forte com muitos SR",
+        "cons": "Offtanks ruins, normalmente caro"
+      },
+      {
+        "element": "Electric",
+        "types": [
+          "Electric"
+        ],
+        "start": [
+          {
+            "name": "Luxray",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Pachirisu",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Raichu",
+            "tier": "T1"
+          },
+          {
+            "name": "Electabuzz",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Ampharos",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Jolteon",
+            "tier": "T1"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Luxray",
+            "tier": "Super Rare",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Pachirisu",
+            "tier": "Super Rare",
+            "offtank": true
+          }
+        ],
+        "pros": "Time forte, bem balanceado e barato",
+        "cons": "Hunts underwater, aparentemente thunder não está batendo 2x em água isso dificulta hunts desse elemento."
+      },
+      {
+        "element": "Fairy",
+        "types": [
+          "Fairy"
+        ],
+        "start": [
+          {
+            "name": "Mega Clefable",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Mimikyu",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Wigglytuff",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Togetic",
+            "tier": "T3"
+          },
+          {
+            "name": "Togetic",
+            "tier": "T3"
+          },
+          {
+            "name": "Shiny Delcatty",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Granbull",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Sylveon",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Florges",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Mimikyu",
+            "tier": "Super Rare",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Florges",
+            "tier": "Super Rare",
+            "offtank": true
+          }
+        ],
+        "pros": "Muitos pokémons T2 sendo “acessível”",
+        "cons": "Nenhum muito relevante"
+      },
+      {
+        "element": "Fighting",
+        "types": [
+          "Fighting"
+        ],
+        "start": [
+          {
+            "name": "Shiny Hitmontop",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Hitmonlee",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Hitmonchan",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Poliwrath",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Heracross",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Ledian",
+            "tier": "T3",
+            "stars": 3
+          },
+          {
+            "name": "Machamp",
+            "tier": "T3",
+            "stars": 3
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Machamp",
+            "tier": "Super Rare",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Kangaskhan",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Hariyama",
+            "tier": "T1",
+            "offtank": true
+          }
+        ],
+        "pros": "Time forte, bem balanceado e com muitas opções de hunt",
+        "cons": "Stuns com área pequena e muitos attacks frontais, exige mais habilidade do player"
+      },
+      {
+        "element": "Fire",
+        "types": [
+          "Fire"
+        ],
+        "start": [
+          {
+            "name": "Arcanine",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Infernape",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Ninetales",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Rapidash",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Typhlosion",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Charizard",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Flareon",
+            "tier": "T1"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Infernape",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Arcanine",
+            "tier": "Super Rare",
+            "offtank": true
+          }
+        ],
+        "pros": "Hunts boas e muitas opções de pokémons pra encaixar na rotação",
+        "cons": "Tende a ser caro mesmo que não haja demanda muito maior do que o normal"
+      },
+      {
+        "element": "Flying",
+        "types": [
+          "Flying"
+        ],
+        "start": [
+          {
+            "name": "Shiny Pidgeot",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Farfetch'd",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Beautifly",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Mantine",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Dodrio",
+            "tier": "T1"
+          },
+          {
+            "name": "Gliscor",
+            "tier": "T1",
+            "offtank": true
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Swellow",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Gliscor",
+            "tier": "Super Rare",
+            "offtank": true
+          }
+        ],
+        "pros": "Time forte, bem balanceado, combos rápidos e em grande área exigindo pouca habilidade do jogador",
+        "cons": "Caro e pouco acessível, muito provavelmente você terá que projetar seus próprios pokémons ou pagar caro por eles."
+      },
+      {
+        "element": "Grass",
+        "types": [
+          "Grass"
+        ],
+        "start": [
+          {
+            "name": "Tangrowth",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Gogoat",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Victreebel",
+            "tier": "T3",
+            "stars": 3
+          },
+          {
+            "name": "Shiny Tangela",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Tropius",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Venusaur",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Meganium",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Bellossom",
+            "tier": "T3",
+            "stars": 3
+          },
+          {
+            "name": "Shiny Exeggutor",
+            "tier": "T2",
+            "stars": 2
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Tangrowth",
+            "tier": "Super Rare",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Gogoat",
+            "tier": "Super Rare",
+            "offtank": true
+          }
+        ],
+        "pros": "Provavelmente o time mais forte e ao mesmo tempo o mais barato, o primeiro a fechar 2x2x2, pokémons t2 e t3 absurdamente fortes",
+        "cons": "Por ser tão acessível e forte as melhores hunts são muito cheias, hunts underwater"
+      },
+      {
+        "element": "Ground",
+        "types": [
+          "Ground"
+        ],
+        "start": [
+          {
+            "name": "Shiny Steelix",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Torterra",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Rhydon",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Nidoqueen",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Marowak",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Ursaring",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Piloswine",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Camerupt",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Whiscash",
+            "tier": "T1"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Torterra",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Pupitar",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Time forte, bem balanceado, com muitas opções de hunt e que exige pouca habilidade do player",
+        "cons": "Por ter muitos pontos positivos acaba sendo bem procurado o que encarece os pokémons"
+      },
+      {
+        "element": "Ice",
+        "types": [
+          "Ice"
+        ],
+        "start": [
+          {
+            "name": "Shiny Lapras",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Jynx",
+            "tier": "T1"
+          },
+          {
+            "name": "Abomasnow",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Glaceon",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Hitmonchan",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Smeargle",
+            "tier": "T1",
+            "note": "Ice, CD de SR"
+          },
+          {
+            "name": "Castform Ice",
+            "tier": "T2",
+            "note": "Não testado"
+          },
+          {
+            "name": "Shiny Castform Ice",
+            "tier": "T1",
+            "note": "Não testado"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Walrein",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Abomasnow",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Muitas hunts exclusivas inclusive 2 UR",
+        "cons": "Não tem defesa a nada, difícil de montar. Compensa vc ter offtanks de outros elementos e usar os ice como burst damage"
+      },
+      {
+        "element": "Poison",
+        "types": [
+          "Poison"
+        ],
+        "start": [
+          {
+            "name": "Shiny Muk",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Nidoking",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Qwilfish",
+            "tier": "T3",
+            "stars": 3,
+            "offtank": true
+          },
+          {
+            "name": "Swalot",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Tentacruel",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Garbodor",
+            "tier": "T1"
+          },
+          {
+            "name": "Toxicroak",
+            "tier": "T2",
+            "stars": 2
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Toxicroak",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Seviper",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Time barato e razoavelmente fácil de conseguir",
+        "cons": "Caça poucos elementos, melhor mesclar com outros elementos"
+      },
+      {
+        "element": "Psychic",
+        "types": [
+          "Psychic"
+        ],
+        "start": [
+          {
+            "name": "Shiny Espeon",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Smeargle",
+            "tier": "T1",
+            "note": "Psychic, CD de SR"
+          },
+          {
+            "name": "Shiny Wobbuffet",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Slowking",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Alakazam",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Shiny Mr. Mime",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Wobbuffet",
+            "tier": "T2",
+            "note": "Não testado"
+          }
+        ],
+        "pros": "Francamente não vejo nenhum por hora.",
+        "cons": "Tem poucas opções de pokémons e caça poucas hunts"
+      },
+      {
+        "element": "Rock",
+        "types": [
+          "Rock"
+        ],
+        "start": [
+          {
+            "name": "Rhyperior",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Golem",
+            "tier": "T1"
+          },
+          {
+            "name": "Rampardos",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Lunatone",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Magcargo",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Miltank",
+            "tier": "T1"
+          },
+          {
+            "name": "Tyranitar",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Solrock",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Kabutops",
+            "tier": "T1",
+            "note": "Não testado"
+          },
+          {
+            "name": "Shiny Omastar",
+            "tier": "T1",
+            "note": "Não testado"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Armaldo",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Rotação forte de dano/def com excelentes offtanks, pokémons baratos pra estrelar, caça o próprio SR de hoenn",
+        "cons": "Stuns demorados e com delay, sem muitas opções de variação de pokémons"
+      },
+      {
+        "element": "Steel",
+        "types": [
+          "Steel"
+        ],
+        "start": [
+          {
+            "name": "Shiny Forretress",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Lucario",
+            "tier": "T2",
+            "stars": 2,
+            "offtank": true
+          },
+          {
+            "name": "Magneton",
+            "tier": "T3",
+            "stars": 3
+          },
+          {
+            "name": "Shiny Metang",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Magneton",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Mawile",
+            "tier": "T1"
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Skarmory",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Aggron",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Pokémons com cd baixo",
+        "cons": "Melhor mesclar com outros elementos"
+      },
+      {
+        "element": "Water",
+        "types": [
+          "Water"
+        ],
+        "start": [
+          {
+            "name": "Shiny Blastoise",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Vaporeon",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Milotic",
+            "tier": "T2",
+            "stars": 2
+          },
+          {
+            "name": "Shiny Feraligatr",
+            "tier": "T1",
+            "offtank": true
+          },
+          {
+            "name": "Shiny Politoed",
+            "tier": "T1"
+          },
+          {
+            "name": "Shiny Starmie",
+            "tier": "T2",
+            "stars": 2
+          }
+        ],
+        "upgrades": [
+          {
+            "name": "Shiny Sharpedo",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Kingdra",
+            "tier": "Super Rare"
+          }
+        ],
+        "pros": "Time forte, bem balanceado e barato"
+      },
+      {
+        "element": "Bug",
+        "types": [
+          "Bug"
+        ],
+        "start": [
+          {
+            "name": "Shiny Pinsir",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Shiny Scyther",
+            "tier": "Super Rare"
+          },
+          {
+            "name": "Scolipede",
+            "tier": "T2"
+          }
+        ],
+        "incomplete": true
+      },
+      {
+        "element": "Dragon",
+        "types": [
+          "Dragon"
+        ],
+        "start": [],
+        "note": "Loucura, nem inventa.",
+        "incomplete": true
+      }
+    ]
+  }
+}
