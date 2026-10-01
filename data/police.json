@@ -347,7 +347,66 @@
           "counter": "Fly/Psy"
         }
       ]
+    },
+    {
+      "name": "CAPTAIN CHITIN",
+      "members": [
+        {
+          "npc": "sh Forretress",
+          "counter": "Fire"
+        },
+        {
+          "npc": "sh Ariados",
+          "counter": "Fire/Fly/Psy/Rock"
+        },
+        {
+          "npc": "sh Scyther",
+          "counter": "Rock"
+        },
+        {
+          "npc": "sh Scizor",
+          "counter": "Fire"
+        },
+        {
+          "npc": "sh Pinsir",
+          "counter": "Fire/Fly/Rock"
+        },
+        {
+          "npc": "sh Heracross",
+          "counter": "Fly/Psy/Fire"
+        }
+      ]
+    },
+    {
+      "name": "JENNY",
+      "members": [
+        {
+          "npc": "Arcanine",
+          "counter": "Water/Ground"
+        },
+        {
+          "npc": "Houndoom",
+          "counter": "Fight/Wa/Gr/Ro"
+        },
+        {
+          "npc": "Growlithe",
+          "counter": "Wa/Gr/Rock"
+        },
+        {
+          "npc": "Manectric",
+          "counter": "Ground"
+        },
+        {
+          "npc": "Lucario",
+          "counter": "Fire/Fight/Gr"
+        },
+        {
+          "npc": "Mightyena",
+          "counter": "Fight/Bug/Fairy"
+        }
+      ],
+      "note": "Para batalhar com a Jenny, é necessário ter ganhado 130 batalhas contra os demais membros da Police"
     }
   ],
-  "policeInfo": "Pokemons da esquerda são os do NPC. \nOs da direita são os recomendados\n\nPrecisa ter ganhado a batalha com o Giovanni pra iniciar\n\nLocalização:https://imgur.com/a/Fbmmqeh"
+  "policeInfo": "Pokemons da esquerda são os do NPC. \nOs da direita são os recomendados\n\nPrecisa ter ganhado a batalha com o Giovanni pra iniciar\n\nLocalização:https://imgur.com/a/Fbmmqeh\n\nRecompensas da Jenny:\n- 100 Bronze Police Token;\n- 100 Silver Police Token;\n- 100 Gold Police Token;\n- 1 Held Tier 7;\n- 3 Held Tier 6;\n- 10kk xp."
 }

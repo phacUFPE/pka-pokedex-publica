@@ -82,8 +82,13 @@ data["medals"] = [
 ]
 
 # ---- Hunt locations ----
+# The "Normal" column holds a map link or, when there is no map, a written place ("Safari", "Norte de Olivine")
+def place(v):
+    return v if isinstance(v, str) and not url(v) and v.strip() not in ("-", "Não tem") else None
+
+
 data["locations"] = [
-    {"name": r[0], "wild": url(r[1]), "normal": url(r[2]), "hoenn": url(r[3])}
+    {"name": r[0], "wild": url(r[1]), "normal": url(r[2]), "hoenn": url(r[3]), "where": place(r[2])}
     for r in rows("Localizações", cols=4)
     if r[0]
 ]
@@ -193,7 +198,8 @@ def teams(sheet, bands):
                 b = clean(ws.cell(row=rr, column=col + 1).value)
                 if a:
                     members.append({"npc": a, "counter": b})
-            out.append({"name": name, "members": members})
+            if members:  # skips loose notes sitting in a header cell (e.g. Police G25)
+                out.append({"name": name, "members": members})
     return out
 
 
@@ -207,7 +213,10 @@ data["rocket"].append({
     ],
 })
 data["rocketInfo"] = clean(wb["Rocket"]["L1"].value)
-data["police"] = teams("Police", [(1, 2, 7), (9, 10, 15), (17, 18, 23)])
+data["police"] = teams("Police", [(1, 2, 7), (9, 10, 15), (17, 18, 23), (25, 26, 31)])
+for t in data["police"]:
+    if t["name"] == "JENNY":
+        t["note"] = clean(wb["Police"]["G25"].value)
 data["policeInfo"] = clean(wb["Police"]["L1"].value)
 
 # ---- Hazard ----
