@@ -4,2557 +4,2983 @@
       "name": "Bulbasaur",
       "wild": null,
       "normal": "https://imgur.com/a/jcpzOgr",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ivysaur",
       "wild": null,
       "normal": "https://imgur.com/a/XEfXuD8",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Venusaur",
       "wild": "https://imgur.com/a/QZY9tMI",
       "normal": "https://imgur.com/a/zRcrSLP",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Charmander",
       "wild": null,
       "normal": "https://imgur.com/a/8vGvdYp",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Charmelion",
       "wild": null,
       "normal": "https://imgur.com/a/5ZdzM08",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Charizard",
       "wild": "https://imgur.com/a/thSWZiw",
       "normal": "https://imgur.com/a/ksXMwHN",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Squirtle",
       "wild": null,
       "normal": "https://imgur.com/a/8ZPHQzh",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Wartortle",
       "wild": null,
       "normal": "https://imgur.com/a/wXrfm6F",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Blastoise",
       "wild": "https://imgur.com/a/H98mIzg",
       "normal": "https://imgur.com/a/o6O5mnt",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Caterpie",
       "wild": null,
       "normal": "https://imgur.com/a/FRZPc0L",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Metapod",
       "wild": null,
       "normal": "https://imgur.com/a/Md3zxUt",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Butterfree",
       "wild": null,
       "normal": "https://imgur.com/a/IAhK3th",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Weedle",
       "wild": null,
       "normal": "https://imgur.com/a/3UGhQN6",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kakuna",
       "wild": null,
       "normal": "https://imgur.com/a/u3FmFya",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Beedrill",
       "wild": null,
       "normal": "https://imgur.com/a/1F8OZPT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pidgey",
       "wild": null,
       "normal": "https://imgur.com/a/ANHSsgY",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pidgeotto",
       "wild": null,
       "normal": "https://imgur.com/a/yq5WqUg",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pidgeot",
       "wild": "https://imgur.com/a/mZdWvFw",
       "normal": "https://imgur.com/a/SmDawr1",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rattata",
       "wild": null,
       "normal": "https://imgur.com/a/ZyszZOZ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Raticate",
       "wild": null,
       "normal": "https://imgur.com/a/ZyszZOZ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Spearow",
       "wild": null,
       "normal": "https://imgur.com/a/ANHSsgY",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Fearow",
       "wild": null,
       "normal": "https://imgur.com/a/NVXqWOp",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ekans",
       "wild": null,
       "normal": "https://imgur.com/a/X7pm0Qb",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Arbok",
       "wild": null,
       "normal": "https://imgur.com/a/urtC1Gz",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pikachu",
       "wild": null,
       "normal": "https://imgur.com/a/eMjPulX",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Raichu",
       "wild": "https://imgur.com/a/clP3jSD",
       "normal": "https://imgur.com/a/tVt9b2v",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sandshrew",
       "wild": null,
       "normal": "https://imgur.com/a/hqHxs3c",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sandslash",
       "wild": "https://imgur.com/a/d4z4t8M",
       "normal": "https://imgur.com/a/jyNtIqk",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidoran female",
       "wild": null,
       "normal": "https://imgur.com/a/fZJqgPy",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidorina",
       "wild": null,
       "normal": "https://imgur.com/a/x0itz9y",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidoqueen",
       "wild": "https://imgur.com/a/lnONjUq",
       "normal": "https://imgur.com/a/UiIeSQX",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidoran Male",
       "wild": null,
       "normal": "https://imgur.com/a/fZJqgPy",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidorino",
       "wild": null,
       "normal": "https://imgur.com/a/x0itz9y",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Nidoking",
       "wild": "https://imgur.com/a/HWxtEs3",
       "normal": "https://imgur.com/a/6fIH7lZ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Clefairy",
       "wild": null,
       "normal": "https://imgur.com/a/HipDvE8",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Clefable",
       "wild": "https://imgur.com/a/sXQlso1",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Escada na DG de Floette em Pewter"
     },
     {
       "name": "Vulpix",
       "wild": null,
       "normal": "https://imgur.com/a/G4NlFHG",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ninetales",
       "wild": "https://imgur.com/a/2uMZqFZ",
       "normal": "https://imgur.com/a/Rh21XkV",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Jigglypuff",
       "wild": null,
       "normal": "https://imgur.com/a/HipDvE8",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Wigglytuff",
       "wild": "https://imgur.com/a/FuZNCOC",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Escada na DG de Folette em Pewter"
     },
     {
       "name": "Zubat",
       "wild": null,
       "normal": "https://imgur.com/a/RlR6LYU",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Golbat",
       "wild": null,
       "normal": "https://imgur.com/a/uvfPxaO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Oddish",
       "wild": null,
       "normal": "https://imgur.com/a/2SuUURl",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Gloom",
       "wild": null,
       "normal": "https://imgur.com/a/TaH2l6m",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Vileplume",
       "wild": null,
       "normal": "https://imgur.com/a/iOsQeVF",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Paras",
       "wild": null,
       "normal": "https://imgur.com/a/tv3nErv",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Parasect",
       "wild": null,
       "normal": "https://imgur.com/a/tv3nErv",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Venonat",
       "wild": null,
       "normal": "https://imgur.com/a/X5fPhhu",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Venomoth",
       "wild": "https://imgur.com/a/pfHx2qk",
       "normal": "https://imgur.com/a/09DbkdU",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Diglett",
       "wild": null,
       "normal": "https://imgur.com/a/oqtqJb4",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dugtrio",
       "wild": null,
       "normal": "https://imgur.com/a/qAQiMyS",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Meowth",
       "wild": null,
       "normal": "https://imgur.com/a/ZaKbHhf",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Persian",
       "wild": "https://imgur.com/a/B7jUmCO",
       "normal": "https://imgur.com/a/pCa1RXB",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Psyduck",
       "wild": null,
       "normal": "https://imgur.com/a/ndO8iRQ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Golduck",
       "wild": null,
       "normal": "https://youtu.be/jTEe_aB8h-A",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Mankey",
       "wild": null,
       "normal": "https://imgur.com/a/4E7gOtq",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Primeape",
       "wild": null,
       "normal": "https://imgur.com/a/4E7gOtq",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Growlithe",
       "wild": null,
       "normal": "https://imgur.com/a/yAYRe4r",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Arcanine",
       "wild": "https://imgur.com/a/NnkwV5t",
       "normal": "https://imgur.com/a/InCkrp9",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Poliwag",
       "wild": null,
       "normal": "https://imgur.com/a/LmUUKug",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Poliwhirl",
       "wild": null,
       "normal": "https://imgur.com/a/4pP85lz",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Poliwrath",
       "wild": "https://imgur.com/a/c9ewG6a",
       "normal": "https://imgur.com/a/IyWzoPx",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Abra",
       "wild": null,
       "normal": "https://imgur.com/a/ekO6c8T",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kadabra",
       "wild": null,
       "normal": "https://imgur.com/a/G7qjSsO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Alakazam",
       "wild": "https://imgur.com/a/OEmy8zV",
       "normal": "https://imgur.com/a/n2TjM6f",
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Machop",
       "wild": null,
       "normal": "https://imgur.com/a/C6BDrQk",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Machoke",
       "wild": null,
       "normal": "https://imgur.com/a/C6BDrQk",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Machamp",
       "wild": "https://imgur.com/a/yB63tms",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Norte de Lavender, último andar"
     },
     {
       "name": "Bellsprout",
       "wild": null,
       "normal": "https://imgur.com/a/MnFL6no",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Weepinbell",
       "wild": null,
       "normal": "https://imgur.com/a/Xw7aLDs",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Victreebel",
       "wild": null,
       "normal": "https://imgur.com/a/oL0tt9a",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tentacool",
       "wild": null,
       "normal": "https://imgur.com/a/UadRpGw",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tentacruel",
       "wild": "https://imgur.com/a/1MIh0TT",
       "normal": "https://imgur.com/a/1MIh0TT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Geodude",
       "wild": null,
       "normal": "https://imgur.com/a/IhJ17iJ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Graveler",
       "wild": null,
       "normal": "https://imgur.com/a/SHzJxH4",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Golem",
       "wild": "https://imgur.com/a/rg5qYI4",
       "normal": "https://imgur.com/a/1JOCaQq",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ponyta",
       "wild": null,
       "normal": "https://imgur.com/a/Wj6MnzA",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rapidash",
       "wild": "https://imgur.com/a/lwqRvJB",
       "normal": "https://imgur.com/a/wtXPt06",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Slowpoke",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Poço direita de Azalea"
     },
     {
       "name": "Slowbro",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Poço direita de Azalea"
     },
     {
       "name": "Magnemite",
       "wild": null,
       "normal": "https://imgur.com/a/ZNQjOvj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Magneton",
       "wild": "https://imgur.com/a/fbJrvin",
       "normal": "https://imgur.com/a/ZNQjOvj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Farfetch'd",
       "wild": "https://imgur.com/a/mZdWvFw",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Direita de Fuchsia"
     },
     {
       "name": "Doduo",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Esquerda de Viridian"
     },
     {
       "name": "Dodrio",
       "wild": "https://imgur.com/a/mZdWvFw",
       "normal": "https://imgur.com/a/8rw5VI3",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Seel",
       "wild": null,
       "normal": "https://imgur.com/a/0FU7pxA",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dewgong",
       "wild": "https://imgur.com/a/AWD6nTs",
       "normal": "https://imgur.com/a/6S3V66E",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Grimer",
       "wild": null,
       "normal": "https://imgur.com/a/vgGrrfT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Muk",
       "wild": "https://imgur.com/a/vgGrrfT",
       "normal": "https://imgur.com/a/vgGrrfT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Shellder",
       "wild": null,
       "normal": "https://imgur.com/a/mHLB6sh",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cloyster",
       "wild": "https://imgur.com/a/JxKX8lv",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Ilha de gelo sudeste de Kanto"
     },
     {
       "name": "Gastly",
       "wild": null,
       "normal": "https://imgur.com/a/9zmYETV",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Haunter",
       "wild": null,
       "normal": "https://imgur.com/a/WeJwwK9",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Gengar",
       "wild": "https://imgur.com/a/8auiFkj",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Onix",
       "wild": null,
       "normal": "https://imgur.com/a/XRtE7Ns",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Drowzee",
       "wild": null,
       "normal": "https://imgur.com/a/H8LgV6N",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Hypno",
       "wild": null,
       "normal": "https://imgur.com/a/c500gBU",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Krabby",
       "wild": null,
       "normal": "https://imgur.com/a/9CsLe4f",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kingler",
       "wild": null,
       "normal": "https://imgur.com/a/RJTlGC2",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Voltorb",
       "wild": null,
       "normal": "https://imgur.com/a/ZNQjOvj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Electrode",
       "wild": null,
       "normal": "https://imgur.com/a/ZNQjOvj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Exeggcute",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Esquerda de Viridian"
     },
     {
       "name": "Exeggutor",
       "wild": "https://imgur.com/a/Jh715JE",
       "normal": "https://imgur.com/a/oelxrIL",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cubone",
       "wild": null,
       "normal": "https://imgur.com/a/Q6i4UqM",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Marowak",
       "wild": "https://imgur.com/a/AYaHOY2",
       "normal": "https://imgur.com/a/VrqZwDG",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Hitmonlee",
       "wild": "https://imgur.com/a/pjIUv00",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Hitmonchan",
       "wild": "https://imgur.com/a/pjIUv00",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Lickitung",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Safari"
     },
     {
       "name": "Koffing",
       "wild": null,
       "normal": "https://imgur.com/a/vgGrrfT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Weezing",
       "wild": null,
       "normal": "https://imgur.com/a/vgGrrfT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rhyhorn",
       "wild": null,
       "normal": "https://imgur.com/a/cPbYaoO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rhydon",
       "wild": "https://imgur.com/a/P6cK6PD",
       "normal": "https://imgur.com/a/sROG59a",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Chansey",
       "wild": null,
       "normal": "https://imgur.com/a/njzmTdU",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tangela",
       "wild": "https://imgur.com/a/dtwFHj6",
       "normal": "https://imgur.com/a/IZyOqys",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kangaskhan",
       "wild": "https://imgur.com/a/j21SPSA",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Safari"
     },
     {
       "name": "Horsea",
       "wild": null,
       "normal": "https://imgur.com/a/vl4bFGw",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Seadra",
       "wild": null,
       "normal": "https://imgur.com/a/SBsknJ7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Goldeen",
       "wild": null,
       "normal": "https://imgur.com/a/0ZHbtgY",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Seaking",
       "wild": null,
       "normal": "https://imgur.com/a/kd1pFE9",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Staryu",
       "wild": null,
       "normal": "https://imgur.com/a/mNdE7Lo",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Starmie",
       "wild": "https://imgur.com/a/ZaL8AAc",
       "normal": "https://imgur.com/a/YOVObyR",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Mr. Mime",
       "wild": "https://imgur.com/a/bIuz6Tm",
       "normal": "https://imgur.com/a/yn32FNm",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Scyther",
       "wild": "https://imgur.com/a/df36NrE",
       "normal": "https://imgur.com/a/j21SPSA",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Jynx",
       "wild": "https://imgur.com/a/3LppiO7",
       "normal": "https://imgur.com/a/4fLbygt",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Electabuzz",
       "wild": "https://imgur.com/a/clP3jSD",
       "normal": "https://imgur.com/a/lx2xnEu",
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Magmar",
       "wild": "https://imgur.com/a/TykewxH",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": "Esquerda do CP de Cinnabar"
     },
     {
       "name": "Pinsir",
       "wild": "https://imgur.com/a/T3rOBjE",
       "normal": "https://imgur.com/a/Q0Pn5Tv",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tauros",
       "wild": "https://imgur.com/a/j21SPSA",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Safari"
     },
     {
       "name": "Magikarp",
       "wild": null,
       "normal": "https://imgur.com/a/kMnqXdd",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Gyarados",
       "wild": "https://imgur.com/a/mfds9di",
       "normal": "https://imgur.com/a/dvZETth",
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Lapras",
       "wild": "https://imgur.com/a/ca4NlMA",
       "normal": "https://imgur.com/a/gB97GTZ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ditto",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Eevee",
       "wild": null,
       "normal": "https://imgur.com/a/dJnqJtS",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Vaporeon",
       "wild": "https://imgur.com/a/RI7U1mv",
       "normal": "https://imgur.com/a/rzkzhzF",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Jolteon",
       "wild": "https://imgur.com/a/clP3jSD",
       "normal": "https://imgur.com/a/tVt9b2v",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Flareon",
       "wild": "https://imgur.com/a/0QTUhoj",
       "normal": "https://imgur.com/a/ifO0TRh",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Porygon",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Omanyte",
       "wild": null,
       "normal": "https://imgur.com/a/lrEa6jJ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Omastar",
       "wild": "https://imgur.com/a/lrEa6jJ",
       "normal": "https://imgur.com/a/lrEa6jJ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kabuto",
       "wild": null,
       "normal": "https://imgur.com/a/hGRDfmM",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kabutops",
       "wild": "https://imgur.com/a/hGRDfmM",
       "normal": "https://imgur.com/a/hGRDfmM",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Aerodactyl",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Snorlax",
       "wild": "https://imgur.com/a/j21SPSA",
       "normal": "https://imgur.com/a/gFsPWgx",
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Articuno",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Zapdos",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Moltres",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dratini",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Ilha de gelo sudeste de Kanto"
     },
     {
       "name": "Dragonair",
       "wild": "https://imgur.com/a/P4wh1Pv",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": "Ilha de gelo sudeste de Kanto"
     },
     {
       "name": "Dragonite",
       "wild": "https://imgur.com/a/eJHK8SE",
       "normal": "https://imgur.com/a/U3QIuQB",
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Mewtwo",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Mew",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Chikorita",
       "wild": null,
       "normal": "https://imgur.com/a/INejCDG",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Bayleef",
       "wild": null,
       "normal": "https://imgur.com/a/FQ8roQ4",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Meganium",
       "wild": "https://imgur.com/uw0XICj",
       "normal": "https://imgur.com/a/iHrZsw8",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cyndaquil",
       "wild": null,
       "normal": "https://imgur.com/a/PjJgh5m",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Quilava",
       "wild": null,
       "normal": "https://imgur.com/a/PjJgh5m",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Typhlosion",
       "wild": "https://imgur.com/a/nmnNuO5",
       "normal": "https://imgur.com/a/yhVaW4Z",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Totodile",
       "wild": null,
       "normal": "https://imgur.com/a/Oaet1M6",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Croconaw",
       "wild": null,
       "normal": "https://imgur.com/a/Pc6sqFF",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Feraligatr",
       "wild": "https://imgur.com/a/H98mIzg",
       "normal": "https://imgur.com/a/wpVvk3n",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sentret",
       "wild": null,
       "normal": "https://imgur.com/a/ScBW2W0",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Furret",
       "wild": null,
       "normal": "https://imgur.com/a/9Tbj4NB",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Hoothoot",
       "wild": null,
       "normal": "https://imgur.com/a/xxiIVMq",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Noctowl",
       "wild": "https://imgur.com/a/6DevZes",
       "normal": "https://imgur.com/a/k0zFzjl",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ledyba",
       "wild": null,
       "normal": "https://imgur.com/a/h0IZeRQ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ledian",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Esquerda de Ecruteak"
     },
     {
       "name": "Spinarak",
       "wild": null,
       "normal": "https://imgur.com/a/3AhXzRO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ariados",
       "wild": null,
       "normal": "https://imgur.com/a/3AhXzRO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Crobat",
       "wild": "https://imgur.com/a/DgtNeZR",
       "normal": "https://imgur.com/a/kAVI10S",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Chinchou",
       "wild": null,
       "normal": "https://imgur.com/a/h2WnRle",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Lanturn",
       "wild": null,
       "normal": "https://imgur.com/a/h2WnRle",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pichu",
       "wild": null,
       "normal": "https://imgur.com/a/owJDq0n",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cleffa",
       "wild": null,
       "normal": "https://imgur.com/a/wFWndAk",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Igglybuff",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Ilha direita de Fuchsia"
     },
     {
       "name": "Togepi",
       "wild": null,
       "normal": "https://imgur.com/a/4Gfcwjm",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Togetic",
       "wild": null,
       "normal": "https://imgur.com/a/4Gfcwjm",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Natu",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Ilha norte de Ecruteak"
     },
     {
       "name": "Xatu",
       "wild": "https://imgur.com/a/46mYVO7",
       "normal": "https://imgur.com/a/yVLhMR7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Mareep",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Norte de Olivine"
     },
     {
       "name": "Flaaffy",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Norte de Olivine"
     },
     {
       "name": "Ampharos",
       "wild": "https://imgur.com/a/O7GKc00",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Norte de Olivine"
     },
     {
       "name": "Bellossom",
       "wild": null,
       "normal": "https://imgur.com/a/y1nJZLe",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Marill",
       "wild": null,
       "normal": "https://imgur.com/a/3YGU4BO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Azumarill",
       "wild": null,
       "normal": "https://imgur.com/a/3YGU4BO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sudowoodo",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Politoed",
       "wild": "https://imgur.com/a/zMl0ekj",
       "normal": "https://imgur.com/a/zMl0ekj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Hoppip",
       "wild": null,
       "normal": "https://imgur.com/a/xTyMEaj",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Skiploom",
       "wild": null,
       "normal": "https://imgur.com/a/ourpstD",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Jumpluff",
       "wild": null,
       "normal": "https://imgur.com/a/zyv2Y81",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Aipom",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Direita de Mahogany"
     },
     {
       "name": "Sunkern",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Nordeste de Olivine"
     },
     {
       "name": "Sunflora",
       "wild": null,
       "normal": "https://imgur.com/a/EpRy5tT",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Yanma",
       "wild": null,
       "normal": "https://imgur.com/a/0GZB0Pc",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Wooper",
       "wild": null,
       "normal": "https://imgur.com/a/zU19ndv",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Quagsire",
       "wild": "https://imgur.com/a/mXj9hj8",
       "normal": "https://imgur.com/a/RYNQ8l0",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Espeon",
       "wild": "https://imgur.com/a/CkBSqXN",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Umbreon",
       "wild": "https://imgur.com/a/CkBSqXN",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Murkrow",
       "wild": null,
       "normal": "https://imgur.com/a/jYvUp9l",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Slowking",
       "wild": "https://imgur.com/a/XUZFbv9",
       "normal": "https://imgur.com/a/XUZFbv9",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Misdreavus",
       "wild": "https://imgur.com/a/xfYPzTw",
       "normal": "https://youtu.be/zipnyzf5caE",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Unown",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Wobbuffet",
       "wild": "https://imgur.com/a/ZlGOsvk",
       "normal": "https://imgur.com/a/l7MbVV5",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Girafarig",
       "wild": "https://imgur.com/a/6m4rkdL",
       "normal": "https://imgur.com/a/ZlGOsvk",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pineco",
       "wild": null,
       "normal": "https://imgur.com/a/AgaCXsX",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Forretress",
       "wild": null,
       "normal": "https://imgur.com/a/X4CH3uc",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dunsparce",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Direita de Mahogany"
     },
     {
       "name": "Gligar",
       "wild": null,
       "normal": "https://imgur.com/a/wljXV9h",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Steelix",
       "wild": "https://imgur.com/a/GWp5vC7",
       "normal": "https://imgur.com/a/HDUZnBJ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Snubbull",
       "wild": null,
       "normal": "https://imgur.com/a/i2zVgop",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Granbull",
       "wild": "https://imgur.com/a/ubd3F1A",
       "normal": "https://imgur.com/a/6k6J7No",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Qwilfish",
       "wild": "https://imgur.com/a/TqFuygf",
       "normal": "https://imgur.com/a/fmnPze7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Scizor",
       "wild": "https://imgur.com/a/TXJL5sM",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Shuckle",
       "wild": null,
       "normal": "https://imgur.com/a/jom11IM",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Heracross",
       "wild": "https://imgur.com/a/Cpi5yCV",
       "normal": "https://imgur.com/a/zRWr3Ry",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sneasel",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Andando Norte do CP de Blackthorn"
     },
     {
       "name": "Teddiursa",
       "wild": null,
       "normal": "https://imgur.com/a/K1wNTv6",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ursaring",
       "wild": "https://imgur.com/a/nBXkwSw",
       "normal": "https://imgur.com/a/K1wNTv6",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Slugma",
       "wild": null,
       "normal": "https://imgur.com/a/PjJgh5m",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Magcargo",
       "wild": "https://imgur.com/a/PjJgh5m",
       "normal": "https://imgur.com/a/FSCg92Z",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Swinub",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Andando Norte do CP de Blackthorn"
     },
     {
       "name": "Piloswine",
       "wild": "https://imgur.com/a/f5KRTsE",
       "normal": "https://imgur.com/a/VfulNAF",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Corsola",
       "wild": null,
       "normal": "https://imgur.com/a/SBsknJ7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Remoraid",
       "wild": null,
       "normal": "https://imgur.com/a/SBsknJ7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Octillery",
       "wild": null,
       "normal": "https://imgur.com/a/SBsknJ7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Delibird",
       "wild": null,
       "normal": "https://imgur.com/a/EDtI5vP",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Mantine",
       "wild": "https://imgur.com/a/H98mIzg",
       "normal": "https://imgur.com/a/SBsknJ7",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Skarmory",
       "wild": "https://imgur.com/a/otQbKEE",
       "normal": "https://imgur.com/a/EBb46PO",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Houndour",
       "wild": null,
       "normal": "https://imgur.com/a/PjJgh5m",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Houndoom",
       "wild": "https://imgur.com/a/kUQvKbL",
       "normal": "https://imgur.com/a/MjvZQ35",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kingdra",
       "wild": "https://imgur.com/a/W6HZl3X",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Phanpy",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Esquerda de Cianwood"
     },
     {
       "name": "Donphan",
       "wild": "https://imgur.com/a/70P2Qxv",
       "normal": "https://imgur.com/a/DKLY2JN",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Porygon2",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Stantler",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Norte de Olivine"
     },
     {
       "name": "Smeargle",
       "wild": "https://imgur.com/a/vlWgMyH",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tyrogue",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Sul de Cherrygrove"
     },
     {
       "name": "Hitmontop",
       "wild": "https://imgur.com/a/30cn4iq",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Sul de Cherrygrove"
     },
     {
       "name": "Smoochum",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Ilha de gelo sudeste de Kanto"
     },
     {
       "name": "Elekid",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "Direita de Ecruteak"
     },
     {
       "name": "Magby",
       "wild": null,
       "normal": "https://imgur.com/a/kShgmOK",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Miltank",
       "wild": "https://imgur.com/a/doQnA6i",
       "normal": "https://imgur.com/a/xxiIVMq",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Blissey",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Raikou",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Entei",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Suicune",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Larvitar",
       "wild": null,
       "normal": "https://imgur.com/a/SJntAUa",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Pupitar",
       "wild": "https://imgur.com/a/SJntAUa",
       "normal": "https://imgur.com/a/SJntAUa",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Tyranitar",
       "wild": "https://imgur.com/a/oEyaCY3",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Lugia",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Ho-oh",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Celebi",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Treecko",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/QwRNjsJ"
+      "hoenn": "https://imgur.com/a/QwRNjsJ",
+      "where": null
     },
     {
       "name": "Grovyle",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/plu4yw9"
+      "hoenn": "https://imgur.com/a/plu4yw9",
+      "where": null
     },
     {
       "name": "Sceptile",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/0NfZ1UB"
+      "hoenn": "https://imgur.com/a/0NfZ1UB",
+      "where": null
     },
     {
       "name": "Torchic",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/H8eBhUD"
+      "hoenn": "https://imgur.com/a/H8eBhUD",
+      "where": null
     },
     {
       "name": "Combusken",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WaCvBxT"
+      "hoenn": "https://imgur.com/a/WaCvBxT",
+      "where": null
     },
     {
       "name": "Blaziken",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/Z1blUfu"
+      "hoenn": "https://imgur.com/a/Z1blUfu",
+      "where": null
     },
     {
       "name": "Mudkip",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/sZjLUro"
+      "hoenn": "https://imgur.com/a/sZjLUro",
+      "where": null
     },
     {
       "name": "Marshtomp",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/7Nmijrk"
+      "hoenn": "https://imgur.com/a/7Nmijrk",
+      "where": null
     },
     {
       "name": "Swampert",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/ZZR9q3t"
+      "hoenn": "https://imgur.com/a/ZZR9q3t",
+      "where": null
     },
     {
       "name": "Poochyena",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/AV1brbq"
+      "hoenn": "https://imgur.com/a/AV1brbq",
+      "where": null
     },
     {
       "name": "Mightyena",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/TtFAFi8"
+      "hoenn": "https://imgur.com/a/TtFAFi8",
+      "where": null
     },
     {
       "name": "Zigzagoon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WBUCnKo"
+      "hoenn": "https://imgur.com/a/WBUCnKo",
+      "where": null
     },
     {
       "name": "Linoone",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/OZ3NIfX"
+      "hoenn": "https://imgur.com/a/OZ3NIfX",
+      "where": null
     },
     {
       "name": "Wurmple",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/EPQWSoP"
+      "hoenn": "https://imgur.com/a/EPQWSoP",
+      "where": null
     },
     {
       "name": "Silcoon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/EPQWSoP"
+      "hoenn": "https://imgur.com/a/EPQWSoP",
+      "where": null
     },
     {
       "name": "Beautifly",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/vePSZZs"
+      "hoenn": "https://imgur.com/a/vePSZZs",
+      "where": null
     },
     {
       "name": "Cascoon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/EPQWSoP"
+      "hoenn": "https://imgur.com/a/EPQWSoP",
+      "where": null
     },
     {
       "name": "Dustox",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/aa8JVeg"
+      "hoenn": "https://imgur.com/a/aa8JVeg",
+      "where": null
     },
     {
       "name": "Lotad",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/H3DeAbj"
+      "hoenn": "https://imgur.com/a/H3DeAbj",
+      "where": null
     },
     {
       "name": "Lombre",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/UH76hUF"
+      "hoenn": "https://imgur.com/a/UH76hUF",
+      "where": null
     },
     {
       "name": "Ludicolo",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/uSuyBkT"
+      "hoenn": "https://imgur.com/a/uSuyBkT",
+      "where": null
     },
     {
       "name": "Seedot",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/ddPPOJp"
+      "hoenn": "https://imgur.com/a/ddPPOJp",
+      "where": null
     },
     {
       "name": "Nuzleaf",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/BlSbyDr"
+      "hoenn": "https://imgur.com/a/BlSbyDr",
+      "where": null
     },
     {
       "name": "Shiftry",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/d9DZYAm"
+      "hoenn": "https://imgur.com/a/d9DZYAm",
+      "where": null
     },
     {
       "name": "Taillow",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/PywbkCI"
+      "hoenn": "https://imgur.com/a/PywbkCI",
+      "where": null
     },
     {
       "name": "Swellow",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/zWjp1is"
+      "hoenn": "https://imgur.com/a/zWjp1is",
+      "where": null
     },
     {
       "name": "Wingull",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/mQzmvVE"
+      "hoenn": "https://imgur.com/a/mQzmvVE",
+      "where": null
     },
     {
       "name": "Pelipper",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/9ny4RTg"
+      "hoenn": "https://imgur.com/a/9ny4RTg",
+      "where": null
     },
     {
       "name": "Ralts",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/HeG92xQ"
+      "hoenn": "https://imgur.com/a/HeG92xQ",
+      "where": null
     },
     {
       "name": "Kirlia",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/Duh5van"
+      "hoenn": "https://imgur.com/a/Duh5van",
+      "where": null
     },
     {
       "name": "Gardevoir",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/Duh5van"
+      "hoenn": "https://imgur.com/a/Duh5van",
+      "where": null
     },
     {
       "name": "Surskit",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/hupWoKE"
+      "hoenn": "https://imgur.com/a/hupWoKE",
+      "where": null
     },
     {
       "name": "Masquerain",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/A6mD163"
+      "hoenn": "https://imgur.com/a/A6mD163",
+      "where": null
     },
     {
       "name": "Shroomish",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/ASbhmgA"
+      "hoenn": "https://imgur.com/a/ASbhmgA",
+      "where": null
     },
     {
       "name": "Breloom",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/xkbItkt"
+      "hoenn": "https://imgur.com/a/xkbItkt",
+      "where": null
     },
     {
       "name": "Slakoth",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/ISjWYSS"
+      "hoenn": "https://imgur.com/a/ISjWYSS",
+      "where": null
     },
     {
       "name": "Vigoroth",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/zBv5poV"
+      "hoenn": "https://imgur.com/a/zBv5poV",
+      "where": null
     },
     {
       "name": "Slaking",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/JFAXd2m"
+      "hoenn": "https://imgur.com/a/JFAXd2m",
+      "where": null
     },
     {
       "name": "Nincada",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/lbHpkKV"
+      "hoenn": "https://imgur.com/a/lbHpkKV",
+      "where": null
     },
     {
       "name": "Ninjask",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/J42Cek5"
+      "hoenn": "https://imgur.com/a/J42Cek5",
+      "where": null
     },
     {
       "name": "Shedinja",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/LUgy00h"
+      "hoenn": "https://imgur.com/a/LUgy00h",
+      "where": null
     },
     {
       "name": "Whismur",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/UOLx5iS"
+      "hoenn": "https://imgur.com/a/UOLx5iS",
+      "where": null
     },
     {
       "name": "Loudred",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/9hx1oWG"
+      "hoenn": "https://imgur.com/a/9hx1oWG",
+      "where": null
     },
     {
       "name": "Exploud",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WTFRBwz"
+      "hoenn": "https://imgur.com/a/WTFRBwz",
+      "where": null
     },
     {
       "name": "Makuhita",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/aTDa0zK"
+      "hoenn": "https://imgur.com/a/aTDa0zK",
+      "where": null
     },
     {
       "name": "Hariyama",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/ywTJuVx"
+      "hoenn": "https://imgur.com/a/ywTJuVx",
+      "where": null
     },
     {
       "name": "Azurill",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/GKSI8P8"
+      "hoenn": "https://imgur.com/a/GKSI8P8",
+      "where": null
     },
     {
       "name": "Nosepass",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/idVWM4R"
+      "hoenn": "https://imgur.com/a/idVWM4R",
+      "where": null
     },
     {
       "name": "Skitty",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/HXpaVFd"
+      "hoenn": "https://imgur.com/a/HXpaVFd",
+      "where": null
     },
     {
       "name": "Delcatty",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/PC3fNSZ"
+      "hoenn": "https://imgur.com/a/PC3fNSZ",
+      "where": null
     },
     {
       "name": "Sableye",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/cI3PbPr"
+      "hoenn": "https://imgur.com/a/cI3PbPr",
+      "where": null
     },
     {
       "name": "Mawile",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/odInvRR"
+      "hoenn": "https://imgur.com/a/odInvRR",
+      "where": null
     },
     {
       "name": "Aron",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/dsmbUWE"
+      "hoenn": "https://imgur.com/a/dsmbUWE",
+      "where": null
     },
     {
       "name": "Lairon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/6drUaI7"
+      "hoenn": "https://imgur.com/a/6drUaI7",
+      "where": null
     },
     {
       "name": "Aggron",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/cJndpSb"
+      "hoenn": "https://imgur.com/a/cJndpSb",
+      "where": null
     },
     {
       "name": "Meditite",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/0irrv1r"
+      "hoenn": "https://imgur.com/a/0irrv1r",
+      "where": null
     },
     {
       "name": "Medicham",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/0irrv1r"
+      "hoenn": "https://imgur.com/a/0irrv1r",
+      "where": null
     },
     {
       "name": "Electrike",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WJui6MS"
+      "hoenn": "https://imgur.com/a/WJui6MS",
+      "where": null
     },
     {
       "name": "Manectric",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/OoNfzDJ"
+      "hoenn": "https://imgur.com/a/OoNfzDJ",
+      "where": null
     },
     {
       "name": "Plusle",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/6gftpgd"
+      "hoenn": "https://imgur.com/a/6gftpgd",
+      "where": null
     },
     {
       "name": "Minun",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/6gftpgd"
+      "hoenn": "https://imgur.com/a/6gftpgd",
+      "where": null
     },
     {
       "name": "Volbeat",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WCp8TTD"
+      "hoenn": "https://imgur.com/a/WCp8TTD",
+      "where": null
     },
     {
       "name": "Illumise",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/WCp8TTD"
+      "hoenn": "https://imgur.com/a/WCp8TTD",
+      "where": null
     },
     {
       "name": "Roselia",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/Dv4T5af"
+      "hoenn": "https://imgur.com/a/Dv4T5af",
+      "where": null
     },
     {
       "name": "Gulpin",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/OZOu6rY"
+      "hoenn": "https://imgur.com/a/OZOu6rY",
+      "where": null
     },
     {
       "name": "Swalot",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/CVYjLFv"
+      "hoenn": "https://imgur.com/a/CVYjLFv",
+      "where": null
     },
     {
       "name": "Carvanha",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/waSih15"
+      "hoenn": "https://imgur.com/a/waSih15",
+      "where": null
     },
     {
       "name": "Sharpedo",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/xEQLyNo"
+      "hoenn": "https://imgur.com/a/xEQLyNo",
+      "where": null
     },
     {
       "name": "Wailmer",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/2m6nCb5"
+      "hoenn": "https://imgur.com/a/2m6nCb5",
+      "where": null
     },
     {
       "name": "Wailord",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/2m6nCb5"
+      "hoenn": "https://imgur.com/a/2m6nCb5",
+      "where": null
     },
     {
       "name": "Numel",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/oweq0Ji"
+      "hoenn": "https://imgur.com/a/oweq0Ji",
+      "where": null
     },
     {
       "name": "Camerupt",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/a8pfzjH"
+      "hoenn": "https://imgur.com/a/a8pfzjH",
+      "where": null
     },
     {
       "name": "Torkoal",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/KBxrXSg"
+      "hoenn": "https://imgur.com/a/KBxrXSg",
+      "where": null
     },
     {
       "name": "Spoink",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/TGgvFue"
+      "hoenn": "https://imgur.com/a/TGgvFue",
+      "where": null
     },
     {
       "name": "Grumpig",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/sL7iPRj"
+      "hoenn": "https://imgur.com/a/sL7iPRj",
+      "where": null
     },
     {
       "name": "Spinda",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/seJsd66"
+      "hoenn": "https://imgur.com/a/seJsd66",
+      "where": null
     },
     {
       "name": "Trapinch",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/jDK1dA0"
+      "hoenn": "https://imgur.com/a/jDK1dA0",
+      "where": null
     },
     {
       "name": "Vibrava",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/OAkNAlc"
+      "hoenn": "https://imgur.com/a/OAkNAlc",
+      "where": null
     },
     {
       "name": "Flygon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/frxHhRk"
+      "hoenn": "https://imgur.com/a/frxHhRk",
+      "where": null
     },
     {
       "name": "Cacnea",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/hoA3sFt"
+      "hoenn": "https://imgur.com/a/hoA3sFt",
+      "where": null
     },
     {
       "name": "Cacturne",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/DRfmDZB"
+      "hoenn": "https://imgur.com/a/DRfmDZB",
+      "where": null
     },
     {
       "name": "Swablu",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/4BU3DIw"
+      "hoenn": "https://imgur.com/a/4BU3DIw",
+      "where": null
     },
     {
       "name": "Altaria",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/4BU3DIw"
+      "hoenn": "https://imgur.com/a/4BU3DIw",
+      "where": null
     },
     {
       "name": "Zangoose",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/NfMKEg7"
+      "hoenn": "https://imgur.com/a/NfMKEg7",
+      "where": null
     },
     {
       "name": "Seviper",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/l3lliRe"
+      "hoenn": "https://imgur.com/a/l3lliRe",
+      "where": null
     },
     {
       "name": "Lunatone",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/NUmiPTH"
+      "hoenn": "https://imgur.com/a/NUmiPTH",
+      "where": null
     },
     {
       "name": "Solrock",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/eWSLlta"
+      "hoenn": "https://imgur.com/a/eWSLlta",
+      "where": null
     },
     {
       "name": "Barboach",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/pCVvQWa"
+      "hoenn": "https://imgur.com/a/pCVvQWa",
+      "where": null
     },
     {
       "name": "Whiscash",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/AfWRHhd"
+      "hoenn": "https://imgur.com/a/AfWRHhd",
+      "where": null
     },
     {
       "name": "Corphish",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/5Ljg7sC"
+      "hoenn": "https://imgur.com/a/5Ljg7sC",
+      "where": null
     },
     {
       "name": "Crawdaunt",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/5Ljg7sC"
+      "hoenn": "https://imgur.com/a/5Ljg7sC",
+      "where": null
     },
     {
       "name": "Baltoy",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/8EPyq93"
+      "hoenn": "https://imgur.com/a/8EPyq93",
+      "where": null
     },
     {
       "name": "Claydol",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/FaZB45d"
+      "hoenn": "https://imgur.com/a/FaZB45d",
+      "where": null
     },
     {
       "name": "Lileep",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cradily",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/zziX3N4"
+      "hoenn": "https://imgur.com/a/zziX3N4",
+      "where": null
     },
     {
       "name": "Anorith",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/xG6MiHI"
+      "hoenn": "https://imgur.com/a/xG6MiHI",
+      "where": null
     },
     {
       "name": "Armaldo",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/xG6MiHI"
+      "hoenn": "https://imgur.com/a/xG6MiHI",
+      "where": null
     },
     {
       "name": "Feebas",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/4Ovdko8"
+      "hoenn": "https://imgur.com/a/4Ovdko8",
+      "where": null
     },
     {
       "name": "Milotic",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/4Ovdko8"
+      "hoenn": "https://imgur.com/a/4Ovdko8",
+      "where": null
     },
     {
       "name": "Castform",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/Ts9I3R9"
+      "hoenn": "https://imgur.com/a/Ts9I3R9",
+      "where": null
     },
     {
       "name": "Kecleon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/8sxx7sN"
+      "hoenn": "https://imgur.com/a/8sxx7sN",
+      "where": null
     },
     {
       "name": "Shuppet",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/OahinY3"
+      "hoenn": "https://imgur.com/a/OahinY3",
+      "where": null
     },
     {
       "name": "Banette",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/JL6EoDR"
+      "hoenn": "https://imgur.com/a/JL6EoDR",
+      "where": null
     },
     {
       "name": "Duskull",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/S4yJs5f"
+      "hoenn": "https://imgur.com/a/S4yJs5f",
+      "where": null
     },
     {
       "name": "Dusclops",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/625I8kI"
+      "hoenn": "https://imgur.com/a/625I8kI",
+      "where": null
     },
     {
       "name": "Tropius",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/9vbSqES"
+      "hoenn": "https://imgur.com/a/9vbSqES",
+      "where": null
     },
     {
       "name": "Chimecho",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/SGKMzoy"
+      "hoenn": "https://imgur.com/a/SGKMzoy",
+      "where": null
     },
     {
       "name": "Absol",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/bKY4IH1"
+      "hoenn": "https://imgur.com/a/bKY4IH1",
+      "where": null
     },
     {
       "name": "Wynaut",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/P3Yij7o"
+      "hoenn": "https://imgur.com/a/P3Yij7o",
+      "where": null
     },
     {
       "name": "Snorunt",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/zoIbYgW"
+      "hoenn": "https://imgur.com/a/zoIbYgW",
+      "where": null
     },
     {
       "name": "Glalie",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/zeIeMhU"
+      "hoenn": "https://imgur.com/a/zeIeMhU",
+      "where": null
     },
     {
       "name": "Spheal",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Sealeo",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Walrein",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/MtwwL6b"
+      "hoenn": "https://imgur.com/a/MtwwL6b",
+      "where": null
     },
     {
       "name": "Clamperl",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/3by4nDT"
+      "hoenn": "https://imgur.com/a/3by4nDT",
+      "where": null
     },
     {
       "name": "Huntail",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/xi7IxsL"
+      "hoenn": "https://imgur.com/a/xi7IxsL",
+      "where": null
     },
     {
       "name": "Gorebyss",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/dtnPZxU"
+      "hoenn": "https://imgur.com/a/dtnPZxU",
+      "where": null
     },
     {
       "name": "Relicanth",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/RVcmBFH"
+      "hoenn": "https://imgur.com/a/RVcmBFH",
+      "where": null
     },
     {
       "name": "Luvdisc",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/HpHEs6t"
+      "hoenn": "https://imgur.com/a/HpHEs6t",
+      "where": null
     },
     {
       "name": "Bagon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/JWeTEEf"
+      "hoenn": "https://imgur.com/a/JWeTEEf",
+      "where": null
     },
     {
       "name": "Shelgon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/x6vRELh"
+      "hoenn": "https://imgur.com/a/x6vRELh",
+      "where": null
     },
     {
       "name": "Salamence",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/c60bAOF"
+      "hoenn": "https://imgur.com/a/c60bAOF",
+      "where": null
     },
     {
       "name": "Beldum",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/rQJH8mB"
+      "hoenn": "https://imgur.com/a/rQJH8mB",
+      "where": null
     },
     {
       "name": "Metang",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/rQJH8mB"
+      "hoenn": "https://imgur.com/a/rQJH8mB",
+      "where": null
     },
     {
       "name": "Metagross",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/rQJH8mB"
+      "hoenn": "https://imgur.com/a/rQJH8mB",
+      "where": null
     },
     {
       "name": "Regirock",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Regice",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Registeel",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Latios",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Latias",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Kyogre",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Groudon",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rayquaza",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Jirachi",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Deoxys",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Turtwig",
       "wild": null,
       "normal": "https://imgur.com/a/MqC3Zcx",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Grotle",
       "wild": null,
       "normal": "https://imgur.com/a/FnOsG7p",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Torterra",
       "wild": "https://imgur.com/a/OSpmhX3",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Chimchar",
       "wild": null,
       "normal": "https://imgur.com/a/FaS0Gng",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Monferno",
       "wild": null,
       "normal": "https://imgur.com/a/trDdCP1",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Infernape",
       "wild": "https://imgur.com/a/wmqPdfw",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Shinx",
       "wild": null,
       "normal": "https://imgur.com/a/f1Qf5nZ",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Luxio",
       "wild": null,
       "normal": "https://imgur.com/a/UahO6zW",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Luxray",
       "wild": "https://imgur.com/a/L0bj8Vd",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Cranidos",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Rampardos",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/leqBEBS"
+      "hoenn": "https://imgur.com/a/leqBEBS",
+      "where": null
     },
     {
       "name": "Pachirisu",
       "wild": "https://imgur.com/a/RzUEzwM",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Lopuny",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Riolu",
       "wild": null,
       "normal": "https://imgur.com/a/m5Tr8hw",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Lucario",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Croagunk",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Toxicroak",
       "wild": "https://imgur.com/a/voSoRee",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Abomasnow",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/3Axl08R"
+      "hoenn": "https://imgur.com/a/3Axl08R",
+      "where": null
     },
     {
       "name": "Rhyperior",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Tangrowth",
       "wild": "https://imgur.com/a/6PD5gEv",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Leafeon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Glaceon",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Gliscor",
       "wild": "https://imgur.com/a/7Oi6jPs",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dusknoir",
       "wild": "https://imgur.com/a/DMCBxm0",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Audino",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/3Axl08R"
+      "hoenn": "https://imgur.com/a/3Axl08R",
+      "where": null
     },
     {
       "name": "Scolipede",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/3Axl08R"
+      "hoenn": "https://imgur.com/a/3Axl08R",
+      "where": null
     },
     {
       "name": "Trubbish",
       "wild": null,
       "normal": "https://imgur.com/a/TvxHyi5",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Garbodor",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Druddigon",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Deino",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "DG de Deino"
     },
     {
       "name": "Zweilous",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "DG de Zweilous"
     },
     {
       "name": "Hydreigon",
       "wild": "https://imgur.com/a/tkRwGdL",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Flabébé",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "DG de Flabébé"
     },
     {
       "name": "Floette",
       "wild": null,
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": "DG de Folette"
     },
     {
       "name": "Florges",
       "wild": "https://imgur.com/a/dHnsWqn",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Skiddo",
       "wild": null,
       "normal": "https://imgur.com/a/F5s8G9v",
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Gogoat",
       "wild": "https://imgur.com/a/yMA3Qn2",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     },
     {
       "name": "Dragalge",
       "wild": null,
       "normal": null,
-      "hoenn": "https://imgur.com/a/3Axl08R"
+      "hoenn": "https://imgur.com/a/3Axl08R",
+      "where": null
     },
     {
       "name": "Sylveon",
       "wild": "https://imgur.com/a/LR5ibxC",
       "normal": null,
-      "hoenn": "https://imgur.com/a/wFcUcVR"
+      "hoenn": "https://imgur.com/a/wFcUcVR",
+      "where": null
     },
     {
       "name": "Mimikyu",
       "wild": "https://imgur.com/a/tBNDQGq",
       "normal": null,
-      "hoenn": null
+      "hoenn": null,
+      "where": null
     }
   ]
 }

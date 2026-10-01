@@ -440,7 +440,12 @@
     },
     {
       "name": "Machamp",
-      "npcs": []
+      "npcs": [
+        {
+          "npc": "Wyatt",
+          "url": "https://imgur.com/a/jJwTtUh"
+        }
+      ]
     },
     {
       "name": "Bellsprout",
@@ -652,11 +657,21 @@
     },
     {
       "name": "Hitmonlee",
-      "npcs": []
+      "npcs": [
+        {
+          "npc": "David",
+          "url": "https://imgur.com/a/OUspa6v"
+        }
+      ]
     },
     {
       "name": "Hitmonchan",
-      "npcs": []
+      "npcs": [
+        {
+          "npc": "David",
+          "url": "https://imgur.com/a/OUspa6v"
+        }
+      ]
     },
     {
       "name": "Lickitung",
@@ -1288,7 +1303,12 @@
     },
     {
       "name": "Hitmontop",
-      "npcs": []
+      "npcs": [
+        {
+          "npc": "David",
+          "url": "https://imgur.com/a/OUspa6v"
+        }
+      ]
     },
     {
       "name": "Smoochum",

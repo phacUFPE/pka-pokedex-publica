@@ -1,22 +1,22 @@
 {
   "typeColors": {
-    "Normal": "#9a9a78",
-    "Fire": "#e8702a",
-    "Water": "#4d86e8",
-    "Electric": "#d9a800",
-    "Grass": "#5ba843",
-    "Ice": "#5fb8c2",
+    "Normal": "#757558",
+    "Fire": "#c05415",
+    "Water": "#2b6fe4",
+    "Electric": "#8f6f00",
+    "Grass": "#468234",
+    "Ice": "#347f87",
     "Fighting": "#b8322c",
     "Poison": "#9440a0",
-    "Ground": "#c79a45",
-    "Flying": "#8a78e0",
-    "Psychic": "#e8507a",
-    "Bug": "#8fa01a",
-    "Rock": "#a8912f",
+    "Ground": "#916e2c",
+    "Flying": "#7661db",
+    "Psychic": "#e11e54",
+    "Bug": "#6e7b14",
+    "Rock": "#867426",
     "Ghost": "#6a5693",
     "Dragon": "#6232e8",
     "Dark": "#6b5445",
-    "Steel": "#8f8fa8",
-    "Fairy": "#d86fa8"
+    "Steel": "#727292",
+    "Fairy": "#ca3d8a"
   }
 }
